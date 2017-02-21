@@ -1,0 +1,27 @@
+title: General accounts
+options:
+  - title: Español
+    url: /
+  - title: Download report
+    url: /
+  - title: Contact us
+    url: /
+menu:
+  - title: Informe de auditoría
+    url: /informe-de-auditoria/
+    submenu: auditoria
+  - title: Cuentas anuales consolidadas
+    url: /cuentas/notas-estados-financieros/
+    submenu: cuentas
+  - title: Informe de gestión
+    url: /informe-de-gestion/
+    submenu: auditoria2
+footer:
+- title: Centro de seguridad
+  url: /
+- title: Privacidad
+  url: /
+- title: Terminos y condiciones
+  url: /
+- title: Mapa del sitio
+  url: /

@@ -1,0 +1,38 @@
+{% assign lang = site.active_lang %}
+<nav class="navigation-mobile">
+  <ul class="menu">
+    {% for menu in site.data.header.menu %}
+      <li class="menu-item">
+        <a {% if page.submenu == menu.submenu %}class="active"{% endif %} href="{{site.baseurl}}{{ menu.url }}">
+          {{ menu.title }}
+        </a>
+        {% unless page.submenu == null %}
+          <nav class="subnavigation">
+            <ul class="menu">
+              {% for node in site.pages %}
+                {% if page.submenu == node.submenu %}
+                  <li class="menu-item">
+                  {% if page.url == node.url %}
+                    <a href="{{node.url}}" class="active">{{node.title}}</a>
+                  {% else %}
+                    <a href="{{node.url}}">{{node.title}}</a>
+                  {% endif %}
+                  </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </nav>
+        {% endunless %}
+      </li>
+    {% endfor %}
+  </ul>
+  <ul class="mobile-language">
+    {% for language in site.languages %}
+      <li>
+        <a class="{% if language == lang %}active{% endif %}" href="{% if language == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{language}}{{page.url}} {% endif %}">
+        {{ language | upcase }}
+      </a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>

@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html lang="{{ site.active_lang }}">
+    {% include head.html %}
+  <body>
+    <!--{% include menu-mobile.html %}-->
+    <div class="fix-header">
+      {% include header.html %}
+    </div>
+    <div class="container container--fixed">
+      <div class="inner content">
+        {{ content }}
+      </div>
+    </div>
+    {% include footer.html %}
+</body>
+</html>

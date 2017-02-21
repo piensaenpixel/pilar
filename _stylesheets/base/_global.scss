@@ -1,0 +1,39 @@
+// ----------------------------------------------------
+// GLOBAL
+// ----------------------------------------------------
+
+// General fonts and other global styles of the page.
+// ----------------------------------------------------
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+  font-family: 'BentonBook', sans-serif;
+  font-size: 62.5%;
+  line-height: 1.5;
+  position: relative;
+}
+
+html,
+body {
+  color: #060503;
+  height: 100%;
+}
+
+body.blocked {
+  overflow: hidden;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  overflow-x: hidden;
+}

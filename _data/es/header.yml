@@ -1,0 +1,36 @@
+title: Relevancia Prudencial 2016
+options:
+  - title: English
+    url: /
+  - title: Descargar informe
+    url: /
+  - title: Contacta con nosotros
+    url: /
+menu:
+  - title: Correspondencia
+    url: /correspondencia/
+  - title: Resumen ejecutivo
+    url: /resumen-ejecutivo/
+  - title: Requerimientos generales
+    url: /requerimientos-generales/
+  - title: Recursos propios
+    url: /recursos-propios/
+  - title: Recursos Riesgos
+    url: /recursos-riesgos/
+  - title: Ratio de apalancamiento
+    url: /ratio-de-apalancamiento/
+  - title: Informacion de remuneraciones
+    url: /informacion-de-remuneraciones/
+  - title: Hechos posteriores
+    url: /hechos-posteriores/
+  - title: Anexo
+    url: /anexo/
+footer:
+- title: Centro de seguridad
+  url: /
+- title: Privacidad
+  url: /
+- title: Terminos y condiciones
+  url: /
+- title: Mapa del sitio
+  url: /

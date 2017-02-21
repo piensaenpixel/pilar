@@ -1,0 +1,400 @@
+.fix-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+}
+
+.header {
+  background: $darkblue;
+  padding: 16px 0 26px;
+  .container {
+    position: relative;
+  }
+  @media (max-width: $mobile) {
+    padding: 17px 13px;
+    .container {
+      padding-right: 0;
+      padding-left: 0;
+    }
+  }
+}
+
+.header-container {
+  @include display-flex;
+  @include justify-content(space-between);
+  @include align-items(flex-end);
+  margin-top: 46px;
+  @media (max-width: $mobile) {
+    @include justify-content(flex-start);
+    @include align-items(center);
+    margin: 0;
+    a {
+      height: 15px;
+      width: 49px;
+    }
+    img {
+      height: 15px;
+      width: auto;
+    }
+  }
+}
+
+.menu {
+  @include display-flex;
+}
+
+.header-title {
+  color: $white;
+  font-family: 'BentonLight';
+  font-size: 34px;
+  line-height: 1;
+  @media (max-width: $mobile) {
+    font-size: 16px;
+    margin-left: 12px;
+  }
+}
+
+.menu-item {
+  font-family: 'BentonMedium';
+  font-size: 14px;
+  margin-right: 48px;
+
+  a {
+    color: rgba($white, .6);
+
+    &:hover {
+      @include transition(opacity, 300ms);
+      color: rgba($white, 1);
+    }
+
+    &.active {
+      color: rgba($white, 1);
+    }
+  }
+
+  &:last-child {
+    margin-right: 0;
+  }
+}
+
+.options {
+  @media (max-width: $mobile) {
+    display: none;
+    &.is-mobile {
+      display: block;
+    }
+  }
+}
+
+.options-list {
+  @include display-flex();
+  @include justify-content(flex-end);
+}
+
+.options-listitem {
+  font-family: 'BentonBold';
+  font-size: 12px;
+  margin-right: 20px;
+
+  a {
+    color: rgba($white, .6);
+
+    &:hover {
+      @include transition(opacity, 300ms);
+      color: rgba($white, 1);
+    }
+  }
+
+  &:last-child {
+    margin-right: 0;
+  }
+}
+
+.navigation {
+  @include display-flex();
+  @include align-items(center);
+  @include justify-content(space-between);
+  position: relative;
+  &.is-mobile {
+    display: none;
+  }
+  @media (max-width: $mobile) {
+    display: none;
+    &.is-mobile {
+      display: block;
+    }
+  }
+}
+
+.search {
+  @include display-flex();
+  background: $darkblue;
+  left: auto;
+  position: absolute;
+  right: 26px;
+  z-index: 1;
+
+  @media (max-width: $mobile) {
+    right: 0;
+    top: 0;
+  }
+
+  &.is-active {
+    left: 26px;
+    @media (max-width: $mobile) {
+      left: 0;
+    }
+    .search-inner {
+      margin-right: 30px;
+      margin-top: -1px;
+      position: relative;
+    }
+
+    .search-form {
+      @include flex(1);
+      display: block;
+      margin-left: 8px;
+
+      input {
+        width: 100%;
+        background: none;
+        border: 0;
+        font-family: 'BentonBook';
+        font-size: 15px;
+        color: $white;
+        &:focus {
+          outline: none;
+        }
+      }
+    }
+    .search-info {
+      opacity: 1;
+    }
+    .search-results {
+      display: block;
+
+      &:empty {
+        display: none;
+      }
+    }
+
+  }
+}
+
+.search-inner {
+  @include display-flex();
+  @include flex(1);
+  img {
+    @media (max-width: $mobile) {
+      width: 14px;
+    }
+  }
+}
+
+.search-item {
+  @include display-flex();
+  @include flex(1);
+  @include align-items(center);
+  cursor: pointer;
+}
+
+.search-form {
+  display: none;
+}
+
+.search-info {
+  @include display-flex();
+  @include align-items(center);
+  position: absolute;
+  right: 0;
+  top: 0;
+  left: auto;
+  opacity: 0;
+  @media (max-width: $mobile) {
+    top: 3px;
+  }
+}
+.bbva-icon-close {
+  cursor: pointer;
+  margin-left: 20px;
+  img {
+    display: block;
+    @media (max-width: $mobile){
+      width: 14px;
+    }
+  }
+
+}
+.home-search-elements-press-enter {
+  font-style: italic;
+  font-weight: 600;
+  font-size: 12px;
+  color: $white;
+  white-space: nowrap;
+}
+
+.subnavigation {
+  padding: 24px 0;
+  background: $lightblue;
+  &.is-mobile {
+    display: none;
+  }
+  @media (max-width: $mobile) {
+    display: none;
+  }
+}
+
+.search-results {
+  display: none;
+  position: absolute;
+  top: 47px;
+  left: 0;
+  right: 0;
+  background: white;
+  border: 1px solid #e9e9e9;
+  border-top: 0;
+  padding: 20px;
+
+  @media (max-width: $mobile) {
+    top: 36px;
+    padding: 13px;
+    border: 0;
+    border-bottom: 2px solid #e9e9e9;
+    left: -13px;
+    right: -46px;
+  }
+
+  &:empty {
+    display: none;
+  }
+
+  li {
+    @include display-flex();
+    margin-bottom: 10px;
+    font-family: 'BentonLight';
+    font-size: 15px;
+    background: $white;
+    padding: 10px 0; 
+    color: #666;
+    &:last-child {
+      margin-bottom: 0;
+      padding-bottom: 0;
+    }
+    a {
+      color: $bbvablue;
+      font-family: 'BentonMedium';
+      margin-right: 8px,
+    }
+    @media (max-width: $mobile) {
+      @include flex-direction(column);
+      padding: 0;
+      margin-bottom: 13px;
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+}
+
+.hamburguer {
+  display: none;
+  margin-right: 24px;
+  cursor: pointer;
+  width: 18px;
+  height: 18px;
+  @media (max-width: $mobile) {
+    display: block;
+  }
+}
+
+.navigation-mobile {
+  display: none;
+  transform: translateX(-100%);
+  &.is-open {
+    transform: translateX(0);
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    background: $darkblue;
+    top: 0;
+    display: block;
+    padding: 60px 13px 13px 13px;
+    .menu {
+      @include flex-direction(column);
+    }
+    > .menu {
+      height: calc(100% - 50px);
+      overflow: auto;
+    }
+    .menu-item {
+      border: 0;
+      border-bottom: 1px solid rgba(233, 233, 233, 0.2);
+      margin: 0 15px;
+      padding: 16px 15px;
+      font-size: 17px;
+      font-family: 'BentonLight';
+      a.active + .subnavigation {
+        display: block;
+        background: none;
+        padding: 0;
+        .menu-item {
+          padding: 0;
+          border: 0;
+          font-size: 15px;
+          margin-top: 15px;
+        }
+      }
+    }
+  }
+}
+
+.mobile-language {
+  @include display-flex;
+  font-size: 17px;
+  line-height: 1;
+  font-family: 'BentonLight';
+  position: absolute;
+  left: 28px;
+  bottom: 28px;
+  > li {
+    margin-right: 8px;
+    padding-right: 8px;
+    border-right: 1px solid rgba(233, 233, 233, 0.6);
+    &:last-child {
+      margin: 0;
+      padding: 0;
+      border: 0;
+    }
+  }
+  a {
+    color: rgba(233, 233, 233, 0.6);
+    &.active {
+      color: rgba(233, 233, 233, 1);
+    }
+  }
+}
+
+.hamburguer-icon {
+  @include display-flex();
+  @include align-items(center);
+  @include justify-content(center);
+  width: 18px;
+  height: 18px;
+  &.is-hidden {
+    display: none;
+  }
+}
+
+.closeMenu-icon {
+  display: none;
+  width: 18px;
+  height: 18px;
+  &.is-open {
+    @include display-flex();
+    @include align-items(center);
+    @include justify-content(center);
+  }
+}
+

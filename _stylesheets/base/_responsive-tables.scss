@@ -1,0 +1,22 @@
+/* Mobile */
+@media only screen and (max-width: 750px) {
+  
+  table.responsive { margin-bottom: 0; }
+  
+  .pinned { position: absolute; left: 0; top: 0; background: #fff; width: 140px; overflow: hidden; overflow-x: scroll; border-left: 2px solid #eaeaea; border-right: 2px solid #eaeaea; }
+  .pinned table { border-right: none; border-left: none; width: 100%; }
+  .pinned table th, .pinned table td { white-space: normal; }
+  .pinned td:last-child { border-bottom: 0; }
+  
+  div.table-wrapper { position: relative; margin-bottom: 20px; overflow: hidden; border-right: 2px solid #eaeaea; }
+  div.table-wrapper div.scrollable { margin-left: 140px; }
+  div.table-wrapper div.scrollable { overflow: scroll; overflow-y: hidden; }  
+  /*
+  .scrollable table td, .scrollable table th { position: relative; white-space: normal; overflow: hidden; }
+  .scrollable table th:first-child, .scrollable table td:first-child, .scrollable table td:first-child, table.responsive.pinned td { display: none; }
+  */
+  /*.scrollable tr:first-child th,
+  .scrollable tr:first-child td {
+    display: none;
+  }*/
+}

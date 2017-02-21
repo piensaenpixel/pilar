@@ -1,0 +1,67 @@
+.footer {
+  background: $darkblue;
+  padding: 38px 0 88px;
+  @media (max-width: $mobile) {
+    padding: 30px 0;
+  }
+}
+
+.footer-navigation {
+  @include display-flex;
+  margin-bottom: 20px;
+  @media (max-width: $mobile) {
+    flex-direction: column;
+    margin-bottom: 0;
+  }
+}
+
+.footer-navigationitem {
+  font-family: 'BentonMedium';
+  font-size: 15px;
+  margin-right: 28px;
+
+  @media (max-width: $mobile) {
+    margin: 0 0 20px 0;
+  }
+
+  &:last-child {
+    margin-right: 0;
+  }
+
+  a {
+    color: $electricblue;
+  }
+}
+
+.footer-credits {
+  color: $white;
+  font-family: 'BentonBook';
+  font-size: 12px;
+}
+
+.footer-social {
+  @include display-flex;
+  @include justify-content(flex-end);
+  margin-bottom: 74px;
+}
+
+.footer-socialitem {
+  margin-left: 10px;
+
+  &:first-child {
+    margin-left: 0;
+  }
+}
+
+.footer-socialink {
+  @include display-flex;
+  @include align-items(center);
+  @include justify-content(center);
+  background: $electricblue;
+  border-radius: 50%;
+  height: 24px;
+  min-width: 24px;
+  width: 24px;
+}
+
+

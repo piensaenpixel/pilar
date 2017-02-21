@@ -1,0 +1,66 @@
+{% assign lang = site.active_lang %}
+<header class="header">
+
+  <div class="container">
+
+    <nav class="options">
+      <ul class="options-list">
+        {% for options in site.data.header.options %}
+          <li class="options-listitem">
+          {% if forloop.index == 1 %}
+            {% for language in site.languages %}
+              {% if language != lang %}
+                <a href="{% if language == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{language}}{{page.url}} {% endif %}">
+                  {{ site.data[lang].header.options[0].title }}
+                </a>
+              {% endif %}
+            {% endfor %}
+          {% else %}
+            <a href="{{ options.url }}">
+              {{ options.title }}
+            </a>
+          {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
+
+    <div class="header-container">
+      <span class="hamburguer">
+        <span class="js-hamburguer">
+          <span class="hamburguer-icon">
+            <svg width="18px" height="13px" viewBox="412 460 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(412.000000, 460.000000)">
+                <polygon id="Path-2" fill="#FFFFFF" points="0 0 2.22044605e-16 3 16 3 18 0"></polygon>
+                <polygon id="Path-2-Copy" fill="#FFFFFF" points="0 5 0 8 13 8 15 5"></polygon>
+                <polygon id="Path-2-Copy-2" fill="#FFFFFF" points="0 10 0 13 10 13 12 10"></polygon>
+              </g>
+            </svg>
+          </span>
+          <span class="closeMenu-icon ">
+            <img src="{{site.baseurl}}/images/close-white.svg" />
+          </span>
+        </span>
+      </span>
+      <a href="{{site.baseurl}}/">
+        <img src="{{site.baseurl}}/images/logo.svg" />
+      </a>
+      <h1 class="header-title">
+        {{ site.data.header.title }}
+      </h1>
+    </div>
+  </div>
+</header>
+<nav class="subnavigation">
+  <div class="container">
+    <ul class="menu">
+      {% for menu in site.data.header.menu %}
+        <li class="menu-item">
+          <a {% if page.submenu == menu.submenu %}class="active"{% endif %} href="{{site.baseurl}}{{ menu.url }}">
+            {{ menu.title }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</nav>
