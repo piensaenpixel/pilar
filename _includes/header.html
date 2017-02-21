@@ -56,7 +56,7 @@
     <ul class="menu">
       {% for menu in site.data.header.menu %}
         <li class="menu-item">
-          <a {% if page.submenu == menu.submenu %}class="active"{% endif %} href="{{site.baseurl}}{{ menu.url }}">
+          <a {% if page.submenu != null and page.submenu == menu.submenu %}class="active"{% endif %} href="{{site.baseurl}}{{ menu.url }}">
             {{ menu.title }}
           </a>
         </li>
