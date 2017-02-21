@@ -9,22 +9,31 @@ options:
 menu:
   - title: Correspondencia
     url: /correspondencia/
+    submenu: correspondencia
   - title: Resumen ejecutivo
     url: /resumen-ejecutivo/
+    submenu: resumen
   - title: Requerimientos generales
     url: /requerimientos-generales/
+    submenu: requerimientos
   - title: Recursos propios
     url: /recursos-propios/
+    submenu: recursos-propios
   - title: Recursos Riesgos
     url: /recursos-riesgos/
+    submenu: recursos-riesgos
   - title: Ratio de apalancamiento
     url: /ratio-de-apalancamiento/
+    submenu: ratio
   - title: Informacion de remuneraciones
     url: /informacion-de-remuneraciones/
+    submenu: informacion
   - title: Hechos posteriores
     url: /hechos-posteriores/
+    submenu: hechos
   - title: Anexo
     url: /anexo/
+    submenu: anexo
 footer:
 - title: Centro de seguridad
   url: /
