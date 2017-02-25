@@ -406,8 +406,15 @@ span.highlight {
   font-family: 'BentonBook';
   font-size: 15px;
   line-height: 26px;
-  margin-bottom: 32px;
-  cursor: pointer; 
+  opacity: 0;
+  transition: opacity 300ms;
+  pointer-events: none;
+
+  &.is-show {
+    cursor: pointer; 
+    pointer-events: all;
+    opacity: 1;
+  }
   &:hover {
     text-decoration: underline;
   }
