@@ -1,3 +1,74 @@
+.home-inner {
+  height: 100vh;
+  @include display-flex();
+  @include align-items(center);
+  padding-top: 113px;
+  &.home--bg {
+    position: relative;
+    background: url(/images/bbva.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    &:before {
+      content: '';
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      background: rgba(#3d3e3f, 0.85);
+      mix-blend-mode: multiply;
+    }
+  }
+  .container {
+    text-align: center;
+    max-width: 860px;
+    position: relative;
+  }
+  h2 {
+    font-family: 'BentonBold';
+    font-size: 60px;
+    line-height: 70px;
+    color: $white;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+  }
+  h3 {
+    font-family: 'BentonBold';
+    font-size: 60px;
+    line-height: 70px;
+    color: $bbvablue;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+  }
+  h4 {
+    font-family: 'BentonBook';
+    font-size: 32px;
+    line-height: 38px;
+    color: $white;
+    margin-bottom: 60px;
+  }
+  .home-link a {
+    display: block;
+  }
+}
+.home-header {
+  .subnavigation {
+    display: none;
+  }
+  .header {
+    background: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 4;
+  }
+  .header-title {
+    display: none;
+  }
+}
+
+
 span.highlight {
   background-color: #ffec86;
   color: #444;
@@ -218,6 +289,7 @@ span.highlight {
 }
 
 .content-dropdownlist {
+  @include flex(1);
   margin-right: 44px;
   overflow: hidden;
 }
@@ -324,3 +396,23 @@ span.highlight {
   border: 0;
   cursor: pointer;
 }
+
+.content-up {
+  @include display-flex;
+  @include align-items(center);
+  position: absolute;
+  right: 0;
+  color: $bbvablue;
+  font-family: 'BentonBook';
+  font-size: 15px;
+  line-height: 26px;
+  margin-bottom: 32px;
+  cursor: pointer; 
+  &:hover {
+    text-decoration: underline;
+  }
+  svg {
+    margin-right: 8px;
+  }
+}
+
