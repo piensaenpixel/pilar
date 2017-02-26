@@ -6,9 +6,6 @@ permalink: /informacion-de-remuneraciones/
 submenu: informacion
 ---
 
-{% include subir.html %}
-
-
 # Información de remuneraciones
 
 {% include dropdown.html %}
@@ -166,7 +163,7 @@ a la misma. Además, en el Informe Anual sobre Remuneraciones de los
 consejeros de BBVA se incluye la retribución individualizada de cada
 consejero y desglosada por conceptos.
 
-## Descripción de los diferentes tipos de empleados y directivos incluidos en el Colectivo Identificado 
+## Descripción de los diferentes tipos de empleados y directivos incluidos en el Colectivo Identificado
 
 De acuerdo con lo establecido en la Ley 10/2014 en su artículo 32.2,
 BBVA ha determinado los profesionales afectados por esta normativa
@@ -499,7 +496,7 @@ elementos:
 - Limitación del importe de la retribución variable a un porcentaje de su retribución fija.
 
 
-## Los principales parámetros y la motivación de cualquier componente de los posibles planes de remuneración variable y de otras ventajas no pecuniarias, con expresa mención a las medidas adoptadas respecto a los integrantes del Colectivo Identificado que ejerzan funciones de control 
+## Los principales parámetros y la motivación de cualquier componente de los posibles planes de remuneración variable y de otras ventajas no pecuniarias, con expresa mención a las medidas adoptadas respecto a los integrantes del Colectivo Identificado que ejerzan funciones de control
 
 Los principales parámetros y la motivación de los componentes de los
 planes de remuneración variable del Colectivo Identificado han sido

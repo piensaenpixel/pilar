@@ -6,9 +6,6 @@ permalink: /resumen-ejecutivo/
 submenu: resumen
 ---
 
-{% include subir.html %}
-
-
 # Resumen ejecutivo
 
 El Grupo Banco Bilbao Vizcaya Argentaria (en adelante, el “Grupo” o

@@ -6,8 +6,6 @@ permalink: /correspondencia/
 submenu: correspondencia
 ---
 
-{% include subir.html %}
-
 # Correspondencia Apartados Pilar III con Cuentas Anuales Consolidadas del Grupo
 
 <div>

@@ -169,7 +169,7 @@ span.highlight {
       list-style-type: disc;
       margin-top: 4px;
       margin-bottom: 4px;
-      margin-left: 22px; 
+      margin-left: 22px;
       li {
         margin-bottom: 4px;
       }
@@ -404,8 +404,9 @@ span.highlight {
 .content-up {
   @include display-flex;
   @include align-items(center);
-  position: absolute;
-  right: 0;
+  position: fixed;
+  right: 30px;
+  bottom: 30px;
   color: $bbvablue;
   font-family: 'BentonBook';
   font-size: 15px;
@@ -413,11 +414,13 @@ span.highlight {
   opacity: 0;
   transition: opacity 300ms;
   pointer-events: none;
+  visibility: hidden;
 
   &.is-show {
-    cursor: pointer; 
+    cursor: pointer;
     pointer-events: all;
     opacity: 1;
+    visibility: visible;
   }
   &:hover {
     text-decoration: underline;

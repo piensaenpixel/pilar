@@ -6,15 +6,12 @@ permalink: /ratio-de-apalancamiento/
 submenu: ratio
 ---
 
-{% include subir.html %}
-
-
 # Ratio de apalancamiento
 
 {% include dropdown.html %}
 
 
-## Definición y composición del Ratio de Apalancamiento 
+## Definición y composición del Ratio de Apalancamiento
 
 El ratio de apalancamiento o “leverage ratio” (LR) se constituye como
 medida regulatoria (no basada en el riesgo) complementaria al capital
@@ -107,7 +104,7 @@ relevantes en la exposición.
 height="2.2527777777777778in"}
 
 
-## Governance 
+## Governance
 
 Dentro de las actividades que integran el reporting regulatorio en el
 Grupo, se encuentra la medición y control mensual del ratio de

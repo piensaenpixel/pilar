@@ -6,10 +6,7 @@ permalink: /hechos-posteriores/
 submenu: hechos
 ---
 
-{% include subir.html %}
-
-
-# Hechos posteriores 
+# Hechos posteriores
 
 El día 12 de enero de 2017 se ha realizado el pago en efectivo de una
 cantidad a cuenta del dividendo del ejercicio 2016, aprobado el día 21

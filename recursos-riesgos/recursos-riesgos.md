@@ -6,8 +6,6 @@ permalink: /recursos-riesgos/
 submenu: recursos-riesgos
 ---
 
-{% include subir.html %}
-
 # Recursos Riesgos
 
 {% include dropdown.html %}
@@ -233,7 +231,7 @@ destacar:
 - Comité Corporativo de Admisión de Riesgo Operacional y Outsourcing: su objeto es la identificación, evaluación y análisis de los riesgos operacionales de nuevos negocios, nuevos productos y servicios y de iniciativas de outsourcing.
 
 Se muestra a continuación un gráfico con las funciones de cada Comité en
-relación a la gestión de riesgo de Grupo BBVA:  
+relación a la gestión de riesgo de Grupo BBVA:
 
 **GRÁFICO 2: Gobierno y organización en la gestión de riesgos del Grupo
 BBVA **
@@ -301,7 +299,7 @@ gestión. Sus funciones son, entre otras, la revisión y validación
 independiente, a nivel interno, de los modelos utilizados para el
 control y gestión de los riesgos del Grupo.
 
-###  Marco de Apetito de Riesgo 
+###  Marco de Apetito de Riesgo
 
 El Marco de Apetito de Riesgo del Grupo aprobado por el Consejo de
 Administración determina los riesgos y el nivel de los mismos que el
@@ -445,7 +443,7 @@ concentraciones y cualquier otro nivel que se considere necesario.
     del resto del marco de planificación del Grupo de forma que se
     asegure la coherencia de todos estos procesos entre sí
 
-#### Gestión diaria del riesgo 
+#### Gestión diaria del riesgo
 
 Todos los riesgos deben ser gestionados de forma integral durante su
 ciclo de vida, en base a un tratamiento diferenciado en función de su
@@ -663,7 +661,7 @@ riesgo de la entidad.
 Del análisis de la estructura de APRs de la entidad se desprende que el
 86% pertenece a Riesgo de Crédito (incluyendo el recargo por CVA).
 
-### Definiciones y metodologías contables 
+### Definiciones y metodologías contables
 
 #### Definiciones de morosidad y posiciones deterioradas
 
@@ -708,7 +706,7 @@ importe individual sea significativo.
 Los riesgos fallidos son aquellos instrumentos de deuda para los que se
 considere remota su recuperación y proceda darlos de baja del activo.
 
-#### Métodos para determinar las correcciones de valor por deterioro de activos y las provisiones 
+#### Métodos para determinar las correcciones de valor por deterioro de activos y las provisiones
 
 El cálculo del deterioro de los activos financieros se realiza en
 función del tipo de instrumento y de otras circunstancias que puedan
@@ -731,7 +729,7 @@ activo financiero evaluado individualmente, se incluirá el activo en un
 grupo de activos financieros con características similares de riesgo de
 crédito y se evaluará su deterioro de forma colectiva.
 
-##### Pérdidas por deterioro determinadas individualmente 
+##### Pérdidas por deterioro determinadas individualmente
 
 El importe de las pérdidas por deterioro experimentadas por estos
 instrumentos coincide con la diferencia positiva entre sus respectivos
@@ -763,7 +761,7 @@ de deuda se tienen en consideración:
       .anchor}]{#_Toc473140586 .anchor}]{#_Toc473140153
       .anchor}]{#_Toc473139769 .anchor}
 
-##### Pérdidas por deterioro determinadas colectivamente 
+##### Pérdidas por deterioro determinadas colectivamente
 
 De cara al análisis colectivo de deterioro, los activos financieros se
 agrupan en base a características similares de riesgo indicativas de la
@@ -805,7 +803,7 @@ inmueble descontando los ajustes necesarios para recoger adecuadamente
 la potencial caída de valor hasta su ejecución y venta, así como los
 costes de ejecución, los costes de mantenimiento y los costes de venta.
 
-##### Métodos utilizados para determinar provisiones por riesgos y compromisos contingentes 
+##### Métodos utilizados para determinar provisiones por riesgos y compromisos contingentes
 
 Los riesgos y compromisos contingentes dudosos, excepto los avales y
 demás cauciones, se provisionarán por un importe igual a la estimación
@@ -824,7 +822,7 @@ prestadas vigentes no deterioradas se cubre siguiendo criterios
 similares a los expuestos en el apartado anterior sobre pérdidas por
 deterioro determinadas colectivamente.
 
-#### Criterios para dar de baja o mantener en balance los activos objeto de titulización 
+#### Criterios para dar de baja o mantener en balance los activos objeto de titulización
 
 El tratamiento contable de las transferencias de activos financieros
 está condicionado por la forma en que se transfieren a terceros los
@@ -882,7 +880,7 @@ rendimientos variables existentes y mantiene el poder de decisión sobre
 la entidad, bien de forma directa o a través de un agente. En estos
 casos, se consolidan los fondos de titulización con el Grupo.
 
-#### Criterios para el reconocimiento de resultados en los supuestos de baja de activos de balance 
+#### Criterios para el reconocimiento de resultados en los supuestos de baja de activos de balance
 
 Para que el Grupo reconozca el resultado generado en una venta de
 instrumentos financieros ésta debe suponer la baja en cuentas, para lo
@@ -900,7 +898,7 @@ financieros, pasivos financieros y pasivos por prestación de servicios
 que, en su caso, se originen como consecuencia de la transferencia, se
 registrarán por su valor razonable.
 
-#### Hipótesis clave para valorar riesgos y ventajas retenidas sobre los activos titulizados 
+#### Hipótesis clave para valorar riesgos y ventajas retenidas sobre los activos titulizados
 
 El Grupo considera que se retienen de manera sustancial los riesgos y
 beneficios de las titulizaciones cuando se mantengan los bonos
@@ -977,7 +975,7 @@ height="1.0768383639545056in"}
 ![](media/image47.emf){width="5.611111111111111in"
 height="1.1116786964129484in"}
 
-#### Valor medio de las exposiciones a lo largo de los ejercicios 2016 y 2015. 
+#### Valor medio de las exposiciones a lo largo de los ejercicios 2016 y 2015.
 
 En el siguiente cuadro, se detalla el valor medio de la exposición por
 Riesgo de Crédito durante los ejercicios 2016 y 2015 tanto para el
@@ -990,7 +988,7 @@ categorías de exposición:
 ![](media/image48.emf){width="4.272727471566054in"
 height="4.425951443569554in"}
 
-#### Distribución por áreas geográficas 
+#### Distribución por áreas geográficas
 
 A continuación se muestra la distribución por áreas geográficas de la
 exposición original en función del país del acreditado. La distribución
@@ -1083,12 +1081,12 @@ contables de las correcciones de valor de activos financieros y
 provisiones por riesgos contingentes.
 
 **TABLA 16: Distribución por sectores de los saldos contables de las correcciones de valor por deterioro de activos financieros y provisiones por riesgos contingentes **
-  
+
 ![](media/image71.emf){width="5.559162292213474in" height="0.7418044619422572in"}
-  
+
 ![](media/image72.emf){width="5.58441491688539in" height="0.6823447069116361in"}
 
-####  Distribución por vencimiento residual 
+####  Distribución por vencimiento residual
 
 A continuación se muestra la distribución de la exposición original por
 vencimiento residual, desglosada por categorías de exposición según los
@@ -1145,7 +1143,7 @@ height="1.1748807961504812in"}
 
 ### Información sobre el método estándar
 
-#### Identificación de las agencias de calificación externa 
+#### Identificación de las agencias de calificación externa
 
 Las agencias de calificación externa (ECAI) designadas por el Grupo para
 determinar las ponderaciones de riesgo aplicables a sus exposiciones son
@@ -1177,7 +1175,7 @@ mapping of ECAIs’ credit assessment under Article 136(1) and (3) of
 Regulation (EU) No 575/2013; dando cumplimiento a lo establecido en el
 artículo 136 de la CRR.
 
-#### Asignación de las calificaciones crediticias de emisiones públicas de valores 
+#### Asignación de las calificaciones crediticias de emisiones públicas de valores
 
 El número de casos y el importe de estas asignaciones es irrelevante en
 el Grupo a efectos de admisión crediticia y gestión del riesgo emisor.
@@ -1366,7 +1364,7 @@ comparación con las escalas utilizadas por las agencias externas.
 ![](media/image100.emf){width="5.611111111111111in"
 height="4.366818678915136in"}
 
-##### Uso de estimaciones internas con fines diferentes al cálculo de requerimientos de recursos propios 
+##### Uso de estimaciones internas con fines diferentes al cálculo de requerimientos de recursos propios
 
 Las estimaciones internas del Grupo son parte fundamental en el marco de
 una gestión basada en la creación de valor, permitiendo disponer de
@@ -1403,7 +1401,7 @@ asociadas a los contratos. Esto hace que el efecto de las garantías sea
 tenido en cuenta en la propia estimación de la severidad que se realiza
 para las carteras minoristas.
 
-##### Mecanismos utilizados para el control de los sistemas internos de calificación 
+##### Mecanismos utilizados para el control de los sistemas internos de calificación
 
 En la entidad se desarrolla la función de control y seguimiento de los
 sistemas de calificación y métricas de gestión de riesgos para
@@ -1482,17 +1480,17 @@ categoría de cliente:
 - **Bancos centrales y administraciones centrales**: Para este segmento, la asignación de calificaciones se realiza por las unidades de riesgos designadas al efecto, que de forma periódica analizan este tipo de clientes, y los califican en función de los parámetros incorporados en el modelo de rating correspondiente. Actualmente se utilizan 3 metodologías diferentes para la asignación de los rating país: (i) ratings de agencias externas, que se usan para los países desarrollados, países emergentes de renta elevada y aquellos emergentes donde el Grupo tiene un escaso riesgo (ii) rating interno en base a una herramienta propia que se usa para los países emergentes donde el Grupo tiene un riesgo apreciable y finalmente (iii) las puntuaciones de riesgo país publicadas por la agencia de crédito a la exportación belga (que es la gestora del modelo cuantitativo que usa la OCDE para asignar sus puntuaciones de riesgo país) para aquellos países de importancia marginal para el Grupo y que no disponen de calificaciones externas. Para todos los países se generan ratings soberanos en moneda local y extranjera, así como un rating de trasferencia, que evalúa el riesgo de inconvertibilidad/intransferibilidad.
 Para los países emergentes con filial o sucursal de BBVA, el rating en moneda local es ajustado al obtenido por la herramienta de emergentes bajo autorización del Comité de Riesgos asignado a tal efecto.
 
-- **Instituciones**: El rating de las Instituciones Públicas es obtenido generalmente por las unidades de riesgos responsables de su sanción, con periodicidad anual, coincidiendo con la revisión de los riesgos de los clientes o con la publicación de su contabilidad. 
+- **Instituciones**: El rating de las Instituciones Públicas es obtenido generalmente por las unidades de riesgos responsables de su sanción, con periodicidad anual, coincidiendo con la revisión de los riesgos de los clientes o con la publicación de su contabilidad.
 En el caso de las Instituciones Financieras, la unidad de riesgos responsable califica a este tipo de clientes de manera periódica, y mantiene un seguimiento constante de la evolución de estos clientes en los mercados nacionales e internacionales. Los ratings externos son un factor primordial en la asignación de ratings de instituciones financieras.
 
-- **Grandes Empresas**: Incluye la calificación de las exposiciones con grupos empresariales corporativos. En el resultado, influyen tanto indicadores de riesgo de negocio (evaluación del ambiente competitivo, posicionamiento de negocio, regulación, etc.) como indicadores de riesgo financiero (tamaño del grupo por ventas, generación de caja, niveles de endeudamiento, flexibilidad financiera, etc.). 
-Acorde a las características del segmento de grandes empresas, el modelo de calificación tiene carácter global con algoritmos particularizados por sector de actividad y adaptaciones geográficas. La calificación de estos clientes se realiza, de forma general, en el marco del proceso de revisión anual de los riesgos, o de admisión de nuevas operaciones. 
+- **Grandes Empresas**: Incluye la calificación de las exposiciones con grupos empresariales corporativos. En el resultado, influyen tanto indicadores de riesgo de negocio (evaluación del ambiente competitivo, posicionamiento de negocio, regulación, etc.) como indicadores de riesgo financiero (tamaño del grupo por ventas, generación de caja, niveles de endeudamiento, flexibilidad financiera, etc.).
+Acorde a las características del segmento de grandes empresas, el modelo de calificación tiene carácter global con algoritmos particularizados por sector de actividad y adaptaciones geográficas. La calificación de estos clientes se realiza, de forma general, en el marco del proceso de revisión anual de los riesgos, o de admisión de nuevas operaciones.
 La responsabilidad de la calificación recae en las unidades proponentes del riesgo, mientras que las sancionadoras la validan en el momento de la decisión.
 
-- **Medianas Empresas**: En este segmento también se tienen en cuenta factores cuantitativos derivados de la información económico-financiera, cualitativos que se relacionan con la antigüedad de la empresa, el sector, la calidad directiva, etc, y factores de alerta derivados del seguimiento del riesgo. 
-Al igual que en el segmento Corporativo, la calificación suele i 
-paralela al proceso de admisión, con lo cual la responsabilidad d 
-la calificación recae en la unidad proponente del riesgo, mientra 
+- **Medianas Empresas**: En este segmento también se tienen en cuenta factores cuantitativos derivados de la información económico-financiera, cualitativos que se relacionan con la antigüedad de la empresa, el sector, la calidad directiva, etc, y factores de alerta derivados del seguimiento del riesgo.
+Al igual que en el segmento Corporativo, la calificación suele i
+paralela al proceso de admisión, con lo cual la responsabilidad d
+la calificación recae en la unidad proponente del riesgo, mientra
 que el estamento decisor se encarga de validarla.
 
 - **Pequeñas Empresas**: De modo similar al segmento de medianas empresas, en este segmento también se tienen en cuenta factores cuantitativos, derivados de la información económico-financiera, cualitativos, que se relacionan con la antigüedad de la empresa, el sector, la calidad directiva, etc y factores de alerta derivados del seguimiento del riesgo. Del mismo modo, la calificación suele ir paralela al proceso de admisión, con lo cual la responsabilidad de la calificación recae en la unidad proponente del riesgo, mientras que el estamento decisor se encarga de validarla.
@@ -1510,14 +1508,14 @@ cada momento (datos económico-financieros, cambios societarios, factores
 externos, etc.)
 
 - **Minoristas**: Desglosada para cada una de las categorías de exposición a que hacen referencia las correlaciones previstas en los apartados definidos en la normativa de solvencia.
-Uno de los procesos más importantes en el que el scoring está plenamente integrado al máximo nivel y en todos los ámbitos de toma de decisiones es el proceso de concesión de operaciones minoristas del Grupo. El scoring es un importante factor para el análisis y resolución de las operaciones y es obligatorio contar con él en la toma de decisiones de riesgo de los segmentos para los que se ha diseñado. En el proceso de concesión y comercialización de operaciones minoristas el gestor es responsable de la gestión comercial, la calidad del riesgo y la rentabilidad. Es decir, realiza la gestión integral del cliente, cubriendo los procesos de admisión, seguimiento y control. 
+Uno de los procesos más importantes en el que el scoring está plenamente integrado al máximo nivel y en todos los ámbitos de toma de decisiones es el proceso de concesión de operaciones minoristas del Grupo. El scoring es un importante factor para el análisis y resolución de las operaciones y es obligatorio contar con él en la toma de decisiones de riesgo de los segmentos para los que se ha diseñado. En el proceso de concesión y comercialización de operaciones minoristas el gestor es responsable de la gestión comercial, la calidad del riesgo y la rentabilidad. Es decir, realiza la gestión integral del cliente, cubriendo los procesos de admisión, seguimiento y control.
 Para cada categoría específica de exposición minorista, el proceso de calificación es el siguiente:
 
     a. Hipotecas, Consumo y Tarjetas Minorista - España: El gestor recopila la información del cliente (datos personales, económicos, relación con el Banco) y de la operación (LTV, importe, plazo, destino, etc.) y con ella se realiza la calificación de la operación con el scoring. La decisión sobre la concesión se toma en función de los resultados arrojados por el modelo.
 
     b. Autos Consumer Finance España: La solicitud de financiación puede entrar vía Call Center o grabadas directamente en el aplicativo web por nuestros prescriptores autorizados. Se recoge la información necesaria del cliente (datos personales, económicos, autorización de la consulta al buró externo) y de la operación (plazo, importe…) para realizar la calificación de la operación con el scoring. Verificada la validez de los datos aportados, la decisión sobre la concesión se toma en función de los resultados arrojados por el modelo.
 
-    c. Renovables Minorista - Tarjetas BBVA Bancomer: El gestor o la fuerza especializada recopilan la información del cliente (datos personales, económicos y autorización de la consulta al buró externo) y de la operación (limite solicitado) para realizar la calificación de la operación con el scoring. Existen procesos adicionales de validación y comprobación de dicha información a través de áreas de back office o de soporte de operaciones. La decisión sobre la concesión se toma en función de los resultados arrojados por el modelo. 
+    c. Renovables Minorista - Tarjetas BBVA Bancomer: El gestor o la fuerza especializada recopilan la información del cliente (datos personales, económicos y autorización de la consulta al buró externo) y de la operación (limite solicitado) para realizar la calificación de la operación con el scoring. Existen procesos adicionales de validación y comprobación de dicha información a través de áreas de back office o de soporte de operaciones. La decisión sobre la concesión se toma en función de los resultados arrojados por el modelo.
     Comportamental: Mensualmente se califica a todas las tarjetas activas en función a su comportamiento transaccional y su estatus de pago.
     Proactivo: Mensualmente se califica a todos los clientes que tienen posiciones de activo en tarjetas, consumo o hipotecas y de pasivo, con base en su información de comportamiento interno y flujos
 
@@ -1526,7 +1524,7 @@ Para cada categoría específica de exposición minorista, el proceso de calific
 - **Renta variable**: El Grupo está aplicando, para sus posiciones de cartera registradas como renta variable, el rating obtenido para el cliente como consecuencia de su calificación en el proceso crediticio
 
 
-##### Definiciones, métodos y datos para estimar y validar los parámetros de riesgo 
+##### Definiciones, métodos y datos para estimar y validar los parámetros de riesgo
 
 La estimación de los parámetros se basa en la definición homogénea de
 incumplimiento establecida a nivel Grupo. En concreto, para que un
@@ -1698,7 +1696,7 @@ fiable con la metodología definida LGD. En este caso también se recurre
 a fuentes externas, que se combinan con los datos internos para obtener
 un CCF representativo de la cartera.
 
-#### Valores de exposición por categorías e intervalo de PD 
+#### Valores de exposición por categorías e intervalo de PD
 
 En la siguiente tabla, se muestra la información para el riesgo de
 crédito por método de las calificaciones internas (IRB) por grados de
@@ -2001,7 +1999,7 @@ riesgo de las exposiciones de renta variable por método simple **
 ![](media/image144.emf){width="5.611111111111111in"
 height="1.0814927821522309in"}
 
-### Información sobre el riesgo de contraparte 
+### Información sobre el riesgo de contraparte
 
 La exposición por riesgo de contraparte comprende aquella parte de la
 exposición original correspondiente a los instrumentos derivados,
@@ -2023,7 +2021,7 @@ height="0.7924584426946631in"}
 
 [\[CHART\]]{.chart}
 
-#### Políticas de gestión del riesgo de contraparte 
+#### Políticas de gestión del riesgo de contraparte
 
 ##### Metodología: asignación del capital interno y límites a exposiciones sujetas a riesgo de contraparte
 
@@ -2087,7 +2085,7 @@ diferentes contrapartidas y clientes. Este control es realizado por
 unidades independientes del área de negocio de forma que se garantiza
 una adecuada segregación de funciones.
 
-##### Políticas para asegurar la eficacia de garantías reales y para establecer las correcciones de valor por deterioro para cubrir este riesgo 
+##### Políticas para asegurar la eficacia de garantías reales y para establecer las correcciones de valor por deterioro para cubrir este riesgo
 
 El Grupo negocia con sus clientes acuerdos para la mitigación del riesgo
 de contrapartida dentro de los marcos normativos aplicables en cada uno
@@ -2187,7 +2185,7 @@ compensación **
 ![](media/image151.emf){width="5.611111111111111in"
 height="1.5038451443569554in"}
 
-##### Políticas con respecto al riesgo de que se produzcan efectos adversos por correlaciones 
+##### Políticas con respecto al riesgo de que se produzcan efectos adversos por correlaciones
 
 En los contratos de derivados podrían producirse potenciales efectos de
 correlación adversos entre la exposición con la contraparte y la calidad
@@ -2204,7 +2202,7 @@ exposiciones que establecen:
 
 - Control y seguimiento de la operativa.
 
-##### Impacto de las garantías reales ante una reducción en su calidad crediticia 
+##### Impacto de las garantías reales ante una reducción en su calidad crediticia
 
 En la operativa de derivados el Grupo tiene como política general no
 firmar contratos de colateral que supongan un aumento en la cantidad a
@@ -2346,7 +2344,7 @@ Crédito de Contraparte:
 ![](media/image174.emf){width="5.611111111111111in"
 height="1.6743405511811023in"}
 
-##### Composición del colateral para exposiciones al riesgo de contraparte 
+##### Composición del colateral para exposiciones al riesgo de contraparte
 
 Se incluye a continuación una tabla con el desglose de todos los tipos
 de colateral aportado o recibido por el Grupo para reforzar o reducir
@@ -2378,7 +2376,7 @@ Al cierre de los ejercicios 2016 y 2015 el Grupo no disponía de
 derivados de crédito utilizados en las actividades de intermediación
 como cobertura.
 
-#### Requerimientos por recargo de CVA 
+#### Requerimientos por recargo de CVA
 
 El Capital por CVA lo que pretende cubrir son pérdidas provocadas por
 variaciones en MtM debidas a cambios en el CVA (ajuste contable)
@@ -2422,9 +2420,9 @@ height="4.533525809273841in"}
 
 ### Información sobre titulizaciones
 
-#### Características generales de las titulizaciones 
+#### Características generales de las titulizaciones
 
-##### Objetivos de la titulización 
+##### Objetivos de la titulización
 
 La actual política de titulización del Grupo contempla un programa de
 emisión recurrente con una intencionada diversificación de activos
@@ -2453,7 +2451,7 @@ liberación de potenciales excesos de provisiones genéricas, siempre que
 el volumen del tramo de primera pérdida y la consecución de la
 transferencia de riesgo lo permitan.
 
-##### Funciones desempeñadas en proceso de titulización y grado de implicación 
+##### Funciones desempeñadas en proceso de titulización y grado de implicación
 
 El grado de implicación del Grupo en sus fondos de titulización no se
 restringe habitualmente a una mera labor de cedente y administradora de
@@ -2489,7 +2487,7 @@ mercados de crédito acaecido a partir de julio de 2007. En este sentido:
 
 - No se ha visto envuelto en estructuras recurrentes tales como conduits o SIVs, sino que todas sus emisiones han sido singulares.
 
-##### Métodos empleados para el cálculo de las exposiciones ponderadas por riesgo en sus actividades de titulización. 
+##### Métodos empleados para el cálculo de las exposiciones ponderadas por riesgo en sus actividades de titulización.
 
 Los métodos empleados para el cálculo de las exposiciones ponderadas por
 riesgo en titulizaciones son:
@@ -2498,7 +2496,7 @@ riesgo en titulizaciones son:
 
 - El método IRB de Titulización: Cuando se utilicen modelos internos para las exposiciones titulizadas, en su totalidad o de manera predominante. Dentro de las alternativas del método IRB, se utiliza el método basado en calificaciones externas.
 
-#### Transferencia del riesgo en actividades de titulización 
+#### Transferencia del riesgo en actividades de titulización
 
 Una titulización cumple con los criterios de transferencia significativa
 y efectiva de riesgo y, por tanto, está dentro del marco de solvencia de
@@ -2530,7 +2528,7 @@ párrafos 551 y 564 del marco de titulización).**
 **Información adicional SECA c) Resumen de las políticas contables
 del banco para actividades de titulización).**
 
-#### Exposiciones de titulización en la cartera de inversión y negociación 
+#### Exposiciones de titulización en la cartera de inversión y negociación
 
 A continuación, se muestran los importes en términos de EAD de las
 posiciones de titulización de la cartera de inversión y negociación por
@@ -2552,7 +2550,7 @@ height="1.7596784776902887in"}
 
 ![](media/image194.emf){width="6.18125in" height="1.7669400699912512in"}
 
-#### Titulizaciones inversoras 
+#### Titulizaciones inversoras
 
 A continuación, se muestran los importes en términos de EAD y APRs de
 las posiciones de titulización inversoras por tipo de exposición, tramos
@@ -2579,7 +2577,7 @@ inversoras o retenidas:
 
 #### Titulizaciones originadas
 
-##### Agencias de calificación empleadas 
+##### Agencias de calificación empleadas
 
 Para las emisiones realizadas en el Grupo, las instituciones externas de
 evaluación del crédito (ECAI) que han intervenido en las emisiones que
@@ -2603,7 +2601,7 @@ de toda la estructura de la emisión:
 En todas y cada una de las emisiones, además del rating inicial, las
 agencias realizan el seguimiento periódico trimestral.
 
-##### Desglose de saldos titulizados por tipo de activo 
+##### Desglose de saldos titulizados por tipo de activo
 
 A continuación se muestran los importes en términos de EAD y APRs de las
 posiciones de titulización originadas por tipo de exposición, tramos y
@@ -2658,9 +2656,9 @@ capital de las exposiciones se realiza como si no se hubiera titulizado:
 ![](media/image207.emf){width="4.1819444444444445in"
 height="2.6104166666666666in"}
 
-### Información sobre técnicas de reducción del riesgo de crédito 
+### Información sobre técnicas de reducción del riesgo de crédito
 
-#### Coberturas basadas en compensación de operaciones en balance y fuera de balance 
+#### Coberturas basadas en compensación de operaciones en balance y fuera de balance
 
 El Grupo, dentro de los límites marcados por las normativas relativas a
 netting de cada uno de los países en que opera, negocia con sus clientes
@@ -2684,7 +2682,7 @@ derecho, exigible legalmente, de compensar los importes reconocidos, y
 la intención de liquidar la cantidad neta o de realizar el activo y
 proceder al pago del pasivo de forma simultánea.
 
-#### Coberturas basadas en garantías reales 
+#### Coberturas basadas en garantías reales
 
 ##### Políticas y procedimientos de gestión y valoración
 
@@ -2763,7 +2761,7 @@ height="2.681298118985127in"}
 ![](media/image211.emf){width="5.611111111111111in"
 height="2.782283464566929in"}
 
-#### Coberturas basadas en garantías personales 
+#### Coberturas basadas en garantías personales
 
 Las garantías de firma según lo descrito en la normativa de solvencia,
 son aquellas garantías personales, incluidas las derivadas de seguros de
@@ -2812,7 +2810,7 @@ height="1.5296741032370953in"}
 .anchor}]{#_Toc473140676 .anchor}]{#_Toc473140243
 .anchor}]{#_Toc473139859 .anchor}]{#_Toc473105892 .anchor}
 
-#### Concentraciones de riesgo 
+#### Concentraciones de riesgo
 
 BBVA ha establecido los criterios de medición, seguimiento y reporting
 para el análisis de las grandes exposiciones crediticias que pudieran
@@ -2827,7 +2825,7 @@ concentraciones geográficas.
 Se ha establecido un proceso de medición y seguimiento de carácter
 trimestral para la revisión de los riesgos de concentración.
 
-### Densidad de APRs por áreas geográficas 
+### Densidad de APRs por áreas geográficas
 
 A continuación, se muestra un resumen de los porcentajes de ponderación
 medios por categoría de exposición existentes en las principales
@@ -2840,7 +2838,7 @@ de APRs.
 ![](media/image218.emf){width="5.611111111111111in"
 height="4.091849300087489in"}
 
-#### Políticas de cobertura y reducción del riesgo. Estrategias y procesos de supervisión 
+#### Políticas de cobertura y reducción del riesgo. Estrategias y procesos de supervisión
 
 [[[[[[[[]{#_Toc382909988 .anchor}]{#_Toc382822737
 .anchor}]{#_Toc382822060 .anchor}]{#_Toc382225169
@@ -2901,7 +2899,7 @@ por cada categoría de instrumentos financieros:
 
 ## Riesgo de Mercado
 
-### Alcance y naturaleza de los sistemas de medición y de información del Riesgo de Mercado 
+### Alcance y naturaleza de los sistemas de medición y de información del Riesgo de Mercado
 
 El Riesgo de mercado tiene su origen en la posibilidad de que se
 produzcan pérdidas en el valor de las posiciones mantenidas como
@@ -3035,7 +3033,7 @@ La cartera de negociación sujeta a modelo interno (BBVA S.A y Bancomer)
 representa un importe bruto de 117.909 millones, lo que supone un 90%
 del total de la cartera de negociación del Grupo.
 
-#### Características de los modelos utilizados 
+#### Características de los modelos utilizados
 
 Los procedimientos de medición se establecen en términos de cómo
 impactaría una posible evolución negativa de las condiciones de los
@@ -3120,7 +3118,7 @@ Tanto al VaR como al VaR Stress, se les reescala por un multiplicador regulatori
 
 La carga de capital se determina en base a las pérdidas asociadas (al 99,9% en un horizonte de 1 año bajo la hipótesis de riesgo constante) consecuencia de la migración de *rating* y/o estado de incumplimiento o default por parte del emisor del activo. Adicionalmente se incluye el riesgo de precio en posiciones de soberanos por los conceptos señalados.
 
-La metodología de cálculo está basada en simulación Montecarlo del impacto de los defaults y transiciones de rating sobre la cartera de posiciones sujetas al capital por riesgo incremental. El modelo que define el proceso de transiciones y default de una contrapartida está basado en la evolución de la calidad crediticia de una contrapartida. Bajo un enfoque tipo Merton unifactorial, que es el modelo subyacente al modelo de Basilea o al modelo de Creditmetrics, dicha calidad crediticia se correspondería con el valor de los activos del emisor, dependiendo de un factor sistémico común a todos los emisores y el idiosincrático, específico para cada emisor. 
+La metodología de cálculo está basada en simulación Montecarlo del impacto de los defaults y transiciones de rating sobre la cartera de posiciones sujetas al capital por riesgo incremental. El modelo que define el proceso de transiciones y default de una contrapartida está basado en la evolución de la calidad crediticia de una contrapartida. Bajo un enfoque tipo Merton unifactorial, que es el modelo subyacente al modelo de Basilea o al modelo de Creditmetrics, dicha calidad crediticia se correspondería con el valor de los activos del emisor, dependiendo de un factor sistémico común a todos los emisores y el idiosincrático, específico para cada emisor.
 
 Para simular el proceso de transiciones de rating y default de los emisores basta con simular el factor sistémico y la componente idiosincrática. Una vez que se obtiene la variable subyacente, se obtiene el rating final. La simulación de la calidad crediticia individual de los emisores permite obtener las pérdidas por riesgo sistémico y por riesgo idiosincrático.
 
@@ -3132,17 +3130,17 @@ La adecuación de la utilización de información de transiciones externas se ju
 
 - Las calificaciones internas para los segmentos Soberano, PSE, EEFF y Corporativa (que constituyen el núcleo de las posiciones sujetas a capital por riesgo incremental) se encuentran alineadas con las calificaciones externas. A modo de ejemplo, el sistema interno de calificación para entidades financieras está basado en un algoritmo que utiliza las calificaciones externas.
 
-- Las agencias de rating proporcionan información histórica suficiente para abarcar un ciclo económico completo (de hecho se cuenta con información de transiciones de rating desde el ejercicio 81) y obtener una matriz de transición de largo plazo del mismo modo que para el cálculo del capital regulatorio por riesgo de crédito en el banking book se exigen probabilidades de incumplimiento de largo plazo. 
+- Las agencias de rating proporcionan información histórica suficiente para abarcar un ciclo económico completo (de hecho se cuenta con información de transiciones de rating desde el ejercicio 81) y obtener una matriz de transición de largo plazo del mismo modo que para el cálculo del capital regulatorio por riesgo de crédito en el banking book se exigen probabilidades de incumplimiento de largo plazo.
 
-Esta profundidad histórica no está disponible para los sistemas de calificación internos. 
+Esta profundidad histórica no está disponible para los sistemas de calificación internos.
 
-Si bien para la determinación de las transiciones entre ratings se utilizan datos externos, para el establecimiento del default se utilizan las probabilidades asignadas por la escala maestra de BBVA, lo que asegura consistencia con las probabilidades utilizadas para los cálculos de capital en el Banking Book. 
+Si bien para la determinación de las transiciones entre ratings se utilizan datos externos, para el establecimiento del default se utilizan las probabilidades asignadas por la escala maestra de BBVA, lo que asegura consistencia con las probabilidades utilizadas para los cálculos de capital en el Banking Book.
 
 La matriz de transición se recalibra anualmente a partir de la información sobre transiciones que proporciona Standard&Poor’s, habiéndose definido un procedimiento para reajustar las transiciones de acuerdo a las probabilidades de incumplimiento asignadas por la escala maestra.
- 
-**Horizontes de liquidez** 
 
-El cálculo del capital por riesgo incremental utilizado por BBVA contempla explícitamente la utilización de la hipótesis de nivel constante de riesgo y horizontes de liquidez menores a un año de las posiciones. 
+**Horizontes de liquidez**
+
+El cálculo del capital por riesgo incremental utilizado por BBVA contempla explícitamente la utilización de la hipótesis de nivel constante de riesgo y horizontes de liquidez menores a un año de las posiciones.
 
 El establecimiento de los horizontes de liquidez sigue las pautas/criterios establecidos por Basilea en sus directrices para el cálculo del capital por riesgo incremental.
 
@@ -3185,7 +3183,7 @@ definido se complementa con límites a las pérdidas y con un sistema de
 señales de alerta para anticipar situaciones no deseadas en cuanto a
 niveles de riesgo y/o resultado.
 
-##### Evolución del riesgo de mercado en 2016 
+##### Evolución del riesgo de mercado en 2016
 
 Durante 2016, el VaR promedio se ha situado en 29 millones de euros,
 niveles superiores a los del ejercicio 2015, con un nivel máximo en el
@@ -3248,7 +3246,7 @@ La variación se debe principalmente al aumento en la exposición en
 modelos internos, específicamente un aumento de posicionamiento en la
 cartera de bonos y un ligero incremento de los spreads crediticios**. **
 
-##### Stress testing 
+##### Stress testing
 
 Todos los trabajos relacionados con el stress, metodologías, escenarios
 de variables de mercados, informes, son desarrollados en coordinación
@@ -3327,7 +3325,7 @@ Stress VaR al 99% a 1 día)
 ![](media/image239.emf){width="6.308278652668417in"
 height="1.402597331583552in"}
 
-##### Backtesting 
+##### Backtesting
 
 El modelo de medición de los riesgos de mercado del Grupo requiere
 disponer de un programa de Backtesting o validación del mismo, que
@@ -3406,7 +3404,7 @@ tipologías de riesgo.
 
 ## Riesgo estructural de Renta Variable
 
-### Alcance y naturaleza de los sistemas de medición y de información del Riesgo de Renta Variable 
+### Alcance y naturaleza de los sistemas de medición y de información del Riesgo de Renta Variable
 
 La exposición del Grupo BBVA al riesgo estructural de renta variable se
 deriva, fundamentalmente, de las participaciones mantenidas en empresas
@@ -3561,7 +3559,7 @@ respectivamente.
 
 (Ver nota 8 de las CCAA Consolidadas del Grupo para mayor información)
 
-### Valor de las participaciones e instrumentos de capital 
+### Valor de las participaciones e instrumentos de capital
 
 A continuación se muestra el valor en libros, exposición y APRs de las
 carteras mantenidas con ánimo de venta y las carteras mantenidas con
@@ -3580,7 +3578,7 @@ Del total de la Cartera de Inversión Permanente, únicamente existe
 precio de cotización para la sociedad Brunara, cuyo importe asciende a
 54 y 52 millones a 31 de diciembre de 2015 y 2014, respectivamente.
 
-### Exposiciones en participaciones e instrumentos de capital 
+### Exposiciones en participaciones e instrumentos de capital
 
 A continuación, se indican los tipos, naturaleza e importes de las
 exposiciones originales en participaciones e instrumentos de capital
@@ -3633,7 +3631,7 @@ height="1.4673611111111111in"}
 
 ## Riesgo de cambio estructural
 
-#### Alcance y naturaleza de los sistemas de medición y de información del Riesgo de Cambio 
+#### Alcance y naturaleza de los sistemas de medición y de información del Riesgo de Cambio
 
 En el Grupo BBVA, el riesgo estructural de tipo de cambio surge,
 principalmente, de la consolidación de las participaciones en filiales
@@ -3713,7 +3711,7 @@ height="2.8181813210848645in"}
 
 ## Riesgo de Tipo de Interés
 
-### Alcance y naturaleza de los sistemas de medición y de información del Riesgo de Tipo de Interés 
+### Alcance y naturaleza de los sistemas de medición y de información del Riesgo de Tipo de Interés
 
 La gestión del riesgo de interés del balance persigue mantener la
 exposición Grupo BBVA a variaciones de tipos de interés, en niveles
@@ -3786,7 +3784,7 @@ interna, la cual incluye pruebas de backtesting.
 
 3. El modelo de medición de riesgo se complementa con el análisis de escenarios específicos y pruebas de estrés. Las pruebas de stress testing han tomado una especial relevancia en los últimos años, para lo cual se ha continuado reforzando el análisis de escenarios extremos ante una eventual ruptura tanto de los niveles actuales de tipos como de las correlaciones y volatilidades históricas, al tiempo que se ha mantenido la evaluación de escenarios previsionales del Servicio de Estudios.
 
-### Naturaleza del riesgo de tipo de interés e hipótesis clave 
+### Naturaleza del riesgo de tipo de interés e hipótesis clave
 
 La exposición del Grupo a variaciones en los tipos de interés de mercado
 constituye uno de los principales riesgos financieros asociados al
@@ -3892,7 +3890,7 @@ los resultados potenciales del Grupo BBVA ante movimientos en los tipos.
 
 ## Riesgo de Liquidez
 
-#### Alcance y naturaleza de los sistemas de medición y de información del Riesgo de Liquidez 
+#### Alcance y naturaleza de los sistemas de medición y de información del Riesgo de Liquidez
 
 La gestión del riesgo de liquidez y financiación tiene como objetivo, en
 el corto plazo, evitar que una entidad tenga dificultades para atender a
@@ -4311,16 +4309,16 @@ Desde esta óptica, se efectúa una gestión anticipatoria y preventiv del RO po
 
 Los elementos que permiten que la gestión del RO en el Grupo BBVA se efectúe desde estas dos ópticas se describen a continuación
 
-#### Proceso Admisión de Riesgo Operacional 
+#### Proceso Admisión de Riesgo Operacional
 
 Aunque en sentido estricto no pueda hablarse de un verdadero proceso de admisión del RO, tal como, por ejemplo, se lleva a cabo en el Riesgo de Crédito, el Grupo BBVA considera que la asimilación que se recoge en este apartado resulta útil para controlar este Riesgo y favorece su mitigación. Así, este proceso tiene como objetivo: anticipar los riesgos operacionales potenciales a los que quedaría expuesto el Grupo como resultado de la aparición o modificación de nuevos productos, actividades, procesos o sistemas y decisiones de outsourcing y asegurar que su implantación sólo se lleva a cabo una vez adoptadas las medidas de mitigación convenientes en cada caso.
 
 El Grupo cuenta con un modelo de gobernanza específico para la admisión del RO que se concreta en diferentes Comités que actúan como vehículos de admisión en las diferentes instancias en las que se concentra la entrada del RO: nuevos negocios, nuevos productos, sistemas, decisiones de outsourcing, etc.
 
 
-#### Herramientas de seguimiento y gestión/mitigación de Riesgo Operacional 
+#### Herramientas de seguimiento y gestión/mitigación de Riesgo Operacional
 
-##### Autoevaluaciones de Riesgo Operacional (Risk and Control Self Assessment) 
+##### Autoevaluaciones de Riesgo Operacional (Risk and Control Self Assessment)
 
 [[]{#_Toc389590421 .anchor}]{#_Toc384998892 .anchor}Una adecuada gestión del RO requiere que se establezcan metodologías y procedimientos que permitan identificar, evaluar y seguir esta clase de riesgos para implementar las medidas de mitigación convenientes en cada caso. Todo ello se realiza comparando el nivel de riesgo asumido y el coste de la mitigación.
 
@@ -4345,7 +4343,7 @@ La gestión del RO se realiza de manera coordinada con otros riesgos considerand
 
 Una gestión dinámica del RO requiere no sólo la realización periódica del ejercicio de autoevaluación de RO sino de la definición de un conjunto de indicadores que permita medir la evolución en el tiempo tanto de los factores de riesgo como de la efectividad de los controles y de esta manera tener información de evoluciones no esperadas que permitan realizar una gestión preventiva del Riesgo Operacional.
 
-##### Base de datos de pérdidas operacionales 
+##### Base de datos de pérdidas operacionales
 
 En línea con las mejores prácticas y recomendaciones de BIS, BBVA cuenta con procedimientos de recogida de pérdidas operacionales ocurridas tanto en las distintas entidades del Grupo como en otros Grupos financieros (base de pérdidas ORX, servicio ORX News, etc).
 
@@ -4393,7 +4391,7 @@ para mantenerlo dentro del mismo. El responsable de RO impulsará su
 implantación a través del Comité de Gestión de Riesgo Operacional
 
 
-### Métodos utilizados 
+### Métodos utilizados
 
 De acuerdo con lo contemplado en el Reglamento (EU) No 575/2013 del
 Parlamento Europeo y del Consejo, para el cálculo del capital

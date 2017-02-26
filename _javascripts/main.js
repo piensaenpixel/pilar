@@ -9,7 +9,10 @@ $(function () {
   require('./components/table').init();
   require('./components/search').init();
   require('./components/header').init();
-  require('./components/scroll-observer').init();
+  // This causes scroll memory WTF, need to investigate
+  // require('./components/scroll-observer').init();
+
+  require('./components/scrollToTop').init();
 
   var highlight = require('./components/highlight');
   highlight();

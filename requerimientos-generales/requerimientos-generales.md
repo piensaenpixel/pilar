@@ -6,9 +6,6 @@ permalink: /requerimientos-generales/
 submenu: requerimientos
 ---
 
-{% include subir.html %}
-
-
 # Requerimientos generales de información
 
 {% include dropdown.html %}
@@ -56,9 +53,9 @@ través del poder que ejerce sobre la participada. Para que se considere
 que hay control debe concurrir:
 
 - Poder: Un inversor tiene poder sobre una participada cuando el primero posee derechos en vigor que le proporcionan la capacidad de dirigir las actividades relevantes, es decir, aquellas que afectan de forma significativa a los rendimientos de la participada.
- 
+
 - Rendimientos: Un inversor está expuesto, o tiene derecho, a unos rendimientos variables por su implicación en la participada cuando los rendimientos que obtiene el inversor por dicha implicación pueden variar en función de la evolución económica de la participada. Los rendimientos del inversor pueden ser sólo positivos, sólo negativos o, a la vez, positivos y negativos.
- 
+
 - Relación entre poder y rendimientos: Un inversor controla una participada si el inversor no sólo tiene poder sobre la participada y está expuesto, o tiene derecho, a unos rendimientos variables por su implicación en la participada, sino también la capacidad de utilizar su poder para influir en los rendimientos que obtiene por dicha implicación en la participada.
 
 Así, en la elaboración de las Cuentas Anuales consolidadas del Grupo,
@@ -796,7 +793,7 @@ anteriores (2015 y 2014), ver Nota 3 de las Cuentas Anuales Consolidadas
 del Grupo.
 
 
-## Identificación de entidades dependientes con recursos propios inferiores al mínimo exigido. Posibles impedimentos a la transferencia de fondos propios 
+## Identificación de entidades dependientes con recursos propios inferiores al mínimo exigido. Posibles impedimentos a la transferencia de fondos propios
 
 No existe en el Grupo ninguna entidad no incluida en el Grupo
 consolidable a efectos de la normativa de solvencia cuyos recursos

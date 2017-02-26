@@ -6,9 +6,6 @@ permalink: /recursos-propios/
 submenu: recursos-propios
 ---
 
-{% include subir.html %}
-
-
 # Recursos propios
 
 {% include dropdown.html %}
@@ -132,7 +129,7 @@ subordinada a 31 de Diciembre de 2016 del Grupo computables como capital
 de nivel 2.
 
 
-## Importe de los recursos propios 
+## Importe de los recursos propios
 
 A continuación se muestra el importe de los recursos propios
 computables, netos de deducciones, de los diferentes elementos que
