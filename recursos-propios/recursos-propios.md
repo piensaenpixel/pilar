@@ -141,10 +141,218 @@ de 2015, de acuerdo a los requerimientos de divulgación de información
 relativa a fondos propios transitorios establecido por el Reglamento de
 Ejecución (UE) No 1423/2013 de la Comisión de 20 de diciembre de 2013:
 
-**TABLA 5: Importe de los recursos propios **
+<table class="tableizer-table">
+    <thead>
+        <tr class="tableizer-firstrow">
+            <th></th>
+            <th>12/31/16</th>
+            <th>12/31/15</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>a)Capital y prima de emisión</td>
+            <td>27.210</td>
+            <td>27.112</td>
+        </tr>
+        <tr>
+            <td>b)Ganancias acumuladas</td>
+            <td>23.688</td>
+            <td>22.588</td>
+        </tr>
+        <tr>
+            <td>c)Otros ingresos acumulados (y otras reservas)</td>
+            <td>(5.760)</td>
+            <td>(3.470)</td>
+        </tr>
+        <tr>
+            <td>d)Participaciones minoritarias</td>
+            <td>6.969</td>
+            <td>7.143</td>
+        </tr>
+        <tr>
+            <td>e)Beneficios provisionales</td>
+            <td>2.232</td>
+            <td>1.456</td>
+        </tr>
+        <tr>
+            <td>Capital de nivel 1 ordinario antes de los ajustes reglamentarios</td>
+            <td>54.339</td>
+            <td>54.829</td>
+        </tr>
+        <tr>
+            <td>f)Ajustes de valor adicionales</td>
+            <td>(250)</td>
+            <td>(195)</td>
+        </tr>
+        <tr>
+            <td>g)Activos intangibles</td>
+            <td>(5.675)</td>
+            <td>(3.901)</td>
+        </tr>
+        <tr>
+            <td>h)Activos por impuestos diferidos </td>
+            <td>(453)</td>
+            <td>(75)</td>
+        </tr>
+        <tr>
+            <td>i)Pérdidas esperadas renta variable</td>
+            <td>(16)</td>
+            <td>(31)</td>
+        </tr>
+        <tr>
+            <td>j) Pérdidas o ganancias por pasivos valorados al valor razonable</td>
+            <td>(202)</td>
+            <td>(136)</td>
+        </tr>
+        <tr>
+            <td>k) Tenencias directas e indirectas de instrumentos propios</td>
+            <td>(181)</td>
+            <td>(511)</td>
+        </tr>
+        <tr>
+            <td>l)Titulizaciones tramos al 1250%</td>
+            <td>(62)</td>
+            <td>(89)</td>
+        </tr>
+        <tr>
+            <td>m) Ajustes transitorios CET1</td>
+            <td>(129)</td>
+            <td>(788)</td>
+        </tr>
+        <tr>
+            <td>n)     Deducciones admisibles de CET1</td>
+            <td>-</td>
+            <td>(549)</td>
+        </tr>
+        <tr>
+            <td>Total de los ajustes reglamentarios de capital de nivel 1 ordinario</td>
+            <td>(6.969)</td>
+            <td>(6.275)</td>
+        </tr>
+        <tr>
+            <td>Capital de nivel 1 ordinario (CET1)</td>
+            <td>47.370</td>
+            <td>48.554</td>
+        </tr>
+        <tr>
+            <td>o)Instrumentos de capital y primas de emisión clasificados como pasivo</td>
+            <td>5.423</td>
+            <td>4.439</td>
+        </tr>
+        <tr>
+            <td>p)Elementos a que se refiere el artículo 484 (4) de la CRR</td>
+            <td>691</td>
+            <td>862</td>
+        </tr>
+        <tr>
+            <td>Capital de nivel 1 adicional antes de los ajustes reglamentarios</td>
+            <td>6.114</td>
+            <td>5.302</td>
+        </tr>
+        <tr>
+            <td>q) Ajustes transitorios Tier 1</td>
+            <td>(3.401)</td>
+            <td>(5.302)</td>
+        </tr>
+        <tr>
+            <td>Total de ajustes reglamentarios del capital de nivel 1 adicional</td>
+            <td>(3.401)</td>
+            <td>(5.302)</td>
+        </tr>
+        <tr>
+            <td>Capital de nivel 1 adicional (AT1)</td>
+            <td>2.713</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Capital de nivel 1 (Tier 1) (Capital de nivel 1 ordinario+capital de nivel 1 adicional)</td>
+            <td>50.083</td>
+            <td>48.554</td>
+        </tr>
+        <tr>
+            <td>r)Instrumentos de capital y primas de emisión</td>
+            <td>1.935</td>
+            <td>2.006</td>
+        </tr>
+        <tr>
+            <td>s) Importes de los elementos admisible, de acuerdo al art. 484</td>
+            <td>421</td>
+            <td>429</td>
+        </tr>
+        <tr>
+            <td>t)Instrumentos de fondos propios admisibles incluidos en Tier 2 consolidado emitidos por filiales y en manos de terceros</td>
+            <td>5.915</td>
+            <td>5.716</td>
+        </tr>
+        <tr>
+            <td>-De los cuales: los instrumentos emitidos por las filiales sujetos a la fase de salida</td>
+            <td>350</td>
+            <td>(99)</td>
+        </tr>
+        <tr>
+            <td>u)Ajustes por riesgo de crédito</td>
+            <td>538</td>
+            <td>3.496</td>
+        </tr>
+        <tr>
+            <td>Capital de nivel 2 antes de ajustes reglamentarios</td>
+            <td>8.810</td>
+            <td>11.646</td>
+        </tr>
+        <tr>
+            <td>Ajustes reglamentarios de capital de nivel 2</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Capital de nivel 2 (Tier 2)</td>
+            <td>8.810</td>
+            <td>11.646</td>
+        </tr>
+        <tr>
+            <td>Capital total (Capital total = Tier y Tier 2)</td>
+            <td>58.893</td>
+            <td>60.200</td>
+        </tr>
+        <tr>
+            <td>Total APR's</td>
+            <td>388.951</td>
+            <td>401.285</td>
+        </tr>
+        <tr>
+            <td>Ratio CET 1 (phase-in)</td>
+            <td>12,18%</td>
+            <td>12,10%</td>
+        </tr>
+        <tr>
+            <td>Ratio CET 1 fully loaded</td>
+            <td>10,90%</td>
+            <td>10,34%</td>
+        </tr>
+        <tr>
+            <td>Ratio Tier 1 phase in</td>
+            <td>12,88%</td>
+            <td>12,10%</td>
+        </tr>
+        <tr>
+            <td>Ratio Tier 1 fully loaded</td>
+            <td>12,46%</td>
+            <td>11,61%</td>
+        </tr>
+        <tr>
+            <td>Capital total phase in</td>
+            <td>15,14%</td>
+            <td>15,00%</td>
+        </tr>
+        <tr>
+            <td>Capital total fully loaded</td>
+            <td>14,71%</td>
+            <td>14,39%</td>
+        </tr>
+    </tbody>
+</table>
 
-![](media/image33.emf){width="5.611111111111111in"
-height="5.947121609798775in"}
 
 En el anexo V del presente documento se muestran las características de
 los principales instrumentos de capital, para reflejar, con el nivel de
@@ -160,8 +368,173 @@ regulatorio computable a efectos de solvencia:
 
 **TABLA 6: Reconciliación capital contable con capital regulatorio**
 
-![](media/image35.emf){width="5.753435039370078in"
-height="4.881626202974628in"}
+<table class="tableizer-table">
+    <thead>
+        <tr class="tableizer-firstrow">
+            <th>Recursos propios Computables (*)</th>
+            <th>31/12/2016</th>
+            <th>12/31/15</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Capital</td>
+            <td>3.218</td>
+            <td>3.120</td>
+        </tr>
+        <tr>
+            <td>Prima de emisión</td>
+            <td>23.992</td>
+            <td>23.992</td>
+        </tr>
+        <tr>
+            <td>Ganancias acumuladas, reservas de revaloración y otras reservas</td>
+            <td>23.641</td>
+            <td>22.512</td>
+        </tr>
+        <tr>
+            <td>Otros elementos de patrimonio neto</td>
+            <td>54</td>
+            <td>35</td>
+        </tr>
+        <tr>
+            <td>Acciones propias en cartera</td>
+            <td>(48)</td>
+            <td>(309)</td>
+        </tr>
+        <tr>
+            <td>Resultado atribuíble a los propietarios de la dominante</td>
+            <td>3.475</td>
+            <td>2.642</td>
+        </tr>
+        <tr>
+            <td>Dividendo a cuenta</td>
+            <td>(1.510)</td>
+            <td>(1.352)</td>
+        </tr>
+        <tr>
+            <td>Total Fondos Propios </td>
+            <td>52.821</td>
+            <td>50.640</td>
+        </tr>
+        <tr>
+            <td>Ajustes de valoración</td>
+            <td>(5.458)</td>
+            <td>(3.349)</td>
+        </tr>
+        <tr>
+            <td>Intereses minoritarios</td>
+            <td>8.064</td>
+            <td>8.149</td>
+        </tr>
+        <tr>
+            <td>Total Patrimonio Neto </td>
+            <td>55.428</td>
+            <td>55.440</td>
+        </tr>
+        <tr>
+            <td>Activos intangibles</td>
+            <td>(5.675)</td>
+            <td>(3.901)</td>
+        </tr>
+        <tr>
+            <td>Fin. Acciones Propias</td>
+            <td>(82)</td>
+            <td>(95)</td>
+        </tr>
+        <tr>
+            <td>Autocartera sintética</td>
+            <td>(51)</td>
+            <td>(415)</td>
+        </tr>
+        <tr>
+            <td>Deducciones</td>
+            <td>(5.808)</td>
+            <td>(4.411)</td>
+        </tr>
+        <tr>
+            <td>Ajustes transitorios CET 1</td>
+            <td>(129)</td>
+            <td>(788)</td>
+        </tr>
+        <tr>
+            <td>Plusvalías / minusvalías de la cartera de instrumentos de deuda disponibles para la venta</td>
+            <td>(402)</td>
+            <td>(796)</td>
+        </tr>
+        <tr>
+            <td>Plusvalías / minusvalías de la cartera de instrumentos de capital disponible para la venta</td>
+            <td>273</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>Diferencias de perímetro</td>
+            <td>(120)</td>
+            <td>(40)</td>
+        </tr>
+        <tr>
+            <td>Patrimonio no computable a nivel de solvencia</td>
+            <td>(249)</td>
+            <td>(828)</td>
+        </tr>
+        <tr>
+            <td>Resto de ajustes y deducciones</td>
+            <td>(2.001)</td>
+            <td>(1.647)</td>
+        </tr>
+        <tr>
+            <td>Capital de nivel 1 ordinario (CET 1)</td>
+            <td>47.370</td>
+            <td>48.554</td>
+        </tr>
+        <tr>
+            <td>Capital de nivel 1 adicional antes de los ajustes reglamentarios</td>
+            <td>6.114</td>
+            <td>5.302</td>
+        </tr>
+        <tr>
+            <td>Total de ajustes reglamentarios del capital de nivel 1 adicional</td>
+            <td>(3.401)</td>
+            <td>(5.302)</td>
+        </tr>
+        <tr>
+            <td>Capital de nivel 1 (Tier 1)</td>
+            <td>50.083</td>
+            <td>48.554</td>
+        </tr>
+        <tr>
+            <td>Capital de nivel 2 (Tier 2)</td>
+            <td>8.810</td>
+            <td>11.646</td>
+        </tr>
+        <tr>
+            <td>Capital total ( Capital total= Tier 1 + Tier 2)</td>
+            <td>58.893</td>
+            <td>60.200</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Total recursos propios mínimos exigibles </td>
+            <td>37.920</td>
+            <td>38.125</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>(*) El importe de Reservas incluye las ganancias acumuladas, reservas de revalorización y otras reservas.</td>
+            <td>&nbsp;</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
 
 
 ## Perfil de riesgos de la entidad
@@ -253,9 +626,198 @@ posiciones en renta variable.
 
 **TABLA 7: EU OV1- Requerimientos de capital por tipo de riesgo **
 
-[]{#_Toc382909995 .anchor}
-![](media/image38.emf){width="5.611111111111111in"
-height="3.916989282589676in"}
+<table class="tableizer-table">
+    <thead>
+        <tr class="tableizer-firstrow">
+            <th></th>
+            <th colspan="2">APRs</th>
+            <th colspan="1">Requerimientos mínimos de capital</th>
+        </tr>
+        <tr class="tableizer-firstrow">
+            <th></th>
+            <th>12/31/16</th>
+            <th>12/31/15</th>
+            <th>12/31/16</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Riesgo de crédito (excluido riesgo de crédito de contraparte)</td>
+            <td>324893,669</td>
+            <td>336042,832</td>
+            <td>25991,49352</td>
+        </tr>
+        <tr>
+            <td>Del cual, con el método estándar</td>
+            <td>223560,956</td>
+            <td>224181,61</td>
+            <td>17884,87648</td>
+        </tr>
+        <tr>
+            <td>Del cual, con el método básico basado en calificaciones internas (FIRB)</td>
+            <td>0</td>
+            <td>655,59</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>Del cual, con el método avanzado basado en calificaciones internas (AIRB)</td>
+            <td>84693,664</td>
+            <td>91683,437</td>
+            <td>6775,49312</td>
+        </tr>
+        <tr>
+            <td>Del cual, con renta variable basado en calificaciones internas con el método simple de ponderación de riesgo</td>
+            <td>16639,049</td>
+            <td>19522,195</td>
+            <td>1331,12392</td>
+        </tr>
+        <tr>
+            <td>Riesgo de crédito de contraparte (CCR)</td>
+            <td>11887,74</td>
+            <td>14397,567</td>
+            <td>951,0192</td>
+        </tr>
+        <tr>
+            <td>Del cual market to market</td>
+            <td>9473,423</td>
+            <td>10053,487</td>
+            <td>757,87384</td>
+        </tr>
+        <tr>
+            <td>Del cual exposición original</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>Del cual, con el método estándar para el riesgo de crédito de contraparte</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>Del cual, con el método de modelos internos (IMM)</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>Del cual, cantidad de exposición en riesgo para contribución al fondo de garantía por impago de una ECC</td>
+            <td>93</td>
+            <td>511</td>
+            <td>7,44</td>
+        </tr>
+        <tr>
+            <td>Del cual, CVA</td>
+            <td>2321,317</td>
+            <td>3833,08</td>
+            <td>185,70536</td>
+        </tr>
+        <tr>
+            <td>Riesgo de liquidación</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>Exposiciones de titulización en la cartera de inversión</td>
+            <td>1476,54</td>
+            <td>1394,546</td>
+            <td>118,1232</td>
+        </tr>
+        <tr>
+            <td>Del cual método basado en calificaciones internas (IRB)</td>
+            <td>332,406</td>
+            <td>345,629</td>
+            <td>26,59248</td>
+        </tr>
+        <tr>
+            <td>Del cual, con el método IRB basado en la fórmula supervisora (SFA)</td>
+            <td>1144,134</td>
+            <td>1048,917</td>
+            <td>91,53072</td>
+        </tr>
+        <tr>
+            <td>Del cual, con el método de evaluación interna (IAA)</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>Del cual, con el método estándar (SA)</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>Riesgo de mercado</td>
+            <td>16370,087</td>
+            <td>16159,1015</td>
+            <td>1309,60696</td>
+        </tr>
+        <tr>
+            <td>Del cual, con el método estándar (SA)</td>
+            <td>7111,624</td>
+            <td>6804,0515</td>
+            <td>568,92992</td>
+        </tr>
+        <tr>
+            <td>Del cual, con los métodos basados en modelos internos (IMM)</td>
+            <td>9258,463</td>
+            <td>9355,05</td>
+            <td>740,67704</td>
+        </tr>
+        <tr>
+            <td>Grandes exposiciones</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>Riesgo operacional</td>
+            <td>34323,1325154428</td>
+            <td>33291,313</td>
+            <td>2745,85060123543</td>
+        </tr>
+        <tr>
+            <td>Del cual, con el Método del Indicador Básico</td>
+            <td>6443,91404835546</td>
+            <td>6457,4</td>
+            <td>515,513123868436</td>
+        </tr>
+        <tr>
+            <td>Del cual, con el Método Estándar</td>
+            <td>10781,2680491714</td>
+            <td>11383,65</td>
+            <td>862,501443933708</td>
+        </tr>
+        <tr>
+            <td>Del cual, con el Método de Medición Avanzada</td>
+            <td>17097,950417916</td>
+            <td>15450,263</td>
+            <td>1367,83603343328</td>
+        </tr>
+        <tr>
+            <td>Importes por debajo de los umbrales de deducción (sujeto a ponderación por riesgo del 250%)</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>Ajuste mínimo (suelo)</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>TOTAL</td>
+            <td>388951,168515443</td>
+            <td>401285,3595</td>
+            <td>31116,0934812354</td>
+        </tr>
+    </tbody>
+</table>
+
 
 
 ## Procedimiento empleado proceso autoevaluación capital

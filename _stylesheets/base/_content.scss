@@ -244,6 +244,10 @@ span.highlight {
     }
   }
 
+  th[colspan]{
+   border-bottom: 2px solid #fff;
+  }
+
   .hover {
     @include transition(background, 300ms);
     background: rgba($green, 0.10);
