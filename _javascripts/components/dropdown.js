@@ -46,11 +46,16 @@ var generateDropdownOption = function (id, title) {
 };
 
 var goTo = function (e) {
+  if (state.open === false) {
+    e.preventDefault();
+    return;
+  }
+
   var offset = $('.fix-header').outerHeight();
   var el = $(this);
   var id = el.attr('href');
   var target = $(id);
-  var pos = target.get(0).getBoundingClientRect();
+  var pos = target.offset();
 
   $(window).scrollTo({top: pos.top - offset, left: 0}, 800);
 };
