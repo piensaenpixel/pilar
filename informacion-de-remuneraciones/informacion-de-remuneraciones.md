@@ -68,8 +68,110 @@ A la fecha de este informe, la Comisión de Retribuciones está compuesta
 por cinco vocales todos ellos tienen la condición de consejeros no
 ejecutivos, siendo la mayoría independientes incluido su Presidente.
 
-**TABLA 89:** [[]{#OLE_LINK6 .anchor}]{#OLE_LINK2 .anchor}**Composición
-de la Comisión de Retribuciones**
+**TABLA 89:**
+
+<table class="tableizer-table">
+    <thead>
+        <tr class="tableizer-firstrow">
+            <th>Tabla resumen de conciliación entre activos contables y exposición de ratio de apalancamiento</th>
+            <th>12/31/16 Phase-In</th>
+            <th>12/31/16 Fully Loaded</th>
+            <th>12/31/15 Phase-In</th>
+            <th>12/31/15 Fully Loaded</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>a) Total activos publicados en los Estados Financieros</td>
+            <td>731.856</td>
+            <td>731.856</td>
+            <td>750.078</td>
+            <td>750.078</td>
+        </tr>
+        <tr>
+            <td>b) Ajustes para las entidades consolidadas contablemente, pero fuera del perímetro de consolidación regulatoria</td>
+            <td>-17.272</td>
+            <td>-17.272</td>
+            <td>-16.920</td>
+            <td>-16.920</td>
+        </tr>
+        <tr>
+            <td>c) Ajustes por instrumentos derivados</td>
+            <td>-18.788</td>
+            <td>-18.788</td>
+            <td>-23.056</td>
+            <td>-23.056</td>
+        </tr>
+        <tr>
+            <td>d) Ajustes de operaciones de financiación de valores</td>
+            <td>2.941</td>
+            <td>2.941</td>
+            <td>37</td>
+            <td>37</td>
+        </tr>
+        <tr>
+            <td>e) Ajustes por activos fuera de balance</td>
+            <td>66.397</td>
+            <td>66.397</td>
+            <td>68.609</td>
+            <td>68.609</td>
+        </tr>
+        <tr>
+            <td>f) (Ajustes por exposiciones intragrupo excluidos de la exposición de ratio de apalancamiento medido de acuerdo al artículo 429 (7) de la CRR)</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>g) Otros ajustes</td>
+            <td>-10.451</td>
+            <td>-10.961</td>
+            <td>-12.159</td>
+            <td>-12.746</td>
+        </tr>
+        <tr>
+            <td>Total exposición de ratio de apalancamiento</td>
+            <td>747.216</td>
+            <td>746.706</td>
+            <td>766.589</td>
+            <td>766.001</td>
+        </tr>
+        <tr>
+            <td>h) Capital Tier 1</td>
+            <td>50.083</td>
+            <td>48.459</td>
+            <td>48.554</td>
+            <td>45.796</td>
+        </tr>
+        <tr>
+            <td>Exposiciones totales del rato de apalancamiento</td>
+            <td>747.216</td>
+            <td>746.706</td>
+            <td>766.589</td>
+            <td>766.001</td>
+        </tr>
+        <tr>
+            <td>Ratio de apalancamiento</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Ratio de apalancamiento</td>
+            <td>6,70%</td>
+            <td>6,49%</td>
+            <td>6,33%</td>
+            <td>5,98%</td>
+        </tr>
+    </tbody>
+</table>
+
+(1) Se corresponde con la exposición fuera de balance una vez aplicados los factores de conversión obtenidos de acuerdo al artículo 429, apartado 10 de la CRR. 
+
+
+
 
   []{#OLE_LINK10 .anchor}Nombre y Apellidos   Cargo        Condición
   ------------------------------------------- ------------ ---------------
