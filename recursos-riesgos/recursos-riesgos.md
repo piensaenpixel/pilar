@@ -340,7 +340,7 @@ elementos:
 
 Asimismo, las métricas fundamentales plasman en términos cuantitativos los principios y perfil de riesgo objetivo recogido en la declaración de Apetito de Riesgo y están alineadas con la estrategia del Grupo. Cada una de las métricas cuenta con tres umbrales (traffic light approach) que van desde una gestión habitual de los negocios hasta mayores niveles de deterioro: Referencia de gestión, Apetito máximo y Capacidad máxima. Las métricas fundamentales del Grupo BBVA son las que se detallan en el siguiente gráfico:
 
-**GRÁFICO 3: Métricas fundamentales** **Grupo BBVA **
+**GRÁFICO 2: Métricas fundamentales Grupo BBVA**
 
 > ![](media/image41.emf){width="3.272222222222222in"
 > height="2.5840277777777776in"}
@@ -359,7 +359,7 @@ Marco de Apetito de Riesgo establecido.
 El esquema del Marco de Apetito de Riesgos de BBVA se resume en el
 gráfico que se muestra a continuación.
 
-**GRÁFICO 4: Esquema Marco Apetito de Riesgos Grupo BBVA**
+**GRÁFICO 3: Esquema Marco Apetito de Riesgos Grupo BBVA**
 
 ![](media/image42.png){width="2.384027777777778in"
 height="2.4479166666666665in"}
@@ -1825,10 +1825,7 @@ categorías de exposición:
 
 #### Distribución por áreas geográficas
 
-A continuación se muestra la distribución por áreas geográficas de la
-exposición original en función del país del acreditado. La distribución
-incluye las exposiciones por el método estándar y avanzado, no
-incorporando las posiciones en renta variable.
+A continuación se muestra la distribución por áreas geográficas de la exposición original bruta de provisiones en función del país del acreditado. La distribución incluye las exposiciones por el método estándar y avanzado así como riesgo de contraparte, no incorporando las posiciones en renta variable.
 
 **TABLA 11: Distribución por áreas geográficas de la exposición por
 Riesgo de Crédito **
@@ -3117,9 +3114,7 @@ provisiones por riesgos contingentes.
 
 ####  Distribución por vencimiento residual
 
-A continuación se muestra la distribución de la exposición original por
-vencimiento residual, desglosada por categorías de exposición según los
-modelos estándar y avanzado, sin incluir la posición en renta variable:
+A continuación, se presenta el movimiento acontecido durante el ejercicio 2016 en las correcciones de valor por deterioro y provisiones de los activos financieros en balance y de los riesgos y compromisos contingentes:
 
 **TABLA 17: Distribución por vencimiento residual de la exposición por
 Riesgo de Crédito **
@@ -3466,6 +3461,8 @@ situación de incumplimiento**
         </tr>
     </tbody>
 </table>
+(1) EO: Se corresponde con la exposición original
+(2) EAD: Se corresponde con la EO neta de provisiones, correcciones de valor y otras exposiciones sin riesgo (3) APRs: Se corresponde con la EAD tras ponderación de riesgos
 
 <table class="tableizer-table">
     <thead>
@@ -3632,7 +3629,8 @@ situación de incumplimiento**
         </tr>
     </tbody>
 </table>
-
+(1) EO: Se corresponde con la exposición original
+(2) EAD: Se corresponde con la EO neta de provisiones, correcciones de valor y otras exposiciones sin riesgo (3) APRs: Se corresponde con la EAD tras ponderación de riesgos
 
 ### Información sobre el método estándar
 
@@ -5316,12 +5314,9 @@ principalmente a:
 
 - **Oscilaciones del tipo de cambio:** Provocadas en su mayor medida por la conversión de la divisa venezolana al tipo de cambio de cierre, materializándose en un impacto de aproximadamente 28.500 millones de euros.
 
-A continuación se muestran los saldos de los fondos de cobertura
-específico, genérico y riesgo país por categorías de exposición a 31 de
-Diciembre de 2016 y 2015:
+A continuación se muestran los saldos de los fondos de cobertura de riesgo de crédito y contraparte por categorías de exposición a 31 de Diciembre de 2016 y 2015:
 
-**TABLA 24: Saldos de fondos de cobertura específico, genérico y riesgo
-país por categoría de exposición (método estándar) **
+**TABLA 24: Saldos de fondos de cobertura por categoría de exposición (método estándar) **
 
 <table class="tableizer-table">
     <thead>
@@ -6150,12 +6145,9 @@ un CCF representativo de la cartera.
 
 #### Valores de exposición por categorías e intervalo de PD
 
-En la siguiente tabla, se muestra la información para el riesgo de
-crédito por método de las calificaciones internas (IRB) por grados de
-deudor para las distintas categorías de exposición:
+En la siguiente tabla, se muestra la información para el riesgo de crédito (excluido riesgo de contraparte y financiación especializada) por método de las calificaciones internas (IRB) por grados de deudor para las distintas categorías de exposición:
 
-**TABLA 27: EU CR6- Método avanzado: Valores de la exposición por
-categoría e intervalo de PD **
+**TABLA 27: EU CR6- Método avanzado: Valores de la exposición por categoría e intervalo de PD**
 
 <table class="tableizer-table">
     <thead>
@@ -9121,6 +9113,27 @@ fiabilidad de los cálculos de la PD, se incluye a continuación una
 comparación de las PDs utilizadas en los cálculos de capital IRB con las
 tasas de incumplimiento efectivas de los deudores del Grupo.
 
+En concreto, la tabla compara la PD utilizada en los cálculos de capital por modelos avanzado con las tasas de incumplimiento efectivas de los deudores.
+
+La estructura de la tabla es la recomendada por el Comité de Supervisión Bancaria de Basilea (BCBS) en su documento Revised Pillar 3 Disclosure Requirements. No obstante, se permite cierta flexibilidad en su interpretación.
+
+Los criterios adoptados para presentar la información de la tabla han sido los siguientes:
+
+- Cartera: El desglose de las carteras corresponde a la recomendada por el RPDR, excluyendo las posiciones accionariales.
+
+- Intervalos de PD: Son los correspondientes a la escala maestra de rating que se encuentran en el apartado 3.2.5.1.2 (Tabla 26).
+
+- Equivalente de calificación externa: Se ha utilizado la equivalencia entre las PDs y los ratings externos descritos en el apartado 3.2.5.1.2.
+
+- PD media ponderada y PD media aritmética por deudor: Se ha empleado la PD tras mitigación, es decir, la asociada a los garantes.
+
+- Número de deudores: Se presentan los deudores a cierre del ejercicio y a cierre del ejercicio previo.
+
+- Deudores en situación de incumplimiento: A los efectos de garantizar la trazabilidad de la tabla, se han unificado las columnas “g” y “h” de la tabla incluidas en el RPDR para reportar la información sobre las operaciones/clientes que entraron en default durante los últimos 12 meses. De manera que, los deudores incumplidos durante el año para cada intervalo de PD, a excepción del intervalo de 100%-Incumplimiento en el que se muestran los incumplidos acumulados en el año.
+
+- Tasa de incumplimiento: Se presenta la tasa anual de incumplimiento, que se calcula como los incumplidos del año entre el total de deudores del ejercicio previo.
+
+
 **TABLA 28: CR9-Método avanzado: Comprobación de la probabilidad de
 incumplimiento (PD) por cartera **
 
@@ -9301,8 +9314,7 @@ de crisis. Las pérdidas efectivas son superiores a la ajustada al ciclo,
 debido a la composición de años en la muestra, con más años de crisis
 que de crecimiento.
 
-**GRÁFICO 10: Análisis comparativo pérdida esperada: Hipotecas Minorista
-**
+**GRÁFICO 9: Análisis comparativo pérdida esperada: Hipotecas Minorista**
 
 ![](media/image125.emf){width="3.730505249343832in"
 height="2.9137926509186354in"}
@@ -9317,7 +9329,7 @@ desaceleración económica sufrida, y con las dificultades financieras en
 que se han desenvuelto las familias. Para 2016 se espera una Pérdida
 acorde a la pérdida ajustada al ciclo.
 
-**GRÁFICO 11: Análisis comparativo pérdida esperada: Consumo **
+**GRÁFICO 12: Análisis comparativo pérdida esperada: Autos**
 
 ![](media/image127.emf){width="4.061616360454943in"
 height="3.172413604549431in"}
@@ -9409,13 +9421,9 @@ height="3.137930883639545in"}
 
 ##### Pérdidas por deterioro (IRB)
 
-[[[]{#_Toc382910061 .anchor}]{#_Toc382822810 .anchor}]{#_Toc382822133
-.anchor}A continuación, se muestran los saldos de los fondos de
-cobertura específico, genérico y riesgo país por categorías de
-exposición a 31 de diciembre de 2016 y 31 de diciembre de
-2015.[]{#_Toc382910062 .anchor}
+A continuación, se muestran los saldos de los fondos de cobertura para los riesgos de crédito y contraparte por categorías de exposición a 31 de diciembre de 2016 y 31 de diciembre de 2015.
 
-**TABLA 30: Saldos de fondos de cobertura específico, genérico y riesgo país por categoría de exposición**
+**TABLA 30: Saldos de fondos de cobertura por categoría de exposición**
 
 <table class="tableizer-table">
     <thead>
@@ -13359,16 +13367,7 @@ obteniendo las autorizaciones internas pertinentes directamente del
 Consejo de Administración o, en su lugar, de la Comisión Delegada
 Permanente.
 
-El objetivo principal de la titulización es servir como instrumento para
-la gestión eficiente del balance, principalmente como fuente de liquidez
-a un coste eficiente, obteniendo activos líquidos a través de colateral
-elegible, complementario al resto de instrumentos de financiación.
-Adicionalmente, existen otros objetivos más secundarios asociados al uso
-de instrumentos de titulización como son la liberación de capital
-regulatorio, a través de la transferencia de riesgo así como la
-liberación de potenciales excesos de provisiones genéricas, siempre que
-el volumen del tramo de primera pérdida y la consecución de la
-transferencia de riesgo lo permitan.
+El objetivo principal de la titulización es servir como instrumento para la gestión eficiente del balance, principalmente como fuente de liquidez a un coste eficiente, obteniendo activos líquidos a través de colateral elegible, complementario al resto de instrumentos de financiación. Adicionalmente, existen otros objetivos más secundarios asociados al uso de instrumentos de titulización como son la liberación de capital regulatorio, a través de la transferencia de riesgo así como la liberación de potenciales excesos sobre la pérdida esperada, siempre que el volumen del tramo de primera pérdida y la consecución de la transferencia de riesgo lo permitan.
 
 ##### Funciones desempeñadas en proceso de titulización y grado de implicación
 
@@ -16438,7 +16437,7 @@ respectivamente.
 
 (Ver nota 8 de las CCAA Consolidadas del Grupo para mayor información)
 
-### Valor de las participaciones e instrumentos de capital
+### Valor en libros y exposición de las participaciones e instrumentos de capital contenidos en las carteras anteriores
 
 A continuación se muestra el valor en libros, exposición y APRs de las
 carteras mantenidas con ánimo de venta y las carteras mantenidas con
@@ -16557,13 +16556,9 @@ Del total de la Cartera de Inversión Permanente, únicamente existe
 precio de cotización para la sociedad Brunara, cuyo importe asciende a
 54 y 52 millones a 31 de diciembre de 2015 y 2014, respectivamente.
 
-### Exposiciones en participaciones e instrumentos de capital
+### Activos ponderados por riesgo de las participaciones e instrumentos de capital
 
-A continuación, se indican los tipos, naturaleza e importes de las
-exposiciones originales en participaciones e instrumentos de capital
-cotizados y no cotizados en un mercado de valores, con detalle entre
-posiciones incluidas en carteras suficientemente diversificadas y los
-restantes instrumentos no cotizados:
+A continuación, se desglosan los APRs por método aplicable correspondientes a las participaciones e instrumentos de capital a 31 de diciembre de 2016 y 31 de diciembre de 2015:
 
 **TABLA 68: Exposiciones en participaciones e instrumentos de capital**
 

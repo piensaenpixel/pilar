@@ -6,6 +6,9 @@ permalink: /requerimientos-generales/
 submenu: requerimientos
 ---
 
+
+{% include subir.html %}
+
 # Requerimientos generales de información
 
 {% include dropdown.html %}
@@ -69,8 +72,7 @@ método de la participación.
 El inventario de todas las sociedades que forman parte del Grupo BBVA se
 incluye en los anexos de las Cuentas Anuales Consolidadas del Grupo.
 
-Por otro lado, a efectos de la normativa de solvencia, tal y como se
-describe en la Ley 36/2007, título segundo apartado 3.4, formarán parte
+Por otro lado, a efectos de la normativa de solvencia, formarán parte
 del grupo consolidable las siguientes sociedades dependientes:
 
 - las entidades de crédito.
@@ -119,8 +121,7 @@ Anuales Consolidadas del Grupo) y los saldos contables sobre los que se
 realiza el presente informe (perímetro regulatorio), poniendo de
 manifiesto las principales diferencias entre ambos perímetros.
 
-**TABLA 2: LI1- Conciliación del Balance Público desde el perímetro
-contable al perímetro regulatorio**
+**TABLA 2: LI1- Conciliación del Balance Público desde el perímetro contable al perímetro regulatorio**
 
 <table class="tableizer-table">
     <thead>
@@ -809,9 +810,7 @@ La obligación de cumplir con dichos requerimientos de capital puede
 afectar la disponibilidad de dichas filiales bancarias para transferir
 fondos a la entidad dominante por dividendos u otros.
 
-Adicionalmente, en algunas jurisdicciones en las que el Grupo está
-presente, las leyes establecen que los dividendos solo pueden ser
-pagados con fondos legalmente disponibles para ello.
+Adicionalmente, en algunas jurisdicciones en las que el Grupo está presente, la regulación establece que los dividendos solo pueden ser pagados con fondos regulatoriamente disponibles para ello.
 
 
 
