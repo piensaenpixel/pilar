@@ -80,9 +80,13 @@ Se detallan adicionalmente en dicho anexo las emisiones de financiación subordi
 A continuación se muestra el importe de los recursos propios computables, netos de deducciones, de los diferentes elementos que componen la base de capital a 31 de diciembre de 2016 y 31 de Diciembre de 2015, de acuerdo a los requerimientos de divulgación de información relativa a fondos propios transitorios establecido por el Reglamento de Ejecución (UE) No 1423/2013 de la Comisión de 20 de diciembre de 2013:
 
 
-<table class="tableizer-table">
+<table>
     <thead>
-        <tr class="tableizer-firstrow">
+        <tr class="m">
+            <th></th>
+            <th>Millones de euros</th>
+        </tr>
+        <tr>
             <th></th>
             <th>12/31/16</th>
             <th>12/31/15</th>
@@ -90,52 +94,52 @@ A continuación se muestra el importe de los recursos propios computables, netos
     </thead>
     <tbody>
         <tr>
-            <td>a)Capital y prima de emisión</td>
+            <td>a) Capital y prima de emisión</td>
             <td>27.210</td>
             <td>27.112</td>
         </tr>
         <tr>
-            <td>b)Ganancias acumuladas</td>
+            <td>b) Ganancias acumuladas</td>
             <td>23.688</td>
             <td>22.588</td>
         </tr>
         <tr>
-            <td>c)Otros ingresos acumulados (y otras reservas)</td>
+            <td>c) Otros ingresos acumulados (y otras reservas)</td>
             <td>(5.760)</td>
             <td>(3.470)</td>
         </tr>
         <tr>
-            <td>d)Participaciones minoritarias</td>
+            <td>d) Participaciones minoritarias</td>
             <td>6.969</td>
             <td>7.143</td>
         </tr>
         <tr>
-            <td>e)Beneficios provisionales</td>
+            <td>e) Beneficios provisionales</td>
             <td>2.232</td>
             <td>1.456</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Capital de nivel 1 ordinario antes de los ajustes reglamentarios</td>
             <td>54.339</td>
             <td>54.829</td>
         </tr>
         <tr>
-            <td>f)Ajustes de valor adicionales</td>
+            <td>f) Ajustes de valor adicionales</td>
             <td>(250)</td>
             <td>(195)</td>
         </tr>
         <tr>
-            <td>g)Activos intangibles</td>
+            <td>g) Activos intangibles</td>
             <td>(5.675)</td>
             <td>(3.901)</td>
         </tr>
         <tr>
-            <td>h)Activos por impuestos diferidos </td>
+            <td>h) Activos por impuestos diferidos </td>
             <td>(453)</td>
             <td>(75)</td>
         </tr>
         <tr>
-            <td>i)Pérdidas esperadas renta variable</td>
+            <td>i) Pérdidas esperadas renta variable</td>
             <td>(16)</td>
             <td>(31)</td>
         </tr>
@@ -150,7 +154,7 @@ A continuación se muestra el importe de los recursos propios computables, netos
             <td>(511)</td>
         </tr>
         <tr>
-            <td>l)Titulizaciones tramos al 1250%</td>
+            <td>l) Titulizaciones tramos al 1250%</td>
             <td>(62)</td>
             <td>(89)</td>
         </tr>
@@ -160,31 +164,31 @@ A continuación se muestra el importe de los recursos propios computables, netos
             <td>(788)</td>
         </tr>
         <tr>
-            <td>n)     Deducciones admisibles de CET1</td>
+            <td>n) Deducciones admisibles de CET1</td>
             <td>-</td>
             <td>(549)</td>
         </tr>
-        <tr>
+        <tr class="b">
             <td>Total de los ajustes reglamentarios de capital de nivel 1 ordinario</td>
             <td>(6.969)</td>
             <td>(6.275)</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Capital de nivel 1 ordinario (CET1)</td>
             <td>47.370</td>
             <td>48.554</td>
         </tr>
         <tr>
-            <td>o)Instrumentos de capital y primas de emisión clasificados como pasivo</td>
+            <td>o) Instrumentos de capital y primas de emisión clasificados como pasivo</td>
             <td>5.423</td>
             <td>4.439</td>
         </tr>
         <tr>
-            <td>p)Elementos a que se refiere el artículo 484 (4) de la CRR</td>
+            <td>p) Elementos a que se refiere el artículo 484 (4) de la CRR</td>
             <td>691</td>
             <td>862</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Capital de nivel 1 adicional antes de los ajustes reglamentarios</td>
             <td>6.114</td>
             <td>5.302</td>
@@ -194,23 +198,23 @@ A continuación se muestra el importe de los recursos propios computables, netos
             <td>(3.401)</td>
             <td>(5.302)</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Total de ajustes reglamentarios del capital de nivel 1 adicional</td>
             <td>(3.401)</td>
             <td>(5.302)</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Capital de nivel 1 adicional (AT1)</td>
             <td>2.713</td>
             <td>-</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Capital de nivel 1 (Tier 1) (Capital de nivel 1 ordinario+capital de nivel 1 adicional)</td>
             <td>50.083</td>
             <td>48.554</td>
         </tr>
         <tr>
-            <td>r)Instrumentos de capital y primas de emisión</td>
+            <td>r) Instrumentos de capital y primas de emisión</td>
             <td>1.935</td>
             <td>2.006</td>
         </tr>
@@ -220,7 +224,7 @@ A continuación se muestra el importe de los recursos propios computables, netos
             <td>429</td>
         </tr>
         <tr>
-            <td>t)Instrumentos de fondos propios admisibles incluidos en Tier 2 consolidado emitidos por filiales y en manos de terceros</td>
+            <td>t) Instrumentos de fondos propios admisibles incluidos en Tier 2 consolidado emitidos por filiales y en manos de terceros</td>
             <td>5.915</td>
             <td>5.716</td>
         </tr>
@@ -230,16 +234,16 @@ A continuación se muestra el importe de los recursos propios computables, netos
             <td>(99)</td>
         </tr>
         <tr>
-            <td>u)Ajustes por riesgo de crédito</td>
+            <td>u) Ajustes por riesgo de crédito</td>
             <td>538</td>
             <td>3.496</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Capital de nivel 2 antes de ajustes reglamentarios</td>
             <td>8.810</td>
             <td>11.646</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Ajustes reglamentarios de capital de nivel 2</td>
             <td>-</td>
             <td>-</td>
@@ -249,12 +253,12 @@ A continuación se muestra el importe de los recursos propios computables, netos
             <td>8.810</td>
             <td>11.646</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Capital total (Capital total = Tier y Tier 2)</td>
             <td>58.893</td>
             <td>60.200</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Total APR's</td>
             <td>388.951</td>
             <td>401.285</td>
@@ -352,7 +356,7 @@ Siguiendo las recomendaciones de la EBA, se muestra a continuación el proceso s
             <td>(1.510)</td>
             <td>(1.352)</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Total Fondos Propios </td>
             <td>52.821</td>
             <td>50.640</td>
@@ -367,7 +371,7 @@ Siguiendo las recomendaciones de la EBA, se muestra a continuación el proceso s
             <td>8.064</td>
             <td>8.149</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Total Patrimonio Neto </td>
             <td>55.428</td>
             <td>55.440</td>
@@ -387,7 +391,7 @@ Siguiendo las recomendaciones de la EBA, se muestra a continuación el proceso s
             <td>(51)</td>
             <td>(415)</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Deducciones</td>
             <td>(5.808)</td>
             <td>(4.411)</td>
@@ -412,63 +416,54 @@ Siguiendo las recomendaciones de la EBA, se muestra a continuación el proceso s
             <td>(120)</td>
             <td>(40)</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Patrimonio no computable a nivel de solvencia</td>
             <td>(249)</td>
             <td>(828)</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Resto de ajustes y deducciones</td>
             <td>(2.001)</td>
             <td>(1.647)</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Capital de nivel 1 ordinario (CET 1)</td>
             <td>47.370</td>
             <td>48.554</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Capital de nivel 1 adicional antes de los ajustes reglamentarios</td>
             <td>6.114</td>
             <td>5.302</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Total de ajustes reglamentarios del capital de nivel 1 adicional</td>
             <td>(3.401)</td>
             <td>(5.302)</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Capital de nivel 1 (Tier 1)</td>
             <td>50.083</td>
             <td>48.554</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Capital de nivel 2 (Tier 2)</td>
             <td>8.810</td>
             <td>11.646</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Capital total ( Capital total= Tier 1 + Tier 2)</td>
             <td>58.893</td>
             <td>60.200</td>
         </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
+        <tr class="b2">
             <td>Total recursos propios mínimos exigibles </td>
             <td>37.920</td>
             <td>38.125</td>
         </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
     </tbody>
 </table>
+[Descargar tabla](#)
 
 
 
@@ -539,9 +534,9 @@ La parte tercera de la CRR establece los requisitos de capital, de acuerdo al nu
 A continuación se muestra el total de los requerimientos de capital desglosado por tipo de riesgo a 31 de diciembre de 2016 y a 31 de diciembre de 2015. Las posiciones en titulizaciones (método estándar y avanzado), renta variable y riesgo de contraparte se desglosan de forma independiente:
 
 
-**TABLA 7: EU OV1- Requerimientos de capital por tipo de riesgo **
+**TABLA 7: EU OV1- Requerimientos de capital por tipo de riesgo**
 
-<table class="tableizer-table">
+<table class="l">
     <thead>
         <tr class="tableizer-firstrow">
             <th></th>
@@ -556,7 +551,7 @@ A continuación se muestra el total de los requerimientos de capital desglosado 
         </tr>
     </thead>
     <tbody>
-        <tr>
+        <tr class="b2">
             <td>Riesgo de crédito (excluido riesgo de crédito de contraparte)</td>
             <td>324893,669</td>
             <td>336042,832</td>
@@ -586,7 +581,7 @@ A continuación se muestra el total de los requerimientos de capital desglosado 
             <td>19522,195</td>
             <td>1331,12392</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Riesgo de crédito de contraparte (CCR)</td>
             <td>11887,74</td>
             <td>14397,567</td>
@@ -628,13 +623,13 @@ A continuación se muestra el total de los requerimientos de capital desglosado 
             <td>3833,08</td>
             <td>185,70536</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Riesgo de liquidación</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Exposiciones de titulización en la cartera de inversión</td>
             <td>1476,54</td>
             <td>1394,546</td>
@@ -664,7 +659,7 @@ A continuación se muestra el total de los requerimientos de capital desglosado 
             <td>0</td>
             <td>0</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Riesgo de mercado</td>
             <td>16370,087</td>
             <td>16159,1015</td>
@@ -682,13 +677,13 @@ A continuación se muestra el total de los requerimientos de capital desglosado 
             <td>9355,05</td>
             <td>740,67704</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Grandes exposiciones</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Riesgo operacional</td>
             <td>34323,1325154428</td>
             <td>33291,313</td>
@@ -712,19 +707,19 @@ A continuación se muestra el total de los requerimientos de capital desglosado 
             <td>15450,263</td>
             <td>1367,83603343328</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Importes por debajo de los umbrales de deducción (sujeto a ponderación por riesgo del 250%)</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Ajuste mínimo (suelo)</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>TOTAL</td>
             <td>388951,168515443</td>
             <td>401285,3595</td>
@@ -734,8 +729,11 @@ A continuación se muestra el total de los requerimientos de capital desglosado 
 </table>
 
 (1) Activos ponderados por riesgo conforme al periodo transitorio (phased-in).
+
 (2) Calculados sobre el 8% de los APRs.
+
 (3) Bajo requerimientos de CET 1 (9,75%) tras el proceso de evaluación supervisora (SREP), los requerimientos ascienden a 37.923 millones de euros.
+
 (4) Se presenta sólo a efectos comparativos y corresponde con datos proforma a diciembre de 2015.
 
 

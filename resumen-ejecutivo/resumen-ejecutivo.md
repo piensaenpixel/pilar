@@ -20,7 +20,7 @@ El Grupo cuenta con una presencia significativa en el negocio tradicional de ban
 
 Su negocio diversificado está enfocado a mercados de alto crecimiento y concibe la tecnología como una ventaja competitiva clave.
 
-##Estrategia 
+## Estrategia 
 
 El Grupo BBVA está inmerso en un proceso de transformación necesario para adaptarse al nuevo entorno de la industria financiera y mantener su liderazgo. Para tener éxito en este nuevo entorno, es necesario redefinir la propuesta de valor y adaptar el modelo de negocio de banca universal, siendo más selectivos.
 
@@ -62,7 +62,7 @@ Además, se han dado pasos importantes en el desarrollo de las seis Prioridades 
 Para mayor información sobre las Prioridades Estratégicas del Grupo, remitimos al Informe de Gestión que se encuentra junto a las Cuentas Anuales Consolidadas del Grupo BBVA.
 
 
-##Principales aspectos a destacar
+## Principales aspectos a destacar
 
 En el año 2016, las tasas de variación interanual de los resultados se han visto impactadas, principalmente, por los cambios en el perímetro del Grupo, ocurridos en el segundo y tercer trimestres de 2015 (Catalunya Banc –CX- y Garanti, respectivamente); y el efecto negativo de la depreciación generalizada de los tipos de cambio frente al euro (a excepción del dólar).
 

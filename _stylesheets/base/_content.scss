@@ -184,9 +184,15 @@ span.highlight {
     margin-left: 22px;
   }
 
+ 
   table {
+    &.l {
+      width: calc(100% + 180px);
+    }
     width: 100%;
     margin-bottom: 20px;
+    border-bottom: 2px solid $tableborder;
+
     @media (max-width: $mobile) {
       border-right: 0;
       border-left: 0;
@@ -195,10 +201,16 @@ span.highlight {
     + h2 {
       padding-top: 80px;
     }
-  }
-  tbody {
-    border: 2px solid $tableborder;
-    border-top: 0;
+    .b {
+      font-weight: bold;
+    }
+    .b2{
+      font-weight: bold;
+      td {
+        background: #f5f5f5;
+      }
+    }
+
   }
 
 
@@ -206,30 +218,60 @@ span.highlight {
     border-left: 2px solid $tableborder;
     color: $txtgrey;
     font-family: 'BentonBook';
-    font-size: 15px;
-    line-height: 26px;
-    padding: 15px 20px;
+    font-size: 13px;
+    line-height: 16px;
+    padding: 8px 16px;
     vertical-align: top;
+    text-align: right;
+
+    &.s {
+      padding-left: 32px;
+    }
+    &.s2 {
+      padding-left: 44px;
+    }
+
     @media (max-width: $mobile) {
       padding: 10px;
     }
 
     &:first-child {
-      border-left: 0;
+      width: 300px;
+      border-left: 2px solid $tableborder;
     }
 
     &:last-child {
-      text-align: center;
+      border-right: 2px solid $tableborder;
+    }
+
+    &:last-child {
+      text-align: right;
     }
   }
 
-  th {
+  tr.s td:first-child {
+    padding-left: 32px;
+  }
+
+  tr.s2 td:first-child {
+    padding-left: 44px;
+  }
+  tr.s3 td:first-child {
+    padding-left: 52px;
+  }
+
+  tr td:first-child {
+    text-align: left;
+  }
+
+ th {
     border-left: 2px solid $tableborder;
+    border-right: 2px solid $tableborder;
     color: $white;
     font-family: 'BentonMedium';
-    font-size: 15px;
-    line-height: 26px;
-    padding: 25px 20px;
+    font-size: 13px;
+    line-height: 16px;
+    padding: 16px;
     text-align: center;
     background: $green;
     &.hover {
@@ -241,6 +283,16 @@ span.highlight {
     &:first-child {
       border-left: 0;
       text-align: left;
+    }
+  }
+
+  .m th {
+    background: none;
+    padding: 8px 0;
+    color: #000;
+    border: 0;
+    &[colspan] {
+      border: 0;
     }
   }
 
