@@ -17794,52 +17794,180 @@ El valor total de la exposición cubierta por garantías personales es el siguie
 **TABLA 55: Exposición cubierta con garantías personales. Método
 estándar y avanzado**
 
-<table class="tableizer-table">
+<table>
     <thead>
         <tr class="tableizer-firstrow">
-            <th>12/31/16</th>
-            <th>Exposiciones no garantizadas: valor contable</th>
-            <th>Exposiciones que pueden ser garantizadas</th>
-            <th>Exposiciones garantizadas con colateral</th>
-            <th>Exposiciones garantizadas con garantías financieras</th>
-            <th>Exposiciones garantizadas con derivados del crédito</th>
+            <th></th>
+
+            <th colspan="2">Exposición cubierta por garantías personales</th>
+
+        </tr>
+        <tr class="tableizer-firstrow">
+            <th></th>
+
+            <th colspan="2">Método estandar</th>
+
+        </tr>
+        <tr class="tableizer-firstrow">
+            <th>Categorías de exposición</th>
+
+            <th>2016</th>
+
+            <th>2015</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Préstamos</td>
-            <td>360254,585576592</td>
-            <td>93999,3284234076</td>
-            <td>44118,4062095653</td>
-            <td>12637,0913984601</td>
-            <td>0</td>
+        <tr class="tableizer-firstrow">
+            <td>Administraciones Centrales y Bancos Centrales</td>
+
+            <td>- </td>
+
+            <td>- </td>
         </tr>
         <tr>
-            <td>Títulos de deuda</td>
-            <td>77446,0353463113</td>
-            <td>12154,6616536887</td>
-            <td>10218,9624611451</td>
-            <td>314,355709046684</td>
-            <td>0</td>
+            <td>Administraciones regionales y Autoridades Locales</td>
+
+            <td>38 </td>
+
+            <td>63 </td>
         </tr>
         <tr>
-            <td>Total</td>
-            <td>437700,620922904</td>
-            <td>106153,990077096</td>
-            <td>54337,3686707104</td>
-            <td>12951,4471075068</td>
-            <td>0</td>
+            <td>Entidades Sector Público y otras Instituciones Públicas</td>
+
+            <td>2.323 </td>
+
+            <td>2.754 </td>
         </tr>
         <tr>
-            <td>De las cuales, en situación de incumplimiento</td>
-            <td>9276,19501130709</td>
-            <td>2973,93998869291</td>
-            <td>2328,14588026964</td>
-            <td>587,55835710602</td>
-            <td>0</td>
+            <td>Bancos Multilaterales de Desarrollo</td>
+
+            <td>- </td>
+            
+            <td>- </td>
+        </tr>
+        <tr>
+            <td>Organizaciones Internacionales</td>
+            
+            <td>- </td>
+            
+            <td>- </td>
+        </tr>
+        <tr>
+            <td>Instituciones</td>
+            
+            <td>534 </td>
+            
+            <td>594 </td>
+        </tr>
+        <tr>
+            <td>Empresas</td>
+
+            <td>1.650 </td>
+           
+            <td>2.486 </td>
+        </tr>
+        <tr>
+            <td>Minoristas</td>
+            
+            <td>1.823 </td>
+            
+            <td>1.203 </td>
+        </tr>
+        <tr>
+            <td>Garantizadas con Inmuebles</td>
+            
+            <td>531 </td>
+            
+            <td>1.075 </td>
+        </tr>
+        <tr>
+            <td>Situación en mora</td>
+            
+            <td>115 </td>
+            
+            <td>280 </td>
+        </tr>
+        <tr>
+            <td>Situación en mora</td>
+            
+            <td>61 </td>
+            
+            <td>48 </td>
+        </tr>
+        <tr>
+            <td>Bonos Garantizados</td>
+
+            <td>- </td>
+            <td>- </td>
+        </tr>
+        <tr>
+            <td>Instituciones y empresas con calidad crediticia a corto plazo</td>
+            <td>- </td>
+            <td>- </td>
+        </tr>
+        <tr>
+            <td>Instituciones de Inversión Colectiva</td>
+            <td>- </td>
+            <td>- </td>
+        </tr>
+        <tr>
+            <td>Otras exposiciones</td>
+            <td>1.069 </td>
+            <td>1.067 </td>
+        </tr>
+        <tr class="b2">
+            <td>TOTAL VALOR EXPOSICION MODELO ESTANDAR DESPUES DE GARANTIAS</td>
+            <td>8.145</td>
+            <td>9.571</td>
+        </tr>
+        <tr>
+            <td>Administraciones Centrales y Bancos Centrales</td>
+            <td>1.105 </td>
+            <td>722 </td>
+        </tr>
+        <tr>
+            <td>Instituciones</td>
+            <td>21.433 </td>
+            <td>809 </td>
+        </tr>
+        <tr>
+            <td>Minoristas</td>
+            <td>30 </td>
+            <td>31 </td>
+        </tr>
+        <tr>
+            <td>Empresas</td>
+            <td>6.768 </td>
+            <td>5.961 </td>
+        </tr>
+        <tr>
+            <td>De las que: PYMES</td>
+            <td>2.103 </td>
+            <td>1.950 </td>
+        </tr>
+        <tr>
+            <td>De las que: PYMES sujetas a factor corrector</td>
+            <td>- </td>
+            <td>- </td>
+        </tr>
+        <tr>
+            <td>De las que: Otros</td>
+            <td>4.665 </td>
+            <td>4.011 </td>
+        </tr>
+        <tr class="b2">
+            <td>TOTAL VALOR EXPOSICION MODELO AVANZADO DESPUES DE GARANTIAS</td>
+            <td>29.306</td>
+            <td>7.523</td>
+        </tr>
+        <tr>
+            <td>TOTAL</td>
+            <td>37.451</td>
+            <td>17.094</td>
         </tr>
     </tbody>
 </table>
+[Descargar tabla](#)
 
 
 Se muestra a continuación una panorámica del grado de uso de cada una de las técnicas
@@ -17848,26 +17976,118 @@ de mitigación del riesgo de crédito empleadas por el Grupo a 31 de diciembre d
 **TABLA 56: CR3- Técnicas de mitigación del riesgo de crédito en
 préstamos y renta fija **
 
-<table class="tableizer-table">
+<table  class="l">
     <thead>
         <tr class="tableizer-firstrow">
-            <th>2016</th>
-            <th colspan="8">Densidad de APR´s (*)</th>
+            <th>12/31/2016</th>
+            <th>Exposiciones no garantizadas: valor contable</th>
+            <th>Exposiciones que pueden ser garantizadas</th>
+            <th>Exposiciones garantizadas con colateral</th>
+            <th>Exposiciones garantizadas con garantías financieras</th>
+            <th>Exposiciones garantizadas con derivados del crédito</th>
         </tr>
+    </thead>
+    <tbody>
         <tr class="tableizer-firstrow">
-            <th>Categoría de exposición </th>
-            <th>TOTAL</th>
-            <th>España</th>
-            <th>Turquía</th>
+            <td>Préstamos</td>
+
+            <td>360.255 </td>
+
+            <td>93.999 </td>
+
+            <td>44.118 </td>
+
+            <td>12.637 </td>
+
+            <td>- </td>
+        </tr>
+        <tr>
+            <td>Títulos de deuda</td>
+
+            <td>77.446 </td>
+
+            <td>12.155 </td>
+
+            <td>10.219 </td>
+
+            <td>314 </td>
+
+            <td>- </td>
+        </tr>
+        <tr class="b2">
+            <td>Total</td>
+
+            <td>437.701 </td>
+
+            <td>106.154 </td>
+
+            <td>54.337 </td>
+
+            <td>12.951 </td>
+
+            <td>- </td>
+        </tr>
+        <tr class="b">
+            <td>De las cuales, en situación de incumplimiento</td>
+
+            <td>9.276 </td>
+
+            <td>2.974 </td>
+
+            <td>2.328 </td>
+
+            <td>588 </td>
+
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
+
+
+#### Concentraciones de riesgo
+
+BBVA ha establecido los criterios de medición, seguimiento y reporting para el análisis de
+las grandes exposiciones crediticias que pudieran representar un riesgo de concentración,
+con el objeto de garantizar su alineamiento con el apetito de riesgo definido en el Grupo.
+
+En particular, se establecen criterios de medición y seguimiento de grandes exposiciones
+a nivel de concentraciones individuales, concentraciones de carteras minoristas y sectores
+mayoristas y concentraciones geográficas.
+
+Se ha establecido un proceso de medición y seguimiento de carácter trimestral para la
+revisión de los riesgos de concentración.
+
+### Densidad de APRs por áreas geográficas
+
+A continuación, se muestra un resumen de los porcentajes de ponderación medios por
+categoría de exposición existentes en las principales geografías en las que opera el Grupo
+para las exposiciones en riesgo de crédito y contraparte. Todo ello con el propósito de
+obtener una visión global del perfil de riesgo de la entidad en términos de APRs.
+
+**TABLA 57: Desglose de la densidad de APRs por área geográfica y Método**
+
+<table class="l">
+    <thead>
+        <tr>
+            <th>2016</th>
+            <th colspan="8">Densidad de APR ́s (1) (2)</th>
+        </tr>
+
+        <tr class="tableizer-firstrow">
+            <th>Categoría de exposición</th>
+            <th>Total</th>
+            <th>España (3)</th>
+            <th>Turquía</th>
             <th>Eurasia</th>
-            <th>México</th>
+            <th>México</th>
             <th>Estados Unidos</th>
-            <th>América del Sur</th>
+            <th>América del sur</th>
             <th>Resto del mundo</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
+        <tr class="tableizer-firstrow">
             <td>Administraciones Centrales y Bancos Centrales</td>
             <td>22%</td>
             <td>17%</td>
@@ -18043,7 +18263,7 @@ préstamos y renta fija **
             <td>0%</td>
             <td>0%</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>TOTAL RIESGO DE CRÉDITO MÉTODO ESTÁNDAR</td>
             <td>53%</td>
             <td>33%</td>
@@ -18109,7 +18329,7 @@ préstamos y renta fija **
             <td>0%</td>
             <td>0%</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>TOTAL RIESGO DE CRÉDITO MÉTODO AVANZADO</td>
             <td>31%</td>
             <td>28%</td>
@@ -18120,7 +18340,7 @@ préstamos y renta fija **
             <td>57%</td>
             <td>44%</td>
         </tr>
-        <tr>
+        <tr class="b">
             <td>TOTAL RIESGO DE CRÉDITO DILUCIÓN Y ENTREGA </td>
             <td>44%</td>
             <td>30%</td>
@@ -18133,175 +18353,8 @@ préstamos y renta fija **
         </tr>
     </tbody>
 </table>
+[Descargar tabla](#)
 
-Nota: No incluye posiciones de renta variable.
-(*) Calculado como APRs/EAD
-(1) En España dentro de la categoría de Administraciones Centrales y Bancos Centrales se incluyen activos diferidos.
-
-#### Concentraciones de riesgo
-
-BBVA ha establecido los criterios de medición, seguimiento y reporting para el análisis de
-las grandes exposiciones crediticias que pudieran representar un riesgo de concentración,
-con el objeto de garantizar su alineamiento con el apetito de riesgo definido en el Grupo.
-
-En particular, se establecen criterios de medición y seguimiento de grandes exposiciones
-a nivel de concentraciones individuales, concentraciones de carteras minoristas y sectores
-mayoristas y concentraciones geográficas.
-
-Se ha establecido un proceso de medición y seguimiento de carácter trimestral para la
-revisión de los riesgos de concentración.
-
-### Densidad de APRs por áreas geográficas
-
-A continuación, se muestra un resumen de los porcentajes de ponderación medios por
-categoría de exposición existentes en las principales geografías en las que opera el Grupo
-para las exposiciones en riesgo de crédito y contraparte. Todo ello con el propósito de
-obtener una visión global del perfil de riesgo de la entidad en términos de APRs.
-
-**TABLA 57: Desglose de la densidad de APRs por área geográfica y Método**
-
-<table class="tableizer-table">
-    <thead>
-        <tr class="tableizer-firstrow">
-            <th>2016</th>
-            <th>APRs</th>
-            <th>Requerimientos de Capital</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Productos</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>Riesgo de Tipo de interés</td>
-            <td>2637,588</td>
-            <td>211,00704</td>
-        </tr>
-        <tr>
-            <td>Riesgo de posiciones accionariales</td>
-            <td>234,213</td>
-            <td>18,73704</td>
-        </tr>
-        <tr>
-            <td>Riesgo de tipo de cambio</td>
-            <td>4041,088</td>
-            <td>323,28704</td>
-        </tr>
-        <tr>
-            <td>Riesgo de Materias Primas</td>
-            <td>118,225</td>
-            <td>9,458</td>
-        </tr>
-        <tr>
-            <td>Opciones</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>Método Simplificado</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>Método Delta-plus</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>Método basado en escenarios</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>Titulización</td>
-            <td>17</td>
-            <td>1,36</td>
-        </tr>
-        <tr>
-            <td>Cartera de negociación de correlación (CTP)</td>
-            <td>63</td>
-            <td>5,04</td>
-        </tr>
-        <tr>
-            <td>Total</td>
-            <td>7111,624</td>
-            <td>568,92992</td>
-        </tr>
-    </tbody>
-</table>
-<table class="tableizer-table">
-    <thead>
-        <tr class="tableizer-firstrow">
-            <th>2015</th>
-            <th>APRs</th>
-            <th>Requerimientos de Capital</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Productos</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>Riesgo de Tipo de interés</td>
-            <td>2368,313</td>
-            <td>189,46504</td>
-        </tr>
-        <tr>
-            <td>Riesgo de posiciones accionariales</td>
-            <td>271,425</td>
-            <td>21,714</td>
-        </tr>
-        <tr>
-            <td>Riesgo de tipo de cambio</td>
-            <td>4003,1</td>
-            <td>320,248</td>
-        </tr>
-        <tr>
-            <td>Riesgo de Materias Primas</td>
-            <td>59,213</td>
-            <td>4,73704</td>
-        </tr>
-        <tr>
-            <td>Opciones</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>Método Simplificado</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>Método Delta-plus</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>Método basado en escenarios</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>Titulización</td>
-            <td>25,713</td>
-            <td>2,05704</td>
-        </tr>
-        <tr>
-            <td>Cartera de negociación de correlación (CTP)</td>
-            <td>76,2875</td>
-            <td>6,103</td>
-        </tr>
-        <tr>
-            <td>Total</td>
-            <td>6804,0515</td>
-            <td>544,32412</td>
-        </tr>
-    </tbody>
-</table>
 
 
 #### Políticas de cobertura y reducción del riesgo. Estrategias y procesos de supervisión
@@ -18496,81 +18549,176 @@ de diciembre de 2015:
 <table class="tableizer-table">
     <thead>
         <tr class="tableizer-firstrow">
-            <th></th>
-            <th>Riesgo de Tipo de Interés (general y específico)</th>
-            <th>Riesgo Accionario (general y específico)</th>
-            <th>Riesgo de Tipo de Cambio</th>
-            <th>Riesgo de Materias Primas</th>
-            <th>Total APRs</th>
+            <th>2016</th>
+            <th>APRs</th>
+            <th>Requerimientos de capital</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>RWA a 31 de Diciembre de 2015</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+        <tr class="b">
+            <td>Productos</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
         </tr>
-        <tr>
-            <td>Movimiento en niveles de riesgo</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+        <tr class="s">
+            <td>Riesgo de Tipo de interés</td>
+
+            <td>2.638 </td>
+
+            <td>211 </td>
+        </tr>
+        <tr class="s">
+            <td>Riesgo de posiciones accionariales</td>
+
+            <td>234 </td>
+
+            <td>19 </td>
+        </tr>
+        <tr class="s">
+            <td>Riesgo de tipo de cambio</td>
+
+            <td>4.041 </td>
+
+            <td>323 </td>
+        </tr>
+        <tr class="s">
+            <td>Riesgo de Materias Primas</td>
+
+            <td>118 </td>
+
+            <td>9 </td>
+        </tr>
+        <tr class="b">
+            <td>Opciones</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
         </tr>
-        <tr>
-            <td>Actualización del modelo/cambios</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+        <tr class="s">
+            <td>Método Simplificado</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
         </tr>
-        <tr>
-            <td>Metodología y políticas</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+        <tr class="s">
+            <td>Método Delta-plus</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
         </tr>
-        <tr>
-            <td>Adquisiciones y enajenaciones</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+        <tr class="s">
+            <td>Método basado en escenarios</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
         </tr>
-        <tr>
-            <td>Oscilaciones del tipo de cambio</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+        <tr class="b">
+            <td>Titulización</td>
+
+            <td>17 </td>
+
+            <td>1 </td>
         </tr>
-        <tr>
-            <td>Otros</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+        <tr class="b">
+            <td>Cartera de negociación de correlación (CTP)</td>
+
+            <td>63 </td>
+
+            <td>5 </td>
         </tr>
-        <tr>
-            <td>RWA a 31 de Diciembre de 2016</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td></td>
+        <tr class="b2">
+            <td>Total</td>
+
+            <td>7.112 </td>
+
+            <td>569</td>
         </tr>
     </tbody>
 </table>
+[Descargar tabla](#)
+
+<table class="tableizer-table">
+    <thead>
+        <tr class="tableizer-firstrow">
+            <th>2015</th>
+            <th>APRs</th>
+            <th>Requerimientos de capital</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="b">
+            <td>Productos</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr class="s">
+            <td>Riesgo de Tipo de interés</td>
+ 
+            <td>2.368 </td>
+ 
+            <td>189 </td>
+        </tr>
+        <tr class="s">
+            <td>Riesgo de posiciones accionariales</td>
+ 
+            <td>271 </td>
+ 
+            <td>22 </td>
+        </tr>
+        <tr class="s">
+            <td>Riesgo de tipo de cambio</td>
+ 
+            <td>4.003 </td>
+ 
+            <td>320 </td>
+        </tr>
+        <tr class="s">
+            <td>Riesgo de Materias Primas</td>
+
+            <td>59 </td>
+
+            <td>5 </td>
+        </tr>
+        <tr class="b">
+            <td>Opciones</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr class="s">
+            <td>Método Simplificado</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr class="s">
+            <td>Método Delta-plus</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr class="s">
+            <td>Método basado en escenarios</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr class="b">
+            <td>Titulización</td>
+ 
+            <td>26 </td>
+ 
+            <td>2 </td>
+        </tr>
+        <tr class="b">
+            <td>Cartera de negociación de correlación (CTP)</td>
+ 
+            <td>76 </td>
+ 
+            <td>6 </td>
+        </tr>
+        <tr class="b2">
+            <td>Total</td>
+
+            <td>6.804 </td>
+
+            <td>544</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
 
 
 ### Modelos internos
@@ -18880,7 +19028,91 @@ para computar el requerimiento de capital:
 
 **TABLA 59: MR3- VaR por tipos de modelos**
 
-MISSING TABLE
+<table>
+    <thead>
+        <tr>
+            <th colspan="3">VaR por tipo de modelos (2016)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="b">
+            <td>VaR (10 días 99%)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="s">
+            <td>1</td>
+            <td>Máximo valor</td>
+            <td>106</td>
+        </tr>
+        <tr class="s">
+            <td>2</td>
+            <td>Valor medio</td>
+            <td>66</td>
+        </tr>
+        <tr class="s">
+            <td>3</td>
+            <td>Mínimo valor</td>
+            <td>41</td>
+        </tr>
+        <tr class="s">
+            <td>4</td>
+            <td>Valor del último periodo</td>
+            <td>84</td>
+        </tr>
+        <tr class="b">
+            <td>VaR estresado (10 días 99%)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="s">
+            <td>5</td>
+            <td>Máximo valor</td>
+            <td>209</td>
+        </tr>
+        <tr class="s">
+            <td>6</td>
+            <td>Valor medio</td>
+            <td>132</td>
+        </tr>
+        <tr class="s">
+            <td>7</td>
+            <td>Mínimo valor</td>
+            <td>77</td>
+        </tr>
+        <tr class="s">
+            <td>8</td>
+            <td>Valor del último periodo</td>
+            <td>115</td>
+        </tr>
+        <tr class="b">
+            <td>VaR Incremental (99.9%)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="s">
+            <td>9</td>
+            <td>Máximo valor</td>
+            <td>168</td>
+        </tr>
+        <tr class="s">
+            <td>10</td>
+            <td>Valor medio</td>
+            <td>116</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>Mínimo valor</td>
+            <td>80</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>Valor del último periodo</td>
+            <td>124</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
 
 A continuación se muestran las cifras de VaR sin alisado por factores de riesgo para el
 Grupo:
@@ -18892,84 +19124,114 @@ MISSING IMAGE
 
 **TABLA 60: Cartera de Negociación. VaR sin alisado por factores de riesgo**
 
-<table class="tableizer-table">
+<table class="l">
     <thead>
-        <tr class="tableizer-firstrow">
-            <th colspan="3">IMA values for trading portfolios (2016)</th>
+        <tr>
+            <th>VaR por factores de riesgo</th>
+            <th>Riesgo de interés y spread</th>
+            <th>Riesgo de cambio</th>
+            <th>Riesgo renta variable</th>
+            <th>Riesgo vega/correlación</th>
+            <th>Efecto diversificación (*)</th>
+            <th>Total</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td colspan="3">VaR (10 day 99%)</td>
+        <tr class="b">
+            <td>Diciembre 2016</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
         </tr>
         <tr>
-            <td>1</td>
-            <td>Maximum value</td>
-            <td>106</td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>Average value</td>
-            <td>66</td>
-        </tr>
-        <tr>
-            <td>3</td>
-            <td>Minimum value</td>
-            <td>41</td>
-        </tr>
-        <tr>
-            <td>4</td>
-            <td>Period value</td>
-            <td>84</td>
-        </tr>
-        <tr>
-            <td colspan="3">Stressed VaR (10 day 99%)</td>
-        </tr>
-        <tr>
-            <td>5</td>
-            <td>Maximum value</td>
-            <td>209</td>
-        </tr>
-        <tr>
-            <td>6</td>
-            <td>Average value</td>
-            <td>132</td>
-        </tr>
-        <tr>
-            <td>7</td>
-            <td>Minimum value</td>
-            <td>77</td>
-        </tr>
-        <tr>
-            <td>8</td>
-            <td>Period value</td>
-            <td>115</td>
-        </tr>
-        <tr>
-            <td colspan="3">Incremental Risk Charge (99.9%)</td>
-        </tr>
-        <tr>
-            <td>9</td>
-            <td>Maximum value</td>
-            <td>168</td>
-        </tr>
-        <tr>
+            <td>VaR medio del periodo</td>
+            <td>28</td>
             <td>10</td>
-            <td>Average value</td>
-            <td>116</td>
-        </tr>
-        <tr>
+            <td>4</td>
             <td>11</td>
-            <td>Minimum value</td>
-            <td>80</td>
+            <td>(23)</td>
+            <td>29</td>
         </tr>
         <tr>
+            <td>VaR máximo del periodo</td>
+            <td>30</td>
+            <td>16</td>
+            <td>4</td>
+            <td>11</td>
+            <td>(23)</td>
+            <td>38</td>
+        </tr>
+        <tr>
+            <td>VaR mínimo del periodo</td>
+            <td>21</td>
+            <td>10</td>
+            <td>1</td>
+            <td>11</td>
+            <td>(20)</td>
+            <td>23</td>
+        </tr>
+        <tr>
+            <td>VaR al final del periodo</td>
+            <td>29</td>
+            <td>7</td>
+            <td>2</td>
             <td>12</td>
-            <td>Period value</td>
-            <td>124</td>
+            <td>(24)</td>
+            <td>26</td>
+        </tr>
+        <tr class="b">
+            <td>Diciembre 2015</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>VaR medio del periodo</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>24</td>
+        </tr>
+        <tr>
+            <td>VaR máximo del periodo</td>
+            <td>32</td>
+            <td>5</td>
+            <td>3</td>
+            <td>9</td>
+            <td>(18)</td>
+            <td>30</td>
+        </tr>
+        <tr>
+            <td>VaR mínimo del periodo</td>
+            <td>20</td>
+            <td>6</td>
+            <td>3</td>
+            <td>9</td>
+            <td>(17)</td>
+            <td>21</td>
+        </tr>
+        <tr class="b2">
+            <td>VaR al final del periodo</td>
+            <td>21</td>
+            <td>9</td>
+            <td>3</td>
+            <td>11</td>
+            <td>(20)</td>
+            <td>24</td>
         </tr>
     </tbody>
 </table>
+[Descargar tabla](#)
+
+* El efecto diversificación es la diferencia entre la suma de los factores de riesgos medidos individualmente y la cifra de VaR total que recoge la correlación implícita existente entre todas las variables y escenarios usados en la medición.
 
 
 Por tipología de riesgo de mercado asumido por la cartera de trading del Grupo, el
@@ -18987,7 +19249,132 @@ hace referencia en los artículos 364 y 365 de la CRR.
 
 **TABLA 61: EU-MR2-A- Cartera de Negociación. Riesgo de Mercado. Capital regulatorio**
 
-MISSING TABLE
+<table>
+    <thead>
+        <tr class="tableizer-firstrow">
+            <th>1</th>
+            <th>VaR</th>
+            <th> </th>
+            <th>3.006 </th>
+            <th> </th>
+            <th>240 </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>a)</td>
+            <td> VaR del día anterior</td>
+            <td> </td>
+            <td>1.046 </td>
+            <td> </td>
+            <td>84 </td>
+        </tr>
+        <tr>
+            <td>b)</td>
+            <td> Media diaria de VaR de los ultimos 60 días laborales (VaRavg) por factor multiplo (mc)</td>
+            <td> </td>
+            <td>3.006 </td>
+            <td> </td>
+            <td>240 </td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>SVaR</td>
+            <td> </td>
+            <td>4.412 </td>
+            <td> </td>
+            <td>353 </td>
+        </tr>
+        <tr>
+            <td>a)</td>
+            <td> Ultimo SVaR</td>
+            <td> </td>
+            <td>1.434 </td>
+            <td> </td>
+            <td>115 </td>
+        </tr>
+        <tr>
+            <td>b)</td>
+            <td> Media diaria de SVaR de los ultmos 60 días laborales (SVaRavg) por factor multiplo (ms)</td>
+            <td> </td>
+            <td>4.412 </td>
+            <td> </td>
+            <td>353 </td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>IRB</td>
+            <td> </td>
+            <td>1.841 </td>
+            <td> </td>
+            <td>147 </td>
+        </tr>
+        <tr>
+            <td>a)</td>
+            <td> Último valor de IRB</td>
+            <td> </td>
+            <td>1.551 </td>
+            <td> </td>
+            <td>124 </td>
+        </tr>
+        <tr>
+            <td>b)</td>
+            <td> Media de IRB de las últimas 12 semanas</td>
+            <td> </td>
+            <td>1.841 </td>
+            <td> </td>
+            <td>147 </td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Medida del riesgo integral</td>
+            <td> </td>
+            <td>- </td>
+            <td> </td>
+            <td>- </td>
+        </tr>
+        <tr>
+            <td>a)</td>
+            <td> Última cifra de riesgo para la correlación de la cartera de negocio</td>
+            <td> </td>
+            <td>- </td>
+            <td> </td>
+            <td>- </td>
+        </tr>
+        <tr>
+            <td>b)</td>
+            <td> Media de la cifra de riesgo para la correlación de la cartera de negocio en las ultimas 12 semanas</td>
+            <td> </td>
+            <td>- </td>
+            <td> </td>
+            <td>- </td>
+        </tr>
+        <tr>
+            <td>c)</td>
+            <td> 8% del requerimiento de fondos propios en SA de la ultima cifra de riesgo de la correlación de la cartera de negocio</td>
+            <td> </td>
+            <td>- </td>
+            <td> </td>
+            <td>- </td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Otros</td>
+            <td> </td>
+            <td>- </td>
+            <td> </td>
+            <td>- </td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Total</td>
+            <td> </td>
+            <td>9.258 </td>
+            <td> </td>
+            <td>741</td>
+        </tr>
+    </tbody>
+</table>
 
 A continuación se presentan las principales variaciones en los APR’s de mercado
 calculados con el método basado en modelos internos:
@@ -18995,7 +19382,102 @@ calculados con el método basado en modelos internos:
 **TABLA 62: EU-MR2-B- Variaciones en términos de APRs del método basado en modelos
 internos de Riesgo de Mercado**
 
-MISSING TABLE
+<table>
+    <thead>
+        <tr>
+            <th>Estado de flujos de APR de riesgo de mercado - IMA</th>
+            <th>VaR</th>
+            <th>VaR estresado</th>
+            <th>IRB</th>
+            <th>CRM</th>
+            <th>Otro</th>
+            <th>Total APR</th>
+            <th>Requerimientos de capital</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>APR al cierre de periodo de declaración previo</td>
+            <td>2.379</td>
+            <td>5.627</td>
+            <td>1.349</td>
+            <td>-</td>
+            <td>-</td>
+            <td>9.355</td>
+            <td>748</td>
+        </tr>
+        <tr>
+            <td>Movimiento en niveles de riesgo</td>
+            <td>766</td>
+            <td>(603)</td>
+            <td>561</td>
+            <td>-</td>
+            <td>-</td>
+            <td>728</td>
+            <td>58</td>
+        </tr>
+        <tr>
+            <td>Actualización/cambios en modelos</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Metodología y politica</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Adquisiciones y enajenaciones</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Osciliaciones del tipo de cambio</td>
+            <td>(139)</td>
+            <td>(612)</td>
+            <td>(69)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>(825)</td>
+            <td>(66)</td>
+        </tr>
+        <tr>
+            <td>Otros</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>RWA al cierre de periodo de declaración</td>
+            <td>3.006</td>
+            <td>4.412</td>
+            <td>1.841</td>
+            <td>-</td>
+            <td>-</td>
+            <td>9.258</td>
+            <td>741</td>
+        </tr>
+    </tbody>
+</table>
 
 La variación se debe a cambios en posiciones de mercado, principalmente motivadas por
 la volatilidad y correlaciones.
@@ -19035,9 +19517,50 @@ de las curvas del euro y del dólar.
 
 **TABLA 63: Cartera de Negociación. Impacto en resultados escenario *Lehman***
 
-MISSING TABLE
+<table class="tableizer-table">
+    <thead>
+        <tr class="tableizer-firstrow">
+            <th>GM Europa, NY y Asia</th>
+            <th>-31</th>
+            <th>-30</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>GM Bancomer</td>
+            <td>-64</td>
+            <td>-37</td>
+        </tr>
+        <tr>
+            <td>GM Argentina</td>
+            <td>-3</td>
+            <td>-0</td>
+        </tr>
+        <tr>
+            <td>GM Chile</td>
+            <td>-6</td>
+            <td>-4</td>
+        </tr>
+        <tr>
+            <td>GM Colombia</td>
+            <td>-1</td>
+            <td>-4</td>
+        </tr>
+        <tr>
+            <td>GM Perú</td>
+            <td>-4</td>
+            <td>-6</td>
+        </tr>
+        <tr>
+            <td>GM Venezuela</td>
+            <td>-0</td>
+            <td>-5</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
 
-_Escenarios simulados_
+**Escenarios simulados**
 
 A diferencia de los escenarios históricos, que son fijos y que, por tanto, no se adaptan a la
 composición de los riesgos de la cartera en cada momento, el escenario utilizado para
@@ -19069,9 +19592,87 @@ VaR 95% a 20 días; Expected Shortfall 95% a 20 días y Stress VaR al 99% a 1 d�
 
 **TABLA 64: Cartera de Negociación. *Stress resampling***
 
-MISSING TABLE
+**Impacto esperado**
+
+<table>
+    <thead>
+        <tr>
+            <th>Europa</th>
+            <th>Bancomer</th>
+            <th>Peru</th>
+            <th>Venezuela</th>
+            <th>Argentina</th>
+            <th>Colombia</th>
+            <th>Chile</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Impacto Esperado</td>
+            <td>(92)</td>
+
+            <td>(42)</td>
+
+            <td>(5)</td>
+
+            <td>(0)</td>
+
+            <td>(4)</td>
+
+            <td>(1)</td>
+
+            <td>(7)</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
+
+<table>
+    <thead>
+        <tr>
+            <th>2016</th>
+            <th>Stress VaR</th>
+            <th>Expected Shortfall</th>
+            <th>Stress Period</th>
+            <th>Stress VaR 1D</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>&nbsp;</td>
+            <td>95 20 D</td>
+            <td>95 20 D</td>
+            <td>&nbsp;</td>
+            <td>99% Resampling</td>
+        </tr>
+        <tr class="b2">
+            <td>TOTAL</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr class="s">
+            <td>GM Europa, NY y Asia</td>
+            <td>-61,9</td>
+            <td>-91,8</td>
+            <td>02/01/2008 - 02/12/2009</td>
+            <td>-23,6</td>
+        </tr>
+        <tr class="s">
+            <td>GM Bancomer</td>
+            <td>-26,5</td>
+            <td>-42,1</td>
+            <td>12/09/2008 - 09/09/2010</td>
+            <td>-14,7</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
+
 
 ##### Backtesting
+
 El modelo de medición de los riesgos de mercado del Grupo requiere disponer de un
 programa de Backtesting o validación del mismo, que garantiza la idoneidad de las
 mediciones del riesgo que se están efectuando.
@@ -19149,8 +19750,7 @@ homogéneas para la medición de las diferentes tipologías de riesgo.
 
 ## Riesgo estructural de Renta Variable
 
-### Alcance y naturaleza de los sistemas de medición y de información del Riesgo de
-Renta Variable
+### Alcance y naturaleza de los sistemas de medición y de información del Riesgo de Renta Variable
 
 La exposición del Grupo BBVA al riesgo estructural de renta variable se deriva,
 fundamentalmente, de las participaciones mantenidas en empresas industriales y
@@ -19201,8 +19801,7 @@ evidencias objetivas de que el descenso del valor se deba al deterioro del activ
 importes registrados se eliminarán del patrimonio y se llevarán directamente a la cuenta de
 resultados.
 
-### Distinción entre las carteras mantenidas con ánimo de venta y las carteras
-mantenidas con fines estratégicos
+### Distinción entre las carteras mantenidas con ánimo de venta y las carteras mantenidas con fines estratégicos
 
 #### Carteras mantenidas con ánimo de venta
 
@@ -19228,8 +19827,7 @@ participada.
 - Intercambio de personal de la alta dirección.
 - Suministro de información técnica de carácter esencial.
 
-### Valor en libros y exposición de las participaciones e instrumentos de capital
-contenidos en las carteras anteriores
+### Valor en libros y exposición de las participaciones e instrumentos de capital contenidos en las carteras anteriores
 
 A continuación se muestra el valor en libros, exposición y APRs de las carteras
 mantenidas con ánimo de venta y las carteras mantenidas con fines estratégicos:
@@ -19237,11 +19835,81 @@ mantenidas con ánimo de venta y las carteras mantenidas con fines estratégicos
 **TABLA 65: Desglose del valor en libros, EAD y APRs de las participaciones e instrumentos
 de capital**
 
-MISSING TABLE
+<table class="tableizer-table">
+    <thead>
+        <tr class="m">
+            <th> </th>
+            <th colspan="6">Participaciones e instrumentos de capital (1)</th>
+        </tr>
+        <tr>
+            <th> </th>
+            <th colspan="3">2015</th>
+            <th colspan="3">6</th>
+        </tr>
+        <tr>
+            <th> </th>
+            <th>Valor en libros</th>
+            <th>EO</th>
+            <th>EAD</th>
+            <th>Valor en libros</th>
+            <th>EO</th>
+            <th>EAD</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Cartera mantenida con ánimo de venta (2)</td>
 
+            <td>3.899 </td>
+
+            <td>3.885 </td>
+
+            <td>3.885 </td>
+
+            <td>4.470 </td>
+
+            <td>4.470 </td>
+
+            <td>4.470 </td>
+        </tr>
+        <tr>
+            <td>Cartera mantenida con fines estratégicos (3)</td>
+
+            <td>4.379 </td>
+
+            <td>4.327 </td>
+
+            <td>4.327 </td>
+
+            <td>5.048 </td>
+
+            <td>4.948 </td>
+
+            <td>4.948 </td>
+        </tr>
+        <tr class="b2">
+            <td>Total</td>
+
+            <td>8.278 </td>
+
+            <td>8.213 </td>
+
+            <td>8.212 </td>
+
+            <td>9.518 </td>
+
+            <td>9.418 </td>
+
+            <td>9.418</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
 (1) La Cartera de Otros activos financieros con cambios en PyG no presenta saldo
+
 (2) La diferencia entre el valor en libros y la EAD se debe a exposiciones residuales cuyo consumo de
 capital se calcula e base a los modelos de Riesgo de Crédito de la Cartera crediticia
+
 (3) El detalle del valor en libros de la Inversión Permanente por sociedad, se muestra en los anexos I-III
 de este informe
 
@@ -19252,7 +19920,64 @@ los restantes instrumentos no cotizados:
 
 **TABLA 66: Exposiciones en participaciones e instrumentos de capital**
 
-MISSING TABLE
+<table>
+    <thead>
+        <tr class="m">
+            <th></th>
+            <th colspan="4">Naturaleza de la exposición (1)</th>
+        </tr>
+        <tr class="tableizer-firstrow">
+            <th></th>
+            <th colspan="2">2016</th>
+            <th colspan="2">5</th>
+        </tr>
+        <tr class="tableizer-firstrow">
+            <th>Concepto</th>
+            <th>No Derivados</th>
+            <th>Derivados</th>
+            <th>No Derivados</th>
+            <th>Derivados</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="tableizer-firstrow">
+            <td>Instrumentos Cotizados</td>
+            <td>3.606</td>
+            <td>144</td>
+            <td>4.151</td>
+            <td>214</td>
+        </tr>
+        <tr>
+            <td>Instrumentos no cotizados</td>
+            <td>4.401</td>
+            <td>62</td>
+            <td>4.944</td>
+            <td>109</td>
+        </tr>
+        <tr>
+            <td> Incluidos en carteras suficientemente diversificadas</td>
+            <td>4.401</td>
+            <td>62</td>
+            <td>4.944</td>
+            <td>109</td>
+        </tr>
+        <tr>
+            <td> Resto de instrumentos no cotizados</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr class="b2">
+            <td>Total</td>
+            <td>8.006</td>
+            <td>207</td>
+            <td>9.095</td>
+            <td>323</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
 
 (1) En función de la naturaleza de la exposición que presenten los instrumentos de renta variable no recogidos en la Cartera de
 Negociación, se distinguirá entre derivados y no derivados. El importe presentado se refiere a la Exposición Original, es decir, la
@@ -19268,8 +19993,58 @@ participaciones e instrumentos de capital a 31 de diciembre de 2016 y 31 de dici
 **TABLA 67: Desglose APRs participaciones e instrumentos de capital por método
 aplicable**
 
-
-MISSING TABLE
+<table class="tableizer-table">
+    <thead>
+        <tr class="m">
+            <th></th>
+            <th></th>
+            <th colspan="4">APRs (Millones de euros)</th>
+        </tr>
+        <tr class="tableizer-firstrow">
+            <th>Concepto</th>
+            <th></th>
+            <th>Modelos internos</th>
+            <th>Método simple</th>
+            <th>Método PD/LgD</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="tableizer-firstrow">
+            <td>12/31/15</td>
+            <td>Cartera mantenida con ánimo de venta</td>
+            <td>1.299</td>
+            <td>996</td>
+            <td>5.057</td>
+            <td>7.352</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Cartera mantenida con fines estratégicos</td>
+            <td>0</td>
+            <td>10.997</td>
+            <td>1.173</td>
+            <td>12.170</td>
+        </tr>
+        <tr>
+            <td>12/31/16</td>
+            <td>Cartera mantenida con ánimo de venta</td>
+            <td>961</td>
+            <td>973</td>
+            <td>4.554</td>
+            <td>6.488</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Cartera mantenida con fines estratégicos</td>
+            <td>0</td>
+            <td>9.808</td>
+            <td>342</td>
+            <td>10.151</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
 
 Se describe a continuación la evolución y los principales cambios acontecidos en el
 consumo de Recursos Propios para las posiciones sujetas a Riesgo de Crédito de Renta
@@ -19277,21 +20052,61 @@ Variable a 31 de diciembre de 2016 y 31 de diciembre de 2015:
 
 **TABLA 68: Variación de APR's por Riesgo de Renta Variable**
 
-MISSING TABLE
+<table>
+    <thead>
+        <tr>
+            <th>Renta Variable</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="b2">
+            <td>APR´s Dic 15</td>
+            <td> </td>
+            <td>19.522 </td>
+        </tr>
+        <tr>
+            <td>Efectos</td>
+            <td>Tamaño del activo </td>
+            <td>(2.255)</td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td>Adquisiciones y enajenaciones</td>
+            <td>(231)</td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td>Oscilaciones del tipo de cambio </td>
+            <td>(397)</td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td>Otros </td>
+            <td>- </td>
+        </tr>
+        <tr class="b2">
+            <td>APR´s Dic 16</td>
+            <td> </td>
+            <td>16.639</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
 
 Las variaciones acontecidas en el periodo se deben a los siguientes motivos:
 
-- Exposición: Derivado de las fluctuaciones en el mark-to-market de la cartera de
+- **Exposición**: Derivado de las fluctuaciones en el mark-to-market de la cartera de
 DPV
-- Adquisiciones y enajenaciones: A lo largo del ejercicio 2016 se ha seguido
+- **Adquisiciones y enajenaciones**: A lo largo del ejercicio 2016 se ha seguido
 manteniendo ventas parciales de la participación del Grupo BBVA en CNCB.
-- Tipo de cambio: La variación negativa por tipo de cambio surge como efecto de la
+- **Tipo de cambio**: La variación negativa por tipo de cambio surge como efecto de la
 depreciación generalizada frente al euro de algunas divisas locales,
 principalmente, la lira turca, pesos mexicanos y argentino y bolívar fuerte
 venezolano.
 
-### Pérdidas y ganancias y ajustes por valoración de las participaciones e
-instrumentos de capital
+### Pérdidas y ganancias y ajustes por valoración de las participaciones e instrumentos de capital
 
 A continuación se desglosan a 31 de diciembre de 2016 y 31 de diciembre de 2015 las
 pérdidas y ganancias realizadas por la venta y liquidación de participaciones e
@@ -19300,7 +20115,45 @@ instrumentos de capital y por tipología de cartera aplicable:
 **TABLA 69: Pérdidas y ganancias realizadas procedentes de ventas y liquidaciones de
 participaciones e instrumentos de capital**
 
-MISSING TABLE
+<table class="tableizer-table">
+    <thead>
+        <tr class="tableizer-firstrow">
+            <th></th>
+            <th colspan="3">2016</th>
+            <th colspan="3">2015</th>
+        </tr>
+        <tr class="tableizer-firstrow">
+            <th></th>
+            <th>Pérdidas</th>
+            <th>Ganancias</th>
+            <th>Neto</th>
+            <th>Pérdidas</th>
+            <th>Ganancias</th>
+            <th>Neto</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="tableizer-firstrow">
+            <td>Cartera mantenida con ánimo de venta</td>
+            <td>24</td>
+            <td>254</td>
+            <td>230</td>
+            <td>20</td>
+            <td>91</td>
+            <td>72</td>
+        </tr>
+        <tr>
+            <td>Cartera mantenida con fines estratégicos</td>
+            <td>58</td>
+            <td>111</td>
+            <td>53</td>
+            <td>2.222</td>
+            <td>23</td>
+            <td>-2.199</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
 
 En el ejercicio 2015, las pérdidas realizadas se correspondieron, fundamentalmente, con
 la puesta a valor razonable la participación mantenida en el Grupo Garanti por el cambio
@@ -19309,12 +20162,37 @@ del método de consolidación.
 **TABLA 70: Ajustes por valoración por revaluación latente de participaciones e
 instrumentos de capital**
 
-MISSING TABLE
+<table class="tableizer-table">
+    <thead>
+        <tr class="tableizer-firstrow">
+            <th></th>
+            <th>Ajustes por valoración por revaluación latentes a 2016</th>
+        </tr>
+        <tr class="tableizer-firstrow">
+            <th></th>
+            <th>DPV</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="tableizer-firstrow">
+            <td>Saldo Dic 2015</td>
+            <td>27</td>
+        </tr>
+        <tr>
+            <td>Movimientos</td>
+            <td>-707</td>
+        </tr>
+        <tr>
+            <td>Saldo Dic 2016</td>
+            <td>-680</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
 
 ## Riesgo de cambio estructural
 
-###  Alcance y naturaleza de los sistemas de medición y de información del Riesgo
-de Cambio
+###  Alcance y naturaleza de los sistemas de medición y de información del Riesgo de Cambio
 
 En el Grupo BBVA, el riesgo estructural de tipo de cambio surge, principalmente, de la
 consolidación de las participaciones en filiales con divisas funcionales distintas del euro.
@@ -19383,8 +20261,7 @@ sobre las expectativas de crecimiento en dichas economías.
 
 ## Riesgo de Tipo de Interés
 
-### Alcance y naturaleza de los sistemas de medición y de información del Riesgo
-de Tipo de Interés
+### Alcance y naturaleza de los sistemas de medición y de información del Riesgo de Tipo de Interés
 
 La gestión del riesgo de interés del balance persigue mantener la exposición Grupo BBVA
 a variaciones de tipos de interés, en niveles acordes con su estrategia y perfil de riesgo
@@ -19534,7 +20411,73 @@ financieras del Grupo durante el ejercicio 2016.
 **TABLA 71: Variaciones en los tipos de interés. Impacto en margen de intereses y valor
 económico**
 
-MISSING TABLE
+<table class="l">
+    <thead>
+        <tr class="tableizer-firstrow">
+            <th></th>
+            <th colspan="2">Impacto margen de intereses (*)</th>
+            <th colspan="2">Impacto valor económico (**)</th>
+        </tr>
+        <tr class="tableizer-firstrow">
+            <th>Análisis sensibilidad al tipo de interés. Diciembre 2016</th>
+            <th>Incremento de 100 puntos básicos</th>
+            <th>Decremento de 100 puntos básicos</th>
+            <th>Incremento de 100 puntos básicos</th>
+            <th>Decremento de 100 puntos básicos</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="tableizer-firstrow">
+            <td>Europa (**)</td>
+            <td>14,12% </td>
+            <td>(7,09%)</td>
+            <td>4,90% </td>
+            <td>(3,62%)</td>
+        </tr>
+        <tr>
+            <td>México</td>
+            <td>2,13% </td>
+            <td>2,02% </td>
+            <td>(2,42%)</td>
+            <td>2,55% </td>
+        </tr>
+        <tr>
+            <td>Estados Unidos</td>
+            <td>8,91% </td>
+            <td>(8,30%)</td>
+            <td>0,41% </td>
+            <td>(7,57%)</td>
+        </tr>
+        <tr>
+            <td>Turquía</td>
+            <td>(6,64%)</td>
+            <td>4,64% </td>
+            <td>(2,78%)</td>
+            <td>3,84% </td>
+        </tr>
+        <tr>
+            <td>América del Sur</td>
+            <td>2,40% </td>
+            <td>(2,41%)</td>
+            <td>(2,82%)</td>
+            <td>3,04% </td>
+        </tr>
+        <tr class="b2">
+            <td>GRUPO BBVA</td>
+            <td>4,15% </td>
+            <td>(2,89%)</td>
+            <td>2,69% </td>
+            <td>(2,47%)</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
+
+(*) Porcentaje respecto al margen de interes "1 año" proyectado de cada unidad
+
+(**) Porcentaje respecto al Core Capital de cada unidad
+
+(***) En Europa se considera movimiento de tipos a la baja hasta niveles más negativos que los actuales
 
 El balance del Grupo BBVA presenta una exposición negativa ante un descenso de los
 tipos de interés derivada principalmente de los balances en Euro y Usd.
@@ -19547,8 +20490,7 @@ positiva en los resultados potenciales del Grupo BBVA ante movimientos en los ti
 
 ##  Riesgo de Liquidez
 
-### Alcance y naturaleza de los sistemas de medición y de información del Riesgo
-de Liquidez
+### Alcance y naturaleza de los sistemas de medición y de información del Riesgo de Liquidez
 
 La gestión del riesgo de liquidez y financiación tiene como objetivo, en el corto plazo,
 evitar que una entidad tenga dificultades para atender a sus compromisos de pago en el
@@ -19714,7 +20656,52 @@ exigido.
 
 **TABLA 72: Loan to Stable Customer Deposits (LtSCD)**
 
-MISSING TABLE
+<table class="tableizer-table">
+    <thead>
+        <tr class="m">
+            <th></th>
+            <th colspan="2">LtsCD por UgL</th>
+        </tr>
+        <tr class="tableizer-firstrow">
+            <th></th>
+            <th>Diciembre 2016</th>
+            <th>Diciembre 2015</th>
+        </tr>
+        <tr class="tableizer-firstrow">
+            <th>Grupo (media ponderada)</th>
+            <th>1,13</th>
+            <th>1,16</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Eurozone</td>
+            <td>113%</td>
+            <td>116%</td>
+        </tr>
+        <tr>
+            <td>Bancomer</td>
+            <td>113%</td>
+            <td>110%</td>
+        </tr>
+        <tr>
+            <td>Compass</td>
+            <td>108%</td>
+            <td>112%</td>
+        </tr>
+        <tr>
+            <td>Garanti</td>
+            <td>124%</td>
+            <td>128%</td>
+        </tr>
+        <tr>
+            <td>Resto UGLs</td>
+            <td>107%</td>
+            <td>111%</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
 
 Adicionalmente, cada entidad del Grupo mantiene un buffer de liquidez a nivel individual,
 tanto Banco Bilbao Vizcaya Argentaria S.A. como sus filiales, incluyendo BBVA Compass,
@@ -19725,7 +20712,95 @@ significativas:
 **TABLA 73: Tipos e importes de instrumentos incluidos en el fondo de liquidez de las
 unidades más significativas**
 
-MISSING TABLE
+<table class="tableizer-table">
+    <thead>
+        <tr class="tableizer-firstrow">
+            <th>Diciembre 2016</th>
+            <th>BBVA Eurozona (1)</th>
+            <th>BBVA Bancomer</th>
+            <th>BBVA Compass</th>
+            <th>Garanti Bank</th>
+            <th>Otros</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Caja y depósitos en bancos centrales</td>
+            <td>16.038</td>
+            <td>8.221</td>
+            <td>1.495</td>
+            <td>4.758</td>
+            <td>6.504</td>
+        </tr>
+        <tr>
+            <td>Activos para las operaciones de crédito con los bancos centrales</td>
+            <td>50.706</td>
+            <td>4.175</td>
+            <td>26.865</td>
+            <td>4.935</td>
+            <td>4.060</td>
+        </tr>
+        <tr>
+            <td>Emisiones de gobiernos centrales</td>
+            <td>30.702</td>
+            <td>1.964</td>
+            <td>1.084</td>
+            <td>4.935</td>
+            <td>3.985</td>
+        </tr>
+        <tr>
+            <td>De los que: títulos del gobierno español</td>
+            <td>23.353</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>Otras emisiones</td>
+            <td>20.005</td>
+            <td>2.212</td>
+            <td>8.991</td>
+            <td>0</td>
+            <td>75</td>
+        </tr>
+        <tr>
+            <td>Préstamos</td>
+            <td>0</td>
+            <td>0</td>
+            <td>16.790</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>Otros activos líquidos no elegibles</td>
+            <td>6.884</td>
+            <td>938</td>
+            <td>662</td>
+            <td>1.478</td>
+            <td>883</td>
+        </tr>
+        <tr class="b2">
+            <td>SALDO DISPONIBLE ACUMULADO</td>
+            <td>73.629</td>
+            <td>13.335</td>
+            <td>29.022</td>
+            <td>11.171</td>
+            <td>11.447</td>
+        </tr>
+        <tr class="b2">
+            <td>SALDO MEDIO DEL PERIODO</td>
+            <td>68.322</td>
+            <td>13.104</td>
+            <td>27.610</td>
+            <td>12.871</td>
+            <td>11.523</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
+
+(1) Incluye Banco Bilbao Vizacaya Argentaria, S.A., Banco Bilbao Vizcaya Argentaria (Portugal), S.A.
 
 De los ejercicios de estrés llevados a cabo periódicamente se desprende que BBVA
 mantiene un colchón de activos líquidos (buffer de estrés) suficiente para hacer frente a
@@ -19739,11 +20814,221 @@ por plazos contractuales de vencimiento residual a 31 de diciembre de 2016:
 
 **TABLA 74: Entradas de liquidez**
 
-MISSING TABLE
+<table class="l">
+    <thead>
+        <tr class="tableizer-firstrow">
+            <th>Diciembre 2016
+entradas - Vencimientos residuales contractuales</th>
+            <th>A la Vista</th>
+            <th>Hasta un mes</th>
+            <th>Más de un mes y hasta tres meses</th>
+            <th>Más de tres meses y hasta seis meses
+</th>
+            <th>Más de seis meses y hasta nueve meses</th>
+            <th>Más de nueve meses hasta un año</th>
+            <th>Más de un año y hasta dos años</th>
+            <th>Más de dos años y hasta tres años</th>
+            <th>Más de tres años y hasta cinco años</th>
+            <th>Más de cinco años</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="tableizer-firstrow">
+            <td>Caja y depósitos en bancos centrales</td>
+            <td>37.016</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>37.016</td>
+        </tr>
+        <tr>
+            <td>Depósitos en entidades de crédito</td>
+            <td>991</td>
+            <td>4.068</td>
+            <td>254</td>
+            <td>155</td>
+            <td>48</td>
+            <td>72</td>
+            <td>117</td>
+            <td>87</td>
+            <td>122</td>
+            <td>4.087</td>
+            <td>10.002</td>
+        </tr>
+        <tr>
+            <td>Préstamos a otras instituciones financieras</td>
+            <td>1</td>
+            <td>1.192</td>
+            <td>967</td>
+            <td>675</td>
+            <td>714</td>
+            <td>532</td>
+            <td>1.330</td>
+            <td>918</td>
+            <td>942</td>
+            <td>336</td>
+            <td>7.608</td>
+        </tr>
+        <tr>
+            <td>Adquisiciones temporales de valores y préstamos de valores (tomador)</td>
+            <td>0</td>
+            <td>20.232</td>
+            <td>544</td>
+            <td>523</td>
+            <td>0</td>
+            <td>428</td>
+            <td>500</td>
+            <td>286</td>
+            <td>124</td>
+            <td>189</td>
+            <td>22.826</td>
+        </tr>
+        <tr>
+            <td>Préstamos</td>
+            <td>591</td>
+            <td>20.272</td>
+            <td>25.990</td>
+            <td>22.318</td>
+            <td>16.212</td>
+            <td>15.613</td>
+            <td>44.956</td>
+            <td>35.093</td>
+            <td>55.561</td>
+            <td>133.589</td>
+            <td>370.195</td>
+        </tr>
+        <tr>
+            <td>Liquidación de cartera de valores</td>
+            <td>0</td>
+            <td>708</td>
+            <td>3.566</td>
+            <td>3.688</td>
+            <td>2.301</td>
+            <td>4.312</td>
+            <td>19.320</td>
+            <td>10.010</td>
+            <td>16.662</td>
+            <td>51.472</td>
+            <td>112.039</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
 
 **TABLA 75: Salidas de liquidez**
 
-MISSING TABLE
+<table>
+    <thead>
+        <tr>
+            <th>Diciembre 2016 Salidas - Vencimientos residuales contractuales</th>
+            <th>A la Vista</th>
+            <th>Hasta un mes</th>
+            <th>Más de un mes y hasta tres meses</th>
+            <th>Más de tres meses y hasta seis meses</th>
+            <th>Más de seis meses y hasta nueve meses</th>
+            <th>Más de nueve meses hasta un año</th>
+            <th>Más de un año y hasta dos años</th>
+            <th>Más de dos años y hasta tres años</th>
+            <th>Más de tres años y hasta cinco años</th>
+            <th>Más de cinco años</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Emisiones y Certificados de Deposito</td>
+            <td>419</td>
+            <td>7.380</td>
+            <td>2.943</td>
+            <td>5.547</td>
+            <td>3.463</td>
+            <td>5.967</td>
+            <td>7.825</td>
+            <td>5.963</td>
+            <td>14.016</td>
+            <td>31.875</td>
+            <td>85.397</td>
+        </tr>
+        <tr>
+            <td>Depósitos de entidades de crédito</td>
+            <td>6.762</td>
+            <td>5.365</td>
+            <td>1.181</td>
+            <td>2.104</td>
+            <td>800</td>
+            <td>2.176</td>
+            <td>746</td>
+            <td>1.156</td>
+            <td>859</td>
+            <td>3.714</td>
+            <td>24.862</td>
+        </tr>
+        <tr>
+            <td>Depósitos de otras instituciones financieras</td>
+            <td>15.375</td>
+            <td>6.542</td>
+            <td>8.624</td>
+            <td>3.382</td>
+            <td>2.566</td>
+            <td>1.897</td>
+            <td>1.340</td>
+            <td>686</td>
+            <td>875</td>
+            <td>2.825</td>
+            <td>44.114</td>
+        </tr>
+        <tr>
+            <td>Financiaciones del resto de la clientela</td>
+            <td>206.140</td>
+            <td>49.053</td>
+            <td>25.522</td>
+            <td>15.736</td>
+            <td>11.863</td>
+            <td>11.343</td>
+            <td>8.619</td>
+            <td>5.060</td>
+            <td>781</td>
+            <td>936</td>
+            <td>335.052</td>
+        </tr>
+        <tr>
+            <td>Financiaciones con colateral de valores</td>
+            <td>0</td>
+            <td>38.153</td>
+            <td>3.561</td>
+            <td>1.403</td>
+            <td>1.004</td>
+            <td>912</td>
+            <td>1.281</td>
+            <td>640</td>
+            <td>23.959</td>
+            <td>1.712</td>
+            <td>72.626</td>
+        </tr>
+        <tr>
+            <td>Derivados (neto)</td>
+            <td>-0</td>
+            <td>-2.123</td>
+            <td>-95</td>
+            <td>-190</td>
+            <td>-111</td>
+            <td>-326</td>
+            <td>-132</td>
+            <td>-82</td>
+            <td>-105</td>
+            <td>-47</td>
+            <td>-3.210</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
 
 Se observa el carácter estable de la estructura de financiación, en la que la cartera de
 préstamos se encuentra en su mayor parte fondeada por depósitos de la clientela. El
@@ -19799,23 +21084,357 @@ unidades más significativas del Grupo según naturaleza de las mismas:
 
 **TABLA 76: Vencimiento de emisiones mayoristas Balance Euro por naturaleza**
 
-MISSING TABLE
+<table>
+    <thead>
+        <tr>
+            <th>Tipo emision</th>
+            <th>2017</th>
+            <th>2018</th>
+            <th>2019</th>
+            <th>Posterior a 2019</th>
+            <th>Total </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Deuda senior</td>
+            <td>3.004 </td>
+            <td>2.328 </td>
+            <td>1.165 </td>
+            <td>4.076 </td>
+            <td>10.573 </td>
+        </tr>
+        <tr>
+            <td>Cédulas hipotecarias</td>
+            <td>8.567 </td>
+            <td>791 </td>
+            <td>380 </td>
+            <td>14.932 </td>
+            <td>24.670 </td>
+        </tr>
+        <tr>
+            <td>Cedula territorial</td>
+            <td>600 </td>
+            <td>150 </td>
+            <td>- </td>
+            <td>500 </td>
+            <td>1.250 </td>
+        </tr>
+        <tr>
+            <td>Instrumentos de capital regulatorio (1)</td>
+            <td>70 </td>
+            <td>1.443 </td>
+            <td>- </td>
+            <td>7.624 </td>
+            <td>9.137 </td>
+        </tr>
+        <tr>
+            <td>Otros instrumentos financieros largo plazo</td>
+            <td>250 </td>
+            <td>200 </td>
+            <td>- </td>
+            <td>660 </td>
+            <td>1.110 </td>
+        </tr>
+        <tr class="b2">
+            <td>Total </td>
+            <td>12.491 </td>
+            <td>4.912 </td>
+            <td>1.545 </td>
+            <td>27.792 </td>
+            <td>46.740</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
+
+
+(1) Los instrumentos de capital regulatorio están clasificados en este cuadro por plazos de acuerdo a su vencimiento contractual.
 
 **TABLA 77: Vencimiento de emisiones mayoristas Bancomer por naturaleza**
 
-MISSING TABLE 
+<table>
+    <thead>
+        <tr>
+            <th>Tipo emision</th>
+            <th>2017</th>
+            <th>2018</th>
+            <th>2019</th>
+            <th>Posterior a 2019</th>
+            <th>Total </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Deuda senior</td>
+            <td>&nbsp;</td>
+            <td>230 </td>
+            <td>184 </td>
+            <td>993 </td>
+            <td>1.406 </td>
+        </tr>
+        <tr>
+            <td>Cédulas hipotecarias</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Cedula territorial</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de capital regulatorio (1)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>4.933 </td>
+            <td>4.933 </td>
+        </tr>
+        <tr>
+            <td>Otros instrumentos financieros largo plazo</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr class="b2">
+            <td>Total </td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
+
+
+(1) Los instrumentos de capital regulatorio están clasificados en este cuadro por plazos de acuerdo a su vencimiento contractual. 
 
 **TABLA 78: Vencimiento de emisiones mayoristas Compass por naturaleza**
 
-MISSING TABLE 
+<table>
+    <thead>
+        <tr class="m">
+            <th colspan="6">12/31/2016</th>
+        </tr>
+        <tr>
+            <th>Tipo emision</th>
+            <th>2017</th>
+            <th>2018</th>
+            <th>2019</th>
+            <th>Posterior a 2019</th>
+            <th>Total </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Deuda senior</td>
+            <td>379 </td>
+            <td>- </td>
+            <td>569 </td>
+            <td>- </td>
+            <td>949 </td>
+        </tr>
+        <tr>
+            <td>Cédulas hipotecarias</td>
+            <td>- </td>
+            <td>- </td>
+            <td>- </td>
+            <td>- </td>
+            <td>- </td>
+        </tr>
+        <tr>
+            <td>Cedula territorial</td>
+            <td>- </td>
+            <td>- </td>
+            <td>- </td>
+            <td>- </td>
+            <td>- </td>
+        </tr>
+        <tr>
+            <td>Instrumentos de capital regulatorio (1)</td>
+            <td>332 </td>
+            <td>- </td>
+            <td>- </td>
+            <td>1.063 </td>
+            <td>1.395 </td>
+        </tr>
+        <tr>
+            <td>Otros instrumentos financieros largo plazo</td>
+            <td>- </td>
+            <td>- </td>
+            <td>- </td>
+            <td>- </td>
+            <td>- </td>
+        </tr>
+        <tr class="b2">
+            <td>Total </td>
+            <td>712 </td>
+            <td>- </td>
+            <td>569 </td>
+            <td>1.063 </td>
+            <td>2.343</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
+
+
+(1) Los instrumentos de capital regulatorio están clasificados en este cuadro por plazos de acuerdo a su vencimiento contractual.
 
 **TABLA 79: Vencimiento de emisiones mayoristas Garanti por naturaleza**
 
-MISSING TABLE 
+<table>
+    <thead>
+        <tr class="m">
+            <th colspan="6">12/31/2016</th>
+        </tr>
+        <tr>
+            <th>Tipo emision</th>
+            <th>2017</th>
+            <th>2018</th>
+            <th>2019</th>
+            <th>Posterior a 2019</th>
+            <th>Total </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Deuda senior</td>
+            <td>1.600 </td>
+            <td>398 </td>
+            <td>1.214 </td>
+            <td>1.268 </td>
+            <td>4.479 </td>
+        </tr>
+        <tr>
+            <td>Cédulas hipotecarias</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>- </td>
+        </tr>
+        <tr>
+            <td>Cedula territorial</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>- </td>
+        </tr>
+        <tr>
+            <td>Instrumentos de capital regulatorio (1)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>- </td>
+        </tr>
+        <tr>
+            <td>Otros instrumentos financieros largo plazo</td>
+            <td>41 </td>
+            <td>150 </td>
+            <td>469 </td>
+            <td>1.549 </td>
+            <td>2.210 </td>
+        </tr>
+        <tr class="b2">
+            <td>Total </td>
+            <td>1.641 </td>
+            <td>547 </td>
+            <td>1.683 </td>
+            <td>2.817 </td>
+            <td>6.689</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
+
+
+(1) Los instrumentos de capital regulatorio están clasificados en este cuadro por plazos de acuerdo a su vencimiento contractual.
 
 **TABLA 80: Vencimiento de emisiones mayoristas América del Sur por naturaleza**
 
-MISSING TABLE 
+<table>
+    <thead>
+        <tr class="m">
+            <th colspan="6">12/31/2016</th>
+        </tr>
+        <tr>
+            <th>Tipo emision</th>
+            <th>2017</th>
+            <th>2018</th>
+            <th>2019</th>
+            <th>Posterior a 2019</th>
+            <th>Total </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Deuda senior</td>
+            <td>522 </td>
+            <td>1.036 </td>
+            <td>1.190 </td>
+            <td>2.547 </td>
+            <td>5.295 </td>
+        </tr>
+        <tr>
+            <td>Cédulas hipotecarias</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>- </td>
+        </tr>
+        <tr>
+            <td>Cedula territorial</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>- </td>
+        </tr>
+        <tr>
+            <td>Instrumentos de capital regulatorio (1)</td>
+            <td>30 </td>
+            <td>32 </td>
+            <td>&nbsp;</td>
+            <td>1.687 </td>
+            <td>1.749 </td>
+        </tr>
+        <tr>
+            <td>Otros instrumentos financieros largo plazo</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>- </td>
+        </tr>
+        <tr class="b2">
+            <td>Total </td>
+            <td>552 </td>
+            <td>1.068 </td>
+            <td>1.190 </td>
+            <td>4.234 </td>
+            <td>7.044</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
+
+
+(1) Los instrumentos de capital regulatorio están clasificados en este cuadro por plazos de acuerdo a su vencimiento contractual.
 
 De cara a 2017, la estrategia de financiación del Grupo BBVA tiene entre sus principales
 objetivos mantener la fortaleza de la estructura de financiación y la diversificación de las
@@ -19832,7 +21451,57 @@ libres de cargas, se muestran a continuación:
 
 **TABLA 81: Activos comprometidos o libres de cargas**
 
-MISSING TABLE
+<table class="l">
+    <thead>
+        <tr class="m">
+            <th></th>
+            <th colspan="4">Diciembre 2016</th>
+        </tr>
+        <tr class="tableizer-firstrow">
+            <th></th>
+            <th colspan="2">Activos comprometidos</th>
+            <th colspan="2">Activos no comprometidos</th>
+        </tr>
+        <tr class="tableizer-firstrow">
+            <th></th>
+            <th>Valor en libros de activos comprometidos</th>
+            <th>Valor de mercado de activos comprometidos</th>
+            <th>Valor en libros de activos no comprometidos</th>
+            <th>Valor de mercado de activos no comprometidos</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="tableizer-firstrow">
+            <td>Activos</td>
+            <td>137.045</td>
+            <td>-</td>
+            <td>594.811</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de capital</td>
+            <td>2.214</td>
+            <td>2.214</td>
+            <td>9.022</td>
+            <td>9.022</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>40.114</td>
+            <td>39.972</td>
+            <td>90.679</td>
+            <td>90.679</td>
+        </tr>
+        <tr>
+            <td>Préstamos y otros activos</td>
+            <td>94.718</td>
+            <td>-</td>
+            <td>495.109</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
 
 El valor comprometido de “Préstamos y otros activos” corresponden principalmente a
 préstamos vinculados a la emisión de cédulas hipotecarias, cédulas territoriales o bonos
@@ -19853,7 +21522,53 @@ continuación:
 
 **TABLA 82: Colaterales comprometidos o potencialmente comprometidos**
 
-MISSING TABLE
+<table class="l">
+    <thead>
+        <tr class="m">
+            <th></th>
+            <th colspan="3">Diciembre 2016</th>
+        </tr>
+        <tr>
+            <th>Garantías recibidas</th>
+            <th>Valor razonable de garantías recibidas comprometidas o autocartera emitida</th>
+            <th>Valor razonable de garantías recibidas o autocartera emitida disponible para comprometer</th>
+            <th>Valor razonable de garantías recibidas o autocartera emitida no disponible para comprometer</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Garantías recibidas</td>
+            <td>19.921</td>
+            <td>10.039</td>
+            <td>173</td>
+        </tr>
+        <tr>
+            <td>Instrumentos de capital</td>
+            <td>58</td>
+            <td>59</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Valores representativos de deuda</td>
+            <td>19.863</td>
+            <td>8.230</td>
+            <td>28</td>
+        </tr>
+        <tr>
+            <td>Préstamos y otros activos</td>
+            <td>-</td>
+            <td>1.750</td>
+            <td>144</td>
+        </tr>
+        <tr>
+            <td>Autocartera emitida, excepto cédulas hipotecarias territoriales o bonos titulizados</td>
+            <td>5</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
 
 Las garantías recibidas en forma de adquisición temporal de activos o préstamo de valores
 se comprometen mediante su utilización en operaciones de cesión temporal de activos, al
@@ -19865,12 +21580,51 @@ contable de estos últimos, se muestran a continuación:
 
 **TABLA 83: Activos comprometidos/garantías recibidas y pasivos asociados**
 
-MISSING TABLE
+<table class="l">
+    <thead>
+        <tr class="m">
+            <th></th>
+            <th colspan="2">Diciembre 2016</th>
+        </tr>
+        <tr>
+            <th>Activos comprometidos / garantías recibidas y pasivos asociados</th>
+            <th>Pasivos cubiertos, pasivos contingentes o títulos cedidos</th>
+            <th>Activos, garantías recibidas y autocartera emitida, excepto cédulas hipotecarias y bonos titulizados comprometidos</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Valor en libros de dichos pasivos fuentes de pignoración</td>
+            <td>134.387</td>
+            <td>153.632</td>
+        </tr>
+        <tr>
+            <td>Derivados</td>
+            <td>9.304</td>
+            <td>9.794</td>
+        </tr>
+        <tr>
+            <td>Depositos</td>
+            <td>96.137</td>
+            <td>108.268</td>
+        </tr>
+        <tr>
+            <td>Emisiones</td>
+            <td>28.946</td>
+            <td>35.569</td>
+        </tr>
+        <tr>
+            <td>Otras fuentes de pignoración</td>
+            <td>-</td>
+            <td>2.594</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
 
 ## Riesgo Operacional
 
-### Alcance y naturaleza de los sistemas de medición y de información del Riesgo
-Operacional
+### Alcance y naturaleza de los sistemas de medición y de información del Riesgo Operacional
 
 Riesgo operacional es aquél que puede provocar pérdidas debido a errores humanos,
 procesos internos inadecuados o defectuosos, fallos en los sistemas y como consecuencia
@@ -19981,7 +21735,7 @@ coordinadas por la unidad de Control Interno; quien será responsable
 además de dotar a las unidades de una metodología de control interno
 común.
 
-    - La tercera línea de defensa la constituye la unidad de Internal Audit, para
+- La tercera línea de defensa la constituye la unidad de Internal Audit, para
 la cual el Grupo asume las directrices del Comité de Supervisión Bancaria
 de Basilea y del Instituto de Auditores Internos. Su función se configura
 como una actividad independiente y objetiva de aseguramiento y consulta,
@@ -20040,7 +21794,31 @@ definidas.
 
 **TABLA 84: Características del modelo de gestión de Riesgo Operacional**
 
-MISSING TABLE
+<table>
+    <tbody>
+        <tr>
+            <th class="b">Solidez</th>
+            <th>Consejo - Holding - País - Unidad</th>
+        </tr>
+        <tr>
+            <td class="b">Profundidad</td>
+            <td>Modelo iniciado en 1999 con base de datos desde 2002</td>
+        </tr>
+        <tr>
+            <td class="b">Integrado en la gestión</td>
+            <td>Capital, presupuestos, incentivación, benchmark interno, cultura</td>
+        </tr>
+        <tr>
+            <td class="b">Forward looking</td>
+            <td>Utiliza variables futuras para análisis, cálculos y mitigaciones</td>
+        </tr>
+        <tr>
+            <td class="b">Mejora continua</td>
+            <td>Función de mejores prácticas y actualización permanente</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
 
 Estos principios reflejan la visión que el Grupo BBVA tiene del RO y que se basa en que
 los eventos que se producen como consecuencia del mismo tienen una causa última que
@@ -20098,8 +21876,7 @@ sistemas, decisiones de outsourcing, etc.
 
 #### Herramientas de seguimiento y gestión/mitigación de Riesgo Operacional
 
-##### Autoevaluaciones de Riesgo Operacional (Risk and Control Self
-Assessment)
+##### Autoevaluaciones de Riesgo Operacional (Risk and Control Self Assessment)
 
 Una adecuada gestión del RO requiere que se establezcan metodologías y procedimientos
 que permitan identificar, evaluar y seguir esta clase de riesgos para implementar las
@@ -20250,7 +22027,48 @@ conseguir una visión global del consumo de RRPP por este tipo de riesgo:
 
 **TABLA 85: Capital regulatorio por Riesgo Operacional**
 
-MISSING TABLE
+<table>
+    <thead>
+        <tr>
+            <th>Capital regulatorio por riesgo operacional</th>
+            <th>2016</th>
+            <th>2015</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Avanzado</td>
+            <td>1.368</td>
+            <td>1.236</td>
+        </tr>
+        <tr>
+            <td> España</td>
+            <td>1.040</td>
+            <td>811</td>
+        </tr>
+        <tr>
+            <td>México</td>
+            <td>328</td>
+            <td>425</td>
+        </tr>
+        <tr>
+            <td>Estándar</td>
+            <td>862</td>
+            <td>911</td>
+        </tr>
+        <tr>
+            <td>Básico</td>
+            <td>516</td>
+            <td>517</td>
+        </tr>
+        <tr>
+            <td>Total Grupo BBVA</td>
+            <td>2.746</td>
+            <td>2.663</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
 
 Las principales variaciones en los requerimientos de recursos propios por riesgo
 operacional vienen motivados por:
@@ -20288,7 +22106,36 @@ MISSING IMAGE
 
 **TABLA 86: Variaciones en términos de APRs de Riesgo Operacional**
 
-MISSING TABLE
+<table>
+    <thead>
+        <tr class="m">
+            <th>Riesgo Operacional</th>
+        </tr>
+        <tr>
+            <th>APR´s Dic 15</th>
+            <th></th>
+            <th>33.291</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Efectos</td>
+            <td>Tipo de cambio</td>
+            <td>-2.048</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Otros </td>
+            <td>3.080</td>
+        </tr>
+        <tr class="b">
+            <td>APR´s Dic 16</td>
+            <td></td>
+            <td>34.323</td>
+        </tr>
+    </tbody>
+</table>
+[Descargar tabla](#)
 
 En tipo de cambio se incluye el efecto de la depreciación de las principales divisas en las que
 opera el Grupo.
