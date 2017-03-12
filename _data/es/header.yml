@@ -3,9 +3,7 @@ options:
   - title: English
     url: /
   - title: Descargar informe
-    url: /
-  - title: Contacta con nosotros
-    url: /
+    url: downloads/
 menu:
   - title: Introducción
     url: /introduccion/
@@ -38,11 +36,9 @@ menu:
     url: /anexo/
     submenu: anexo
 footer:
-- title: Centro de seguridad
-  url: /
-- title: Privacidad
-  url: /
-- title: Terminos y condiciones
-  url: /
-- title: Mapa del sitio
-  url: /
+- title: Accesibilidad
+  url: https://accionistaseinversores.bbva.com/TLBB/tlbb/bbvair/esp/meta/inferior/accessibility.jsp
+- title: Aviso legal y Política de Cookies
+  url: https://accionistaseinversores.bbva.com/TLBB/tlbb/bbvair/esp/meta/inferior/ledis.jsp
+- title: Seguridad
+  url: https://accionistaseinversores.bbva.com/TLBB/tlbb/bbvair/esp/meta/inferior/sec.jsp

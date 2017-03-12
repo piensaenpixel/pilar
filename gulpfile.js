@@ -12,6 +12,8 @@ const imagemin = require('gulp-imagemin');
 const uglify = require('gulp-uglify');
 const cleanCSS = require('gulp-clean-css');
 
+const through = require('through2');
+
 const cssFiles = '_stylesheets/**/*.scss';
 const jsFiles = '_javascripts/**/*.js';
 const assetsFiles = '_assets/*';
@@ -75,7 +77,7 @@ gulp.task('serve', () => {
   gulp.watch(cssFiles, ['css']);
   gulp.watch(jsFiles, ['js']);
   gulp.watch(assetsFiles, ['assets']);
-  gulp.watch(['**/*.md', '_layouts/**/*', '_includes/**/*', '_data/**/*'], ['build:reload']);
+  gulp.watch(['**/*.md', '_layouts/**/*', '_includes/**/*', '_data/**/*'], ['build:reload', 'search']);
 });
 
 gulp.task('build:reload', ['build'], () => { reload(); });
@@ -97,6 +99,137 @@ gulp.task('jekyll', () => {
 
   jekyll.stdout.on('data', jekyllLogger);
   jekyll.stderr.on('data', jekyllLogger);
+});
+
+function adjustPath (needle) {
+  let pathArray;
+  let replacement;
+
+  return through.obj((file, enc, cb) => {
+    pathArray = file.path.substring(file.base.length).split('/');
+    replacement = Array(pathArray.length).join('../') + needle.substring(1);
+
+    if (file.isNull()) {
+      return cb(null, file);
+    }
+
+    if (pathArray.length === 1) {
+      replacement = '.' + needle;
+    }
+
+    var pattern = new RegExp(needle, 'g');
+
+    if (file.isStream()) {
+      file.contents = file.contents.pipe(replace(pattern, replacement));
+    } else if (file.isBuffer()) {
+      file.contents = new Buffer(String(file.contents).replace(pattern, replacement));
+    }
+
+    return cb(null, file);
+  });
+}
+
+function adjustLink () {
+  let pathArray;
+  let replacement;
+  let needle = /(<a )(.+)?(href=['"])(\/)(.+\/)(['"])(.+)?(>)/g;
+
+  return through.obj((file, enc, cb) => {
+    pathArray = file.path.substring(file.base.length).split('/');
+    replacement = '$1' + '$2' + '$3' + Array(pathArray.length).join('../') + '$5' + 'index.html' + '$6' + '$7' + '$8';
+
+    if (file.isNull()) {
+      return cb(null, file);
+    }
+
+    if (pathArray.length === 1) {
+      replacement = '$1' + '$2' + '$3' + '.' + '$4' + '$5' + 'index.html' + '$6' + '$7' + '$8';
+    }
+
+    if (file.isStream()) {
+      file.contents = file.contents.pipe(replace(needle, replacement));
+    } else if (file.isBuffer()) {
+      file.contents = new Buffer(String(file.contents).replace(needle, replacement));
+    }
+
+    return cb(null, file);
+  });
+}
+
+function fixLink () {
+  let replacement;
+  let needle = /(href=['"])([\s]?)([^'"\s]+)([\s]?)(['"])/g;
+
+  return through.obj((file, enc, cb) => {
+    replacement = '$1' + '$3' + '$5';
+
+    if (file.isNull()) {
+      return cb(null, file);
+    }
+
+    if (file.isStream()) {
+      file.contents = file.contents.pipe(replace(needle, replacement));
+    } else if (file.isBuffer()) {
+      file.contents = new Buffer(String(file.contents).replace(needle, replacement));
+    }
+
+    return cb(null, file);
+  });
+}
+
+function adjustSearch () {
+  let pathArray;
+  let replacement;
+  let needle = /__path__/g;
+
+  return through.obj((file, enc, cb) => {
+    pathArray = file.path.substring(file.base.length).split('/');
+    replacement = Array(pathArray.length).join('../');
+
+    if (file.isNull()) {
+      return cb(null, file);
+    }
+
+    if (pathArray.length === 1) {
+      replacement = './';
+    }
+
+    if (file.isStream()) {
+      file.contents = file.contents.pipe(replace(needle, replacement));
+    } else if (file.isBuffer()) {
+      file.contents = new Buffer(String(file.contents).replace(needle, replacement));
+    }
+
+    return cb(null, file);
+  });
+}
+
+gulp.task('wadus', () => {
+  gulp.src('_site/stylesheets/**/*')
+    .pipe(gulp.dest('_deliver/stylesheets'));
+
+  gulp.src('_site/**/*.json')
+    .pipe(gulp.dest('_deliver'));
+
+  gulp.src('_site/images/**/*')
+    .pipe(gulp.dest('_deliver/images'));
+
+  gulp.src('_site/javascripts/**/*')
+    .pipe(gulp.dest('_deliver/javascripts'));
+
+  return gulp.src('_site/**/*.html')
+    .pipe(fixLink())
+    .pipe(adjustPath('/stylesheets/main.css'))
+    .pipe(adjustPath('/images'))
+    .pipe(adjustLink())
+    .pipe(gulp.dest('_deliver'));
+});
+
+gulp.task('search', () => {
+  return gulp.src('_site/**/*.html')
+    .pipe(adjustSearch())
+    .pipe(reload({stream: true}))
+    .pipe(gulp.dest('_site'));
 });
 
 // Optimise images + copy any other assets

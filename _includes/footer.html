@@ -27,7 +27,7 @@
       <ul class="footer-navigation">
         {% for footer in site.data.header.footer %}
           <li class="footer-navigationitem">
-            <a href="#">
+            <a href="{{ footer.url }}">
               {{ footer.title }}
             </a>
           </li>
@@ -41,5 +41,6 @@
 <script>
   window.lang = '{{ site.active_lang }}';
   window.baseurl = '{{ site.baseurl }}';
+  window.path = '__path__';
 </script>
-<script src="{{ site.baseurl }}/javascripts/main.js"></script>
+<script src="__path__javascripts/main.js"></script>

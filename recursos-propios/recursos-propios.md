@@ -12,72 +12,207 @@ submenu: recursos-propios
 
 ## Características de los elementos computables
 
-A efectos del cálculo de los requerimientos de recursos propios mínimos, de acuerdo a la normativa de solvencia, se consideran los elementos e instrumentos del capital de nivel 1 (Tier 1) que se define como la suma del capital de nivel 1 ordinario (CET1) y el capital de nivel 1 adicional (AT1) definidos en la Parte Segunda Título I, Capítulos I al III de la CRR, así como sus correspondientes deducciones, conforme a los artículos 36 y 56, respectivamente.
+A efectos del cálculo de los requerimientos de recursos
+propios mínimos, de acuerdo a la normativa de solvencia,
+se consideran los elementos e instrumentos del capital de
+nivel 1 (Tier 1) que se define como la suma del capital de
+nivel 1 ordinario (CET1) y el capital de nivel 1 adicional (AT1)
+definidos en la Parte Segunda Título I, Capítulos I al III de la
+CRR, así como sus correspondientes deducciones, conforme
+a los artículos 36 y 56, respectivamente.
 
-Adicionalmente, se consideran los elementos de capital de nivel 2 (Tier 2) definidos en la parte segunda capitulo IV sección I de la CRR. Además, se consideran las deducciones definidas como tales en la sección II del mismo Capítulo.
+Adicionalmente, se consideran los elementos de capital
+de nivel 2 (Tier 2) definidos en la parte segunda capitulo
+IV sección I de la CRR. Además, se consideran las
+deducciones definidas como tales en la sección II del
+mismo Capítulo.
 
-El capital de nivel 1 ordinario, tal y como se recoge en la normativa de solvencia, se componen fundamentalmente de los siguientes elementos:
+El capital de nivel 1 ordinario, tal y como se recoge en la
+normativa de solvencia, se componen fundamentalmente de
+los siguientes elementos:
 
-a) *Capital y prima de emisión*: se incluyen como tales, los elementos descritos de conformidad con el artículo 26 apartado 1, artículos 27, 28 y 29 de la CRR y la lista de la EBA a que se hace referencia en el artículo 26 apartado 3 de la CRR.
+**a) Capital y prima de emisión:** se incluyen como tales, los
+elementos descritos de conformidad con el artículo 26
+apartado 1, artículos 27, 28 y 29 de la CRR y la lista de la
+EBA a que se hace referencia en el artículo 26 apartado 3
+de la CRR.
 
-b) *Ganancias acumuladas*: de conformidad con el artículo 26, apartado 1, letra c), se incluyen las ganancias que pueden ser utilizados inmediatamente y sin restricción para la cobertura de riesgos o de pérdidas en caso de que se produzcan éstas (principalmente reservas incluyendo las reservas de sociedades consolidadas)
+**b) Ganancias acumuladas:** de conformidad con el artículo
+26, apartado 1, letra c), se incluyen las ganancias que
+pueden ser utilizados inmediatamente y sin restricción
+para la cobertura de riesgos o de pérdidas en caso de que
+se produzcan éstas (principalmente reservas incluyendo
+las reservas de sociedades consolidadas).
 
-c) *Otros ingresos acumulados y otras reservas*: se clasificarán principalmente dentro de este epígrafe, las diferencias de cambio, los ajustes por valoración asociados a la cartera de disponible para la venta, así como el saldo de la cuenta de patrimonio que recoge remuneraciones basadas en instrumentos de capital.
+**c) Otros ingresos acumulados y otras reservas:** se
+clasificarán principalmente dentro de este epígrafe,
+las diferencias de cambio, los ajustes por valoración
+asociados a la cartera de disponible para la venta, así
+como el saldo de la cuenta de patrimonio que recoge
+remuneraciones basadas en instrumentos de capital.
 
-d) *Participaciones minoritarias*: comprende la suma de los saldos de capital de nivel 1 ordinario de una filial que surgen en el proceso de consolidación global de la misma y atribuibles a personas físicas o jurídicas distintas de las incluidas en el ámbito de la consolidación prudencial.
+**d) Participaciones minoritarias:** comprende la suma
+de los saldos de capital de nivel 1 ordinario de una filial
+que surgen en el proceso de consolidación global de
+la misma y atribuibles a personas físicas o jurídicas
+distintas de las incluidas en el ámbito de la consolidación
+prudencial.
 
-e) *Beneficios provisionales*: se incluye el resultado neto referido al perímetro de entidades de crédito y descontado el importe previsible de los dividendos, de conformidad con el artículo 26, apartado 2 de la CRR.
+**e) Beneficios provisionales:** se incluye el resultado
+neto referido al perímetro de entidades de crédito y
+descontado el importe previsible de los dividendos, de
+conformidad con el artículo 26, apartado 2 de la CRR.
+Además, los recursos propios básicos están ajustados,
+principalmente, por las siguientes deducciones:
 
-Además, los recursos propios básicos están ajustados, principalmente, por las siguientes deducciones:
+**f) Ajustes de valor adicionales:** se incluyen los ajustes
+originados por la valoración prudencial (“prudent
+valuation”) de las posiciones a valor razonable, de
+conformidad con el artículo 105 de la CRR.
 
-f) *Ajustes de valor adicionales*: se incluyen los ajustes originados por la valoración prudencial (“prudent valuation”) de las posiciones a valor razonable, de conformidad con el artículo 105 de la CRR.
+**g) Activos intangibles:** se incluyen netos de los
+correspondientes pasivos por impuestos, de conformidad
+con el artículo 36, apartado 1, letra b) y el artículo 37 de la
+CRR.
 
-g) *Activos intangibles*: se incluyen netos de los correspondientes pasivos por impuestos, de conformidad con el artículo 36, apartado 1, letra b) y el artículo 37 de la CRR.
+**h) Activos por impuestos diferidos:** se entienden
+como tales, los activos por impuestos diferidos que
+dependen de rendimientos futuros con exclusión de
+los que se deriven de diferencias temporarias (neto de
+los correspondientes pasivos por impuestos cuando
+se cumplan las condiciones establecidas en el artículo
+38, apartado 3 de la CRR), de conformidad con el
+artículo 36, apartado 1, letra c), y el artículo 38 de la
+CRR.
 
-h) *Activos por impuestos diferidos*: se entienden como tales, los activos por impuestos diferidos que dependen de rendimientos futuros con exclusión de los que se deriven de diferencias temporarias (neto de los correspondientes pasivos por impuestos cuando se cumplan las condiciones establecidas en el artículo 38, apartado 3 de la CRR), de conformidad con el artículo 36, apartado 1, letra c), y el artículo 38 de la CRR.
+**i) Las pérdidas esperadas de renta variable:** se incluyen
+las pérdidas que surgen del cálculo de las exposiciones
+ponderadas por riesgo mediante método basado en las
+calificaciones internas, de conformidad con el artículo 36,
+apartado 1, letra d) de la CRR.
 
-i) *Las pérdidas esperadas de renta variable*: se incluyen las pérdidas que surgen del cálculo de las exposiciones ponderadas por riesgo mediante método basado en las calificaciones internas, de conformidad con el artículo 36, apartado 1, letra d) de la CRR.
+**j) Las pérdidas o ganancias por pasivos valorados
+al valor razonable:** se trata de aquellas derivadas de
+cambios en la propia calidad crediticia, de conformidad
+con el artículo 33, letra b) de la CRR (DVA).
 
-j) *Las pérdidas o ganancias por pasivos valorados al valor razonable*: se trata de aquellas derivadas de cambios en la propia calidad crediticia, de conformidad con el artículo 33, letra b) de la CRR (DVA).
+**k) Tenencias directas e indirectas de instrumentos
+propios (autocartera):** se consideran las acciones u
+otros valores computados como recursos propios que
+se hallen en poder de cualquier entidad consolidable
+del Grupo, así como las poseídas por entidades
+no consolidables del propio Grupo económico, de
+conformidad con el artículo 33, apartado 1, letra f) y el
+artículo 42 de la CRR.
 
-k) *Tenencias directas e indirectas de instrumentos propios (autocartera)*: se consideran las acciones u otros valores computados como recursos propios que se hallen en poder de cualquier entidad consolidable del Grupo, así como las poseídas por entidades no consolidables del propio Grupo económico, de conformidad con el artículo 33, apartado 1, letra f) y el artículo 42 de la CRR.
+**l) Titulizaciones:** se incluyen aquellas titulizaciones que
+reciben una ponderación de riesgo del 1.250%, tal y como
+indica el artículo 36, apartado 1, letra k), inciso ii) de la
+CRR.
 
-l) *Titulizaciones*: se incluyen aquellas titulizaciones que reciben una ponderación de riesgo del 1.250%, tal y como indica el artículo 36, apartado 1, letra k), inciso ii) de la CRR.
+**m) Los ajustes transitorios de capital de nivel 1 ordinario:**
+se consideran como tal, las pérdidas y ganancias no realizadas valoradas al valor razonable, de conformidad
+con los artículos 467 y 468 de la CRR.
 
-m) *Los ajustes transitorios de capital de nivel 1 ordinario*: se consideran como tal, las pérdidas y ganancias no realizadas valoradas al valor razonable, de conformidad con los artículos 467 y 468 de la CRR.
+**n) Deducciones admisibles de capital de nivel 1 ordinario:**
+se incluyen las deducciones que superan el capital de nivel
+1 adicional, según se describe en el artículo 36 apartado 1,
+letra b) de la CRR.
 
-n) *Deducciones admisibles de capital de nivel 1 ordinario*: se incluyen las deducciones que superan el capital de nivel 1 adicional, según se describe en el artículo 36 apartado 1, letra b) de la CRR.
+La aplicación de algunas de las deducciones anteriores
+(principalmente activos intangibles y BINs) se realizará
+de forma progresiva durante un período transitorio de 5
+años a contar desde 2014 (faseado) tal y como establece la
+regulación vigente.
 
-La aplicación de algunas de las deducciones anteriores (principalmente activos intangibles y BINs) se realizará de forma progresiva durante un período transitorio de 5 años a contar desde 2014 (faseado) tal y como establece la regulación vigente.
+Otras deducciones que podrían ser de aplicación serían las
+constituidas por participaciones significativas en entidades
+financieras y activos por impuestos diferidos derivados de
+diferencias temporarias que superen el límite del 10% del CET1 así
+como la deducción por superación conjunta del límite del 17,65%
+del CET1 de conformidad con el artículo 48 apartado 2 de la CRR.
 
-Otras deducciones que podrían ser de aplicación serían las constituidas por participaciones significativas en entidades financieras y activos por impuestos diferidos derivados de diferencias temporarias que superen el límite del 10% del CET1 así como la deducción por superación conjunta del límite del 17,65% del CET1 de conformidad con el artículo 48 apartado 2 de la CRR.
+De forma adicional, el Grupo incluye como recursos propios
+computables los instrumentos de capital de nivel 1 adicional
+definidos en los artículos 51, 85 y 484 de la CRR, incluyendo
+los ajustes correspondientes, de conformidad al artículo 472
+de la CRR:
 
-De forma adicional, el Grupo incluye como recursos propios computables los instrumentos de capital de nivel 1 adicional definidos en los artículos 51, 85 y 484 de la CRR, incluyendo los ajustes correspondientes, de conformidad al artículo 472 de la CRR: 
+**o) Instrumentos de capital y primas de emisión
+clasificados como pasivo:** se incluyen en este epígrafe
+los valores perpetuos eventualmente convertibles que
+cumplen las condiciones establecidas en el artículo 52,
+apartado 1 de la CRR.
 
-o) *Instrumentos de capital y primas de emisión clasificados como pasivo*: se incluyen en este epígrafe los valores perpetuos eventualmente convertibles que cumplen las condiciones establecidas en el artículo 52, apartado 1 de la CRR.
+**p) Elementos a que se refiere el artículo 484, apartado
+4 de la CRR:** se incluyen en este apartado las
+participaciones preferentes emitidas por el Grupo.
 
-p) *Elementos a que se refiere el artículo 484, apartado 4 de la CRR*: se incluyen en este apartado las participaciones preferentes emitidas por el Grupo.
+**q) Ajustes transitorios capital de nivel 1 adicional:** se
+incluyen los ajustes contemplados por el artículo 472 de la
+CRR como medidas establecidas para la adopción gradual
+de los nuevos ratios de capital.
 
-q) *Ajustes transitorios capital de nivel 1 adicional*: se incluyen los ajustes contemplados por el artículo 472 de la CRR como medidas establecidas para la adopción gradual de los nuevos ratios de capital.
+Finalmente, la entidad incluye en los recursos propios
+computables el capital de nivel 2 que, principalmente, junto
+con lo indicado en el artículo 87 de la CRR, se compone de los
+siguientes elementos:
 
-Finalmente, la entidad incluye en los recursos propios computables el capital de nivel 2 que, principalmente, junto con lo indicado en el artículo 87 de la CRR, se compone de los siguientes elementos:
+**r) Financiación subordinada recibida por el Grupo:**
+se entienden como tal la financiación que, a efectos
+de prelación de créditos se sitúa detrás de todos los
+acreedores comunes. Las emisiones, además, tienen que
+cumplir una serie de condiciones que vienen recogidas en
+el artículo 63 de la CRR.
 
-r) *Financiación subordinada recibida por el Grupo*: se entienden como tal la financiación que, a efectos de prelación de créditos se sitúa detrás de todos los acreedores comunes. Las emisiones, además, tienen que cumplir una serie de condiciones que vienen recogidas en el artículo 63 de la CRR.
+**s) Instrumentos y elementos emitidos o admisibles como
+fondos propios antes del 31 de diciembre de 2011:** se
+incluye en el capital de nivel 2 la financiación subordinada
+recibida por el Grupo que no cumple con las condiciones
+del artículo 63 de la CRR, pero que resulta admisible en el
+capital regulatorio transicional, de acuerdo al artículo 484
+de la CRR.
 
-s) *Instrumentos y elementos emitidos o admisibles como fondos propios antes del 31 de diciembre de 2011*: se incluye en el capital de nivel 2 la financiación subordinada recibida por el Grupo que no cumple con las condiciones del artículo 63 de la CRR, pero que resulta admisible en el capital regulatorio transicional, de acuerdo al artículo 484 de la CRR.
+**t) Instrumentos de fondos propios admisibles incluidos
+en el capital de nivel 2 consolidado emitidos por
+filiales y en manos de terceros:** se incluyen dichos
+instrumentos, de conformidad con los descrito en los
+artículos 87 y 88 de la CRR.
 
-t) *Instrumentos de fondos propios admisibles incluidos en el capital de nivel 2 consolidado emitidos por filiales y en manos de terceros*: se incluyen dichos instrumentos, de conformidad con los descrito en los artículos 87 y 88 de la CRR.
+**u) Exceso entre las correcciones de valor por deterioro
+de los activos más las provisiones por riesgos
+calculadas de acuerdo con el método IRB sobre las
+pérdidas esperadas correspondientes a las mismas:**
+se computa el exceso entre la suma de las correcciones
+de valor por deterioro de activos y de las provisiones por
+riesgos relacionadas con las exposiciones calculadas
+de acuerdo al método IRB y las pérdidas esperadas
+correspondientes a las mismas en la parte que no supere
+el 0,6% de las exposiciones ponderadas por riesgo.
 
-u) *Exceso entre las correcciones de valor por deterioro de los activos más las provisiones por riesgos calculadas de acuerdo con el método IRB sobre las pérdidas esperadas correspondientes a las mismas*: se computa el exceso entre la suma de las correcciones de valor por deterioro de activos y de las provisiones por riesgos relacionadas con las exposiciones calculadas de acuerdo al método IRB  y las pérdidas esperadas correspondientes a las mismas en la parte que no supere el 0,6% de las exposiciones ponderadas por riesgo.
+En el anexo VI de este informe se presentan las emisiones de
+valores perpetuos eventualmente convertibles y emisiones
+de acciones preferentes del Grupo que, como se ha
+explicado anteriormente, forman parte del capital de nivel 1
+adicional.
 
-En el anexo VI de este informe se presentan las emisiones de valores perpetuos eventualmente convertibles y emisiones de acciones preferentes del Grupo que, como se ha explicado anteriormente, forman parte del capital de nivel 1 adicional.
-
-Se detallan adicionalmente en dicho anexo las emisiones de financiación subordinada a 31 de Diciembre de 2016 del Grupo computables como capital de nivel 2.
+Se detallan adicionalmente en dicho anexo las emisiones
+de financiación subordinada a 31 de Diciembre de 2016 del
+Grupo computables como capital de nivel 2.
 
 
 ## Importe de los recursos propios
 
-A continuación se muestra el importe de los recursos propios computables, netos de deducciones, de los diferentes elementos que componen la base de capital a 31 de diciembre de 2016 y 31 de Diciembre de 2015, de acuerdo a los requerimientos de divulgación de información relativa a fondos propios transitorios establecido por el Reglamento de Ejecución (UE) No 1423/2013 de la Comisión de 20 de diciembre de 2013:
+A continuación se muestra el importe de los recursos propios
+computables, netos de deducciones, de los diferentes
+elementos que componen la base de capital a 31 de
+diciembre de 2016 y 31 de Diciembre de 2015, de acuerdo a
+los requerimientos de divulgación de información relativa a
+fondos propios transitorios establecido por el Reglamento
+de Ejecución (UE) No 1423/2013 de la Comisión de 20 de
+diciembre de 2013:
+
+**TABLA 5: Importe de los recursos propios**
 
 
 <table>
@@ -296,28 +431,55 @@ A continuación se muestra el importe de los recursos propios computables, netos
     </tbody>
 </table>
 
-Las variaciones del ratio de capital de nivel 1 (CET1) del cuadro anterior se explican, principalmente por la generación de resultados, neto de pago de dividendos y retribuciones, y en una eficiente gestión y asignación de capital del Grupo alineados con los objetivos estratégicos del mismo.
+Las variaciones del ratio de capital de nivel 1 (CET1) del
+cuadro anterior se explican, principalmente por la generación
+de resultados, neto de pago de dividendos y retribuciones,
+y en una eficiente gestión y asignación de capital del Grupo
+alineados con los objetivos estratégicos del mismo.
 
-Adicionalmente, se produce un efecto negativo en las participaciones minoritarias y deducciones, por el impacto del calendario de faseado del 60% en 2016, frente al 40% en 2015.
+Adicionalmente, se produce un efecto negativo en las
+participaciones minoritarias y deducciones, por el impacto del
+calendario de faseado del 60% en 2016, frente al 40% en 2015.
 
-Durante 2016, el Grupo ha completado el nivel de capital adicional de nivel 1 recomendado por la regulación (1,5% de los activos ponderados por riesgo) con la emisión de valores perpetuos eventualmente convertibles en acciones, calificada como instrumentos de capital de nivel 1 adicional (contingent convertible) bajo la normativa de solvencia y que contribuye a que el ratio de capital de nivel 1 (TIER 1) se sitúe en el 12,88%.
+Durante 2016, el Grupo ha completado el nivel de capital
+adicional de nivel 1 recomendado por la regulación (1,5% de
+los activos ponderados por riesgo) con la emisión de valores
+perpetuos eventualmente convertibles en acciones, calificada
+como instrumentos de capital de nivel 1 adicional (contingent
+convertible) bajo la normativa de solvencia y que contribuye a
+que el ratio de capital de nivel 1 (TIER 1) se sitúe en el 12,88%.
 
-En cuanto al capital de nivel 2, la reducción con respecto al ejercicio anterior se debe a que a 31 de diciembre de 2016 se deja de computar el ajuste de riesgo de crédito en la parte relacionada con los modelos de riesgo de crédito estándar.
+En cuanto al capital de nivel 2, la reducción con respecto al
+ejercicio anterior se debe a que a 31 de diciembre de 2016
+se deja de computar el ajuste de riesgo de crédito en la parte
+relacionada con los modelos de riesgo de crédito estándar.
 
-Finalmente, el ratio total se sitúa en el 15,14%, recogiendo los efectos comentados anteriormente.
+Finalmente, el ratio total se sitúa en el 15,14%, recogiendo los
+efectos comentados anteriormente.
 
-En el anexo V del presente documento se muestran las características de los principales instrumentos de capital, para reflejar, con el nivel de detalle reglamentariamente exigido, las características de los instrumentos de capital de una entidad, de acuerdo al Reglamento de Ejecución (UE) No 1423/2013 de la Comisión de 20 de diciembre de 2013.
+En el anexo V del presente Documento se muestran las
+características de los principales instrumentos de capital,
+para reflejar, con el nivel de detalle reglamentariamente
+exigido, las características de los instrumentos de capital
+de una entidad, de acuerdo al Reglamento de Ejecución
+(UE) No 1423/2013 de la Comisión de 20 de diciembre de
+2013.
 
-Siguiendo las recomendaciones de la EBA, se muestra a continuación el proceso seguido para, partiendo del capital contable informado en las Cuentas Anuales Consolidadas del Grupo y aplicando las deducciones y ajustes expuestos en la siguiente tabla, llegar a la cifra de capital regulatorio computable a efectos de solvencia:
+Siguiendo las recomendaciones de la EBA, se muestra a
+continuación el proceso seguido para, partiendo del capital
+contable informado en las Cuentas Anuales Consolidadas
+del Grupo y aplicando las deducciones y ajustes expuestos
+en la siguiente tabla, llegar a la cifra de capital regulatorio
+computable a efectos de solvencia:
 
 **TABLA 6: Reconciliación capital contable con capital regulatorio**
 
 <table class="tableizer-table">
     <thead>
         <tr class="tableizer-firstrow">
-            <th>Recursos propios Computables (*)</th>
+            <th>Recursos propios Computables</th>
             <th>31/12/2016</th>
-            <th>12/31/15</th>
+            <th>12/31/2015</th>
         </tr>
     </thead>
     <tbody>
@@ -458,7 +620,7 @@ Siguiendo las recomendaciones de la EBA, se muestra a continuación el proceso s
         </tr>
         <tr class="b2">
             <td>Total recursos propios mínimos exigibles </td>
-            <td>37.920</td>
+            <td>37.923</td>
             <td>38.125</td>
         </tr>
     </tbody>
@@ -469,26 +631,70 @@ Siguiendo las recomendaciones de la EBA, se muestra a continuación el proceso s
 
 ## Perfil de riesgos de la entidad
 
-El Grupo BBVA cuenta con un Modelo General de gestión y control de Riesgos (denominado, en adelante, el “Modelo”) adecuado a su modelo de negocio, a su organización y a las geografías en las que opera, que le permite desarrollar su actividad en el marco de la estrategia y política de control y gestión de riesgos definida por los órganos sociales del Banco y adaptarse a un entorno económico y regulatorio cambiante; afrontando la gestión de manera global y adaptada a las circunstancias de cada momento. El Modelo establece un sistema de gestión de riesgos adecuado en relación al perfil de riesgos y a la estrategia de la entidad.
+El Grupo BBVA cuenta con un Modelo General de gestión y
+control de Riesgos (denominado, en adelante, el “Modelo”)
+adecuado a su modelo de negocio, a su organización y a las
+geografías en las que opera, que le permite desarrollar su
+actividad en el marco de la estrategia y política de control y
+gestión de riesgos definida por los órganos sociales del Banco
+y adaptarse a un entorno económico y regulatorio cambiante;
+afrontando la gestión de manera global y adaptada a las
+circunstancias de cada momento. El Modelo establece un
+sistema de gestión de riesgos adecuado en relación al perfil de
+riesgos y a la estrategia de la entidad.
 
-Los riesgos inherentes al negocio que componen el perfil de riesgos del Grupo BBVA son los siguientes:
+Los riesgos inherentes al negocio que componen el perfil de
+riesgos del Grupo BBVA son los siguientes:
 
-• Riesgo de crédito: el riesgo de crédito tiene su origen en la probabilidad de que una de las partes del contrato del instrumento financiero incumpla sus obligaciones contractuales por motivos de insolvencia o incapacidad de pago y produzca a la otra parte una pérdida financiera. Incluye el riesgo de contrapartida, riesgo emisor, riesgo de liquidación y riesgo-país.
+- **Riesgo de crédito:** el riesgo de crédito tiene su origen
+en la probabilidad de que una de las partes del contrato
+del instrumento financiero incumpla sus obligaciones
+contractuales por motivos de insolvencia o incapacidad
+de pago y produzca a la otra parte una pérdida financiera.
+Incluye el riesgo de contrapartida, riesgo emisor, riesgo de
+liquidación y riesgo-país.
 
-• Riesgo de contraparte: el riesgo de contraparte tiene su origen en la posibilidad de que se produzcan pérdidas derivadas de posiciones en derivados y repos.
+-**Riesgo de contraparte:** el riesgo de contraparte tiene
+su origen en la posibilidad de que se produzcan pérdidas
+derivadas de posiciones en derivados y repos.
 
-• Riesgo de ajuste de valoración del crédito (CVA): tiene como objetivo reflejar el impacto en el valor razonable del riesgo de crédito de la contraparte.
+-**Riesgo de ajuste de valoración del crédito (CVA):** tiene
+como objetivo reflejar el impacto en el valor razonable del
+riesgo de crédito de la contraparte.
 
-• Riesgo de mercado: el riesgo de mercado tiene su origen en la posibilidad de que se produzcan pérdidas en el valor de las posiciones mantenidas como consecuencia de los movimientos en las variables de mercado que inciden en la valoración de los productos y activos financieros en la actividad de trading.
+-**Riesgo de mercado:** el riesgo de mercado tiene su origen
+en la posibilidad de que se produzcan pérdidas en el valor
+de las posiciones mantenidas como consecuencia de los
+movimientos en las variables de mercado que inciden en
+la valoración de los productos y activos financieros en la
+actividad de trading.
 
-• Riesgo operacional: provocar pérdidas debido a errores humanos procesos internos inadecuados o defectuosos, fallos en los sistemas y como consecuencia de acontecimientos externos. Esta definición incluye el riesgo legal y excluye el riesgo estratégico y/o de negocio y el riesgo reputacional.
+-**Riesgo operacional:** provocar pérdidas debido a
+errores humanos procesos internos inadecuados o
+defectuosos, fallos en los sistemas y como consecuencia de
+acontecimientos externos. Esta definición incluye el riesgo
+legal y excluye el riesgo estratégico y/o de negocio y el riesgo
+reputacional.
 
-• Riesgos estructurales: se subdivide en riesgo de tipo de interés estructural (los movimientos en los tipos de interés de mercado provocan alteraciones en el margen financiero y en el valor patrimonial de una entidad) y riesgo de interés de cambio estructural (exposición a variaciones en los tipos de cambio con origen en las sociedades extranjeras del Grupo y en los fondos de dotación a las sucursales en el extranjero financiados en una divisa distinta a la de la inversión).
+-**Riesgos estructurales:** se subdivide en riesgo de tipo de
+interés estructural (los movimientos en los tipos de interés
+de mercado provocan alteraciones en el margen financiero y
+en el valor patrimonial de una entidad) y riesgo de interés de
+cambio estructural (exposición a variaciones en los tipos de
+cambio con origen en las sociedades extranjeras del Grupo
+y en los fondos de dotación a las sucursales en el extranjero
+financiados en una divisa distinta a la de la inversión).
 
-• Riesgo de liquidez: riesgo de incurrir en dificultades para atender a los compromisos de pago en el tiempo y forma previstos o que, para atenderlos, tenga que recurrir a la obtención de fondos en condiciones gravosas o que deterioren la imagen o reputación de la entidad.
+-**Riesgo de liquidez:** riesgo de incurrir en dificultades
+para atender a los compromisos de pago en el tiempo y
+forma previstos o que, para atenderlos, tenga que recurrir
+a la obtención de fondos en condiciones gravosas o que
+deterioren la imagen o reputación de la entidad.
 
-A continuación se muestra el total de los activos ponderados por riesgo, desglosado por tipo de riesgo (donde el riesgo de crédito engloba el riesgo de contraparte) a 31 de diciembre de 2016 y 31 de diciembre de 2015:
-
+A continuación se muestra el total de los activos ponderados por
+riesgo, desglosado por tipo de riesgo (donde el riesgo de crédito
+engloba el riesgo de contraparte) a 31 de diciembre de 2016 y 31
+de diciembre de 2015:
 
 **GRÁFICO 1: Distribución de APRs por tipo de Riesgo**
 
@@ -497,41 +703,93 @@ height="2.114650043744532in"}
 
 ## Detalle de los requerimientos de recursos propios mínimos por tipo de riesgo
 
-De acuerdo al artículo 92 de la CRR, las entidades deberán cumplir en todo momento los siguientes requisitos de fondos propios:
+De acuerdo al artículo 92 de la CRR, las entidades deberán
+cumplir en todo momento los siguientes requisitos de fondos
+propios:
 
-a) Ratio de capital de nivel 1 ordinario del 4,5%, obtenido como el nivel de capital 1 ordinario expresado en porcentaje sobre el importe total de los activos ponderados por riesgo.
+a) Ratio de capital de nivel 1 ordinario del 4,5%, obtenido
+como el nivel de capital 1 ordinario expresado en
+porcentaje sobre el importe total de los activos
+ponderados por riesgo.
 
-b) Ratio de capital de nivel 1 del 6%, obtenido como el nivel de capital 1 expresado en porcentaje sobre el importe total de los activos ponderados por riesgo.
+b) Ratio de capital de nivel 1 del 6%, obtenido como el nivel
+de capital 1 expresado en porcentaje sobre el importe total
+de los activos ponderados por riesgo.
 
-c) Ratio total de capital del 8%, obtenido como los fondos propios expresados en porcentaje sobre el importe total de los activos ponderados por riesgo.
+c) Ratio total de capital del 8%, obtenido como los fondos
+propios expresados en porcentaje sobre el importe total
+de los activos ponderados por riesgo.
 
-Con independencia de lo establecido en el artículo 92 de la CRR, tras el proceso de revisión y evaluación supervisora (SREP), a 31 de diciembre de 2016 se deberá cumplir un nivel de capital 1 ordinario mínimo del 9.75%. El Grupo mantiene a 31 de diciembre de 2016 un ratio de CET1 phased-in del 12,18%, por encima de lo requerido.
+Con independencia de lo establecido en el artículo 92 de la
+CRR, tras el proceso de revisión y evaluación supervisora
+(SREP), a 31 de diciembre de 2016 se deberá cumplir un nivel
+de capital 1 ordinario mínimo del 9.75%. El Grupo mantiene
+a 31 de diciembre de 2016 un ratio de CET1 phased-in del
+12,18%, por encima de lo requerido.
 
-El importe total de los requerimientos de capital está compuesto principalmente por los siguientes elementos:
+El importe total de los requerimientos de capital está
+compuesto principalmente por los siguientes elementos:
 
-• **Riesgo de crédito y dilución**
-Las exposiciones ponderadas por riesgo de crédito y de dilución, excluido el importe de las exposiciones ponderadas por riesgo correspondientes a la cartera de negociación. Para calcular las exposiciones ponderadas por riesgo, las entidades de crédito podrán aplicar el método estándar o método basado en calificaciones internas si las autoridades competentes lo permiten.
+-**Riesgo de crédito y dilución**
 
-• **Riesgo de contraparte**
-Las exposiciones ponderadas por riesgos de contraparte correspondientes a la operativa de repos y derivados (apartado 3.2.6 del presente Documento).
+Las exposiciones ponderadas por riesgo de crédito
+y de dilución, excluido el importe de las exposiciones
+ponderadas por riesgo correspondientes a la cartera de
+negociación. Para calcular las exposiciones ponderadas
+por riesgo, las entidades de crédito podrán aplicar el
+método estándar o método basado en calificaciones
+internas si las autoridades competentes lo permiten.
 
-• **Riesgo de mercado**
-Tiene su origen principalmente en la cartera de negociación y comprende los requisitos de fondos propios con respecto al riesgo de posición en instrumentos de deuda y renta variable, riesgo de tipo de cambio y riesgo de materias primas. 
+-**Riesgo de contraparte**
 
-• **Riesgo de tipo de cambio**
-Los requisitos de fondos propios determinados con respecto al riesgo de tipo de cambio, al riesgo de liquidación y al riesgo de materias primas
+Las exposiciones ponderadas por riesgos de contraparte
+correspondientes a la operativa de repos y derivados
+(apartado 3.2.6 del presente Documento).
 
-• **Riesgo de ajuste de valoración del crédito**
-Los requisitos de fondos propios con respecto al riesgo de ajuste de valoración del crédito resultante de los instrumentos derivados OTC que no sean derivados de crédito reconocidos a efectos de reducción del importe de las exposiciones ponderadas por riesgo de crédito.
+-**Riesgo de mercado**
 
-• **Riesgo operacional**
-Los requisitos de fondos propios determinados de acuerdo con el título III de la CRR con respecto al riesgo operativo.
+Tiene su origen principalmente en la cartera de
+negociación y comprende los requisitos de fondos propios
+con respecto al riesgo de posición en instrumentos de
+deuda y renta variable, riesgo de tipo de cambio y riesgo
+de materias primas.
 
-Adicionalmente, como se indicó en el apartado introductorio del presente Documento, Basilea III, a diferencia del marco anterior, introduce como complemento de los requerimientos mínimos de capital los buffers o colchones de capital. Para facilitar la adaptación de las entidades financieras a los requerimientos mínimos de capital, se ha establecido un período de transición hasta 2019.
+-**Riesgo de tipo de cambio**
 
-La parte tercera de la CRR establece los requisitos de capital, de acuerdo al nuevo marco de Basilea III, así como las técnicas de cálculo de los distintos ratios de capital mínimo regulatorio.
+Los requisitos de fondos propios determinados con
+respecto al riesgo de tipo de cambio, al riesgo de
+liquidación y al riesgo de materias primas.
 
-A continuación se muestra el total de los requerimientos de capital desglosado por tipo de riesgo a 31 de diciembre de 2016 y a 31 de diciembre de 2015. Las posiciones en titulizaciones (método estándar y avanzado), renta variable y riesgo de contraparte se desglosan de forma independiente:
+-**Riesgo de ajuste de valoración del crédito**
+
+Los requisitos de fondos propios con respecto al riesgo
+de ajuste de valoración del crédito resultante de los
+instrumentos derivados OTC que no sean derivados de
+crédito reconocidos a efectos de reducción del importe de
+las exposiciones ponderadas por riesgo de crédito.
+
+-**Riesgo operacional**
+
+Los requisitos de fondos propios determinados de acuerdo
+con el título III de la CRR con respecto al riesgo operativo.
+
+Adicionalmente, como se indicó en el apartado introductorio
+del presente Documento, Basilea III, a diferencia del marco
+anterior, introduce como complemento de los requerimientos
+mínimos de capital los buffers o colchones de capital. Para
+facilitar la adaptación de las entidades financieras a los
+requerimientos mínimos de capital, se ha establecido un
+período de transición hasta 2019.
+
+La parte tercera de la CRR establece los requisitos de capital,
+de acuerdo al nuevo marco de Basilea III, así como las técnicas
+de cálculo de los distintos ratios de capital mínimo regulatorio.
+
+A continuación se muestra el total de los requerimientos
+de capital desglosado por tipo de riesgo a 31 de diciembre
+de 2016 y a 31 de diciembre de 2015. Las posiciones en
+titulizaciones (método estándar y avanzado), renta variable y
+riesgo de contraparte se desglosan de forma independiente:
 
 
 **TABLA 7: EU OV1- Requerimientos de capital por tipo de riesgo**
@@ -540,229 +798,283 @@ A continuación se muestra el total de los requerimientos de capital desglosado 
     <thead>
         <tr class="tableizer-firstrow">
             <th></th>
-            <th colspan="2">APRs</th>
-            <th colspan="1">Requerimientos mínimos de capital</th>
+            <th></th>
+            <th colspan="1">APRs (1)</th>
+            <th colspan="1">Requerimientos mínimos de capital (2) (3)</th>
         </tr>
         <tr class="tableizer-firstrow">
             <th></th>
             <th>12/31/16</th>
-            <th>12/31/15</th>
+            <th>12/31/15 (4)</th>
             <th>12/31/16</th>
         </tr>
     </thead>
     <tbody>
         <tr class="b2">
             <td>Riesgo de crédito (excluido riesgo de crédito de contraparte)</td>
-            <td>324893,669</td>
-            <td>336042,832</td>
-            <td>25991,49352</td>
+            <td>309.046</td>
+            <td>320.147</td>
+            <td>24.724</td>
         </tr>
         <tr>
             <td>Del cual, con el método estándar</td>
-            <td>223560,956</td>
-            <td>224181,61</td>
-            <td>17884,87648</td>
+            <td>215.908</td>
+            <td>218.072</td>
+            <td>17.273</td>
         </tr>
         <tr>
             <td>Del cual, con el método básico basado en calificaciones internas (FIRB)</td>
-            <td>0</td>
-            <td>655,59</td>
-            <td>0</td>
+            <td>-</td>
+            <td>656</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Del cual, con el método avanzado basado en calificaciones internas (AIRB)</td>
-            <td>84693,664</td>
-            <td>91683,437</td>
-            <td>6775,49312</td>
+            <td>89.589</td>
+            <td>97.913</td>
+            <td>7.167</td>
         </tr>
         <tr>
             <td>Del cual, con renta variable basado en calificaciones internas con el método simple de ponderación de riesgo</td>
-            <td>16639,049</td>
-            <td>19522,195</td>
-            <td>1331,12392</td>
+            <td>3.548</td>
+            <td>5.507</td>
+            <td>284</td>
         </tr>
         <tr class="b2">
             <td>Riesgo de crédito de contraparte (CCR)</td>
-            <td>11887,74</td>
-            <td>14397,567</td>
-            <td>951,0192</td>
+            <td>11.888</td>
+            <td>14.398</td>
+            <td>951</td>
         </tr>
         <tr>
             <td>Del cual market to market</td>
-            <td>9473,423</td>
-            <td>10053,487</td>
-            <td>757,87384</td>
+            <td>9.473</td>
+            <td>10.053</td>
+            <td>758</td>
         </tr>
         <tr>
             <td>Del cual exposición original</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Del cual, con el método estándar para el riesgo de crédito de contraparte</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Del cual, con el método de modelos internos (IMM)</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Del cual, cantidad de exposición en riesgo para contribución al fondo de garantía por impago de una ECC</td>
             <td>93</td>
             <td>511</td>
-            <td>7,44</td>
+            <td>7</td>
         </tr>
         <tr>
             <td>Del cual, CVA</td>
-            <td>2321,317</td>
-            <td>3833,08</td>
-            <td>185,70536</td>
+            <td>2.321</td>
+            <td>3.833</td>
+            <td>186</td>
         </tr>
         <tr class="b2">
             <td>Riesgo de liquidación</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr class="b2">
             <td>Exposiciones de titulización en la cartera de inversión</td>
-            <td>1476,54</td>
-            <td>1394,546</td>
-            <td>118,1232</td>
+            <td>1.477</td>
+            <td>1.395</td>
+            <td>118</td>
         </tr>
         <tr>
             <td>Del cual método basado en calificaciones internas (IRB)</td>
-            <td>332,406</td>
-            <td>345,629</td>
-            <td>26,59248</td>
+            <td>332</td>
+            <td>346</td>
+            <td>27</td>
         </tr>
         <tr>
             <td>Del cual, con el método IRB basado en la fórmula supervisora (SFA)</td>
-            <td>1144,134</td>
-            <td>1048,917</td>
-            <td>91,53072</td>
+            <td>1.144</td>
+            <td>1.049</td>
+            <td>92</td>
         </tr>
         <tr>
             <td>Del cual, con el método de evaluación interna (IAA)</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Del cual, con el método estándar (SA)</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr class="b2">
             <td>Riesgo de mercado</td>
-            <td>16370,087</td>
-            <td>16159,1015</td>
-            <td>1309,60696</td>
+            <td>16.370</td>
+            <td>16.159</td>
+            <td>1.310</td>
         </tr>
         <tr>
             <td>Del cual, con el método estándar (SA)</td>
-            <td>7111,624</td>
-            <td>6804,0515</td>
-            <td>568,92992</td>
+            <td>7.112</td>
+            <td>6.804</td>
+            <td>569</td>
         </tr>
         <tr>
             <td>Del cual, con los métodos basados en modelos internos (IMM)</td>
-            <td>9258,463</td>
-            <td>9355,05</td>
-            <td>740,67704</td>
-        </tr>
-        <tr class="b2">
-            <td>Grandes exposiciones</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>9.258</td>
+            <td>9.355</td>
+            <td>74º</td>
         </tr>
         <tr class="b2">
             <td>Riesgo operacional</td>
-            <td>34323,1325154428</td>
-            <td>33291,313</td>
-            <td>2745,85060123543</td>
+            <td>34.323</td>
+            <td>33.291</td>
+            <td>2.746</td>
         </tr>
         <tr>
             <td>Del cual, con el Método del Indicador Básico</td>
-            <td>6443,91404835546</td>
-            <td>6457,4</td>
-            <td>515,513123868436</td>
+            <td>6.444</td>
+            <td>6.457</td>
+            <td>516</td>
         </tr>
         <tr>
             <td>Del cual, con el Método Estándar</td>
-            <td>10781,2680491714</td>
-            <td>11383,65</td>
-            <td>862,501443933708</td>
+            <td>10.781</td>
+            <td>11.384</td>
+            <td>863</td>
         </tr>
         <tr>
             <td>Del cual, con el Método de Medición Avanzada</td>
-            <td>17097,950417916</td>
-            <td>15450,263</td>
-            <td>1367,83603343328</td>
+            <td>17,098</td>
+            <td>15.450</td>
+            <td>1.368</td>
         </tr>
         <tr class="b2">
             <td>Importes por debajo de los umbrales de deducción (sujeto a ponderación por riesgo del 250%)</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>15.848</td>
+            <td>15.896</td>
+            <td>1.268</td>
         </tr>
         <tr class="b2">
             <td>Ajuste mínimo (suelo)</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr class="b2">
             <td>TOTAL</td>
-            <td>388951,168515443</td>
-            <td>401285,3595</td>
-            <td>31116,0934812354</td>
+            <td>388.951</td>
+            <td>401.285</td>
+            <td>31.116</td>
         </tr>
     </tbody>
 </table>
 
-(1) Activos ponderados por riesgo conforme al periodo transitorio (phased-in).
-
-(2) Calculados sobre el 8% de los APRs.
-
-(3) Bajo requerimientos de CET 1 (9,75%) tras el proceso de evaluación supervisora (SREP), los requerimientos ascienden a 37.923 millones de euros.
-
-(4) Se presenta sólo a efectos comparativos y corresponde con datos proforma a diciembre de 2015.
-
+<ul class="cita"><li>(1) Activos ponderados por riesgo conforme al periodo transitorio (phased-in).</li>
+<li>(2) Calculados sobre el 8% de los APRs.</li>
+<li>(3) Bajo requerimientos de CET 1 (9,75%) tras el proceso de evaluación supervisora (SREP), los requerimientos ascienden a 37.923 millones de euros.</li>
+<li>(4) Se presenta sólo a efectos comparativos y corresponde con datos proforma a diciembre de 2015.</li>
+<li>(5) Se excluyen los activos por impuestos diferidos que se deriven de diferencias temporarias, que no se deducen de los fondos propios computables (sujetos a ponderación
+de riesgo del 250%) de acuerdo con el artículo 48.4 CRR. Este importe asciende a 7.653 y 6.110 a 31 de diciembre de 2016 y 31 de diciembre de 2015, respectivamente.</li>
+<li>(6) Se excluyen las inversiones significativas en entidades del sector financiero y aseguradoras que no se deducen de los fondos propios computables (sujetas a
+ponderación de riesgo del 250%) de acuerdo con el artículo 48.4 CRR. Este importe asciende a 8.195 y 9.786 a 31 de diciembre de 2016 y 31 de diciembre de 2015,
+respectivamente.</li></ul>
 
 ## Procedimiento empleado proceso autoevaluación capital
 
-Para cumplir con el requerimiento del Pilar II de Basilea, el Grupo lleva a cabo el proceso de autoevaluación de capital acorde a las directrices marcadas por el supervisor.
+Para cumplir con el requerimiento del Pilar II de Basilea, el
+Grupo lleva a cabo el proceso de autoevaluación de capital
+acorde a las directrices marcadas por el supervisor.
 
-El proceso presupuestario del Grupo es el entorno en el que se realiza la estimación, tanto del capital económico en riesgo consumido por las diferentes áreas de negocio, como de la base de capital regulatoria. 
+El proceso presupuestario del Grupo es el entorno en el que
+se realiza la estimación tanto del capital económico en riesgo
+consumido por las diferentes áreas de negocio como de la
+base de capital regulatoria.
 
-El capital económico se calcula mediante modelos internos que recogen los datos históricos existentes en el Grupo y que permiten estimar el capital necesario para el desarrollo de la actividad ajustado a los riesgos inherentes de la misma. En dichos cálculos se recogen riesgos adicionales a los contemplados bajo el Pilar 1 regulatorio.
+El capital económico se calcula mediante modelos internos
+que recogen los datos históricos existentes en el Grupo y que
+permiten estimar el capital necesario para el desarrollo de
+la actividad ajustado a los riesgos inherentes de la misma.
+En dichos cálculos se recogen riesgos adicionales a los
+contemplados bajo el Pilar 1 regulatorio.
 
-Dentro del proceso de autoevaluación de capital se realiza una evaluación de los siguientes puntos:
+Dentro del proceso de autoevaluación de capital se realiza
+una evaluación de los siguientes puntos:
 
-• Sistemas de gobierno, gestión y control de riesgos: Revisión de la cultura corporativa de Riesgos, Auditoría Interna y Governance de Capital. El Grupo ha desarrollado un sistema de gobierno corporativo en línea con las mejores prácticas internacionales y adaptado a los requerimientos de los reguladores del país en el que operan sus distintas unidades de negocio.
+- Sistemas de gobierno, gestión y control de riesgos:
+Revisión de la cultura corporativa de Riesgos, Auditoría
+Interna y Governance de Capital. El Grupo ha desarrollado
+un sistema de gobierno corporativo en línea con las
+mejores prácticas internacionales y adaptado a los
+requerimientos de los reguladores del país en el que
+operan sus distintas unidades de negocio.
 
-• Perfil de riesgos del Grupo: Medición de los riesgos (crédito, operacional, mercado, liquidez y resto de riesgos estructurales, entre otros) y cuantificación del capital necesario para cubrirlos. El análisis y valoración del perfil de riesgo del Grupo se apoya en la descripción de la situación actual y proyecciones por tipo de riesgo descritas. La valoración se apoya tanto en datos cuantitativos como en aspectos cualitativos.
+- Perfil de riesgos del Grupo: Medición de los riesgos
+(crédito, operacional, mercado, liquidez y resto de
+riesgos estructurales, entre otros) y cuantificación del
+capital necesario para cubrirlos. El análisis y valoración
+del perfil de riesgo del Grupo se apoya en la descripción
+de la situación actual y proyecciones por tipo de
+riesgo descritas. La valoración se apoya tanto en datos
+cuantitativos como en aspectos cualitativos.
 
-• Objetivo de recursos propios: Distribución de capital entre las empresas del Grupo y objetivos marcados por el mismo. Para el cumplimiento de estos objetivos, las políticas de gestión del capital incluyen: estimaciones periódicas de las necesidades de capital, gestión continuada de la estructura de capital y concentración de los excedentes de capital en la matriz del Grupo.
+- Objetivo de recursos propios: Distribución de capital
+entre las empresas del Grupo y objetivos marcados por
+el mismo. Para el cumplimiento de estos objetivos, las
+políticas de gestión del capital incluyen: estimaciones
+periódicas de las necesidades de capital, gestión
+continuada de la estructura de capital y concentración de
+los excedentes de capital en la matriz del Grupo.
 
-• Planificación de capital: Se proyecta la base de capital del Grupo, la matriz y sus principales filiales para los tres próximos años y se analiza la suficiencia de capital de acuerdo a los requerimientos regulatorios y los objetivos marcados por la entidad al finalizar el período.
+- Planificación de capital: Se proyecta la base de capital
+del Grupo, la matriz y sus principales filiales para los tres
+próximos años y se analiza la suficiencia de capital de
+acuerdo a los requerimientos regulatorios y los objetivos
+marcados por la entidad al finalizar el período.
 
-Adicionalmente se realiza un test de stress, utilizando un escenario en el que se estiman valores macroeconómicos en un entorno de mayor deterioro económico respecto al presupuestado, determinado por BBVA Research, y sus consecuencias en la actividad del Grupo (incremento de morosidad, reducción de actividad, incremento de volatilidad en los mercados financieros, caída de bolsa, pérdidas operativas, crisis de liquidez, etc.) y  el impacto en la base de capital (resultados, reservas, capacidad de emisión de instrumentos de capital, provisiones, activos ponderados por riesgo, etc.).
+Adicionalmente se realiza un test de stress, utilizando un
+escenario en el que se estiman valores macroeconómicos
+en un entorno de mayor deterioro económico respecto
+al presupuestado, determinado por BBVA Research, y
+sus consecuencias en la actividad del Grupo (incremento
+de morosidad, reducción de actividad, incremento de
+volatilidad en los mercados financieros, caída de bolsa,
+pérdidas operativas, crisis de liquidez, etc.) y el impacto
+en la base de capital (resultados, reservas, capacidad de
+emisión de instrumentos de capital, provisiones, activos
+ponderados por riesgo, etc.).
 
-También se realizan estimaciones sobre la posible ciclicidad de los modelos utilizados. Los escenarios de stress recogen situaciones de recesión en períodos suficientemente largos (20-30 años). Por último, se realiza un backtesting de los datos presentados en el ejercicio anterior.
+También se realizan estimaciones sobre la posible ciclicidad
+de los modelos utilizados. Los escenarios de stress recogen
+situaciones de recesión en períodos suficientemente largos
+(20-30 años). Por último, se realiza un backtesting de los
+datos presentados en el ejercicio anterior.
 
-• Programa de actuación futura: Si las conclusiones del informe así lo requieren, se programan acciones correctoras que permitan optimizar la situación de capital del Grupo, atendiendo a los riesgos analizados. Los principales programas de actuación futura se centran en los modelos de: riesgo de crédito, riesgo operacional, riesgo de mercado, riesgo inmobiliario y en la integración en la gestión.
+- Programa de actuación futura: Si las conclusiones
+del informe así lo requieren, se programan acciones
+correctoras que permitan optimizar la situación de
+capital del Grupo, atendiendo a los riesgos analizados.
+Los principales programas de actuación futura se centran
+en los modelos de: riesgo de crédito, riesgo operacional,
+riesgo de mercado, riesgo inmobiliario y en la integración
+en la gestión.
 
-Este proceso concluye con un documento a disposición del supervisor con carácter anual, para la supervisión de los objetivos y el plan de actuación presentados, permitiendo establecer un diálogo entre el Supervisor y el Grupo sobre el capital y la solvencia.
-
+Este proceso concluye con un documento a disposición del
+supervisor con carácter anual, para la supervisión de los
+objetivos y el plan de actuación presentados, permitiendo
+establecer un diálogo entre el Supervisor y el Grupo sobre el
+capital y la solvencia.
 
 
 {% include download.html %}

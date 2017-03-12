@@ -20,20 +20,20 @@ submenu: correspondencia
     </thead>
     <tbody>
       <tr>
-        <td>Introducción</td>
-        <td>Entorno regulatorio Nota 32 N/A</td>
+        <td><b>Introducción</b></td>
+        <td><b>Entorno regulatorio</b></td>
         <td>Nota 32</td>
         <td>N/A</td>
       </tr>
       <tr>
-        <td>Requerimientos generales de información</td>
+        <td><b>Requerimientos generales de información</b></td>
         <td><b>Denominación social y diferencias entre grupo consolidable a efectos de normativa de solvencia y criterios contable</b></td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
         <td>&nbsp;</td>
-        <td>Denominación social y ámbito de aplicación  1.1.1</td>
+        <td>Denominación social y ámbito de aplicación</td>
         <td>Nota 1.1</td>
         <td>1.1.1</td>
       </tr>
@@ -57,48 +57,48 @@ submenu: correspondencia
       </tr>
       <tr>
         <td>&nbsp;</td>
-        <td>Identificación de entidades dependientes con recursos propios inferiores al mínimo exigido. Posibles impedimentos a la transferenica de fondos propios</td>
+        <td><b>Identificación de entidades dependientes con recursos propios inferiores al mínimo exigido. Posibles impedimentos a la transferenica de fondos propios</b></td>
         <td>N/A</td>
         <td>1.2</td>
       </tr>
       <tr>
         <td>&nbsp;</td>
-        <td>Exenciones a los requerimientos de capital a nivel individual o subconsolidado</td>
+        <td><b>Exenciones a los requerimientos de capital a nivel individual o subconsolidado</b></td>
         <td>N/A</td>
         <td>1.3</td>
       </tr>
       <tr>
-        <td>Recursos Propios y Capital</td>
-        <td>Características de los elementos computables</td>
+        <td><b>Recursos Propios y Capital</b></td>
+        <td><b>Características de los elementos computables</b></td>
         <td>Nota 32</td>
         <td>2.1</td>
       </tr>
       <tr>
         <td>&nbsp;</td>
-        <td>Importe de los recursos propios</td>
+        <td><b>Importe de los recursos propios</b></td>
         <td>Nota 32</td>
         <td>2.2</td>
       </tr>
       <tr>
         <td>&nbsp;</td>
-        <td>Perfil de riesgos de la entidad</td>
+        <td><b>Perfil de riesgos de la entidad</b></td>
         <td>Nota 7</td>
         <td>2.3</td>
       </tr>
       <tr>
         <td>&nbsp;</td>
-        <td>Detalle de los requerimientos de recursos propios mínimos por tipo de riesgo</td>
+        <td><b>Detalle de los requerimientos de recursos propios mínimos por tipo de riesgo</b></td>
         <td>Nota 32</td>
         <td>2.4</td>
       </tr>
       <tr>
         <td>&nbsp;</td>
-        <td>Procedimientos empleado proceso autoevaluación capital</td>
+        <td><b>Procedimientos empleado proceso autoevaluación capital</b></td>
         <td>Nota 32</td>
         <td>2.5</td>
       </tr>
       <tr>
-        <td>Riesgos</td>
+        <td><b>Riesgos</b></td>
         <td><b>Modelo General de control y gestión de Riesgos</b></td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
@@ -380,14 +380,20 @@ submenu: correspondencia
         <td>3.8.7</td>
       </tr>
       <tr>
+        <td>&nbsp;</td>
+        <td>Principales variaciones en el periodo</td>
+        <td>N/A</td>
+        <td>3.8.8</td>
+      </tr>
+      <tr>
         <td><b>Remuneraciones</b></td>
-        <td>Información sobre remuneraciones</td>
+        <td><b>Información sobre remuneraciones</b></td>
         <td>Nota 54</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
         <td><b>Hechos posteriores</b></td>
-        <td>Hechos posteriores</td>
+        <td><b>Hechos posteriores</b></td>
         <td>Nota 56</td>
         <td>N/A</td>
       </tr>
