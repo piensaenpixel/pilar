@@ -40,6 +40,7 @@ De este modo, y como a continuación se desarrolla, son los órganos sociales lo
 aprueban dicha estrategia de riesgos y las políticas corporativas para las diferentes
 tipologías de riesgos, siendo la función de riesgos la encargada, en el ámbito de la
 gestión, de su implantación y desarrollo, dando cuenta de ello a los órganos sociales.
+
 La responsabilidad de la gestión diaria de los riesgos corresponde a los negocios, que se
 atienen en el desarrollo de su actividad a las políticas, normas, procedimientos,
 infraestructuras y controles que, partiendo del marco fijado por los órganos sociales, son
@@ -293,7 +294,7 @@ el desempeño de las mismas, evitando comportamientos dispares.
 - Establecer un lenguaje común a lo largo de toda la organización y desarrollar una
 cultura de riesgos orientada a su cumplimiento.
 - Alineación con los nuevos requerimientos regulatorios facilitando la comunicación
-con los reguladores, inversores y otros stakeholders, gracias a un marco integral y
+con los reguladores, inversores y otros *stakeholders*, gracias a un marco integral y
 estable de gestión del riesgo.
 
 El Marco de Apetito de Riesgo se explicita a través de los siguientes elementos:
@@ -308,7 +309,7 @@ geografías, clase de activos, portfolios y clientes, con presencia en países
 emergentes y desarrollados, manteniendo un perfil de riesgo medio/bajo en cada
 país, y apoyándose en una relación a largo plazo con el cliente.*
 
-- Métricas fundamentales (Core metrics): partiendo de la declaración de Apetito de
+- Métricas fundamentales (*Core metrics*): partiendo de la declaración de Apetito de
 Riesgo, se establecen declaraciones que concretan los principios generales de la
 gestión de riesgos en términos de solvencia, liquidez y financiación y recurrencia
 de ingresos y rentabilidad.
@@ -316,7 +317,7 @@ de ingresos y rentabilidad.
     Asimismo, las métricas fundamentales plasman en términos cuantitativos los
 principios y perfil de riesgo objetivo recogido en la declaración de Apetito de
 Riesgo y están alineadas con la estrategia del Grupo. Cada una de las métricas
-cuenta con tres umbrales (traffic light approach) que van desde una gestión
+cuenta con tres umbrales (*traffic light approach*) que van desde una gestión
 habitual de los negocios hasta mayores niveles de deterioro: Referencia de
 gestión, Apetito máximo y Capacidad máxima. Las métricas fundamentales del
 Grupo BBVA son las que se detallan en el siguiente gráfico:
@@ -326,18 +327,18 @@ Grupo BBVA son las que se detallan en el siguiente gráfico:
 > ![](media/image41.emf){width="3.272222222222222in"
 > height="2.5840277777777776in"}
 
-- Métricas por tipo de riesgo (By type of risk): partiendo de las core metrics, para
+- Métricas por tipo de riesgo (*By type of risk*): partiendo de las core metrics, para
 cada tipología de riesgo se establecen declaraciones recogiendo los principios
 generales de gestión de dicho riesgo y se calibran una serie de métricas, cuya
 observancia permite el cumplimiento de las core metrics y de la declaración del
 Grupo. Las métricas by type of risk definen el posicionamiento estratégico por tipo
 de riesgo y cuentan con un nivel de apetito máximo.
 
-- Estructura básica de límites (Core limits): articulan el Marco de Apetito de Riesgo a
+- Estructura básica de límites (*Core limits*): articulan el Marco de Apetito de Riesgo a
 nivel de las geografías, tipos de riesgos, clases de activos y carteras, asegurando
 que la gestión se sitúa dentro de las métricas por tipo de riesgo.
 
-Adicionalmente a este Marco, existe un nivel de límites de gestión (Management limits),
+Adicionalmente a este Marco, existe un nivel de límites de gestión (*Management limits*),
 que se define y gestiona por el área de riesgos en desarrollo de los core limits, a fin de
 asegurar que la gestión anticipatoria de los riesgos por subcategorías de riesgos dentro de
 cada tipo o por subcarteras respeta dichos core limits y, en general, el Marco de Apetito de
@@ -429,7 +430,7 @@ la estrategia.
 las actividades que desarrolla el Grupo.
 - Formalización: comprende las fases de originación, aprobación y formalización del
 riesgo.
-- Seguimiento y Reporting: seguimiento continuo y estructurado de los riesgos, y
+- Seguimiento y *Reporting*: seguimiento continuo y estructurado de los riesgos, y
 elaboración de informes para su consumo interno y/o externo (mercado,
 inversores, etc).
 - Gestión activa de la cartera: enfocada a la identificación de oportunidades de
@@ -438,7 +439,7 @@ productos.
 
 ### Evolución, seguimiento y *reporting*
 
-La evaluación, seguimiento y reporting es un elemento transversal que deberá permitir que
+La evaluación, seguimiento y *reporting* es un elemento transversal que deberá permitir que
 el Modelo tenga una visión dinámica y anticipatoria que haga posible el cumplimiento del
 Marco de Apetito de Riesgo aprobado por los órganos sociales, incluso ante escenarios
 desfavorables. La realización de este proceso tiene los siguientes objetivos:
@@ -509,7 +510,7 @@ riesgo.
 - Adecuación: aprovisionamiento de información de forma adecuada en el momento
 oportuno.
 
-A través de la función de “Risk Analytics”, el Grupo cuenta con un marco corporativo para
+A través de la función de *“Risk Analytics”*, el Grupo cuenta con un marco corporativo para
 el desarrollo de las técnicas de medición y modelos, que cubre todas las tipologías de
 riesgo y las distintas finalidades e implica un lenguaje homogéneo para todas las
 actividades y geografías/ áreas de negocio.
@@ -594,7 +595,7 @@ operaciones y clientes dependiendo de sus características.
 En este contexto, las herramientas de calificación crediticia (ratings y scorings) evalúan el
 riesgo de cada cliente/operación en función de su calidad crediticia mediante una
 puntuación, que se emplea en la asignación de métricas de riesgo junto con otras
-informaciones adicionales: antigüedad de los contratos, ratio préstamo/valor, segmento de
+informaciones adicionales: antigüedad de los contratos, ratio préstamo/valor, segmento de
 los clientes, etc.
 
 En el apartado 3.2.5.1 del presente documento se detallan las definiciones, métodos y
@@ -820,6 +821,12 @@ crediticia de los activos dentro y fuera de balance del Grupo a 31 de diciembre 
 
 <table>
     <thead>
+	<tr class="m">
+ <th colspan="2">Millones de euros</th>
+ <th></th>
+ <th></th>
+ <th></th>
+</tr>
         <tr>
             <th></th>
             <th colspan="2">Valor contable bruto de</th>
@@ -840,7 +847,7 @@ crediticia de los activos dentro y fuera de balance del Grupo a 31 de diciembre 
             <td>22.924</td>
             <td>447.153</td>
             <td>15.981</td>
-            <td>454.254</td>
+            <td>454.096</td>
         </tr>
         <tr>
             <td>Deuda Valores</td>
@@ -852,16 +859,16 @@ crediticia de los activos dentro y fuera de balance del Grupo a 31 de diciembre 
         <tr>
             <td>Exposiciones fuera de balance</td>
             <td>841</td>
-            <td>168.362</td>
+            <td>167.521</td>
             <td>950</td>
-            <td>168.254</td>
+            <td>167.413</td>
         </tr>
         <tr class="b2">
             <td>Total</td>
             <td>24.024</td>
-            <td>705.051</td>
+            <td>704.210</td>
             <td>17.124</td>
-            <td>712.108</td>
+            <td>711.110</td>
         </tr>
     </tbody>
 </table>
@@ -1115,7 +1122,7 @@ Riesgo de Crédito**
             <td>11.552 </td>
             <td>6.836 </td>
             <td>11.841 </td>
-            <td>0 </td>
+            <td>- </td>
         </tr>
         <tr>
             <td>Administraciones regionales y Autoridades Locales</td>
@@ -1126,7 +1133,7 @@ Riesgo de Crédito**
             <td>44 </td>
             <td>4.304 </td>
             <td>96 </td>
-            <td>0 </td>
+            <td>- </td>
         </tr>
         <tr>
             <td>Entidades Sector Público y otras Instituciones Públicas</td>
@@ -7219,7 +7226,7 @@ mientras que las sancionadoras la validan en el momento de la decisión.
 
 - **Medianas Empresas**: En este segmento también se tienen en cuenta factores
 cuantitativos derivados de la información económico-financiera, cualitativos que se
-relacionan con la antigüedad de la empresa, el sector, la calidad directiva, etc, y
+relacionan con la antigüedad de la empresa, el sector, la calidad directiva, etc, y
 factores de alerta derivados del seguimiento del riesgo.
 
     Al igual que en el segmento Corporativo, la calificación suele ir paralela al proceso de
@@ -7228,7 +7235,7 @@ proponente del riesgo, mientras que el estamento decisor se encarga de validarla
 
 - **Pequeñas Empresas**: De modo similar al segmento de medianas empresas, en este
 segmento también se tienen en cuenta factores cuantitativos, derivados de la
-información económico-financiera, cualitativos, que se relacionan con la antigüedad de
+información económico-financiera, cualitativos, que se relacionan con la antigüedad de
 la empresa, el sector, la calidad directiva, etc y factores de alerta derivados del
 seguimiento del riesgo. Del mismo modo, la calificación suele ir paralela al proceso de
 admisión, con lo cual la responsabilidad de la calificación recae en la unidad
@@ -7246,7 +7253,7 @@ enriquecimiento de los procesos de admisión.
 
 - **Empresas BBVA Bancomer**: En este segmento también se tienen en cuenta factores
 cuantitativos, derivados de la información económico-financiera y de la información de
-buró y cualitativos, que se relacionan con la antigüedad de la empresa, el sector, la
+buró y cualitativos, que se relacionan con la antigüedad de la empresa, el sector, la
 calidad directiva, etc, La calificación suele ir paralela al proceso de admisión, con lo
 cual la responsabilidad de la calificación recae en la unidad proponente del riesgo,
 mientras que el estamento decisor se encarga de validarla.
@@ -7460,7 +7467,7 @@ atribución de categorías supervisoras tal y como se explica en el apartado 3.2
 método de las calificaciones internas (IRB) por grados de deudor para las distintas
 categorías de exposición:
 
-**TABLA 27: EU CR6- Método avanzado: Valores de la exposición por categoría e intervalo de PD**
+**TABLA 27: EU CR6- Método avanzado: Valores de la exposición por categoría e intervalo de PD**
 
 <table class="l">
     <thead>
@@ -9235,25 +9242,25 @@ fiabilidad de los cálculos de la PD, se incluye a continuación una
 comparación de las PDs utilizadas en los cálculos de capital IRB con las
 tasas de incumplimiento efectivas de los deudores del Grupo.
 
-En concreto, la tabla compara la PD utilizada en los cálculos de capital por modelos avanzado con las tasas de incumplimiento efectivas de los deudores.
+En concreto, la tabla compara la PD utilizada en los cálculos de capital por modelos avanzado con las tasas de incumplimiento efectivas de los deudores.
 
-La estructura de la tabla es la recomendada por el Comité de Supervisión Bancaria de Basilea (BCBS) en su documento Revised Pillar 3 Disclosure Requirements. No obstante, se permite cierta flexibilidad en su interpretación.
+La estructura de la tabla es la recomendada por el Comité de Supervisión Bancaria de Basilea (BCBS) en su documento Revised Pillar 3 Disclosure Requirements. No obstante, se permite cierta flexibilidad en su interpretación.
 
-Los criterios adoptados para presentar la información de la tabla han sido los siguientes:
+Los criterios adoptados para presentar la información de la tabla han sido los siguientes:
 
 - Cartera: El desglose de las carteras corresponde a la recomendada por el RPDR, excluyendo las posiciones accionariales.
 
 - Intervalos de PD: Son los correspondientes a la escala maestra de rating que se encuentran en el apartado 3.2.5.1.2 (Tabla 26).
 
-- Equivalente de calificación externa: Se ha utilizado la equivalencia entre las PDs y los ratings externos descritos en el apartado 3.2.5.1.2.
+- Equivalente de calificación externa: Se ha utilizado la equivalencia entre las PDs y los ratings externos descritos en el apartado 3.2.5.1.2.
 
-- PD media ponderada y PD media aritmética por deudor: Se ha empleado la PD tras mitigación, es decir, la asociada a los garantes.
+- PD media ponderada y PD media aritmética por deudor: Se ha empleado la PD tras mitigación, es decir, la asociada a los garantes.
 
-- Número de deudores: Se presentan los deudores a cierre del ejercicio y a cierre del ejercicio previo.
+- Número de deudores: Se presentan los deudores a cierre del ejercicio y a cierre del ejercicio previo.
 
-- Deudores en situación de incumplimiento: A los efectos de garantizar la trazabilidad de la tabla, se han unificado las columnas “g” y “h” de la tabla incluidas en el RPDR para reportar la información sobre las operaciones/clientes que entraron en default durante los últimos 12 meses. De manera que, los deudores incumplidos durante el año para cada intervalo de PD, a excepción del intervalo de 100%-Incumplimiento en el que se muestran los incumplidos acumulados en el año.
+- Deudores en situación de incumplimiento: A los efectos de garantizar la trazabilidad de la tabla, se han unificado las columnas “g” y “h” de la tabla incluidas en el RPDR para reportar la información sobre las operaciones/clientes que entraron en default durante los últimos 12 meses. De manera que, los deudores incumplidos durante el año para cada intervalo de PD, a excepción del intervalo de 100%-Incumplimiento en el que se muestran los incumplidos acumulados en el año.
 
-- Tasa de incumplimiento: Se presenta la tasa anual de incumplimiento, que se calcula como los incumplidos del año entre el total de deudores del ejercicio previo.
+- Tasa de incumplimiento: Se presenta la tasa anual de incumplimiento, que se calcula como los incumplidos del año entre el total de deudores del ejercicio previo.
 
 
 **TABLA 28: CR9-Método avanzado: Comprobación de la probabilidad de
@@ -10859,14 +10866,14 @@ los principales modelos internos del Grupo aprobados por el Banco de España, co
 pérdida efectiva en que se ha incurrido entre los años 2001 a 2016. También se muestra la
 pérdida efectiva media entre los años 2001 a 2016, de acuerdo con lo siguiente:
 • Pérdida esperada estimada calculada con los modelos internos calibrados a
-20162, y ajustada al ciclo económico (línea verde), es decir, es la pérdida
+20162, y ajustada al ciclo económico, es decir, es la pérdida
 esperada anual media de un ciclo económico.
 
-- Pérdida efectiva (línea azul claro con puntos) calculada como el ratio de entradas
+- Pérdida efectiva calculada como el ratio de entradas
 en mora sobre la exposición media observada multiplicado por la severidad point
 in time estimada3
 - Pérdida efectiva media (2001-2016), que es el promedio de pérdidas efectivas de
-cada año (línea azul claro sin puntos)
+cada año
 
     La Pérdida efectiva es la pérdida anual incurrida y debe ser menor que la pérdida
 esperada ajustada al ciclo en los mejores años de un ciclo económico, y mayor durante los
@@ -11001,7 +11008,7 @@ A continuación, se muestran los saldos de los fondos de cobertura para los
 riesgos de crédito y contraparte por categorías de exposición a 31 de diciembre
 de 2016 y 31 de diciembre de 2015.
 
-**TABLA 30: Saldos de fondos de cobertura por categoría de exposición**
+**TABLA 30: Saldos de fondos de cobertura por categoría de exposición**
 
 <table class="tableizer-table">
     <thead>
@@ -13685,88 +13692,88 @@ método avanzado de Riesgo de Contraparte**
             <td>Carteras prudenciales método AIRB</td>
 
             <td>66.106 </td>
-            <td>0%</td>
+            <td>0,36%</td>
 
             <td>5.757 </td>
-            <td>26%</td>
+            <td>25,99%</td>
 
             <td>46 </td>
 
             <td>3.571 </td>
-            <td>5%</td>
+            <td>5,40%</td>
         </tr>
         <tr class="b2">
             <td>Soberanos</td>
             <td>556</td>
-            <td>1%</td>
+            <td>0,64%</td>
 
             <td>9 </td>
-            <td>13%</td>
+            <td>12,94%</td>
 
             <td>112 </td>
 
             <td>50 </td>
-            <td>9%</td>
+            <td>9,03%</td>
         </tr>
         <tr>
             <td>0,00 to
                 <0,15</td>
         
                     <td>73 </td>
-                    <td>0%</td>
+                    <td>0,03%</td>
                     <td>2</td>
-                    <td>26%</td>
+                    <td>26,40%</td>
                     <td>90</td>
                     <td>9</td>
-                    <td>12%</td>
+                    <td>12,19%</td>
         </tr>
         <tr>
             <td>0,15 to
                 <0,25</td>
         
                     <td>52 </td>
-                    <td>0%</td>
+                    <td>0,20%</td>
                     <td>2</td>
                     <td>44%</td>
                     <td>182</td>
                     <td>35</td>
-                    <td>68%</td>
+                    <td>67,63%</td>
         </tr>
         <tr>
             <td>0,25 to
                 <0,5</td>
         
                     <td>1 </td>
-                    <td>0%</td>
+                    <td>0,31%</td>
                     <td>1</td>
                     <td>20%</td>
                     <td>151</td>
-                    <td>0</td>
-                    <td>34%</td>
+                    <td>1</td>
+                    <td>34,12%</td>
         </tr>
         <tr>
             <td>0,5 to
                 <0,75</td>
         
                     <td>1 </td>
-                    <td>1%</td>
+                    <td>0,51%</td>
                     <td>1</td>
                     <td>20%</td>
                     <td>166</td>
                     <td>0</td>
-                    <td>44%</td>
+                    <td>44,21%</td>
         </tr>
         <tr>
             <td>0,75 to
                 <2,5</td>
         
                     <td>429 </td>
-                    <td>1%</td>
+                    <td>0,79%</td>
                     <td>3</td>
-                    <td>7%</td>
+                    <td>6,84%</td>
                     <td>73</td>
                     <td>5</td>
-                    <td>1%</td>
+                    <td>1,26%</td>
         </tr>
         <tr>
             <td>2,5 to
@@ -13825,120 +13832,120 @@ método avanzado de Riesgo de Contraparte**
             <td>Bancos</td>
 
             <td>63.480 </td>
-            <td>0%</td>
+            <td>0,32%</td>
 
             <td>973 </td>
-            <td>26%</td>
+            <td>25,58%</td>
 
             <td>39 </td>
 
             <td>2.444 </td>
-            <td>4%</td>
+            <td>3,85%</td>
         </tr>
         <tr>
             <td>0,00 to
                 <0,15</td>
         
                     <td>52.247 </td>
-                    <td>0%</td>
+                    <td>0,08%</td>
         
                     <td>716 </td>
-                    <td>27%</td>
+                    <td>26,18%</td>
         
                     <td>39 </td>
         
                     <td>1.720 </td>
-                    <td>3%</td>
+                    <td>3,29%</td>
         </tr>
         <tr>
             <td>0,15 to
                 <0,25</td>
         
                     <td>956 </td>
-                    <td>0%</td>
+                    <td>0,18%</td>
         
                     <td>45 </td>
-                    <td>19%</td>
+                    <td>19,21%</td>
         
                     <td>30 </td>
         
                     <td>74 </td>
-                    <td>8%</td>
+                    <td>7,76%</td>
         </tr>
         <tr>
             <td>0,25 to
                 <0,5</td>
         
                     <td>4.353 </td>
-                    <td>0%</td>
+                    <td>0,28%</td>
         
                     <td>46 </td>
-                    <td>22%</td>
+                    <td>21,60%</td>
         
                     <td>38 </td>
         
                     <td>145 </td>
-                    <td>3%</td>
+                    <td>3,33%</td>
         </tr>
         <tr>
             <td>0,5 to
                 <0,75</td>
         
                     <td>3.587 </td>
-                    <td>0%</td>
+                    <td>0,49%</td>
         
                     <td>35 </td>
-                    <td>14%</td>
+                    <td>14,34%</td>
         
                     <td>31 </td>
         
                     <td>108 </td>
-                    <td>3%</td>
+                    <td>3,01%</td>
         </tr>
         <tr>
             <td>0,75 to
                 <2,5</td>
         
                     <td>1.255 </td>
-                    <td>1%</td>
+                    <td>1,25%</td>
         
                     <td>79 </td>
-                    <td>28%</td>
+                    <td>27,56%</td>
         
                     <td>38 </td>
         
                     <td>125 </td>
-                    <td>10%</td>
+                    <td>9,94%</td>
         </tr>
         <tr>
             <td>2,5 to
                 <10</td>
         
                     <td>634 </td>
-                    <td>4%</td>
+                    <td>4,39%</td>
         
                     <td>20 </td>
-                    <td>23%</td>
+                    <td>23,12%</td>
         
-                    <td>58 </td>
+                    <td>58</td>
         
-                    <td>93 </td>
-                    <td>15%</td>
+                    <td>93</td>
+                    <td>14,65%</td>
         </tr>
         <tr>
             <td>10 to
                 <100</td>
         
                     <td>448 </td>
-                    <td>19%</td>
+                    <td>19,29%</td>
         
                     <td>32 </td>
-                    <td>22%</td>
+                    <td>22,18%</td>
         
                     <td>55 </td>
         
                     <td>179 </td>
-                    <td>40%</td>
+                    <td>39,91%</td>
         </tr>
         <tr>
             <td>100 to (Default)</td>
@@ -13958,120 +13965,120 @@ método avanzado de Riesgo de Contraparte**
             <td>Empresas</td>
 
             <td>2.062 </td>
-            <td>1%</td>
+            <td>1,39%</td>
 
             <td>3.298 </td>
-            <td>42%</td>
+            <td>42,12%</td>
 
             <td>82 </td>
 
             <td>1.074 </td>
-            <td>52%</td>
+            <td>52,07%</td>
         </tr>
         <tr>
             <td>0,00 to
                 <0,15</td>
         
                     <td>1.134 </td>
-                    <td>0%</td>
+                    <td>0,10%</td>
         
                     <td>485 </td>
-                    <td>42%</td>
+                    <td>42,39%</td>
         
                     <td>79 </td>
         
                     <td>395 </td>
-                    <td>35%</td>
+                    <td>34,86%</td>
         </tr>
         <tr>
             <td>0,15 to
                 <0,25</td>
         
                     <td>234 </td>
-                    <td>0%</td>
+                    <td>0,19%</td>
         
                     <td>315 </td>
-                    <td>41%</td>
+                    <td>41,23%</td>
         
                     <td>64 </td>
         
                     <td>103 </td>
-                    <td>44%</td>
+                    <td>43,95%</td>
         </tr>
         <tr>
             <td>0,25 to
                 <0,5</td>
         
                     <td>167 </td>
-                    <td>0%</td>
+                    <td>0,31%</td>
         
                     <td>426 </td>
-                    <td>43%</td>
+                    <td>43,38%</td>
         
                     <td>75 </td>
         
                     <td>98 </td>
-                    <td>59%</td>
+                    <td>58,69%</td>
         </tr>
         <tr>
             <td>0,5 to
                 <0,75</td>
         
                     <td>244 </td>
-                    <td>1%</td>
+                    <td>0,51%</td>
         
                     <td>511 </td>
-                    <td>43%</td>
+                    <td>42,68%</td>
         
                     <td>81 </td>
         
                     <td>188 </td>
-                    <td>77%</td>
+                    <td>77,10%</td>
         </tr>
         <tr>
             <td>0,75 to
                 <2,5</td>
         
                     <td>165 </td>
-                    <td>1%</td>
+                    <td>1,11%</td>
         
                     <td>834 </td>
-                    <td>40%</td>
+                    <td>39,72%</td>
         
                     <td>84 </td>
         
                     <td>151 </td>
-                    <td>91%</td>
+                    <td>91,10%</td>
         </tr>
         <tr>
             <td>2,5 to
                 <10</td>
         
                     <td>96 </td>
-                    <td>5%</td>
+                    <td>4,50%</td>
         
                     <td>572 </td>
-                    <td>42%</td>
+                    <td>41,81%</td>
         
                     <td>106 </td>
         
                     <td>128 </td>
-                    <td>133%</td>
+                    <td>132,94%</td>
         </tr>
         <tr>
             <td>10 to
                 <100</td>
         
                     <td>3 </td>
-                    <td>18%</td>
+                    <td>17,57%</td>
         
                     <td>45 </td>
-                    <td>42%</td>
+                    <td>42,24%</td>
         
                     <td>90 </td>
         
                     <td>5 </td>
-                    <td>147%</td>
+                    <td>147,49%</td>
         </tr>
         <tr>
             <td>100 to (Default)</td>
@@ -14080,33 +14087,33 @@ método avanzado de Riesgo de Contraparte**
             <td>100%</td>
 
             <td>110 </td>
-            <td>41%</td>
+            <td>41,25%</td>
 
             <td>94 </td>
 
             <td>6 </td>
-            <td>35%</td>
+            <td>34,60%</td>
         </tr>
         <tr class="b2">
             <td>Minoristas - PYMES</td>
 
             <td>6 </td>
-            <td>6%</td>
+            <td>6,25%</td>
 
             <td>1.467 </td>
-            <td>37%</td>
+            <td>36,99%</td>
 
             <td>- </td>
 
             <td>3 </td>
-            <td>46%</td>
+            <td>45,66%</td>
         </tr>
         <tr>
             <td>0,00 to
                 <0,15</td>
         
                     <td>0 </td>
-                    <td>0%</td>
+                    <td>0,14%</td>
         
                     <td>16 </td>
                     <td>40%</td>
@@ -14121,7 +14128,7 @@ método avanzado de Riesgo de Contraparte**
                 <0,25</td>
         
                     <td>0 </td>
-                    <td>0%</td>
+                    <td>0,20%</td>
         
                     <td>45 </td>
                     <td>40%</td>
@@ -14129,29 +14136,29 @@ método avanzado de Riesgo de Contraparte**
                     <td>- </td>
         
                     <td>0 </td>
-                    <td>14%</td>
+                    <td>14,44%</td>
         </tr>
         <tr>
             <td>0,25 to
                 <0,5</td>
         
                     <td>0 </td>
-                    <td>0%</td>
+                    <td>0,31%</td>
         
                     <td>90 </td>
-                    <td>40%</td>
+                    <td>40,05%</td>
         
                     <td>- </td>
         
                     <td>0 </td>
-                    <td>17%</td>
+                    <td>17,16%</td>
         </tr>
         <tr>
             <td>0,5 to
                 <0,75</td>
         
                     <td>0 </td>
-                    <td>1%</td>
+                    <td>0,51%</td>
         
                     <td>132 </td>
                     <td>40%</td>
@@ -14159,29 +14166,29 @@ método avanzado de Riesgo de Contraparte**
                     <td>- </td>
         
                     <td>0 </td>
-                    <td>24%</td>
+                    <td>23,57%</td>
         </tr>
         <tr>
             <td>0,75 to
                 <2,5</td>
         
                     <td>1 </td>
-                    <td>1%</td>
+                    <td>0,80%</td>
         
                     <td>534 </td>
-                    <td>27%</td>
+                    <td>26,69%</td>
         
                     <td>- </td>
         
                     <td>1 </td>
-                    <td>35%</td>
+                    <td>35,48%</td>
         </tr>
         <tr>
             <td>2,5 to
                 <10</td>
         
                     <td>3 </td>
-                    <td>5%</td>
+                    <td>5,10%</td>
         
                     <td>620 </td>
                     <td>40%</td>
@@ -14189,14 +14196,14 @@ método avanzado de Riesgo de Contraparte**
                     <td>- </td>
         
                     <td>2 </td>
-                    <td>49%</td>
+                    <td>48,58%</td>
         </tr>
         <tr>
             <td>10 to
                 <100</td>
         
                     <td>1 </td>
-                    <td>22%</td>
+                    <td>21,64%</td>
         
                     <td>30 </td>
                     <td>40%</td>
@@ -14204,90 +14211,90 @@ método avanzado de Riesgo de Contraparte**
                     <td>- </td>
         
                     <td>1 </td>
-                    <td>70%</td>
+                    <td>70,16%</td>
         </tr>
         <tr>
             <td>100 to (Default)</td>
 
             <td>- </td>
-            <td>0%</td>
+            <td>-</td>
 
             <td>- </td>
-            <td>0%</td>
-
             <td>- </td>
 
             <td>- </td>
-            <td>0%</td>
+
+            <td>- </td>
+            <td>- </td>
         </tr>
         <tr class="b2">
             <td>Minoristas - Resto</td>
 
             <td>0 </td>
-            <td>1%</td>
+            <td>1,23%</td>
 
             <td>10 </td>
-            <td>31%</td>
+            <td>31,22%</td>
 
             <td>- </td>
 
             <td>0 </td>
-            <td>51%</td>
+            <td>50,68%</td>
         </tr>
         <tr>
             <td>0,00 to
                 <0,15</td>
         
                     <td>- </td>
-                    <td>0%</td>
+                    <td>-</td>
         
                     <td>- </td>
-                    <td>0%</td>
+                    <td>-</td>
         
                     <td>- </td>
         
                     <td>- </td>
-                    <td>0%</td>
+                    <td>-</td>
         </tr>
         <tr>
             <td>0,15 to
                 <0,25</td>
         
                     <td>- </td>
-                    <td>0%</td>
+                    <td>-</td>
         
                     <td>1 </td>
-                    <td>0%</td>
+                    <td>-</td>
         
                     <td>- </td>
         
                     <td>- </td>
-                    <td>0%</td>
+                    <td>-</td>
         </tr>
         <tr>
             <td>0,25 to
                 <0,5</td>
         
                     <td>- </td>
-                    <td>0%</td>
+                    <td>-</td>
         
                     <td>- </td>
-                    <td>0%</td>
+                    <td>-</td>
         
                     <td>- </td>
         
                     <td>- </td>
-                    <td>0%</td>
+                    <td>-</td>
         </tr>
         <tr>
             <td>0,5 to
                 <0,75</td>
         
                     <td>- </td>
-                    <td>0%</td>
+                    <td>-</td>
         
                     <td>2 </td>
-                    <td>0%</td>
+                    <td>-</td>
         
                     <td>- </td>
         
@@ -14299,73 +14306,73 @@ método avanzado de Riesgo de Contraparte**
                 <2,5</td>
         
                     <td>0 </td>
-                    <td>1%</td>
+                    <td>1,19%</td>
         
-                    <td>2 </td>
+                    <td>4 </td>
                     <td>40%</td>
         
                     <td>- </td>
         
                     <td>0 </td>
-                    <td>45%</td>
+                    <td>45,16%</td>
         </tr>
         <tr>
             <td>2,5 to
                 <10</td>
         
                     <td>0 </td>
-                    <td>1%</td>
+                    <td>1,28%</td>
         
-                    <td>4 </td>
+                    <td>6 </td>
                     <td>20%</td>
         
                     <td>- </td>
         
                     <td>0 </td>
-                    <td>58%</td>
+                    <td>57,73%</td>
         </tr>
         <tr>
             <td>10 to
                 <100</td>
         
                     <td>- </td>
-                    <td>0%</td>
+                    <td>- </td>
         
-                    <td>1 </td>
-                    <td>0%</td>
-        
+                    <td>-  </td>
                     <td>- </td>
         
                     <td>- </td>
-                    <td>0%</td>
+        
+                    <td>- </td>
+                    <td>- </td>
         </tr>
         <tr>
             <td>100 to (Default)</td>
 
             <td>- </td>
-            <td>0%</td>
+            <td>0- </td>
 
             <td>- </td>
-            <td>0%</td>
-
             <td>- </td>
 
             <td>- </td>
-            <td>0%</td>
+
+            <td>- </td>
+            <td>- </td>
         </tr>
         <tr class="b2">
             <td>Total Método avanzado</td>
 
             <td>66.106 </td>
-            <td>0%</td>
+            <td>0,36%</td>
 
             <td>5.757 </td>
-            <td>26%</td>
+            <td>25,99%</td>
 
             <td>46 </td>
 
             <td>3.571 </td>
-            <td>5%</td>
+            <td>5,40%</td>
         </tr>
     </tbody>
 </table>
@@ -17799,7 +17806,7 @@ estándar y avanzado**
         <tr class="tableizer-firstrow">
             <th></th>
 
-            <th colspan="2">Exposición cubierta por garantías personales</th>
+            <th colspan="2">Exposición cubierta por garantías personales</th>
 
         </tr>
         <tr class="tableizer-firstrow">
@@ -17809,7 +17816,7 @@ estándar y avanzado**
 
         </tr>
         <tr class="tableizer-firstrow">
-            <th>Categorías de exposición</th>
+            <th>Categorías de exposición</th>
 
             <th>2016</th>
 
@@ -17983,8 +17990,8 @@ préstamos y renta fija **
             <th>Exposiciones no garantizadas: valor contable</th>
             <th>Exposiciones que pueden ser garantizadas</th>
             <th>Exposiciones garantizadas con colateral</th>
-            <th>Exposiciones garantizadas con garantías financieras</th>
-            <th>Exposiciones garantizadas con derivados del crédito</th>
+            <th>Exposiciones garantizadas con garantías financieras</th>
+            <th>Exposiciones garantizadas con derivados del crédito</th>
         </tr>
     </thead>
     <tbody>
@@ -18075,14 +18082,14 @@ obtener una visión global del perfil de riesgo de la entidad en términos de AP
         </tr>
 
         <tr class="tableizer-firstrow">
-            <th>Categoría de exposición</th>
+            <th>Categoría de exposición</th>
             <th>Total</th>
-            <th>España (3)</th>
-            <th>Turquía</th>
+            <th>España (3)</th>
+            <th>Turquía</th>
             <th>Eurasia</th>
-            <th>México</th>
+            <th>México</th>
             <th>Estados Unidos</th>
-            <th>América del sur</th>
+            <th>América del sur</th>
             <th>Resto del mundo</th>
         </tr>
     </thead>
@@ -19379,7 +19386,7 @@ hace referencia en los artículos 364 y 365 de la CRR.
 A continuación se presentan las principales variaciones en los APR’s de mercado
 calculados con el método basado en modelos internos:
 
-**TABLA 62: EU-MR2-A- Cartera de Negociación. Riesgo de Mercado. Capital regulatorio**
+**TABLA 62: EU-MR2-A- Cartera de Negociación. Riesgo de Mercado. Capital regulatorio**
 
 <table>
     <thead>
@@ -19396,12 +19403,12 @@ calculados con el método basado en modelos internos:
             <td>240</td>
         </tr>
         <tr class="s">
-            <td>VaR del día anterior</td>
+            <td>VaR del día anterior</td>
             <td>1.046</td>
             <td>84</td>
         </tr>
         <tr class="s">
-            <td>Media diaria de VaR de los ultimos 60 días laborales (VaRavg) por factor multiplo (mc)</td>
+            <td>Media diaria de VaR de los ultimos 60 días laborales (VaRavg) por factor multiplo (mc)</td>
             <td>3.006</td>
             <td>240</td>
         </tr>
@@ -19426,7 +19433,7 @@ calculados con el método basado en modelos internos:
             <td>147</td>
         </tr>
         <tr class="s">
-            <td>Último valor de IRB</td>
+            <td>Último valor de IRB</td>
             <td>1.551</td>
             <td>124</td>
         </tr>
@@ -19436,12 +19443,12 @@ calculados con el método basado en modelos internos:
             <td>-</td>
         </tr>
         <tr class="s">
-            <td>Última cifra de riesgo para la correlación de la cartera de negocio</td>
+            <td>Última cifra de riesgo para la correlación de la cartera de negocio</td>
             <td>-</td>
             <td>-</td>
         </tr>
         <tr class="s">
-            <td>Media de la cifra de riesgo para la correlación de la cartera de negocio en las ultimas 12 semanas</td>
+            <td>Media de la cifra de riesgo para la correlación de la cartera de negocio en las ultimas 12 semanas</td>
             <td>-</td>
             <td>-</td>
         </tr>
@@ -19904,7 +19911,7 @@ los restantes instrumentos no cotizados:
     <thead>
         <tr class="m">
             <th></th>
-            <th colspan="4">Naturaleza de la exposición (1)</th>
+            <th colspan="4">Naturaleza de la exposición (1)</th>
         </tr>
         <tr class="tableizer-firstrow">
             <th></th>
@@ -19985,7 +19992,7 @@ aplicable**
             <th></th>
             <th>Modelos internos</th>
             <th>Método simple</th>
-            <th>Método PD/LgD</th>
+            <th>Método PD/LgD</th>
             <th>Total</th>
         </tr>
     </thead>
@@ -20104,10 +20111,10 @@ participaciones e instrumentos de capital**
         </tr>
         <tr class="tableizer-firstrow">
             <th></th>
-            <th>Pérdidas</th>
+            <th>Pérdidas</th>
             <th>Ganancias</th>
             <th>Neto</th>
-            <th>Pérdidas</th>
+            <th>Pérdidas</th>
             <th>Ganancias</th>
             <th>Neto</th>
         </tr>
@@ -20146,7 +20153,7 @@ instrumentos de capital**
     <thead>
         <tr class="tableizer-firstrow">
             <th></th>
-            <th>Ajustes por valoración por revaluación latentes a 2016</th>
+            <th>Ajustes por valoración por revaluación latentes a 2016</th>
         </tr>
         <tr class="tableizer-firstrow">
             <th></th>
@@ -20396,10 +20403,10 @@ económico**
         <tr class="tableizer-firstrow">
             <th></th>
             <th colspan="2">Impacto margen de intereses (*)</th>
-            <th colspan="2">Impacto valor económico (**)</th>
+            <th colspan="2">Impacto valor económico (**)</th>
         </tr>
         <tr class="tableizer-firstrow">
-            <th>Análisis sensibilidad al tipo de interés. Diciembre 2016</th>
+            <th>Análisis sensibilidad al tipo de interés. Diciembre 2016</th>
             <th>Incremento de 100 puntos básicos</th>
             <th>Decremento de 100 puntos básicos</th>
             <th>Incremento de 100 puntos básicos</th>
@@ -20801,15 +20808,15 @@ por plazos contractuales de vencimiento residual a 31 de diciembre de 2016:
 entradas - Vencimientos residuales contractuales</th>
             <th>A la Vista</th>
             <th>Hasta un mes</th>
-            <th>Más de un mes y hasta tres meses</th>
-            <th>Más de tres meses y hasta seis meses
+            <th>Más de un mes y hasta tres meses</th>
+            <th>Más de tres meses y hasta seis meses
 </th>
-            <th>Más de seis meses y hasta nueve meses</th>
-            <th>Más de nueve meses hasta un año</th>
-            <th>Más de un año y hasta dos años</th>
-            <th>Más de dos años y hasta tres años</th>
-            <th>Más de tres años y hasta cinco años</th>
-            <th>Más de cinco años</th>
+            <th>Más de seis meses y hasta nueve meses</th>
+            <th>Más de nueve meses hasta un año</th>
+            <th>Más de un año y hasta dos años</th>
+            <th>Más de dos años y hasta tres años</th>
+            <th>Más de tres años y hasta cinco años</th>
+            <th>Más de cinco años</th>
             <th>Total</th>
         </tr>
     </thead>
@@ -21506,7 +21513,7 @@ continuación:
     <thead>
         <tr class="m">
             <th></th>
-            <th colspan="3">Diciembre 2016</th>
+            <th colspan="3">31/12/2016</th>
         </tr>
         <tr>
             <th>Garantías recibidas</th>
@@ -21564,7 +21571,7 @@ contable de estos últimos, se muestran a continuación:
     <thead>
         <tr class="m">
             <th></th>
-            <th colspan="2">Diciembre 2016</th>
+            <th colspan="2">31/12/2016</th>
         </tr>
         <tr>
             <th>Activos comprometidos / garantías recibidas y pasivos asociados</th>
@@ -21688,8 +21695,8 @@ eficaz del RO.
 
 El Grupo BBVA, con base en las mejores prácticas de gestión del riesgo operacional, ha
 establecido y mantiene un modelo de control interno estructurado en tres líneas de
-defensa (3LD), dotándolo además de un esquema de gobierno denominado Corporate
-Assurance. De esta forma, el modelo de control interno del Grupo consta de dos
+defensa (3LD), dotándolo además de un esquema de gobierno denominado *Corporate
+Assurance*. De esta forma, el modelo de control interno del Grupo consta de dos
 componentes.
 
 1. El primero de ellos es el modelo de las tres líneas de defensa, a través del cual
@@ -21723,7 +21730,7 @@ concebida para agregar valor y mejorar las operaciones de la
 Organización. Las funciones y líneas de trabajo de esta unidad se
 desarrollan más adelante.
 
-2. El segundo componente es el esquema de Corporate Assurance, cuya misión
+2. El segundo componente es el esquema de *Corporate Assurance*, cuya misión
 es proporcionar un enfoque integral y homogéneo a los órganos de dirección sobre
 la situación del control interno del Grupo. Esto permite conocer oportunamente las
 principales debilidades de control que puedan surgir en los distintos procesos de
@@ -21856,7 +21863,7 @@ sistemas, decisiones de outsourcing, etc.
 
 #### Herramientas de seguimiento y gestión/mitigación de Riesgo Operacional
 
-##### Autoevaluaciones de Riesgo Operacional (Risk and Control Self Assessment)
+##### Autoevaluaciones de Riesgo Operacional (*Risk and Control Self Assessment*)
 
 Una adecuada gestión del RO requiere que se establezcan metodologías y procedimientos
 que permitan identificar, evaluar y seguir esta clase de riesgos para implementar las
@@ -21911,7 +21918,7 @@ Esta herramienta, a través de interfaces automáticos con la contabilidad y apl
 gastos y de procedimientos de captura manual, recoge las pérdidas contables asociadas a
 eventos de RO. Las pérdidas se capturan sin límite de importe, y constituyen un input para
 el cálculo del consumo de capital por RO en modelos avanzados y una referencia para el
-Risk and Control Self Assessment, siendo objeto de análisis periódicos en cuanto a
+*Risk and Control Self Assessment*, siendo objeto de análisis periódicos en cuanto a
 tendencias y seguimiento de pérdidas esperadas.
 
 _Base de datos de pérdidas operacionales externas – ORX_
@@ -21964,7 +21971,7 @@ capital para el resto de geografías se obtiene aplicando el modelo estándar.
 #### Descripción de métodos de medición avanzada
 
 El modelo interno avanzado cuantifica el capital al nivel de confianza del 99.9% siguiendo
-la metodología LDA (Loss Distribution Approach). Esta metodología estima la distribución
+la metodología LDA (*Loss Distribution Approach*). Esta metodología estima la distribución
 de pérdidas por eventos operacionales mediante la convolución de la distribución de
 frecuencia y la distribución de severidad de dichos eventos.
 
