@@ -21,6 +21,9 @@ function clickHandler (e) {
 module.exports = {
   init: function () {
     if (existeScrollTop) {
+      if (lang === 'en') {
+        up.find('span').text('Up');
+      }
       $w.on('scroll', scrollHandler);
       up.on('click', clickHandler);
     }

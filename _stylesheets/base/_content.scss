@@ -49,6 +49,13 @@
   }
   .home-link a {
     display: block;
+    font-family: 'BentonBold';
+    font-size: 14px;
+    color: $white;
+    svg {
+      display: block;
+      margin: 10px auto 0 auto;
+    }
   }
 }
 .home-header {

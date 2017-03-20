@@ -3,35 +3,35 @@ options:
   - title: Español
     url: /
   - title: Download report
-    url: downloads/
+    url: /images/pilar_III_eng.pdf
 menu:
-  - title: Introducción
-    url: /introduccion/
-  - title: Correspondencia
+  - title: Mapping
     url: /correspondencia/
     submenu: correspondencia
-  - title: Resumen ejecutivo
+  - title: Executive Summary
     url: /resumen-ejecutivo/
     submenu: resumen
-  - title: Requerimientos generales
+  - title: Introduction
+    url: /introduccion/
+  - title: 1. General information requirements
     url: /requerimientos-generales/
     submenu: requerimientos
-  - title: Recursos propios
+  - title: 2. Eligible capital
     url: /recursos-propios/
     submenu: recursos-propios
-  - title: Recursos Riesgos
+  - title: 3. Risks
     url: /recursos-riesgos/
     submenu: recursos-riesgos
-  - title: Ratio de apalancamiento
+  - title: 4. Leverage ratio
     url: /ratio-de-apalancamiento/
     submenu: ratio
-  - title: Informacion de remuneraciones
+  - title: 5. Information on remuneration
     url: /informacion-de-remuneraciones/
     submenu: informacion
-  - title: Hechos posteriores
+  - title: 6. Subsequent events
     url: /hechos-posteriores/
     submenu: hechos
-  - title: Anexo
+  - title: Anexxes
     url: /anexo/
     submenu: anexo
 footer:

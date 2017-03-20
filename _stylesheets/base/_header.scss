@@ -43,6 +43,8 @@
 
 .menu {
   @include display-flex;
+  @include justify-content(space-between);
+  margin-right: -24px;
 }
 
 .header-title {
@@ -59,7 +61,7 @@
 .menu-item {
   font-family: 'BentonMedium';
   font-size: 14px;
-  margin-right: 48px;
+  padding-right: 24px;
 
   a {
     color: rgba($white, .6);

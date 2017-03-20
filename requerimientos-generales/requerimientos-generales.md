@@ -9,14 +9,14 @@ submenu: requerimientos
 
 {% include subir.html %}
 
-# Requerimientos generales de información
+# 1. Requerimientos generales de información
 
 {% include dropdown.html %}
 
 
-## Denominación social y diferencias entre grupo consolidable a efectos de normativa de solvencia y criterios contables
+## 1.1. Denominación social y diferencias entre grupo consolidable a efectos de normativa de solvencia y criterios contables
 
-### Denominación social y ámbito de aplicación
+### 1.1.1. Denominación social y ámbito de aplicación
 
 Banco Bilbao Vizcaya Argentaria, S.A. (en adelante, el
 “Banco” o “BBVA”) es una entidad de derecho privado sujeta
@@ -32,7 +32,7 @@ Nicolás, 4, Bilbao) como en su página web (www.bbva.com).
 La normativa de solvencia resulta de aplicación a nivel
 consolidado para todo el Grupo.
 
-### Diferencias entre grupo consolidable a efectos de normativa de solvencia y criterios contables
+### 1.1.2. Diferencias entre grupo consolidable a efectos de normativa de solvencia y criterios contables
 
 Las Cuentas Anuales Consolidadas del Grupo BBVA se presentan
 de acuerdo con lo establecido por las Normas Internacionales
@@ -63,13 +63,13 @@ rendimientos a través del poder que ejerce sobre la
 participada. Para que se considere que hay control debe
 concurrir:
 
- *a) Poder:* Un inversor tiene poder sobre una participada
+ **a) Poder:** Un inversor tiene poder sobre una participada
 cuando el primero posee derechos en vigor que le
 proporcionan la capacidad de dirigir las actividades
 relevantes, es decir, aquellas que afectan de forma
 significativa a los rendimientos de la participada.
 
- *b) Rendimientos:* Un inversor está expuesto, o tiene
+ **b) Rendimientos:** Un inversor está expuesto, o tiene
 derecho, a unos rendimientos variables por su implicación
 en la participada cuando los rendimientos que obtiene
 el inversor por dicha implicación pueden variar en
@@ -77,7 +77,7 @@ función de la evolución económica de la participada. Los
 rendimientos del inversor pueden ser sólo positivos, sólo
 negativos o, a la vez, positivos y negativos.
 
- *c) Relación entre poder y rendimientos:* Un inversor
+ **c) Relación entre poder y rendimientos:** Un inversor
 controla una participada si el inversor no sólo tiene poder
 sobre la participada y está expuesto, o tiene derecho,
 a unos rendimientos variables por su implicación en la
@@ -93,6 +93,7 @@ método de integración global.
 Las entidades asociadas, así como los negocios conjuntos
 (aquellos sobre los que se tienen acuerdos de control
 conjunto), se valoran por el método de la participación.
+
 El inventario de todas las sociedades que forman parte del
 Grupo BBVA se incluye en los anexos de las Cuentas Anuales
 Consolidadas del Grupo.
@@ -154,7 +155,7 @@ contable pero sí a efectos de solvencia (por integración
 proporcional). El detalle de estas sociedades se encuentra
 en el Anexo IV de este Documento.
 
-### Conciliación del Balance Público desde el perímetro contable al perímetro regulatorio
+### 1.1.3. Conciliación del Balance Público desde el perímetro contable al perímetro regulatorio
 
 En este apartado, y tal y como se expone en la Nota 32 de
 las Cuentas Anuales Consolidadas del Grupo, se realiza
@@ -170,6 +171,12 @@ diferencias entre ambos perímetros.
 
 <table class="l">
     <thead>
+	<tr class="m">
+ <th colspan="2">Millones de euros</th>
+ <th></th>
+ <th></th>
+ <th></th>
+</tr>
         <tr>
             <th>Epígrafes de Balance Público</th>
             <th>Balance Público</th>
@@ -211,7 +218,7 @@ diferencias entre ambos perímetros.
             <td>Préstamos y partidas a cobrar</td>
             <td>465.977</td>
             <td>(1.298)</td>
-            <td>(2.010)</td>
+            <td>2.010</td>
             <td>466.689</td>
         </tr>
         <tr>
@@ -265,7 +272,7 @@ diferencias entre ambos perímetros.
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+
 
 <ul class="cita"><li>(1) Saldos correspondientes a las sociedades no consolidables a efectos de solvencia, pero sí a efectos contables.</li>
 
@@ -278,6 +285,15 @@ se encuentra sujetos cada uno de los epígrafes del balance regulatorio:
 
 <table class="l">
     <thead>
+	<tr class="m">
+ <th colspan="2">Millones de euros</th>
+ <th></th>
+ <th></th>
+ <th></th>
+ <th></th>
+ <th></th>
+ <th></th>
+</tr>
         <tr>
             <th>&nbsp;</th>
             <th>&nbsp;</th>
@@ -285,7 +301,7 @@ se encuentra sujetos cada uno de los epígrafes del balance regulatorio:
             <th colspan="5">Valores contables de partidas:</th>
         </tr>
         <tr>
-            <th>&nbsp;</th>
+            <th>31/12/16</th>
             <th>Valores Contables según se publican en los Estados Financieros</th>
             <th>Valores Contables en el Ámbito de Consolidación Reguladora</th>
             <th>Sujetas al Marco de Riesgo de Crédito</th>
@@ -598,7 +614,7 @@ se encuentra sujetos cada uno de los epígrafes del balance regulatorio:
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+
 
 
 A continuación, se expone un cuadro resumen con las
@@ -616,8 +632,15 @@ original y saldo contable**
 
 <table class="l">
     <thead>
+	<tr class="m">
+ <th colspan="2">Millones de euros</th>
+ <th></th>
+ <th></th>
+ <th></th>
+ <th></th>
+</tr>
         <tr class="m">
-            <th></th>
+            <th>31/12/16</th>
             <th colspan="5">Partidas sujetas a:</th>
         </tr>
         <tr>
@@ -756,11 +779,11 @@ original y saldo contable**
             <td>677.269</td>
             <td>6.041</td>
             <td>90.899</td>
-            <td>0-</td>
+            <td>-</td>
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+
 
 <ul class="cita"><li>(1) Incluye las provisiones de las exposiciones al riesgo de crédito por método avanzado. No se incluyen las provisiones de las exposiciones al riesgo de crédito por método estándar que ascienden a 9.130 millones de euros.</li>
 
@@ -778,8 +801,13 @@ de riesgo sobre los que se basa el presente Documento.
 
 <table class="l">
     <thead>
+	<tr class="m">
+ <th colspan="2">Millones de euros</th>
+ <th></th>
+ <th></th>
+</tr>
         <tr>
-            <th>12/31/16</th>
+            <th>31/12/16</th>
             <th colspan="3">Riesgo de crédito(****)</th>
         </tr>
         <tr>
@@ -864,14 +892,14 @@ de riesgo sobre los que se basa el presente Documento.
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+
 
 <ul class="cita"><li>*EO: Se corresponde con la exposición original</li>
 <li>**EAD: Se corresponde con la EO neta de provisiones, correcciones de valor y otras exposiciones sin riesgo</li>
 <li>***APRs: Se corresponde con la EAD tras ponderación de riesgos</li>
 <li>****Excluyendo los fondos para impagos de ECC</li></ul>
 
-### Principales cambios en el perímetro del Grupo en el ejercicio 2016
+### 1.1.4. Principales cambios en el perímetro del Grupo en el ejercicio 2016
 
 Tal y como se detalla en la Nota 3 de las Cuentas Anuales
 Consolidadas, el Grupo BBVA acordó en la reunión del Consejo de
@@ -887,7 +915,7 @@ Estados Financieros consolidados, las operaciones
 de fusión referidas no generan ningún impacto a nivel
 contable ni de solvencia.
 
-## Identificación de entidades dependientes con recursos propios inferiores al mínimo exigido. Posibles impedimentos a la transferencia de fondos propios
+## 1.2. Identificación de entidades dependientes con recursos propios inferiores al mínimo exigido. Posibles impedimentos a la transferencia de fondos propios
 
 No existe en el Grupo ninguna entidad no incluida en el Grupo
 consolidable a efectos de la normativa de solvencia cuyos
@@ -911,7 +939,7 @@ está presente, la regulación establece que los dividendos solo
 pueden ser pagados con fondos regulatoriamente disponibles
 para ello.
 
-## Exenciones a los requerimientos de capital a nivel individual o subconsolidado
+## 1.3. Exenciones a los requerimientos de capital a nivel individual o subconsolidado
 
 De acuerdo con lo establecido en la normativa de solvencia
 en relación con la exención de cumplir individualmente o

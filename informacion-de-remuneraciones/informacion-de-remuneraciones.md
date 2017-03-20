@@ -241,7 +241,8 @@ establecidos en la nueva regulación;
 
 - La eliminación del sistema de previsión en régimen de
 prestación definida del Consejero Delegado;
-El establecimiento de una parte de las aportaciones
+
+- El establecimiento de una parte de las aportaciones
 a pensiones con la consideración de “beneficios
 discrecionales de pensión”, conforme requiere la nueva
 normativa;
@@ -256,7 +257,7 @@ de, al menos, tres años desde su entrega, manteniéndose
 el periodo de indisponibilidad general de un año para
 todas las acciones; no siendo de aplicación lo anterior a
 las acciones que proceda enajenar para hacer frente a las
-obligaciones fiscales derivadas de la entrega de las mismas
+obligaciones fiscales derivadas de la entrega de las mismas.
 
 El texto de la Política de Remuneraciones de los Consejeros
 de BBVA propuesta para los ejercicios 2017, 2018 y 2019, se
@@ -353,19 +354,19 @@ europeo 604/2014 considera que deben tener esta
 consideración. A estos efectos, para 2016 dentro de este
 Colectivo se incluyen:
 
--**Miembros del Consejo de Administración**
+- **Miembros del Consejo de Administración**
 
 - **Miembros de la Alta Dirección**
 
--**Profesionales que desarrollan funciones de control
-y risk takers por función:** Este colectivo queda
+- **Profesionales que desarrollan funciones de control
+y *risk takers* por función:** Este colectivo queda
 configurado por las funciones que se corresponden
 con los criterios cualitativos establecidos en el
 artículo 3 del Reglamento Delegado UE 604/2014 de
 la Comisión Europea entre los puntos 4 y 15 ambos
 inclusive.
 
--**Risk takers por retribución:** Constituido por aquellos
+- ***Risk takers* por retribución:** Constituido por aquellos
 empleados que cumplen los criterios cuantitativos
 del artículo 4 del citado Reglamento Delegado UE
 604/2014.
@@ -442,7 +443,7 @@ alineados con las prioridades estratégicas del Área y Grupo.
 BBVA considera la gestión prudente del riesgo como un elemento
 determinante dentro de su política de retribución variable, para lo
 cual entre los indicadores financieros definidos a nivel de Grupo
-está el RAROEC (Risk Adjusted Return on Economic Capital)
+está el RAROEC (*Risk Adjusted Return on Economic Capital*)
 que aplica con carácter general para todos los empleados.
 Adicionalmente, en las áreas de negocio también está definido
 este indicador a nivel de dicha Área, por lo que también es un
@@ -495,7 +496,7 @@ para el periodo de tres años de diferimiento:
             <td>20%</td>
         </tr>
         <tr>
-            <td>CET1 Fully Loaded</td>
+            <td>CET1 *Fully Loaded*</td>
             <td>20%</td>
         </tr>
         <tr>
@@ -517,22 +518,22 @@ para el periodo de tres años de diferimiento:
     </tbody>
 </table>
 
-La Retribución Variable Anual 2016 diferida podrá verse
+<ul>La Retribución Variable Anual 2016 diferida podrá verse
 reducida, en función del resultado de los indicadores
 anteriores, con arreglo a sus ponderaciones y a las escalas
 de consecución aprobadas por el Consejo de Administración,
 pudiendo incluso llegar a ser cero, sin que en ningún caso la
 aplicación de los indicadores anteriores pueda suponer un
-incremento de la misma.
+incremento de la misma.</ul>
 
-Todas las acciones que se entreguen conforme a las
+- Todas las acciones que se entreguen conforme a las
 reglas señaladas serán indisponibles durante un año
 desde su entrega, aplicándose esta retención sobre el
 importe neto de las acciones, una vez descontada la parte
 necesaria para hacer frente al pago de los impuestos por
 las acciones recibidas.
 
-Las partes diferidas de la Retribución Variable Anual
+- Las partes diferidas de la Retribución Variable Anual
 2016 serán objeto de actualización en los términos que
 establezca el Consejo de Administración.
 
@@ -552,7 +553,7 @@ Además, las partes de la Retribución Variable Anual que se
 encuentren diferidas y pendientes de abono de acuerdo con
 las reglas anteriores, no serán pagadas a los miembros del
 Colectivo Identificado cuando se dé alguna de las cláusulas
-malus establecidas en la Política retributiva del Colectivo
+*malus* establecidas en la Política retributiva del Colectivo
 Identificado vigente.
 
 Sin perjuicio de lo anterior, como se ha indicado anteriormente,
@@ -639,7 +640,8 @@ más adelante.
 beneficiarios durante un periodo de un año desde su
 entrega, salvo las acciones que proceda enajenar para
 hacer frente al pago de los impuestos correspondientes.
-No se podrán utilizar estrategias personales de
+
+- No se podrán utilizar estrategias personales de
 cobertura o seguros relacionados con la remuneración
 y la responsabilidad que menoscaben los efectos de
 alineación con la gestión sana de los riesgos.
@@ -668,31 +670,39 @@ recuperación (“clawback”), en los siguientes términos:
 
 Hasta el 100% de la Retribución Variable Anual de cada
 miembro del Colectivo Identificado correspondiente a cada
-ejercicio estará sometida a cláusulas de reducción (malus) y
-de recuperación de la retribución ya satisfecha (clawback),
+ejercicio estará sometida a cláusulas de reducción (*malus*) y
+de recuperación de la retribución ya satisfecha (*clawback*),
 ligadas ambas a un deficiente desempeño financiero del
 Banco en su conjunto o de una división o área concreta o de
 las exposiciones generadas por un miembro del Colectivo
 Identificado, cuando dicho deficiente desempeño financiero
 se derive de cualquiera de las siguientes circunstancias:
 
-    a) Conductas irregulares, fraude o incumplimientos graves
+<ul>
+a) Conductas irregulares, fraude o incumplimientos graves
 del Código de Conducta y demás normativa interna
 aplicable por parte del miembro del Colectivo Identificado.
+</ul>
 
-    b) Sanciones regulatorias o condenas judiciales por hechos
+<ul>
+b) Sanciones regulatorias o condenas judiciales por hechos
 que pudieran ser imputables a una unidad concreta o al
 personal responsable de aquellos.
+</ul>
 
-    c) Fallos importantes en la gestión de riesgos cometidos
+<ul>
+c) Fallos importantes en la gestión de riesgos cometidos
 por el Banco o por una unidad de negocio o de control
 del riesgo, a los que haya contribuido la conducta dolosa
 o gravemente negligente del miembro del Colectivo
 Identificado.
+</ul>
 
-    d) Reformulación de las cuentas anuales del Banco, excepto
+<ul>
+d) Reformulación de las cuentas anuales del Banco, excepto
 cuando venga motivada por una modificación de la
 normativa contable de aplicación.
+</ul>
 
 A estos efectos, el Banco comparará la evaluación del
 desempeño realizada para el miembro del Colectivo
@@ -794,8 +804,8 @@ económico (RAROEC), Retorno sobre el capital regulatorio
 (RORC), Ratio de Eficiencia, Margen Neto, Satisfacción
 del cliente (IreNe), y la valoración de la consecución de los
 indicadores estratégicos en el caso del Consejero Delegado
-y el consejero ejecutivo Director de Global Economics,
-Regulations & Public Affairs (GERPA), aprobados al inicio del
+y el consejero ejecutivo Director de *Global Economics,
+Regulations & Public Affairs* (GERPA), aprobados al inicio del
 ejercicio.
 
 El importe de la retribución variable anual se ha obtenido a
@@ -864,7 +874,8 @@ control, favoreciendo su independencia respecto de las
 áreas de negocio que supervisan.
 
 - Pago en acciones del 50% de la retribución variable anual.
-Cláusulas de diferimiento, diseñadas para que una parte
+
+- Cláusulas de diferimiento, diseñadas para que una parte
 sustancial de la retribución variable –un 50% en el caso de
 consejeros ejecutivos y alta dirección y un 40% en el resto de
 casos- se difiera por un período de 3 años, teniendo en cuenta
@@ -896,11 +907,7 @@ su conjunto ("cláusulas *malus*”).
 - Limitación del importe de la retribución variable a un
 porcentaje de su retribución fija.
 
-## Los principales parámetros y la motivación de cualquier componente
-de los posibles planes de remuneración variable y de otras ventajas
-no pecuniarias, con expresa mención a las medidas adoptadas
-respecto a los integrantes del Colectivo Identificado que ejerzan
-funciones de control
+## Los principales parámetros y la motivación de cualquier componente de los posibles planes de remuneración variable y de otras ventajas no pecuniarias, con expresa mención a las medidas adoptadas respecto a los integrantes del Colectivo Identificado que ejerzan funciones de control
 
 Los principales parámetros y la motivación de los
 componentes de los planes de remuneración variable del
@@ -1013,8 +1020,135 @@ directivos:
 
 **TABLA 90: Remuneraciones Colectivo Identificado durante el ejercicio 2016**
 
-ES UNA IMAGEN
-
+<table>
+    <thead>
+        <tr class="m">
+            <th colspan="6">Miles de euros</th>
+        </tr>
+        <tr class="tableizer-firstrow">
+            <th>Remuneraciones Colectivo Identificado 2016 (1)</th>
+            <th>Consejeros Ejecutivos</th>
+            <th>Consejeros no Ejecutivos</th>
+            <th>Resto altos directivos</th>
+            <th>Resto Colectivo Identificado</th>
+            <th>Total Colectivo Identificado</th>
+        </tr>
+        </thead>
+    <tbody>
+        <tr class="b">
+            <td>Importe de la remuneracion fija total para el ejercicio 2016 (2)</td>
+            <td>4.929</td>
+            <td>3.924</td>
+            <td>11.779</td>
+            <td>200.894</td>
+            <td>221.526</td>
+        </tr>
+        <tr class="b">
+            <td>Importe de la remuneracion variable total para el ejercicio 2016</td>
+            <td>5.655</td>
+            <td>-</td>
+            <td>10.866</td>
+            <td>126.350</td>
+            <td>142.871</td>
+        </tr>
+        <tr class="s2">
+            <td>En metálico</td>
+            <td>2.828</td>
+            <td>-</td>
+            <td>5.433</td>
+            <td>63.175</td>
+            <td>71.436</td>
+        </tr>
+        <tr class="s2">
+            <td>Número de acciones de BBVA</td>
+            <td>439.774</td>
+            <td>-</td>
+            <td>838.252</td>
+            <td>9.724.733</td>
+            <td>11.002.759</td>
+        </tr>
+        <tr>
+            <td>Remuneración variable correspondiente al ejercicio 2016 de abono inmediato</td>
+            <td>2.828</td>
+            <td>-</td>
+            <td>5.433</td>
+            <td>75.589</td>
+            <td>83.850</td>
+        </tr>
+        <tr class="s2">
+            <td>En metálico</td>
+            <td>1.414</td>
+            <td>-</td>
+            <td>2.716</td>
+            <td>37.795</td>
+            <td>41.925</td>
+        </tr>
+        <tr class="s2">
+            <td>Número de acciones de BBVA</td>
+            <td>219.887</td>
+            <td>-</td>
+            <td>419.129</td>
+            <td>5.817.877</td>
+            <td>6.456.893</td>
+        </tr>
+        <tr>
+            <td>Remuneración variable del ejercicio 2016 que queda diferida y pendiente de pago (3)</td>
+            <td>2.828</td>
+            <td>-</td>
+            <td>5.433</td>
+            <td>50.761</td>
+            <td>59.021</td>
+        </tr>
+        <tr class="s2">
+            <td>En metálico</td>
+            <td>1.414</td>
+            <td>-</td>
+            <td>2.716</td>
+            <td>25.380</td>
+            <td>29.511</td>
+        </tr>
+        <tr class="s2">
+            <td>Número de acciones de BBVA</td>
+            <td>219.887</td>
+            <td>-</td>
+            <td>419.129</td>
+            <td>3.906.856</td>
+            <td>4.545.866</td>
+        </tr>
+        <tr class="b2">
+            <td>Número de beneficiarios</td>
+            <td>3</td>
+            <td>12</td>
+            <td>14</td>
+            <td>536</td>
+            <td>565</td>
+        </tr>
+        <tr>
+            <td>Número de destinatarios de indemnizaciones por despido</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>36</td>
+            <td>36</td>
+        </tr>
+        <tr>
+            <td>Importe total de las indemnizaciones por despido pagadas en el ejercicio</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>24.946</td>
+            <td>24.946</td>
+        </tr>
+        <tr>
+            <td>Posiciones en titulización</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
 
 <ul class="cita"><li>(1) Se incluye a todas las posiciones identificadas como Colectivo Identificado en 2016. La distribución del colectivo en las diferentes categorías está realizada teniendo en
 cuenta la posición desempeñada al 31 de diciembre de 2016</li>
@@ -1037,11 +1171,83 @@ Igualmente se ha procedido a abonar los importes diferidos
 de ejercicios anteriores a 2016. La siguiente tabla muestra las
 cantidades satisfechas tanto en efectivo como en acciones,
 así como las cantidades que continúan diferidas de ejercicios
-anteriores al 31 de diciembre de 2016.
+anteriores al 31 de diciembre de 2016:
 
 **TABLA 91: Remuneración variable proveniente de ejecicios anteriores a 2016**
 
-ES UNA IMAGEN
+<table>
+    <thead>
+        <tr class="m">
+            <th colspan="6">Miles de euros</th>
+        </tr>
+        <tr class="tableizer-firstrow">
+            <th>Retribución variable de ejercicios anteriores a 2016 para el Colectivo Identificado (1)</th>
+            <th>Consejeros Ejecutivos</th>
+            <th>Consejeros no Ejecutivos</th>
+            <th>Resto altos directivos</th>
+            <th>Resto Colectivo Identificado</th>
+            <th>Total Colectivo Identificado</th>
+        </tr>
+        </thead>
+    <tbody>
+        <tr class="b">
+            <td>Consolidada (2)</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="s2">
+            <td>En metálico</td>
+            <td>2.706</td>
+            <td>-</td>
+            <td>3.800</td>
+            <td>46.074</td>
+            <td>52.580</td>
+        </tr>
+        <tr class="s2">
+            <td>Número de acciones de BBVA</td>
+            <td>366.455</td>
+            <td>-</td>
+            <td>526.251</td>
+            <td>6.189.673</td>
+            <td>7.082.379</td>
+        </tr>
+        <tr class="b">
+            <td>No Consolidada (3)</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="s2">
+            <td>En metálico</td>
+            <td>2.694</td>
+            <td>-</td>
+            <td>3.803</td>
+            <td>35.895</td>
+            <td>42.391</td>
+        </tr>
+        <tr class="s2">
+            <td>Número de acciones de BBVA</td>
+            <td>375.003</td>
+            <td>-</td>
+            <td>539.002</td>
+            <td>5.105.155</td>
+            <td>6.019.160</td>
+        </tr>
+        <tr class="b">
+            <td>Ajuste ex-post por desempeño aplicado en el año</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
 
 <ul class="cita"><li>(1) La distribución del colectivo en las diferentes categorías está realizada teniendo en cuenta la posición desempeñada al 31 de diciembre de 2016</li>
 <li>(2) Se incluye el pago inicial de la retribución variable del ejercicio 2015 así como los importes diferidos de ejercicios anteriores y su actualización (primer tercio diferido de la
@@ -1056,7 +1262,40 @@ el año 2016:
 
 **TABLA 92: Remuneración total del colectivo identificado en el año 2016 por actividad**
 
-ES UNA IMAGEN
+<table>
+    <thead>
+        <tr class="m">
+            <th colspan="2">Miles de euros</th>
+        </tr>
+        <tr class="tableizer-firstrow">
+            <th>Remuneraciones Colectivo Identificado 2016 (1)</th>
+            <th>Importe Remuneración total 2016</th>
+        </tr>
+        </thead>
+    <tbody>
+        <tr>
+            <td>Banca Comercial (2)</td>
+            <td>130.356</td>
+        </tr>
+        <tr>
+            <td>Banca de Inversión (3)</td>
+            <td>69.847</td>
+        </tr>
+        <tr>
+            <td>Gestión de Activos (4)</td>
+            <td>12.392</td>
+        </tr>
+        <tr>
+            <td>Resto (5)</td>
+            <td>151.803</td>
+        </tr>
+        <tr class="b2">
+            <td>Total Colectivo Identificado</td>
+            <td>364.397</td>
+        </tr>
+        
+    </tbody>
+</table>
 
 <ul class="cita"><li>(1) Retribución fija percibida en 2016 y retribución variable generada en el ejercicio
 2016</li>
@@ -1072,7 +1311,52 @@ de euros, es la siguiente:
 **TABLA 93: Número de personas con retribución total superior a 1 millón de euros en el
 ejercicio 2016**
 
-ES UNA IMAGEN
+<table>
+    <thead>
+        <tr class="tableizer-firstrow">
+            <th>Retribución total en 2016 (1)</th>
+            <th>Número de personas</th>
+        </tr>
+        </thead>
+    <tbody>
+        <tr>
+            <td>Entre 5 millones de euros y 6 millones de euros</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Entre 4,5 millones de euros y 5 millones de euros</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Entre 4 millones de euros y 4,5 millones de euros</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Entre 3,5 millones de euros y 4 millones de euros</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>Entre 3 millones de euros y 3,5 millones de euros</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Entre 2,5 millones de euros y 3 millones de euros</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>Entre 2 millones de euros y 2,5 millones de euros</td>
+            <td>7</td>
+        </tr>
+        <tr>
+            <td>Entre 1,5 millones de euros y 2 millones de euros</td>
+            <td>14</td>
+        </tr>
+        <tr>
+            <td>Entre 1 millón de euros y 1,5 millones de euros</td>
+            <td>33</td>
+        </tr>
+    </tbody>
+</table>
 
 <ul class="cita"><li>(1) Suma de la retribución fija correspondiente al ejercicio 2016 y de la retribución
 variable generada en 2016</li></ul>

@@ -27,5 +27,5 @@ efectiva realización de la adquisición se espera que tenga
 lugar en la primera mitad del año 2017. Tras dicha adquisición,
 el Grupo pasará a tener una participación del 49,85%
 de la entidad citada. La adquisición tendrá un impacto
-estimado negativo en Common Equity Tier 1 (fully loaded) de
+estimado negativo en *Common Equity Tier 1* (*fully loaded*) de
 aproximadamente 19 puntos básicos.

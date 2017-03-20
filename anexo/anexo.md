@@ -15,7 +15,7 @@ submenu: anexo
     <thead>
         <tr class="tableizer-firstrow">
             <th></th>
-            <th colspan="1">dic-16</th>
+            <th colspan="1">31 de diciembre de 2016</th>
         </tr>
         <tr>
             <th>Tipo de Sociedad según Anexo</th>
@@ -41,14 +41,14 @@ submenu: anexo
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+
 
 
 <table class="l">
     <thead>
         <tr class="tableizer-firstrow">
             <th></th>
-            <th colspan="1">31/12/2016</th>
+            <th colspan="1">31 de diciembre de 2016</th>
         </tr>
         <tr>
             <th>Tipo de Sociedad según Anexo</th>
@@ -62,14 +62,18 @@ submenu: anexo
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+
 
 
 <table class="l">
     <thead>
         <tr class="tableizer-firstrow">
             <th></th>
-            <th colspan="1">31/12/2016</th>
+            <th colspan="1">31 de diciembre de 2016</th>
+        </tr>
+        <tr>
+            <th>Tipo de Sociedad según Anexo</th>
+            <th>Coste Consolidado (en millones €)</th>
         </tr>
     </thead>
     <tbody>
@@ -79,7 +83,7 @@ submenu: anexo
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+
 
 ## Anexo I: Aseguradoras con una participación superior al 10% que no consolidan según criterio de solvencia
 
@@ -90,7 +94,7 @@ submenu: anexo
             <td></td>
             <td></td>
             <td></td>
-            <td>31/12/06</td>
+            <td>31 de diciembre de 2016</td>
         </tr>
         <tr class="tableizer-firstrow">
             <th>Seguros participación >10%</th>
@@ -242,15 +246,12 @@ submenu: anexo
             <td>42</td>
         </tr>
         <tr class="b2">
-            <td>TOTAL</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td colspan="4">TOTAL</td>
             <td>3.306</td>
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+
 
 ## Entidades Financieras con una participación superior al 10% que no consolidan según criterio de solvencia
 
@@ -261,7 +262,7 @@ submenu: anexo
             <td></td>
             <td></td>
             <td></td>
-            <td>31/12/06</td>
+            <td>31 de diciembre de 2016</td>
         </tr>
         <tr class="tableizer-firstrow">
             <th>Financieras participación >10%</th>
@@ -595,27 +596,17 @@ submenu: anexo
             <td>-</td>
         </tr>
         <tr class="b2">
-            <td>TOTAL</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td colspan="4">TOTAL</td>
             <td>150</td>
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+
 
 ## Anexo II: Resto de Sociedades que consolidan según criterios contables pero no según criterio de solvencia
 
 <table class="l">
     <thead>
-        <tr class="m">
-            <th>Millones de euros</th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th>31/12/06</th>
-        </tr>
         <tr class="tableizer-firstrow">
             <th>Sociedad</th>
             <th>Circular Contable</th>
@@ -1053,27 +1044,17 @@ submenu: anexo
             <td>3</td>
         </tr>
         <tr class="b2">
-            <td>TOTAL</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td colspan="4">TOTAL</td>
             <td>411</td>
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+
 
 ## Anexo III: Resto de Sociedades que no consolidan según criterios contables y de solvencia
 
 <table class="l">
     <thead>
-        <tr class="m">
-            <td>Millones de euros</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>31/12/06</td>
-        </tr>
         <tr class="tableizer-firstrow">
             <th>Sociedad</th>
             <th>Circular Contable</th>
@@ -1504,27 +1485,17 @@ submenu: anexo
             <td>0</td>
         </tr>
         <tr class="b2">
-            <td>Total</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td colspan="4">Total</td>
             <td>512</td>
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+
 
 ## Anexo IV: Resto de Sociedades que no consolidan según criterios contables pero sí según criterio de solvencia
 
 <table class="l">
     <thead>
-        <tr class="m">
-            <td>Millones de euros</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>31/12/06</td>
-        </tr>
         <tr class="tableizer-firstrow">
             <th>Sociedad</th>
             <th>Circular Contable</th>
@@ -1556,17 +1527,11 @@ submenu: anexo
             <td>21</td>
         </tr>
         <tr class="b2">
-            <td>Total</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td colspan="4">Total</td>
             <td>43</td>
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
-
-<ul class="cita"><li>Los saldos a cero se corresponden con sociedades cuyo valor de participación presenta importes iguales a cero así como con sociedades que no son objeto de consolidación.</li></ul>
 
 
 ## Anexo V: Plantilla de información sobre fondos propios transitorios
@@ -1635,19 +1600,19 @@ submenu: anexo
             <td>(642)</td>
             <td>6.328</td>
         </tr>
-        <tr class="b2">
+        <tr>
             <td>5.a.Beneficios provisionales verificados de forma independiente , netos de todo posible gasto o dividendo previsible</td>
             <td>2.232</td>
             <td>&nbsp;</td>
             <td>2.232</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>6.Capital de nivel 1 ordinario antes de los ajustes reglamentarios</td>
             <td>54.339</td>
             <td>(642)</td>
             <td>53.697</td>
         </tr>
-        <tr>
+        <tr class="b">
             <td>Capital de nivel 1 ordinario: ajustes reglamentarios</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -1738,7 +1703,7 @@ submenu: anexo
             <td>-</td>
         </tr>
         <tr>
-            <td>20.a Importe de la exposición de los siguientes elementos, que pueden recibir una ponderación de riesgo del 1,250 %, cuando la entidad opte por la deducción</td>
+            <td>20.a Importe de la exposición de los siguientes elementos, que pueden recibir una ponderación de riesgo del 1,250%, cuando la entidad opte por la deducción</td>
             <td>(62)</td>
             <td>&nbsp;</td>
             <td>(62)</td>
@@ -2255,7 +2220,7 @@ submenu: anexo
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+
 
 <ul class="cita"><li>(*) CET1 disponible para satisfacer los requisitos de colchón de capital calculado como el 4,5% mínimo requerido sobre los APRs</li></ul>
 
@@ -2264,33 +2229,7 @@ submenu: anexo
 <table class="l">
     <thead>
         <tr class="tableizer-firstrow">
-            <th>Plantilla para la presentación de las principales características de los instrumentos de capital</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
+            <th colspan="5">Plantilla para la presentación de las principales características de los instrumentos de capital</th>
         </tr>
     </thead>
     <tbody>
@@ -2300,57 +2239,13 @@ submenu: anexo
             <td>Banco Bilbao Vizcaya Argentaria SA</td>
             <td>Banco Bilbao Vizcaya Argentaria SA</td>
             <td>Banco Bilbao Vizcaya Argentaria SA</td>
-            <td>BBVA International Preferred SA Unipersonal</td>
-            <td>BBVA International Preferred SA Unipersonal</td>
-            <td>BBVA International Preferred SA Unipersonal</td>
-            <td>CaixaSabadell Preferents S.A. Sociedad Unipersonal</td>
-            <td>Caixa Terrassa Societat de Participacions Preferents, S.A. Unipersonal</td>
-            <td>BBVA International Preferred SA Unipersonal </td>
-            <td>BBVA Subordinated Capital Finance SAU</td>
-            <td>BBVA Subordinated Capital Finance SAU</td>
-            <td>BBVA Subordinated Capital Finance SAU</td>
-            <td>BBVA, SA</td>
-            <td>BBVA Subordinated Capital Finance SAU</td>
-            <td>BBVA, SA</td>
-            <td>BBVA, SA</td>
-            <td>BBVA Subordinated Capital Finance SAU</td>
-            <td>BBVA Global Finance LTD</td>
-            <td>Caixa Terrassa</td>
-            <td>Caixa Terrassa</td>
-            <td>Caixa Terrassa</td>
-            <td>Caixa Sabadell</td>
-            <td>Caixa Sabadell</td>
-            <td>Caixa Sabadell</td>
-            <td>Caixa Terrassa</td>
         </tr>
         <tr>
-            <td>2. Identificador único (por ejemplo ISIN</td>
+            <td>2. Identificador único (por ejemplo ISIN)</td>
             <td>XS0926832907</td>
             <td>XS1033661866</td>
             <td>XS1190663952</td>
             <td>XS1394911496</td>
-            <td>US05530RAB42</td>
-            <td>XS0308305803</td>
-            <td>XS0266971745</td>
-            <td>ES0101339028</td>
-            <td>XS0225115566</td>
-            <td>XS0229864060</td>
-            <td>XS0230662628</td>
-            <td>XS1055241373</td>
-            <td>XS0376074364</td>
-            <td>ES0213211131</td>
-            <td>XS0361684391</td>
-            <td>ES0213211115</td>
-            <td>ES0213211107</td>
-            <td>XS0291892262</td>
-            <td>US055291AC24</td>
-            <td>ES0214974026</td>
-            <td>ES0214974059</td>
-            <td>ES0214974067</td>
-            <td>ES0214973051</td>
-            <td>ES0214973069</td>
-            <td>ES0214973077</td>
-            <td>ES0214974075</td>
         </tr>
         <tr>
             <td>3. Legislación aplicable al instrumento</td>
@@ -2358,53 +2253,9 @@ submenu: anexo
             <td>Legislación Española</td>
             <td>Legislación Española</td>
             <td>Legislación Española</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
-            <td>Legislación Inglesa</td>
-            <td>Legislación Inglesa</td>
-            <td>Legislación Inglesa</td>
-            <td>Legislación Española </td>
-            <td>Legislación Inglesa</td>
-            <td>Legislación Española </td>
-            <td>Legislación Española</td>
-            <td>Legislación Inglesa</td>
-            <td>Legislación neoyorquina</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
         </tr>
         <tr>
-            <td>Tratamiento normativo</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td>*Tratamiento normativo*</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -2416,28 +2267,6 @@ submenu: anexo
             <td>Capital de Nivel 1 Adicional</td>
             <td>Capital de Nivel 1 Adicional</td>
             <td>Capital de Nivel 1 Adicional</td>
-            <td>Capital de Nivel 1</td>
-            <td>Capital de Nivel 1</td>
-            <td>No admisible</td>
-            <td>Capital de Nivel 1</td>
-            <td>Capital de Nivel 1</td>
-            <td>No admisible</td>
-            <td>No admisible</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>No admisible</td>
-            <td>No admisible</td>
-            <td>No admisible</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
         </tr>
         <tr>
             <td>5. Normas de la CRR posteriores a la transición</td>
@@ -2445,28 +2274,6 @@ submenu: anexo
             <td>Capital de Nivel 1 Adicional</td>
             <td>Capital de Nivel 1 Adicional</td>
             <td>Capital de Nivel 1 Adicional</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>No admisible</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>No admisible</td>
-            <td>No admisible</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>No admisible</td>
-            <td>No admisible</td>
-            <td>No admisible</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
         </tr>
         <tr>
             <td>6. Admisibles a título individual/(sub) consolidado/ individual y (sub)consolidado</td>
@@ -2474,57 +2281,13 @@ submenu: anexo
             <td>Individual y Consolidado</td>
             <td>Individual y Consolidado</td>
             <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
         </tr>
         <tr>
             <td>7. Tipo de instrumento (cada país especificará los tipos pertinentes)</td>
-            <td>Contingent Convertible</td>
-            <td>Contingent Convertible</td>
-            <td>Contingent Convertible</td>
-            <td>Contingent Convertible</td>
-            <td>Acciones preferentes</td>
-            <td>Acciones preferentes</td>
-            <td>Acciones preferentes</td>
-            <td>Acciones preferentes</td>
-            <td>Acciones preferentes</td>
-            <td>Preferentes</td>
-            <td>Subordinadas</td>
-            <td>Subordinadas</td>
-            <td>Subordinadas</td>
-            <td>Subordinadas</td>
-            <td>Subordinadas</td>
-            <td>Subordinadas</td>
-            <td>Subordinadas</td>
-            <td>Subordinadas</td>
-            <td>Subordinadas</td>
-            <td>Deuda subordinada perpetua</td>
-            <td>Subordinadas</td>
-            <td>Subordinadas</td>
-            <td>Subordinadas</td>
-            <td>Subordinadas</td>
-            <td>Subordinadas</td>
-            <td>Deuda subordinada perpetua</td>
+            <td>*Contingent Convertible*</td>
+            <td>*Contingent Convertible*</td>
+            <td>*Contingent Convertible*</td>
+            <td>*Contingent Convertible*</td>
         </tr>
         <tr>
             <td>8. Importe reconocido en el capital reglamentario (moneda en millones, en la fecha de la última notificación (Mill EUR)</td>
@@ -2532,28 +2295,6 @@ submenu: anexo
             <td>1.500,0</td>
             <td>1.500,0</td>
             <td>1.000,0</td>
-            <td>569,2</td>
-            <td>36,4</td>
-            <td>-</td>
-            <td>51,2</td>
-            <td>34,3</td>
-            <td>-</td>
-            <td>-</td>
-            <td>1.500,0</td>
-            <td>4,0</td>
-            <td>99,9</td>
-            <td>50,0</td>
-            <td>124,7</td>
-            <td>256,6</td>
-            <td>68,0</td>
-            <td>184,7</td>
-            <td>0,05</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>4,7</td>
-            <td>39</td>
         </tr>
         <tr>
             <td>9. Importe nominal del instrumento en la moneda de emisión</td>
@@ -2561,53 +2302,9 @@ submenu: anexo
             <td>1,500 Mill EUR</td>
             <td>1,500 Mill EUR</td>
             <td>1,000 Mill EUR</td>
-            <td>600 Mill USD</td>
-            <td>400 Mill GBP</td>
-            <td>500 Mill EUR </td>
-            <td>90 Mill EUR</td>
-            <td>75 Mill EUR</td>
-            <td>550 Mill EUR</td>
-            <td>150,0 Mill EUR</td>
-            <td>1.500,0 Mill EUR</td>
-            <td>20,0 Mill EUR</td>
-            <td>100,0 Mill EUR</td>
-            <td>50,0 Mill EUR</td>
-            <td>125,0 Mill EUR</td>
-            <td>300 Mill EUR</td>
-            <td>100,0 Mill EUR</td>
-            <td>200,0 Mill USD</td>
-            <td>6 Mill EUR</td>
-            <td>50 Mill EUR</td>
-            <td>75 Mill EUR</td>
-            <td>50,0 Mill EUR</td>
-            <td>100,0 Mill EUR</td>
-            <td>35,0 Mill EUR</td>
-            <td>75,0 Mill EUR</td>
         </tr>
         <tr>
             <td>9.a Precio de emisión</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>99,81%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>99,77%</td>
-            <td>100,00%</td>
-            <td>99,65%</td>
-            <td>99,06%</td>
-            <td>100,00%</td>
-            <td>98,21%</td>
-            <td>100,00%</td>
-            <td>99,66%</td>
-            <td>100,00%</td>
             <td>100,00%</td>
             <td>100,00%</td>
             <td>100,00%</td>
@@ -2619,23 +2316,1237 @@ submenu: anexo
             <td>El derecho de liquidación preferente más, en su caso, un importe igual a las distribuciones devengadas y pendientes de pago para el periodo de distribución vigente en ese momento a la fecha fijada para el reembolso de las participaciones preferentes</td>
             <td>El derecho de liquidación preferente más, en su caso, un importe igual a las distribuciones devengadas y pendientes de pago para el periodo de distribución vigente en ese momento a la fecha fijada para el reembolso de las participaciones preferentes</td>
             <td>El derecho de liquidación preferente más, en su caso, un importe igual a las distribuciones devengadas y pendientes de pago para el periodo de distribución vigente en ese momento a la fecha fijada para el reembolso de las participaciones preferentes</td>
+        </tr>
+        <tr>
+            <td>10. Clasificación contable</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+        </tr>
+        <tr>
+            <td>11. Fecha de emisión inicial</td>
+            <td>26/04/2013</td>
+            <td>11/02/2014</td>
+            <td>10/02/2015</td>
+            <td>07/04/2016</td>
+        </tr>
+        <tr>
+            <td>12. Perpetuos o con vencimiento establecido</td>
+            <td>Perpetuo</td>
+            <td>Perpetuo</td>
+            <td>Perpetuo</td>
+            <td>Perpetuo</td>
+        </tr>
+        <tr>
+            <td>13. Fecha de vencimiento inicial</td>
+            <td>Sin Vencimiento</td>
+            <td>Sin Vencimiento</td>
+            <td>Sin Vencimiento</td>
+            <td>Sin Vencimiento</td>
+        </tr>
+        <tr>
+            <td>14. Opción de compra del emisor sujeta a la aprobación previa de las autoridades de supervisión</td>
+            <td>Sí</td>
+            <td>Sí</td>
+            <td>Sí</td>
+            <td>Sí</td>
+        </tr>
+        <tr>
+            <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
+            <td>*Call date* del emisor: 09/05/2018; sujeto tanto al *Regulatory call* como al *Tax call*</td>
+            <td>*Call date* del emisor: 19/02/2019; sujeto tanto al *Regulatory call* como al *Tax call*</td>
+            <td>*Call date* del emisor: 18/02/2020; sujeto tanto al *Regulatory call* como al *Tax call*</td>
+            <td>*Call date* del emisor: 14/04/2021; sujeto tanto al *Regulatory call* como al *Tax call*</td>
+        </tr>
+        <tr>
+            <td>16. Fechas de ejercicio posteriores, si procede</td>
+            <td>En cualquier momento a partir de la primera fecha de reinicio</td>
+            <td>En cualquier momento a partir de la primera fecha de reinicio</td>
+            <td>En cualquier momento a partir de la primera fecha de reinicio</td>
+            <td>En cualquier momento a partir de la primera fecha de reinicio</td>
+        </tr>
+        <tr>
+            <td>*Cupones / dividendos*</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>17. Dividendo o cupón fijo o variable</td>
+            <td>De fijo a variable (desde la fecha de call)</td>
+            <td>De fijo a variable (desde la fecha de call)</td>
+            <td>De fijo a variable (desde la fecha de call)</td>
+            <td>De fijo a variable (desde la fecha de call)</td>
+        </tr>
+        <tr>
+            <td>18. Tipo de interés del cupón y cualquier índice conexo</td>
+            <td>9.0%; USSW5 + 8.262%</td>
+            <td>7.0%; EUSA5 + 6.155%</td>
+            <td>6.75%; EUSA5 + 6.604%</td>
+            <td>8.875%; EUSA5 +9.177%</td>
+        </tr>
+        <tr>
+            <td>19. Existencia de limitaciones al pago de dividendos</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>20.a. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de calendario)</td>
+            <td>Plenamente discrecional</td>
+            <td>Plenamente discrecional</td>
+            <td>Plenamente discrecional</td>
+            <td>Plenamente discrecional</td>
+        </tr>
+        <tr>
+            <td>20.b. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de importe)</td>
+            <td>Plenamente discrecional</td>
+            <td>Plenamente discrecional</td>
+            <td>Plenamente discrecional</td>
+            <td>Plenamente discrecional</td>
+        </tr>
+        <tr>
+            <td>21. Existencia de un incremento del cupón u otros incentivos al reembolso</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>22. Acumulativo o no acumulativo</td>
+            <td>No acumulativo</td>
+            <td>No acumulativo</td>
+            <td>No acumulativo</td>
+            <td>No acumulativo</td>
+        </tr>
+        <tr>
+            <td>23. Convertible o no convertible</td>
+            <td>Convertible</td>
+            <td>Convertible</td>
+            <td>Convertible</td>
+            <td>Convertible</td>
+        </tr>
+        <tr>
+            <td>24. Si son convertibles, factor(es) que desencadenen la conversión</td>
+            <td>CET1 5.125%; Individual y Consolidado</td>
+            <td>CET1 5.125%; Individual y Consolidado</td>
+            <td>CET1 5.125%; Individual y Consolidado</td>
+            <td>CET1 5.125%; Individual y Consolidado</td>
+        </tr>
+        <tr>
+            <td>25. Si son convertibles, total o parcialmente</td>
+            <td>Siempre Totalmente</td>
+            <td>Siempre Totalmente</td>
+            <td>Siempre Totalmente</td>
+            <td>Siempre Totalmente</td>
+        </tr>
+        <tr>
+            <td>26. Si son convertibles, tipo de conversión aplicable</td>
+            <td>Variable</td>
+            <td>Variable</td>
+            <td>Variable</td>
+            <td>Variable</td>
+        </tr>
+        <tr>
+            <td>27. Si son convertibles, conversión obligatoria u opcional</td>
+            <td>Obligatoria</td>
+            <td>Obligatoria</td>
+            <td>Obligatoria</td>
+            <td>Obligatoria</td>
+        </tr>
+        <tr>
+            <td>28. Si son convertibles, especifíquese el tipo de instrumento en que se pueden convertir</td>
+            <td>Capital de Nivel 1 ordinario</td>
+            <td>Capital de Nivel 1 ordinario</td>
+            <td>Capital de Nivel 1 ordinario</td>
+            <td>Capital de Nivel 1 ordinario</td>
+        </tr>
+        <tr>
+            <td>29. Si son convertibles, especifíquese el emisor del instrumento en que se convierte</td>
+            <td>Banco Bilbao Vizcaya Argentaria SA</td>
+            <td>Banco Bilbao Vizcaya Argentaria SA</td>
+            <td>Banco Bilbao Vizcaya Argentaria SA</td>
+            <td>Banco Bilbao Vizcaya Argentaria SA</td>
+        </tr>
+        <tr>
+            <td>30. Características de la depreciación</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>31. En caso de depreciación, factor(es) que la desencadenan</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>32. En caso de depreciación, total o parcial</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>33. En caso de depreciación, permanente o temporal</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>34. Si la depreciación es provisional, descripción del mecanismo de apreciación</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>35. Posición en la jerarquía de subordinación en la liquidación (especifíquense el tipo de instrumento de rango inmediatamente superior)
+            </td>
+            <td>Senior a acciones ordinarias y reservas y *pari passu* con las preferentes</td>
+            <td>Senior a acciones ordinarias y reservas y *pari passu* con las preferentes</td>
+            <td>Senior a acciones ordinarias y reservas y *pari passu* con las preferentes</td>
+            <td>Senior a acciones ordinarias y reservas y *pari passu* con las preferentes</td>
+        </tr>
+        <tr>
+            <td>36. Características no conformes tras la transición</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>37. En caso afirmativo, especifíquense las características no conformes</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<table class="l">
+    <thead>
+        <tr class="tableizer-firstrow">
+            <th colspan="5">Plantilla para la presentación de las principales características de los instrumentos de capital</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1. Emisor</td>
+            <td>BBVA International Preferred SA Unipersonal</td>
+            <td>BBVA International Preferred SA Unipersonal</td>
+            <td>BBVA International Preferred SA Unipersonal</td>
+            <td>CaixaSabadell Preferents S.A. Sociedad Unipersonal</td>
+        </tr>
+        <tr>
+            <td>2. Identificador único (por ejemplo ISIN)</td>
+            <td>US05530RAB42</td>
+            <td>XS0308305803</td>
+            <td>XS0266971745</td>
+            <td>ES0101339028</td>
+        </tr>
+        <tr>
+            <td>3. Legislación aplicable al instrumento</td>
+            <td>Legislación Española</td>
+            <td>Legislación Española</td>
+            <td>Legislación Española</td>
+            <td>Legislación Española</td>
+        </tr>
+        <tr>
+            <td>*Tratamiento normativo*</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>4. Normas transitorias de la CRR</td>
+            <td>Capital de Nivel 1</td>
+            <td>Capital de Nivel 1</td>
+            <td>No admisible</td>
+            <td>Capital de Nivel 1</td>
+        </tr>
+        <tr>
+            <td>5. Normas de la CRR posteriores a la transición</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>No admisible</td>
+            <td>Capital de Nivel 2</td>
+        </tr>
+        <tr>
+            <td>6. Admisibles a título individual/(sub) consolidado/ individual y (sub)consolidado</td>
+            <td>Individual y Consolidado</td>
+            <td>Individual y Consolidado</td>
+            <td>Individual y Consolidado</td>
+            <td>Individual y Consolidado</td>
+        </tr>
+        <tr>
+            <td>7. Tipo de instrumento (cada país especificará los tipos pertinentes)</td>
+            <td>Acciones preferentes</td>
+            <td>Acciones preferentes</td>
+            <td>Acciones preferentes</td>
+            <td>Acciones preferentes</td>
+        </tr>
+        <tr>
+            <td>8. Importe reconocido en el capital reglamentario (moneda en millones, en la fecha de la última notificación (Mill EUR)</td>
+            <td>569,2</td>
+            <td>36,4</td>
+            <td>-</td>
+            <td>51,2</td>
+        </tr>
+        <tr>
+            <td>9. Importe nominal del instrumento en la moneda de emisión</td>
+            <td>600 Mill USD</td>
+            <td>400 Mill GBP</td>
+            <td>500 Mill EUR </td>
+            <td>90 Mill EUR</td>
+        </tr>
+        <tr>
+            <td>9.a Precio de emisión</td>
+            <td>100,00%</td>
+            <td>100,00%</td>
+            <td>100,00%</td>
+            <td>100,00%</td>
+        </tr>
+        <tr>
+            <td>9.b Precio de reembolso</td>
             <td>El derecho de liquidación preferente más, en su caso, un importe igual a las distribuciones devengadas y pendientes de pago para el periodo de distribución vigente en ese momento a la fecha fijada para el reembolso de las participaciones preferentes</td>
             <td>El derecho de liquidación preferente más, en su caso, un importe igual a las distribuciones devengadas y pendientes de pago para el periodo de distribución vigente en ese momento a la fecha fijada para el reembolso de las participaciones preferentes</td>
             <td>El derecho de liquidación preferente más, en su caso, un importe igual a las distribuciones devengadas y pendientes de pago para el periodo de distribución vigente en ese momento a la fecha fijada para el reembolso de las participaciones preferentes</td>
             <td>El derecho de liquidación preferente más, en su caso, un importe igual a las distribuciones devengadas y pendientes de pago para el periodo de distribución vigente en ese momento a la fecha fijada para el reembolso de las participaciones preferentes</td>
+        </tr>
+        <tr>
+            <td>10. Clasificación contable</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+        </tr>
+        <tr>
+            <td>11. Fecha de emisión inicial</td>
+            <td>18/04/2007</td>
+            <td>19/07/2007</td>
+            <td>20/09/2006</td>
+            <td>14/07/2006</td>
+        </tr>
+        <tr>
+            <td>12. Perpetuos o con vencimiento establecido</td>
+            <td>Perpetuo</td>
+            <td>Perpetuo</td>
+            <td>Perpetuo</td>
+            <td>Perpetuo</td>
+        </tr>
+        <tr>
+            <td>13. Fecha de vencimiento inicial</td>
+            <td>Sin Vencimiento</td>
+            <td>Sin Vencimiento</td>
+            <td>Sin Vencimiento</td>
+            <td>Sin Vencimiento</td>
+        </tr>
+        <tr>
+            <td>14. Opción de compra del emisor sujeta a la aprobación previa de las autoridades de supervisión</td>
+            <td>Sí</td>
+            <td>Sí</td>
+            <td>Sí</td>
+            <td>Sí</td>
+        </tr>
+        <tr>
+            <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
+            <td>*Call date* del emisor: 18/04/2017; sujeto tanto al *Regulatory call* como al *Tax call*</td>
+            <td>*Call date* del emisor: 19/07/2012; sujeto tanto al *Regulatory call* como al *Tax call*</td>
+            <td>*Call date* del emisor: 20/09/2016; sujeto tanto al *Regulatory call* como al *Tax call*</td>
+            <td>*Call date* del emisor: 14/07/2016</td>
+        </tr>
+        <tr>
+            <td>16. Fechas de ejercicio posteriores, si procede</td>
+            <td>En intervalos de diez años empezando el 18 de abril de 2017</td>
+            <td>En cualquier fecha de pago de distribución que cae en o después de la primera *call date*</td>
+            <td>En cualquier fecha de pago de distribución que cae en o después de la primera *call date*</td>
+            <td>En cualquier fecha de pago de distribución que cae en o después de la primera *call date*</td>
+        </tr>
+        <tr>
+            <td>*Cupones / dividendos*</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>17. Dividendo o cupón fijo o variable</td>
+            <td>De fijo a variable (desde la fecha de call)</td>
+            <td>De fijo a variable (desde la fecha de call)</td>
+            <td>De fijo a variable (desde la fecha de call)</td>
+            <td>Variable</td>
+        </tr>
+        <tr>
+            <td>18. Tipo de interés del cupón y cualquier índice conexo</td>
+            <td>5,919% (floor); 3M US LIBOR+0.82%</td>
+            <td>7,093%; 3M GBP LIBOR+0,875%</td>
+            <td>4,952%; 3M EURIBOR +0,95% (desde 20/09/16 +1% adicional)</td>
+            <td>3M EURIBOR + 1,95%</td>
+        </tr>
+        <tr>
+            <td>19. Existencia de limitaciones al pago de dividendos</td>
+            <td>Sí</td>
+            <td>Sí</td>
+            <td>Sí</td>
+            <td>Sí</td>
+        </tr>
+        <tr>
+            <td>20.a. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de calendario)</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+        </tr>
+        <tr>
+            <td>20.b. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de importe)</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+        </tr>
+        <tr>
+            <td>21. Existencia de un incremento del cupón u otros incentivos al reembolso</td>
+            <td>No</td>
+            <td>No</td>
+            <td>Sí</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>22. Acumulativo o no acumulativo</td>
+            <td>No acumulativo</td>
+            <td>No acumulativo</td>
+            <td>No acumulativo</td>
+            <td>No acumulativo</td>
+        </tr>
+        <tr>
+            <td>23. Convertible o no convertible</td>
+            <td>No convertible</td>
+            <td>No convertible</td>
+            <td>No convertible</td>
+            <td>No convertible</td>
+        </tr>
+        <tr>
+            <td>24. Si son convertibles, factor(es) que desencadenen la conversión</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>25. Si son convertibles, total o parcialmente</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>26. Si son convertibles, tipo de conversión aplicable</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>27. Si son convertibles, conversión obligatoria u opcional</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>28. Si son convertibles, especifíquese el tipo de instrumento en que se pueden convertir</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>29. Si son convertibles, especifíquese el emisor del instrumento en que se convierte</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>30. Características de la depreciación</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>31. En caso de depreciación, factor(es) que la desencadenan</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>32. En caso de depreciación, total o parcial</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>33. En caso de depreciación, permanente o temporal</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>34. Si la depreciación es provisional, descripción del mecanismo de apreciación</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>35. Posición en la jerarquía de subordinación en la liquidación (especifíquense el tipo de instrumento de rango inmediatamente superior)
+            </td>
+            <td>Senior a acciones ordinarias y reservas y *pari passu* con las preferentes</td>
+            <td>Senior a acciones ordinarias y reservas y *pari passu* con los instrumentos de Nivel 1 Adicional</td>
+            <td>Senior a acciones ordinarias y reservas y *pari passu* con los instrumentos de Nivel 1 Adicional</td>
+            <td>Senior a acciones ordinarias y reservas y *pari passu* con los instrumentos de Nivel 1 Adicional</td>
+        </tr>
+        <tr>
+            <td>36. Características no conformes tras la transición</td>
+            <td>Sí</td>
+            <td>Sí</td>
+            <td>Sí</td>
+            <td>Sí</td>
+        </tr>
+        <tr>
+            <td>37. En caso afirmativo, especifíquense las características no conformes</td>
+            <td>No tiene factor desencadenante ni discrecionalidad en el pago</td>
+            <td>No tiene factor desencadenante ni discrecionalidad en el pago</td>
+            <td>No tiene factor desencadenante ni discrecionalidad en el pago. Incluye step-up</td>
+            <td>No tiene factor desencadenante ni discrecionalidad en el pago</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<table class="l">
+    <thead>
+        <tr class="tableizer-firstrow">
+            <th colspan="5">Plantilla para la presentación de las principales características de los instrumentos de capital</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1. Emisor</td>
+            <td>Caixa Terrassa Societat de Participacions Preferents, S.A. Unipersonal</td>
+            <td>BBVA International Preferred SA Unipersonal </td>
+            <td>BBVA Subordinated Capital Finance SAU</td>
+            <td>BBVA Subordinated Capital Finance SAU</td>
+        </tr>
+        <tr>
+            <td>2. Identificador único (por ejemplo ISIN</td>
+            <td>XS0225115566</td>
+            <td>XS0229864060</td>
+            <td>XS0230662628</td>
+            <td>XS1055241373</td>
+        </tr>
+        <tr>
+            <td>3. Legislación aplicable al instrumento</td>
+            <td>Legislación Española</td>
+            <td>Legislación Española</td>
+            <td>Legislación Inglesa</td>
+            <td>Legislación Inglesa</td>
+        </tr>
+        <tr>
+            <td>*Tratamiento normativo*</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>4. Normas transitorias de la CRR</td>
+            <td>Capital de Nivel 1</td>
+            <td>No admisible</td>
+            <td>No admisible</td>
+            <td>Capital de Nivel 2</td>
+        </tr>
+        <tr>
+            <td>5. Normas de la CRR posteriores a la transición</td>
+            <td>Capital de Nivel 2</td>
+            <td>No admisible</td>
+            <td>No admisible</td>
+            <td>Capital de Nivel 2</td>
+        </tr>
+        <tr>
+            <td>6. Admisibles a título individual/(sub) consolidado/ individual y (sub)consolidado</td>
+            <td>Individual y Consolidado</td>
+            <td>Individual y Consolidado</td>
+            <td>Individual y Consolidado</td>
+            <td>Individual y Consolidado</td>
+        </tr>
+        <tr>
+            <td>7. Tipo de instrumento (cada país especificará los tipos pertinentes)</td>
+            <td>Acciones preferentes</td>
+            <td>Preferentes</td>
+            <td>Subordinadas</td>
+            <td>Subordinadas</td>
+        </tr>
+        <tr>
+            <td>8. Importe reconocido en el capital reglamentario (moneda en millones, en la fecha de la última notificación (Mill EUR)</td>
+            <td>34,3</td>
+            <td>-</td>
+            <td>-</td>
+            <td>1.500,0</td>
+        </tr>
+        <tr>
+            <td>9. Importe nominal del instrumento en la moneda de emisión</td>
+            <td>75 Mill EUR</td>
+            <td>550 Mill EUR</td>
+            <td>150,0 Mill EUR</td>
+            <td>1.500,0 Mill EUR</td>
+        </tr>
+        <tr>
+            <td>9.a Precio de emisión</td>
+            <td>100,00%</td>
+            <td>100,00%</td>
+            <td>99,81%</td>
+            <td>100,00%</td>
+        </tr>
+        <tr>
+            <td>9.b Precio de reembolso</td>
             <td>El derecho de liquidación preferente más, en su caso, un importe igual a las distribuciones devengadas y pendientes de pago para el periodo de distribución vigente en ese momento a la fecha fijada para el reembolso de las participaciones preferentes</td>
             <td>El derecho de liquidación preferente más, en su caso, un importe igual a las distribuciones devengadas y pendientes de pago para el periodo de distribución vigente en ese momento a la fecha fijada para el reembolso de las participaciones preferentes</td>
-            <td>1</td>
+            <td>100%</td>
+            <td>100%</td>
+        </tr>
+        <tr>
+            <td>10. Clasificación contable</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+        </tr>
+        <tr>
+            <td>11. Fecha de emisión inicial</td>
+            <td>10/08/2005</td>
+            <td>22/09/2005</td>
+            <td>13/10/2005</td>
+            <td>11/04/2014</td>
+        </tr>
+        <tr>
+            <td>12. Perpetuos o con vencimiento establecido</td>
+            <td>Perpetuo</td>
+            <td>Perpetuo</td>
+            <td>Vencimiento determinado</td>
+            <td>Vencimiento determinado</td>
+        </tr>
+        <tr>
+            <td>13. Fecha de vencimiento inicial</td>
+            <td>Sin Vencimiento</td>
+            <td>Sin Vencimiento</td>
+            <td>13/10/2020</td>
+            <td>11/04/2024</td>
+        </tr>
+        <tr>
+            <td>14. Opción de compra del emisor sujeta a la aprobación previa de las autoridades de supervisión</td>
+            <td>Sí</td>
+            <td>Sí</td>
+            <td>Sí</td>
+            <td>Sí</td>
+        </tr>
+        <tr>
+            <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
+            <td>*Call date* del emisor: 10/08/2011</td>
+            <td>*Call date* del emisor: 22/09/2015; sujeto tanto al *Regulatory call* como al *Tax call*</td>
+            <td>*Call date* del emisor: 13/10/2015; *Tax call* (En cualquier momento tras cinco años)</td>
+            <td>*Call date* del emisor: 11/04/2019; sujeto tanto al *Regulatory call* como al *Tax call*</td>
+        </tr>
+        <tr>
+            <td>16. Fechas de ejercicio posteriores, si procede</td>
+            <td>En cualquier fecha de pago de distribución que cae en o después de la primera *call date*</td>
+            <td>En cualquier fecha de pago de distribución que cae en o después de la primera *call date*</td>
+            <td>*Call date* de emisión y en cada día de pago de intereses a partir de entonces</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>*Cupones / dividendos*</td>
+            <td>&nbsp;</td>
+            <td>0</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>17. Dividendo o cupón fijo o variable</td>
+            <td>De fijo a variable (desde la fecha de call)</td>
+            <td>De fijo a variable (desde la fecha de call)</td>
+            <td>Variable</td>
+            <td>De fijo a variable (desde la fecha de call)</td>
+        </tr>
+        <tr>
+            <td>18. Tipo de interés del cupón y cualquier índice conexo</td>
+            <td>8%; 10Y CMS +0,10% (cap: 10%)</td>
+            <td>3,798%; 3M EURIBOR + 0,65% (desde 22/09/15 +1% adicional)</td>
+            <td>3M EURIBOR +0,30% hasta el 13/10/2015; después 3M EURIBOR +0,80%</td>
+            <td>3.5%; 6M EURIBOR + 255pbs</td>
+        </tr>
+        <tr>
+            <td>19. Existencia de limitaciones al pago de dividendos</td>
+            <td>Sí</td>
+            <td>Sí</td>
+            <td>No</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>20.a. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de calendario)</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+        </tr>
+        <tr>
+            <td>20.b. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de importe)</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+        </tr>
+        <tr>
+            <td>21. Existencia de un incremento del cupón u otros incentivos al reembolso</td>
+            <td>No</td>
+            <td>Sí</td>
+            <td>Sí</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>22. Acumulativo o no acumulativo</td>
+            <td>No acumulativo</td>
+            <td>No acumulativo</td>
+            <td>Acumulativo</td>
+            <td>Acumulativo</td>
+        </tr>
+        <tr>
+            <td>23. Convertible o no convertible</td>
+            <td>No convertible</td>
+            <td>No convertible</td>
+            <td>No convertible</td>
+            <td>No convertible</td>
+        </tr>
+        <tr>
+            <td>24. Si son convertibles, factor(es) que desencadenen la conversión</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>25. Si son convertibles, total o parcialmente</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>26. Si son convertibles, tipo de conversión aplicable</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>27. Si son convertibles, conversión obligatoria u opcional</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>28. Si son convertibles, especifíquese el tipo de instrumento en que se pueden convertir</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>29. Si son convertibles, especifíquese el emisor del instrumento en que se convierte</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>30. Características de la depreciación</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>31. En caso de depreciación, factor(es) que la desencadenan</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>32. En caso de depreciación, total o parcial</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>33. En caso de depreciación, permanente o temporal</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>34. Si la depreciación es provisional, descripción del mecanismo de apreciación</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>35. Posición en la jerarquía de subordinación en la liquidación (especifíquense el tipo de instrumento de rango inmediatamente superior)
+            </td>
+            <td>Senior a acciones ordinarias y reservas y *pari passu* con los instrumentos de Nivel 1 Adicional</td>
+            <td>De senior a acciones ordinarias y reservas y *pari passu* con los instrumentos de Nivel 1 Adicional</td>
+            <td>De senior a preferentes, instrumentos de Nivel 1 Adicional e instrumentos de Nivel 2 Superior (Perpetuo)</td>
+            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
+        </tr>
+        <tr>
+            <td>36. Características no conformes tras la transición</td>
+            <td>Sí</td>
+            <td>Sí</td>
+            <td>Sí</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>37. En caso afirmativo, especifíquense las características no conformes</td>
+            <td>No tiene factor desencadenante ni discrecionalidad en el pago</td>
+            <td>No hay desencadenante ni discrecionalidad, step up</td>
+            <td>Existencia de step-up</td>
+            <td>N/A</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<table class="l">
+    <thead>
+        <tr class="tableizer-firstrow">
+            <th colspan="5">Plantilla para la presentación de las principales características de los instrumentos de capital</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1. Emisor</td>
+            <td>BBVA Subordinated Capital Finance SAU</td>
+            <td>BBVA, SA</td>
+            <td>BBVA Subordinated Capital Finance SAU</td>
+            <td>BBVA, SA</td>
+        </tr>
+        <tr>
+            <td>2. Identificador único (por ejemplo ISIN</td>
+            <td>XS0376074364</td>
+            <td>ES0213211131</td>
+            <td>XS0361684391</td>
+            <td>ES0213211115</td>
+        </tr>
+        <tr>
+            <td>3. Legislación aplicable al instrumento</td>
+            <td>Legislación Inglesa</td>
+            <td>Legislación Española</td>
+            <td>Legislación Inglesa</td>
+            <td>Legislación Española</td>
+        </tr>
+        <tr>
+            <td>*Tratamiento normativo*</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>4. Normas transitorias de la CRR</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+        </tr>
+        <tr>
+            <td>5. Normas de la CRR posteriores a la transición</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+        </tr>
+        <tr>
+            <td>6. Admisibles a título individual/(sub) consolidado/ individual y (sub)consolidado</td>
+            <td>Individual y Consolidado</td>
+            <td>Individual y Consolidado</td>
+            <td>Individual y Consolidado</td>
+            <td>Individual y Consolidado</td>
+        </tr>
+        <tr>
+            <td>7. Tipo de instrumento (cada país especificará los tipos pertinentes)</td>
+            <td>Subordinadas</td>
+            <td>Subordinadas</td>
+            <td>Subordinadas</td>
+            <td>Subordinadas</td>
+        </tr>
+        <tr>
+            <td>8. Importe reconocido en el capital reglamentario (moneda en millones, en la fecha de la última notificación (Mill EUR)</td>
+            <td>4,0</td>
+            <td>99,9</td>
+            <td>50,0</td>
+            <td>124,7</td>
+        </tr>
+        <tr>
+            <td>9. Importe nominal del instrumento en la moneda de emisión</td>
+            <td>20,0 Mill EUR</td>
+            <td>100,0 Mill EUR</td>
+            <td>50,0 Mill EUR</td>
+            <td>125,0 Mill EUR</td>
+        </tr>
+        <tr>
+            <td>9.a Precio de emisión</td>
+            <td>100,00%</td>
+            <td>99,77%</td>
+            <td>100,00%</td>
+            <td>99,65%</td>
+        </tr>
+        <tr>
+            <td>9.b Precio de reembolso</td>
             <td>100%</td>
             <td>100%</td>
             <td>100%</td>
             <td>100%</td>
-            <td>100%</td>
-            <td>100%</td>
-            <td>100%</td>
-            <td>100%</td>
-            <td>100%</td>
-            <td>100%</td>
+        </tr>
+        <tr>
+            <td>10. Clasificación contable</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+        </tr>
+        <tr>
+            <td>11. Fecha de emisión inicial</td>
+            <td>22/07/2008</td>
+            <td>04/07/2008</td>
+            <td>19/05/2008</td>
+            <td>03/03/2008</td>
+        </tr>
+        <tr>
+            <td>12. Perpetuos o con vencimiento establecido</td>
+            <td>Vencimiento determinado</td>
+            <td>Vencimiento determinado</td>
+            <td>Vencimiento determinado</td>
+            <td>Vencimiento determinado</td>
+        </tr>
+        <tr>
+            <td>13. Fecha de vencimiento inicial</td>
+            <td>22/07/2018</td>
+            <td>04/07/2023</td>
+            <td>19/05/2023</td>
+            <td>03/03/2033</td>
+        </tr>
+        <tr>
+            <td>14. Opción de compra del emisor sujeta a la aprobación previa de las autoridades de supervisión</td>
+            <td>Sí</td>
+            <td>Sí</td>
+            <td>Sí</td>
+            <td>Sí</td>
+        </tr>
+        <tr>
+            <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
+            <td>Sin *call date* opcional; *Tax call*</td>
+            <td>No</td>
+            <td>Sin *call date* opcional; *Tax call*</td>
+            <td>*Call date* del emisor: 03/03/2028</td>
+        </tr>
+        <tr>
+            <td>16. Fechas de ejercicio posteriores, si procede</td>
+            <td>En cualquier momento a partir del quinto año</td>
+            <td>NA</td>
+            <td>En cualquier momento a partir del quinto año</td>
+            <td>*Call date* de emisión y en cada día de pago de intereses a partir de entonces</td>
+        </tr>
+        <tr>
+            <td>*Cupones / dividendos*</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>17. Dividendo o cupón fijo o variable</td>
+            <td>Fijo</td>
+            <td>Fijo</td>
+            <td>De fijo al indice lincado</td>
+            <td>De fijo a variable (desde la fecha de call)</td>
+        </tr>
+        <tr>
+            <td>18. Tipo de interés del cupón y cualquier índice conexo</td>
+            <td>6,11%</td>
+            <td>6,20%</td>
+            <td>4,75% primeros 2 años; después, vincularlo al CPI</td>
+            <td>6,025%; desde el 3/03/28 3M EURIBOR+1,78%</td>
+        </tr>
+        <tr>
+            <td>19. Existencia de limitaciones al pago de dividendos</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>20.a. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de calendario)</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+        </tr>
+        <tr>
+            <td>20.b. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de importe)</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+        </tr>
+        <tr>
+            <td>21. Existencia de un incremento del cupón u otros incentivos al reembolso</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>Sí</td>
+        </tr>
+        <tr>
+            <td>22. Acumulativo o no acumulativo</td>
+            <td>Acumulativo</td>
+            <td>Acumulativo</td>
+            <td>Acumulativo</td>
+            <td>Acumulativo</td>
+        </tr>
+        <tr>
+            <td>23. Convertible o no convertible</td>
+            <td>No convertible</td>
+            <td>No convertible</td>
+            <td>No convertible</td>
+            <td>No convertible</td>
+        </tr>
+        <tr>
+            <td>24. Si son convertibles, factor(es) que desencadenen la conversión</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>25. Si son convertibles, total o parcialmente</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>26. Si son convertibles, tipo de conversión aplicable</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>27. Si son convertibles, conversión obligatoria u opcional</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>28. Si son convertibles, especifíquese el tipo de instrumento en que se pueden convertir</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>29. Si son convertibles, especifíquese el emisor del instrumento en que se convierte</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>30. Características de la depreciación</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>31. En caso de depreciación, factor(es) que la desencadenan</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>32. En caso de depreciación, total o parcial</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>33. En caso de depreciación, permanente o temporal</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>34. Si la depreciación es provisional, descripción del mecanismo de apreciación</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>35. Posición en la jerarquía de subordinación en la liquidación (especifíquense el tipo de instrumento de rango inmediatamente superior)
+            </td>
+            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
+            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
+            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
+            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
+        </tr>
+        <tr>
+            <td>36. Características no conformes tras la transición</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>Sí</td>
+        </tr>
+        <tr>
+            <td>37. En caso afirmativo, especifíquense las características no conformes</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>Existencia de step-up</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<table class="l">
+    <thead>
+        <tr class="tableizer-firstrow">
+            <th colspan="5">Plantilla para la presentación de las principales características de los instrumentos de capital</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1. Emisor</td>
+            <td>BBVA, SA</td>
+            <td>BBVA Subordinated Capital Finance SAU</td>
+            <td>BBVA Global Finance LTD</td>
+            <td>Caixa Terrassa</td>
+            <td>Caixa Terrassa</td>
+        </tr>
+        <tr>
+            <td>2. Identificador único (por ejemplo ISIN</td>
+            <td>ES0213211107</td>
+            <td>XS0291892262</td>
+            <td>US055291AC24</td>
+            <td>ES0214974026</td>
+            <td>ES0214974059</td>
+        </tr>
+        <tr>
+            <td>3. Legislación aplicable al instrumento</td>
+            <td>Legislación Española</td>
+            <td>Legislación Inglesa</td>
+            <td>Legislación neoyorquina</td>
+            <td>Legislación Española</td>
+            <td>Legislación Española</td>
+        </tr>
+        <tr>
+            <td>*Tratamiento normativo*</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>4. Normas transitorias de la CRR</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>No admisible</td>
+        </tr>
+        <tr>
+            <td>5. Normas de la CRR posteriores a la transición</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>No admisible</td>
+        </tr>
+        <tr>
+            <td>6. Admisibles a título individual/(sub) consolidado/ individual y (sub)consolidado</td>
+            <td>Individual y Consolidado</td>
+            <td>Individual y Consolidado</td>
+            <td>Individual y Consolidado</td>
+            <td>Individual y Consolidado</td>
+            <td>Individual y Consolidado</td>
+        </tr>
+        <tr>
+            <td>7. Tipo de instrumento (cada país especificará los tipos pertinentes)</td>
+            <td>Subordinadas</td>
+            <td>Subordinadas</td>
+            <td>Subordinadas</td>
+            <td>Deuda subordinada perpetua</td>
+            <td>Subordinadas</td>
+        </tr>
+        <tr>
+            <td>8. Importe reconocido en el capital reglamentario (moneda en millones, en la fecha de la última notificación (Mill EUR)</td>
+            <td>256,6</td>
+            <td>68,0</td>
+            <td>184,7</td>
+            <td>0,05</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>9. Importe nominal del instrumento en la moneda de emisión</td>
+            <td>300 Mill EUR</td>
+            <td>100,0 Mill EUR</td>
+            <td>200,0 Mill USD</td>
+            <td>6 Mill EUR</td>
+            <td>50 Mill EUR</td>
+        </tr>
+        <tr>
+            <td>9.a Precio de emisión</td>
+            <td>99,06%</td>
+            <td>100,00%</td>
+            <td>98,21%</td>
+            <td>100,00%</td>
+            <td>99,66%</td>
+        </tr>
+        <tr>
+            <td>9.b Precio de reembolso</td>
             <td>100%</td>
             <td>100%</td>
             <td>100%</td>
@@ -2649,114 +3560,30 @@ submenu: anexo
             <td>Obligación - coste amortizado</td>
             <td>Obligación - coste amortizado</td>
             <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
         </tr>
         <tr>
             <td>11. Fecha de emisión inicial</td>
-            <td>4/26/13</td>
-            <td>2/11/14</td>
-            <td>2/10/15</td>
-            <td>4/7/16</td>
-            <td>4/18/07</td>
-            <td>7/19/07</td>
-            <td>9/20/06</td>
-            <td>7/14/06</td>
-            <td>8/10/05</td>
-            <td>9/22/05</td>
-            <td>10/13/05</td>
-            <td>4/11/14</td>
-            <td>7/22/08</td>
-            <td>7/4/08</td>
-            <td>5/19/08</td>
-            <td>3/3/08</td>
-            <td>2/16/07</td>
-            <td>4/4/07</td>
-            <td>12/4/95</td>
-            <td>6/30/90</td>
-            <td>8/9/06</td>
-            <td>8/9/06</td>
-            <td>1/28/05</td>
-            <td>2/15/07</td>
-            <td>6/10/09</td>
-            <td>3/1/07</td>
+            <td>16/02/2007</td>
+            <td>04/04/2007</td>
+            <td>04/12/1995</td>
+            <td>30/06/1990</td>
+            <td>09/08/2006</td>
         </tr>
         <tr>
             <td>12. Perpetuos o con vencimiento establecido</td>
-            <td>Perpetuo</td>
-            <td>Perpetuo</td>
-            <td>Perpetuo</td>
-            <td>Perpetuo</td>
-            <td>Perpetuo</td>
-            <td>Perpetuo</td>
-            <td>Perpetuo</td>
-            <td>Perpetuo</td>
-            <td>Perpetuo</td>
-            <td>Perpetuo</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
             <td>Vencimiento determinado</td>
             <td>Vencimiento determinado</td>
             <td>Vencimiento determinado</td>
             <td>Perpetuo</td>
             <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Perpetuo</td>
         </tr>
         <tr>
             <td>13. Fecha de vencimiento inicial</td>
+            <td>16/02/2022</td>
+            <td>04/04/2022</td>
+            <td>01/12/2025</td>
             <td>Sin Vencimiento</td>
-            <td>Sin Vencimiento</td>
-            <td>Sin Vencimiento</td>
-            <td>Sin Vencimiento</td>
-            <td>Sin Vencimiento</td>
-            <td>Sin Vencimiento</td>
-            <td>Sin Vencimiento</td>
-            <td>Sin Vencimiento</td>
-            <td>Sin Vencimiento</td>
-            <td>Sin Vencimiento</td>
-            <td>10/13/20</td>
-            <td>4/11/24</td>
-            <td>7/22/18</td>
-            <td>7/4/23</td>
-            <td>5/19/23</td>
-            <td>3/3/33</td>
-            <td>2/16/22</td>
-            <td>4/4/22</td>
-            <td>12/1/25</td>
-            <td>Sin Vencimiento</td>
-            <td>8/9/21</td>
-            <td>8/9/21</td>
-            <td>1/28/20</td>
-            <td>2/15/17</td>
-            <td>6/10/24</td>
-            <td>Sin Vencimiento</td>
+            <td>09/08/2021</td>
         </tr>
         <tr>
             <td>14. Opción de compra del emisor sujeta a la aprobación previa de las autoridades de supervisión</td>
@@ -2765,109 +3592,25 @@ submenu: anexo
             <td>Sí</td>
             <td>Sí</td>
             <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
         </tr>
         <tr>
             <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
-            <td>Call date del emisor: 09/05/2018; sujeto tanto al Regulatory call como al Tax call</td>
-            <td>Call date del emisor: 19/02/2019; sujeto tanto al Regulatory call como al Tax call</td>
-            <td>Call date del emisor: 18/02/2020; sujeto tanto al Regulatory call como al Tax call</td>
-            <td>Call date del emisor: 14/04/2021; sujeto tanto al Regulatory call como al Tax call</td>
-            <td>Call date del emisor: 18/04/2017; sujeto tanto al Regulatory call como al Tax call</td>
-            <td>Call date del emisor: 19/07/2012; sujeto tanto al Regulatory call como al Tax call</td>
-            <td>Call date del emisor: 20/09/2016; sujeto tanto al Regulatory call como al Tax call</td>
-            <td>Call date del emisor: 14/07/2016</td>
-            <td>Call date del emisor: 10/08/2011</td>
-            <td>Call date del emisor: 22/09/2015; sujeto tanto al Regulatory call como al Tax call</td>
-            <td>Call date del emisor: 13/10/2015; Tax call (En cualquier momento tras cinco años)</td>
-            <td>Call date del emisor: 11/04/2019; sujeto tanto al Regulatory call como al Tax call</td>
-            <td>Sin call date opcional; Tax call</td>
-            <td>No</td>
-            <td>Sin call date opcional; Tax call</td>
-            <td>Call date del emisor: 03/03/2028</td>
-            <td>Call date del emisor: 16/02/2017</td>
-            <td>Sin call date del emisor; Tax call</td>
-            <td>Sin call date del emisor; Tax call</td>
-            <td>Call date del emisor: 03/06/2010</td>
-            <td>Call date del emisor: 09/08/2016</td>
-            <td>Call date del emisor: 09/08/2016</td>
-            <td>Call date del emisor: 28/01/2015</td>
-            <td>Call date del emisor: 15/02/2012</td>
-            <td>Call date del emisor: 10/06/2019</td>
-            <td>Call date del emisor: 01/03/2027</td>
+            <td>*Call date* del emisor: 16/02/2017</td>
+            <td>Sin *call date* del emisor; *Tax call*</td>
+            <td>Sin *call date* del emisor; *Tax call*</td>
+            <td>*Call date* del emisor: 03/06/2010</td>
+            <td>*Call date* del emisor: 09/08/2016</td>
         </tr>
         <tr>
             <td>16. Fechas de ejercicio posteriores, si procede</td>
-            <td>En cualquier momento a partir de la primera fecha de reinicio</td>
-            <td>En cualquier momento a partir de la primera fecha de reinicio</td>
-            <td>En cualquier momento a partir de la primera fecha de reinicio</td>
-            <td>En cualquier momento a partir de la primera fecha de reinicio</td>
-            <td>En intervalos de diez años empezando el 18 de abril de 2017</td>
-            <td>En cualquier fecha de pago de distribución que cae en o después de la primera call date</td>
-            <td>En cualquier fecha de pago de distribución que cae en o después de la primera call date</td>
-            <td>En cualquier fecha de pago de distribución que cae en o después de la primera call date</td>
-            <td>En cualquier fecha de pago de distribución que cae en o después de la primera call date</td>
-            <td>En cualquier fecha de pago de distribución que cae en o después de la primera call date</td>
-            <td>Call date de emisión y en cada día de pago de intereses a partir de entonces</td>
-            <td>No</td>
-            <td>En cualquier momento a partir del quinto año</td>
-            <td>NA</td>
-            <td>En cualquier momento a partir del quinto año</td>
-            <td>Call date de emisión y en cada día de pago de intereses a partir de entonces</td>
-            <td>Call date de emisión y en cada día de pago de intereses a partir de entonces</td>
+            <td>*Call date* de emisión y en cada día de pago de intereses a partir de entonces</td>
             <td>En cualquier momento a partir del quinto año</td>
             <td>En cualquier momento a partir del 11/12/2000</td>
-            <td>Call date de emisión y en cada día de pago de intereses a partir de entonces</td>
-            <td>Call date de emisión y en cada año a partir de entonces</td>
-            <td>Call date de emisión y en cada año a partir de entonces</td>
-            <td>Call date de emisión y en cada día de pago de intereses a partir de entonces</td>
-            <td>Call date de emisión y en cada día de pago de intereses a partir de entonces</td>
-            <td>Call date de emisión y en cada día de pago de intereses a partir de entonces</td>
-            <td>Call date de emisión y en cada día de pago de intereses a partir de entonces</td>
+            <td>*Call date* de emisión y en cada día de pago de intereses a partir de entonces</td>
+            <td>*Call date* de emisión y en cada año a partir de entonces</td>
         </tr>
         <tr>
-            <td>Cupones / dividendos</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>0</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td>*Cupones / dividendos*</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -2877,84 +3620,21 @@ submenu: anexo
         <tr>
             <td>17. Dividendo o cupón fijo o variable</td>
             <td>De fijo a variable (desde la fecha de call)</td>
-            <td>De fijo a variable (desde la fecha de call)</td>
-            <td>De fijo a variable (desde la fecha de call)</td>
-            <td>De fijo a variable (desde la fecha de call)</td>
-            <td>De fijo a variable (desde la fecha de call)</td>
-            <td>De fijo a variable (desde la fecha de call)</td>
-            <td>De fijo a variable (desde la fecha de call)</td>
-            <td>Variable</td>
-            <td>De fijo a variable (desde la fecha de call)</td>
-            <td>De fijo a variable (desde la fecha de call)</td>
-            <td>Variable</td>
-            <td>De fijo a variable (desde la fecha de call)</td>
-            <td>Fijo</td>
-            <td>Fijo</td>
-            <td>De fijo al indice lincado</td>
-            <td>De fijo a variable (desde la fecha de call)</td>
-            <td>De fijo a variable (desde la fecha de call)</td>
             <td>Variable</td>
             <td>Fijo</td>
             <td>Fijo</td>
             <td>De fijo a variable (desde la fecha de call)</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>De fijo a variable (desde la fecha de call)</td>
-            <td>Variable</td>
         </tr>
         <tr>
             <td>18. Tipo de interés del cupón y cualquier índice conexo</td>
-            <td>9.0%; USSW5 + 8.262%</td>
-            <td>7.0%; EUSA5 + 6.155%</td>
-            <td>6.75%; EUSA5 + 6.604%</td>
-            <td>8.875%; EUSA5 +9.177%</td>
-            <td>5,919% (floor); 3M US LIBOR+0.82%</td>
-            <td>7,093%; 3M GBP LIBOR+0,875%</td>
-            <td>4,952%; 3M EURIBOR +0,95% (desde 20/09/16 +1% adicional)</td>
-            <td>3M EURIBOR + 1,95%</td>
-            <td>8%; 10Y CMS +0,10% (cap: 10%)</td>
-            <td>3,798%; 3M EURIBOR + 0,65% (desde 22/09/15 +1% adicional)</td>
-            <td>3M EURIBOR +0,30% hasta el 13/10/2015; después 3M EURIBOR +0,80%</td>
-            <td>3.5%; 6M EURIBOR + 255pbs</td>
-            <td>6,11%</td>
-            <td>6,20%</td>
-            <td>4,75% primeros 2 años; después, vincularlo al CPI</td>
-            <td>6,025%; desde el 3/03/28 3M EURIBOR+1,78%</td>
-            <td>4,50%; después del call date: 3M EURIBOR + 80PBS</td>
+            <td>4,50%; después del *call date*: 3M EURIBOR + 80PBS</td>
             <td>CMS 10YR + 0,03%</td>
             <td>7,00%</td>
             <td>2,50%</td>
-            <td>4,70%; 3M EURIBOR + 1,08% desde el call date del emisor</td>
-            <td>3M EURIBOR + 0,58%; 3M EURIBOR + 1,08% desde el call date del emisor</td>
-            <td>3M EURIBOR + 1,02% desde 28/01/15</td>
-            <td>3M EURIBOR + 0,44%</td>
-            <td>7,50% hasta 09/06/11; desde 10/06/11 hasta 09/06/19: 3M EURIBOR +5,25%; dese 10/06/19 hasta 10/06/24: 3M EURIBOR +6%</td>
-            <td>3M EURIBOR + 1,30% hasta 01/03/2027; desde 01/03/2027 3M EURIBOR + 2,80%</td>
+            <td>4,70%; 3M EURIBOR + 1,08% desde el *call date* del emisor</td>
         </tr>
         <tr>
             <td>19. Existencia de limitaciones al pago de dividendos</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
             <td>No</td>
             <td>No</td>
             <td>No</td>
@@ -2963,27 +3643,6 @@ submenu: anexo
         </tr>
         <tr>
             <td>20.a. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de calendario)</td>
-            <td>Plenamente discrecional</td>
-            <td>Plenamente discrecional</td>
-            <td>Plenamente discrecional</td>
-            <td>Plenamente discrecional</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
             <td>Obligatorio</td>
             <td>Obligatorio</td>
             <td>Obligatorio</td>
@@ -2992,27 +3651,6 @@ submenu: anexo
         </tr>
         <tr>
             <td>20.b. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de importe)</td>
-            <td>Plenamente discrecional</td>
-            <td>Plenamente discrecional</td>
-            <td>Plenamente discrecional</td>
-            <td>Plenamente discrecional</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
             <td>Obligatorio</td>
             <td>Obligatorio</td>
             <td>Obligatorio</td>
@@ -3021,56 +3659,14 @@ submenu: anexo
         </tr>
         <tr>
             <td>21. Existencia de un incremento del cupón u otros incentivos al reembolso</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
             <td>Sí</td>
             <td>No</td>
             <td>No</td>
             <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
             <td>Sí</td>
         </tr>
         <tr>
             <td>22. Acumulativo o no acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
             <td>Acumulativo</td>
             <td>Acumulativo</td>
             <td>Acumulativo</td>
@@ -3079,27 +3675,6 @@ submenu: anexo
         </tr>
         <tr>
             <td>23. Convertible o no convertible</td>
-            <td>Convertible</td>
-            <td>Convertible</td>
-            <td>Convertible</td>
-            <td>Convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
             <td>No convertible</td>
             <td>No convertible</td>
             <td>No convertible</td>
@@ -3108,27 +3683,6 @@ submenu: anexo
         </tr>
         <tr>
             <td>24. Si son convertibles, factor(es) que desencadenen la conversión</td>
-            <td>CET1 5.125%; Individual y Consolidado</td>
-            <td>CET1 5.125%; Individual y Consolidado</td>
-            <td>CET1 5.125%; Individual y Consolidado</td>
-            <td>CET1 5.125%; Individual y Consolidado</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
@@ -3137,27 +3691,6 @@ submenu: anexo
         </tr>
         <tr>
             <td>25. Si son convertibles, total o parcialmente</td>
-            <td>Siempre Totalmente</td>
-            <td>Siempre Totalmente</td>
-            <td>Siempre Totalmente</td>
-            <td>Siempre Totalmente</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
@@ -3166,27 +3699,6 @@ submenu: anexo
         </tr>
         <tr>
             <td>26. Si son convertibles, tipo de conversión aplicable</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
@@ -3195,27 +3707,6 @@ submenu: anexo
         </tr>
         <tr>
             <td>27. Si son convertibles, conversión obligatoria u opcional</td>
-            <td>Obligatoria</td>
-            <td>Obligatoria</td>
-            <td>Obligatoria</td>
-            <td>Obligatoria</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
@@ -3224,27 +3715,6 @@ submenu: anexo
         </tr>
         <tr>
             <td>28. Si son convertibles, especifíquese el tipo de instrumento en que se pueden convertir</td>
-            <td>Capital de Nivel 1 ordinario</td>
-            <td>Capital de Nivel 1 ordinario</td>
-            <td>Capital de Nivel 1 ordinario</td>
-            <td>Capital de Nivel 1 ordinario</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
@@ -3253,27 +3723,6 @@ submenu: anexo
         </tr>
         <tr>
             <td>29. Si son convertibles, especifíquese el emisor del instrumento en que se convierte</td>
-            <td>Banco Bilbao Vizcaya Argentaria SA</td>
-            <td>Banco Bilbao Vizcaya Argentaria SA</td>
-            <td>Banco Bilbao Vizcaya Argentaria SA</td>
-            <td>Banco Bilbao Vizcaya Argentaria SA</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
@@ -3287,51 +3736,9 @@ submenu: anexo
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
         </tr>
         <tr>
             <td>31. En caso de depreciación, factor(es) que la desencadenan</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
@@ -3345,51 +3752,9 @@ submenu: anexo
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
         </tr>
         <tr>
             <td>33. En caso de depreciación, permanente o temporal</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
@@ -3403,22 +3768,349 @@ submenu: anexo
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
+        </tr>
+        <tr>
+            <td>35. Posición en la jerarquía de subordinación en la liquidación (especifíquense el tipo de instrumento de rango inmediatamente superior)
+            </td>
+            <td>Senior a preferentes, instrumentos de Nivel 1 Adicional e instrumentos de Nivel 2 Superior (Perpetuo)</td>
+            <td>Senior a preferentes, instrumentos de Nivel 1 Adicional e instrumentos de Nivel 2 Superior (Perpetuo)</td>
+            <td>Senior a preferentes, instrumentos de Nivel 1 Adicional e instrumentos de Nivel 2 Superior (Perpetuo)</td>
+            <td>Senior a Preferentes e instrumentos de Capital de Nivel 1 Adicional</td>
+            <td>Senior a preferentes, instrumentos de Nivel 1 Adicional e instrumentos de Nivel 2 Superior (Perpetuo)</td>
+        </tr>
+        <tr>
+            <td>36. Características no conformes tras la transición</td>
+            <td>Sí</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>Sí</td>
+        </tr>
+        <tr>
+            <td>37. En caso afirmativo, especifíquense las características no conformes</td>
+            <td>Existencia de step-up</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>Existencia de step-up</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<table class="l">
+    <thead>
+        <tr class="tableizer-firstrow">
+            <th colspan="6">Plantilla para la presentación de las principales características de los instrumentos de capital</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1. Emisor</td>
+            <td>Caixa Terrassa</td>
+            <td>Caixa Sabadell</td>
+            <td>Caixa Sabadell</td>
+            <td>Caixa Sabadell</td>
+            <td>Caixa Terrassa</td>
+        </tr>
+        <tr>
+            <td>2. Identificador único (por ejemplo ISIN</td>
+            <td>ES0214974067</td>
+            <td>ES0214973051</td>
+            <td>ES0214973069</td>
+            <td>ES0214973077</td>
+            <td>ES0214974075</td>
+        </tr>
+        <tr>
+            <td>3. Legislación aplicable al instrumento</td>
+            <td>Legislación Española</td>
+            <td>Legislación Española</td>
+            <td>Legislación Española</td>
+            <td>Legislación Española</td>
+            <td>Legislación Española</td>
+        </tr>
+        <tr>
+            <td>*Tratamiento normativo*</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>4. Normas transitorias de la CRR</td>
+            <td>No admisible</td>
+            <td>No admisible</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+        </tr>
+        <tr>
+            <td>5. Normas de la CRR posteriores a la transición</td>
+            <td>No admisible</td>
+            <td>No admisible</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+        </tr>
+        <tr>
+            <td>6. Admisibles a título individual/(sub) consolidado/ individual y (sub)consolidado</td>
+            <td>Individual y Consolidado</td>
+            <td>Individual y Consolidado</td>
+            <td>Individual y Consolidado</td>
+            <td>Individual y Consolidado</td>
+            <td>Individual y Consolidado</td>
+        </tr>
+        <tr>
+            <td>7. Tipo de instrumento (cada país especificará los tipos pertinentes)</td>
+            <td>Subordinadas</td>
+            <td>Subordinadas</td>
+            <td>Subordinadas</td>
+            <td>Subordinadas</td>
+            <td>Deuda subordinada perpetua</td>
+        </tr>
+        <tr>
+            <td>8. Importe reconocido en el capital reglamentario (moneda en millones, en la fecha de la última notificación (Mill EUR)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>4,7</td>
+            <td>39,9</td>
+        </tr>
+        <tr>
+            <td>9. Importe nominal del instrumento en la moneda de emisión</td>
+            <td>75 Mill EUR</td>
+            <td>50,0 Mill EUR</td>
+            <td>100,0 Mill EUR</td>
+            <td>35,0 Mill EUR</td>
+            <td>75,0 Mill EUR</td>
+        </tr>
+        <tr>
+            <td>9.a Precio de emisión</td>
+            <td>100,00%</td>
+            <td>100,00%</td>
+            <td>100,00%</td>
+            <td>100,00%</td>
+            <td>100,00%</td>
+        </tr>
+        <tr>
+            <td>9.b Precio de reembolso</td>
+            <td>100%</td>
+            <td>100%</td>
+            <td>100%</td>
+            <td>100%</td>
+            <td>100%</td>
+        </tr>
+        <tr>
+            <td>10. Clasificación contable</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+        </tr>
+        <tr>
+            <td>11. Fecha de emisión inicial</td>
+            <td>09/08/2006</td>
+            <td>28/01/2005</td>
+            <td>15/02/2007</td>
+            <td>10/06/2009</td>
+            <td>01/03/2007</td>
+        </tr>
+        <tr>
+            <td>12. Perpetuos o con vencimiento establecido</td>
+            <td>Vencimiento determinado</td>
+            <td>Vencimiento determinado</td>
+            <td>Vencimiento determinado</td>
+            <td>Vencimiento determinado</td>
+            <td>Perpetuo</td>
+        </tr>
+        <tr>
+            <td>13. Fecha de vencimiento inicial</td>
+            <td>09/08/2021</td>
+            <td>28/01/2020</td>
+            <td>15/02/2017</td>
+            <td>10/06/2024</td>
+            <td>Sin Vencimiento</td>
+        </tr>
+        <tr>
+            <td>14. Opción de compra del emisor sujeta a la aprobación previa de las autoridades de supervisión</td>
+            <td>Sí</td>
+            <td>Sí</td>
+            <td>Sí</td>
+            <td>Sí</td>
+            <td>Sí</td>
+        </tr>
+        <tr>
+            <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
+            <td>*Call date* del emisor: 09/08/2016</td>
+            <td>*Call date* del emisor: 28/01/2015</td>
+            <td>*Call date* del emisor: 15/02/2012</td>
+            <td>*Call date* del emisor: 10/06/2019</td>
+            <td>*Call date* del emisor: 01/03/2027</td>
+        </tr>
+        <tr>
+            <td>16. Fechas de ejercicio posteriores, si procede</td>
+            <td>*Call date* de emisión y en cada año a partir de entonces</td>
+            <td>*Call date* de emisión y en cada día de pago de intereses a partir de entonces</td>
+            <td>*Call date* de emisión y en cada día de pago de intereses a partir de entonces</td>
+            <td>*Call date* de emisión y en cada día de pago de intereses a partir de entonces</td>
+            <td>*Call date* de emisión y en cada día de pago de intereses a partir de entonces</td>
+        </tr>
+        <tr>
+            <td>*Cupones / dividendos*</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>17. Dividendo o cupón fijo o variable</td>
+            <td>Variable</td>
+            <td>Variable</td>
+            <td>Variable</td>
+            <td>De fijo a variable (desde la fecha de call)</td>
+            <td>Variable</td>
+        </tr>
+        <tr>
+            <td>18. Tipo de interés del cupón y cualquier índice conexo</td>
+            <td>3M EURIBOR + 0,58%; 3M EURIBOR + 1,08% desde el *call date* del emisor</td>
+            <td>3M EURIBOR + 1,02% desde 28/01/15</td>
+            <td>3M EURIBOR + 0,44%</td>
+            <td>7,50% hasta 09/06/11; desde 10/06/11 hasta 09/06/19: 3M EURIBOR +5,25%; dese 10/06/19 hasta 10/06/24: 3M EURIBOR +6%</td>
+            <td>3M EURIBOR + 1,30% hasta 01/03/2027; desde 01/03/2027 3M EURIBOR + 2,80%</td>
+        </tr>
+        <tr>
+            <td>19. Existencia de limitaciones al pago de dividendos</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>20.a. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de calendario)</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+        </tr>
+        <tr>
+            <td>20.b. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de importe)</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+        </tr>
+        <tr>
+            <td>21. Existencia de un incremento del cupón u otros incentivos al reembolso</td>
+            <td>Sí</td>
+            <td>No</td>
+            <td>No</td>
+            <td>Sí</td>
+            <td>Sí</td>
+        </tr>
+        <tr>
+            <td>22. Acumulativo o no acumulativo</td>
+            <td>Acumulativo</td>
+            <td>Acumulativo</td>
+            <td>Acumulativo</td>
+            <td>Acumulativo</td>
+            <td>Acumulativo</td>
+        </tr>
+        <tr>
+            <td>23. Convertible o no convertible</td>
+            <td>No convertible</td>
+            <td>No convertible</td>
+            <td>No convertible</td>
+            <td>No convertible</td>
+            <td>No convertible</td>
+        </tr>
+        <tr>
+            <td>24. Si son convertibles, factor(es) que desencadenen la conversión</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
+        </tr>
+        <tr>
+            <td>25. Si son convertibles, total o parcialmente</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
+        </tr>
+        <tr>
+            <td>26. Si son convertibles, tipo de conversión aplicable</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
+        </tr>
+        <tr>
+            <td>27. Si son convertibles, conversión obligatoria u opcional</td>
             <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>28. Si son convertibles, especifíquese el tipo de instrumento en que se pueden convertir</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>29. Si son convertibles, especifíquese el emisor del instrumento en que se convierte</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>30. Características de la depreciación</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>31. En caso de depreciación, factor(es) que la desencadenan</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>32. En caso de depreciación, total o parcial</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>33. En caso de depreciación, permanente o temporal</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>34. Si la depreciación es provisional, descripción del mecanismo de apreciación</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
@@ -3428,26 +4120,6 @@ submenu: anexo
         <tr>
             <td>35. Posición en la jerarquía de subordinación en la liquidación (especifíquense el tipo de instrumento de rango inmediatamente superior)
             </td>
-            <td>Senior a acciones ordinarias y reservas y pari passu con las preferentes</td>
-            <td>Senior a acciones ordinarias y reservas y pari passu con las preferentes</td>
-            <td>Senior a acciones ordinarias y reservas y pari passu con las preferentes</td>
-            <td>Senior a acciones ordinarias y reservas y pari passu con las preferentes</td>
-            <td>Senior a acciones ordinarias y reservas y pari passu con las preferentes</td>
-            <td>Senior a acciones ordinarias y reservas y pari passu con los instrumentos de Nivel 1 Adicional</td>
-            <td>Senior a acciones ordinarias y reservas y pari passu con los instrumentos de Nivel 1 Adicional</td>
-            <td>Senior a acciones ordinarias y reservas y pari passu con los instrumentos de Nivel 1 Adicional</td>
-            <td>Senior a acciones ordinarias y reservas y pari passu con los instrumentos de Nivel 1 Adicional</td>
-            <td>Senior a acciones ordinarias y reservas y pari passu con los instrumentos de Nivel 1 Adicional</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Senior a preferentes, instrumentos de Nivel 1 Adicional e instrumentos de Nivel 2 Superior (Perpetuo)</td>
-            <td>Senior a preferentes, instrumentos de Nivel 1 Adicional e instrumentos de Nivel 2 Superior (Perpetuo)</td>
-            <td>Senior a preferentes, instrumentos de Nivel 1 Adicional e instrumentos de Nivel 2 Superior (Perpetuo)</td>
-            <td>Senior a Preferentes e instrumentos de Capital de Nivel 1 Adicional</td>
-            <td>Senior a preferentes, instrumentos de Nivel 1 Adicional e instrumentos de Nivel 2 Superior (Perpetuo)</td>
             <td>Senior a preferentes, instrumentos de Nivel 1 Adicional e instrumentos de Nivel 2 Superior (Perpetuo)</td>
             <td>Senior a preferentes, instrumentos de Nivel 1 Adicional e instrumentos de Nivel 2 Superior (Perpetuo)</td>
             <td>Senior a preferentes, instrumentos de Nivel 1 Adicional e instrumentos de Nivel 2 Superior (Perpetuo)</td>
@@ -3456,27 +4128,6 @@ submenu: anexo
         </tr>
         <tr>
             <td>36. Características no conformes tras la transición</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
             <td>Sí</td>
             <td>Sí</td>
             <td>No</td>
@@ -3485,27 +4136,6 @@ submenu: anexo
         </tr>
         <tr>
             <td>37. En caso afirmativo, especifíquense las características no conformes</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>No tiene factor desencadenante ni discrecionalidad en el pago</td>
-            <td>No tiene factor desencadenante ni discrecionalidad en el pago</td>
-            <td>No tiene factor desencadenante ni discrecionalidad en el pago. Incluye step-up</td>
-            <td>No tiene factor desencadenante ni discrecionalidad en el pago</td>
-            <td>No tiene factor desencadenante ni discrecionalidad en el pago</td>
-            <td>No hay desencadenante ni discrecionalidad, step up</td>
-            <td>Existencia de step-up</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>Existencia de step-up</td>
-            <td>Existencia de step-up</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>Existencia de step-up</td>
             <td>Existencia de step-up</td>
             <td>Existencia de step-up</td>
             <td>N/A</td>
@@ -3514,22 +4144,12 @@ submenu: anexo
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
 
-<ul class="cita"><li>(4) Se corresponde con la clasificación del instrumento desde una visión regulatoria o phased-in a 31 de diciembre de 2016</li>
-
-<li>(5) Se corresponde con la clasificación del instrumento desde una visión Fully loaded a 31 de diciembre de 2016</li></ul>
 
 <table class="l">
     <thead>
         <tr class="tableizer-firstrow">
-            <th>Plantilla para la presentación de las principales características de los instrumentos de capital</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
+            <th colspan="7">Plantilla para la presentación de las principales características de los instrumentos de capital</th>
         </tr>
     </thead>
     <tbody>
@@ -3561,7 +4181,7 @@ submenu: anexo
             <td>Legislación neoyorquina</td>
         </tr>
         <tr>
-            <td>Tratamiento normativo</td>
+            <td>*Tratamiento normativo*</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -3628,7 +4248,7 @@ submenu: anexo
             <td>98,65%</td>
             <td>100,00%</td>
             <td>99,97%</td>
-            <td>109,89%+accrued interest from July 19,2012 to Sep 28,2012</td>
+            <td>109,89%+Intereses devengados desde 19 de julio de 2012 a 28 de septiembre de 2012</td>
             <td>100,00%</td>
             <td>99,79%</td>
         </tr>
@@ -3652,12 +4272,12 @@ submenu: anexo
         </tr>
         <tr>
             <td>11. Fecha de emisión inicial</td>
-            <td>3/10/11</td>
-            <td>4/22/10</td>
-            <td>7/19/12</td>
-            <td>9/28/12</td>
-            <td>5/17/07</td>
-            <td>11/12/14</td>
+            <td>10/03/2011</td>
+            <td>22/04/2010</td>
+            <td>19/07/2012</td>
+            <td>28/09/2012</td>
+            <td>17/05/2007</td>
+            <td>12/11/2014</td>
         </tr>
         <tr>
             <td>12. Perpetuos o con vencimiento establecido</td>
@@ -3670,12 +4290,12 @@ submenu: anexo
         </tr>
         <tr>
             <td>13. Fecha de vencimiento inicial</td>
-            <td>3/10/21</td>
-            <td>4/22/20</td>
-            <td>9/30/22</td>
-            <td>9/30/22</td>
-            <td>5/17/22</td>
-            <td>11/12/29</td>
+            <td>10/03/2021</td>
+            <td>22/04/2020</td>
+            <td>30/09/2022</td>
+            <td>30/09/2022</td>
+            <td>17/05/2022</td>
+            <td>12/11/2029</td>
         </tr>
         <tr>
             <td>14. Opción de compra del emisor sujeta a la aprobación previa de las autoridades de supervisión</td>
@@ -3688,12 +4308,12 @@ submenu: anexo
         </tr>
         <tr>
             <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
-            <td>Solo sujeto tanto al Regulatory call como al Tax call (en su totalidad)</td>
-            <td>Solo sujeto tanto al Regulatory call como al Tax call (en su totalidad)</td>
-            <td>Solo sujeto tanto al Regulatory call como al Tax call (en su totalidad)</td>
-            <td>Solo sujeto tanto al Regulatory call como al Tax call (en su totalidad)</td>
-            <td>17/05/2017 total o parcialmente, también sujueta tanto al Regulatory call como al Tax call (solo en su totalidad)</td>
-            <td>12/11/2024 total o parcialmente. (también sujeto tanto al Regulatory call como al Tax call, solo en amortización completa)</td>
+            <td>Solo sujeto tanto al *Regulatory call* como al *Tax call* (en su totalidad)</td>
+            <td>Solo sujeto tanto al *Regulatory call* como al *Tax call* (en su totalidad)</td>
+            <td>Solo sujeto tanto al *Regulatory call* como al *Tax call* (en su totalidad)</td>
+            <td>Solo sujeto tanto al *Regulatory call* como al *Tax call* (en su totalidad)</td>
+            <td>17/05/2017 total o parcialmente, también sujueta tanto al *Regulatory call* como al *Tax call* (solo en su totalidad)</td>
+            <td>12/11/2024 total o parcialmente. (también sujeto tanto al *Regulatory call* como al *Tax call*, solo en amortización completa)</td>
         </tr>
         <tr>
             <td>16. Fechas de ejercicio posteriores, si procede</td>
@@ -3705,7 +4325,7 @@ submenu: anexo
             <td>No</td>
         </tr>
         <tr>
-            <td>Cupones / dividendos</td>
+            <td>*Cupones / dividendos*</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -3886,16 +4506,16 @@ submenu: anexo
         </tr>
 <td>35. Posición en la jerarquía de subordinación en la liquidación (especifíquense el tipo de instrumento de rango inmediatamente superior)</td>
             <td>"Deudas Preferentes
-y (i) clasificará junior a toda la presente y futura Deuda senior, (ii) clasificará pari passu con todas las otras Deudas Preferentes, y (iii) será senior la Deuda de las no preferentes y todas las clases de capital social</td>
-            <td>Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y Deuda Preferente, (ii) pari passu entre ellos y con las demás Deudas No Preferentes, y (iii) senior solo ante todas las clases de capital social</td>
-            <td>Las notas constituyen Deuda Preferente y (i) clasificará junior a todas las deudas senior presentes y futuras, (ii) clasificará pari passu
+y (i) clasificará junior a toda la presente y futura Deuda senior, (ii) clasificará *pari passu* con todas las otras Deudas Preferentes, y (iii) será senior la Deuda de las no preferentes y todas las clases de capital social</td>
+            <td>Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y Deuda Preferente, (ii) *pari passu* entre ellos y con las demás Deudas No Preferentes, y (iii) senior solo ante todas las clases de capital social</td>
+            <td>Las notas constituyen Deuda Preferente y (i) clasificará junior a todas las deudas senior presentes y futuras, (ii) clasificará *pari passu*
 con todas las otras deudas preferentes presentes o futuras sin garantía , y (iii) será senior a la deuda no preferente sin garantías y todas las clases de capital social</td>
-<td>Las notas constituyen Deuda Preferente y (i) clasificará junior a todas las deudas senior presentes y futuras, (ii) clasificará pari passu
+<td>Las notas constituyen Deuda Preferente y (i) clasificará junior a todas las deudas senior presentes y futuras, (ii) clasificará *pari passu*
 con todas las otras deudas preferentes presentes o futuras sin garantía , y (iii) será senior a la deuda no preferente sin garantías y todas las clases de capital social</td>
 <td>
-Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y a la Deuda Preferente, (ii) pari passu entre ellos y con las demás Deudas No Preferentes, y (iii) senior solo ante todas las clases de capital social
+Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y a la Deuda Preferente, (ii) *pari passu* entre ellos y con las demás Deudas No Preferentes, y (iii) senior solo ante todas las clases de capital social
 </td>
-<td>Las notas constituyen Deuda Preferente, y (i) será subordinada y junior en derecho de pago y liquidació a todas las Deudas senior presentes y futuras, (ii) clasificará pari passu sin preferencia entre ellas y con la deuda preferente presente y futura sin garantía y (iii) será senior a la deuda no preferente y todas las clases de capital social.</td>
+<td>Las notas constituyen Deuda Preferente, y (i) será subordinada y junior en derecho de pago y liquidación a todas las Deudas senior presentes y futuras, (ii) clasificará *pari passu* sin preferencia entre ellas y con la deuda preferente presente y futura sin garantía y (iii) será senior a la deuda no preferente y todas las clases de capital social.</td>
         <tr>
             <td>36. Características no conformes tras la transición</td>
             <td>No</td>
@@ -3916,25 +4536,12 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
 
-(4) Se corresponde con la clasificación del instrumento desde una visión regulatoria o phased-in a 31 de diciembre de 2016
-
-(5) Se corresponde con la clasificación del instrumento desde una visión Fully loaded a 31 de diciembre de 2016
 
 <table class="l">
     <thead>
         <tr class="tableizer-firstrow">
-            <th>Plantilla para la presentación de las principales características de los instrumentos de capital</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
+            <th colspan="10">Plantilla para la presentación de las principales características de los instrumentos de capital</th>
         </tr>
     </thead>
     <tbody>
@@ -3975,7 +4582,7 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>Legislación neoyorquina</td>
         </tr>
         <tr>
-            <td>Tratamiento normativo</td>
+            <td>*Tratamiento normativo*</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -4096,15 +4703,15 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
         <tr>
             <td>11. Fecha de emisión inicial</td>
-            <td>3/21/05</td>
-            <td>3/16/06</td>
-            <td>9/19/07</td>
-            <td>4/10/15</td>
-            <td>11/28/00</td>
-            <td>7/23/04</td>
-            <td>2/24/04</td>
-            <td>7/14/03</td>
-            <td>3/17/04</td>
+            <td>21/03/2005</td>
+            <td>16/03/2006</td>
+            <td>19/09/2007</td>
+            <td>10/04/2015</td>
+            <td>28/11/2000</td>
+            <td>23/07/2004</td>
+            <td>24/02/2004</td>
+            <td>14/07/2003</td>
+            <td>17/03/2004</td>
         </tr>
         <tr>
             <td>12. Perpetuos o con vencimiento establecido</td>
@@ -4120,15 +4727,15 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
         <tr>
             <td>13. Fecha de vencimiento inicial</td>
-            <td>4/1/20</td>
-            <td>4/1/26</td>
-            <td>10/1/17</td>
-            <td>4/10/25</td>
+            <td>01/04/2020</td>
+            <td>01/04/2026</td>
+            <td>01/10/2017</td>
+            <td>10/04/2025</td>
             <td>Sin Vencimiento</td>
-            <td>7/23/34</td>
-            <td>3/17/34</td>
-            <td>9/30/33</td>
-            <td>3/17/34</td>
+            <td>23/07/2034</td>
+            <td>17/03/2034</td>
+            <td>30/09/2033</td>
+            <td>17/03/2034</td>
         </tr>
         <tr>
             <td>14. Opción de compra del emisor sujeta a la aprobación previa de las autoridades de supervisión</td>
@@ -4147,12 +4754,12 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>N/A</td>
             <td>N/A</td>
             <td>No</td>
-            <td>3/10/25</td>
-            <td>6/15/21</td>
-            <td>7/23/09</td>
-            <td>3/17/09</td>
-            <td>9/30/08</td>
-            <td>3/17/09</td>
+            <td>10/03/2025</td>
+            <td>15/06/2021</td>
+            <td>23/07/2009</td>
+            <td>17/03/2009</td>
+            <td>30/09/2008</td>
+            <td>17/03/2009</td>
         </tr>
         <tr>
             <td>16. Fechas de ejercicio posteriores, si procede</td>
@@ -4167,7 +4774,7 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>En cualquier momento desde la primera call</td>
         </tr>
         <tr>
-            <td>Cupones / dividendos</td>
+            <td>*Cupones / dividendos*</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -4444,48 +5051,13 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
 
-<ul class="cita">
-<li>(4) Se corresponde con la clasificación del instrumento desde una visión regulatoria o phased-in a 31 de diciembre de 2016</li>
 
-<li>(5) Se corresponde con la clasificación del instrumento desde una visión Fully loaded a 31 de diciembre de 2016</li>
-
-</ul>
 
 <table class="l">
     <thead>
         <tr class="tableizer-firstrow">
-            <th>Plantilla para la presentación de las principales características de los instrumentos de capital</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
+            <th colspan="6">Plantilla para la presentación de las principales características de los instrumentos de capital</th>
         </tr>
     </thead>
     <tbody>
@@ -4496,30 +5068,6 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>Bono Subordinado BBVA Chile</td>
             <td>Bono Subordinado BBVA Chile</td>
             <td>Bono Subordinado BBVA Chile</td>
-            <td>BBVA Colombia SA</td>
-            <td>BBVA Colombia SA</td>
-            <td>BBVA Colombia SA</td>
-            <td>BBVA Colombia SA</td>
-            <td>BBVA Colombia SA</td>
-            <td>BBVA Colombia SA</td>
-            <td>BBVA Colombia SA</td>
-            <td>BBVA Colombia SA</td>
-            <td>BBVA Continental</td>
-            <td>BBVA Continental</td>
-            <td>BBVA Continental</td>
-            <td>BBVA Continental</td>
-            <td>BBVA Continental</td>
-            <td>BBVA Continental</td>
-            <td>BBVA Continental</td>
-            <td>BBVA Continental</td>
-            <td>BBVA Continental</td>
-            <td>BBVA Continental</td>
-            <td>BBVA Continental</td>
-            <td>BBVA Continental</td>
-            <td>BBVA Continental</td>
-            <td>Banco Bilbao Vizcaya Argentaria Paraguay S.A.</td>
-            <td>BBVA URUGUAY SA</td>
-            <td>Banco Bilbao Vizcaya Argentaria Paraguay S.A.</td>
         </tr>
         <tr>
             <td>2. Identificador único (por ejemplo ISIN</td>
@@ -4528,30 +5076,6 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>UBHIB80397</td>
             <td>UBBV-G0506</td>
             <td>UBBVH90607</td>
-            <td>BBVAIP190918</td>
-            <td>BBVAIP190921</td>
-            <td>BBVAIP190926</td>
-            <td>BBVAIP190223</td>
-            <td>BBVAIP190228</td>
-            <td>EK6295332</td>
-            <td>COB13CBB0088</td>
-            <td>USP1024TAN92</td>
-            <td>BID Subordinado</td>
-            <td>PEP11600D011</td>
-            <td>PEP11600D029</td>
-            <td>PEP11600D037</td>
-            <td>PEP11600D045</td>
-            <td>PEP11600D052</td>
-            <td>PEP11600D060</td>
-            <td>PEP11600D078</td>
-            <td>PEP11600D086</td>
-            <td>PEP11600D094</td>
-            <td>Credit Suisse TIER 1</td>
-            <td>PEP11600D102</td>
-            <td>US05537GAD79-USP16236AG98</td>
-            <td>PYBBV01F3798</td>
-            <td>N/A</td>
-            <td>PYBBV02F5511</td>
         </tr>
         <tr>
             <td>3. Legislación aplicable al instrumento</td>
@@ -4560,57 +5084,9 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>Legislación chilena</td>
             <td>Legislación chilena</td>
             <td>Legislación chilena</td>
-            <td>Legislación colombiana</td>
-            <td>Legislación colombiana</td>
-            <td>Legislación colombiana</td>
-            <td>Legislación colombiana</td>
-            <td>Legislación colombiana</td>
-            <td>Legislación colombiana</td>
-            <td>Legislación colombiana</td>
-            <td>Legislación colombiana</td>
-            <td>Legislación neoyorquina</td>
-            <td>Legislación peruana</td>
-            <td>Legislación peruana</td>
-            <td>Legislación peruana</td>
-            <td>Legislación peruana</td>
-            <td>Legislación peruana</td>
-            <td>Legislación peruana</td>
-            <td>Legislación peruana</td>
-            <td>Legislación peruana</td>
-            <td>Legislación peruana</td>
-            <td>Legislación neoyorquina</td>
-            <td>Legislación peruana</td>
-            <td>Legislación neoyorquina</td>
-            <td>Legislación paraguaya</td>
-            <td>Legislación uruguaya</td>
-            <td>Legislación paraguaya</td>
         </tr>
         <tr>
-            <td>Tratamiento normativo</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td>*Tratamiento normativo*</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -4624,57 +5100,9 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>Capital de Nivel 2</td>
             <td>Capital de Nivel 2</td>
             <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>No admisible</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>No admisible</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
         </tr>
         <tr>
             <td>5. Normas de la CRR posteriores a la transición</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>No admisible</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>No admisible</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
             <td>Capital de Nivel 2</td>
             <td>Capital de Nivel 2</td>
             <td>Capital de Nivel 2</td>
@@ -4688,57 +5116,9 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>Individual y consolidado</td>
             <td>Individual y consolidado</td>
             <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
         </tr>
         <tr>
             <td>7. Tipo de instrumento (cada país especificará los tipos pertinentes)</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 1</td>
             <td>Instrumento de Nivel 2</td>
             <td>Instrumento de Nivel 2</td>
             <td>Instrumento de Nivel 2</td>
@@ -4752,30 +5132,6 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>0,7</td>
             <td>108,1</td>
             <td>254,2</td>
-            <td>6,3</td>
-            <td>26,1</td>
-            <td>47,9</td>
-            <td>61,5</td>
-            <td>50,7</td>
-            <td>49,2</td>
-            <td>27,7</td>
-            <td>369,1</td>
-            <td>-</td>
-            <td>11,3</td>
-            <td>19,0</td>
-            <td>15,6</td>
-            <td>-</td>
-            <td>14,2</td>
-            <td>19,0</td>
-            <td>12,7</td>
-            <td>14,2</td>
-            <td>8,5</td>
-            <td>189,7</td>
-            <td>42,7</td>
-            <td>284,6</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
         </tr>
         <tr>
             <td>9. Importe nominal del instrumento en la moneda de emisión</td>
@@ -4784,30 +5140,6 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>0,5 Mill UF</td>
             <td>3,4 Mill UF</td>
             <td>8 Mill UF</td>
-            <td>102.000 Mill COP</td>
-            <td>106.000 Mill COP</td>
-            <td>156.000 Mill COP</td>
-            <td>200.000 Mill COP</td>
-            <td>165.000 Mill COP</td>
-            <td>160.000 Mill COP</td>
-            <td>90.000 Mill COP</td>
-            <td>400 Mill USD</td>
-            <td>30 Mill USD </td>
-            <td>40 Mill PEN </td>
-            <td>20 Mill USD </td>
-            <td>55 Mill PEN</td>
-            <td>20 Mill USD</td>
-            <td>50 Mill PEN</td>
-            <td>20 Mill USD </td>
-            <td>45 Mill PEN</td>
-            <td>50 Mill PEN</td>
-            <td>30 Mill PEN</td>
-            <td>200 Mill USD</td>
-            <td>45 Mill USD</td>
-            <td>300 Mill USD</td>
-            <td>20 Mill USD</td>
-            <td>15 Mill USD</td>
-            <td>25 Mill USD</td>
         </tr>
         <tr>
             <td>9.a Precio de emisión</td>
@@ -4816,30 +5148,6 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>99,47%</td>
             <td>109,51%</td>
             <td>93,02%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>99,91%</td>
-            <td>100,00%</td>
-            <td>99,25%</td>
-            <td>99,38%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>99,32%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
         </tr>
         <tr>
             <td>9.b Precio de reembolso</td>
@@ -4848,30 +5156,6 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>100%</td>
             <td>100%</td>
             <td>100%</td>
-            <td>Bullet Bonds; 100%</td>
-            <td>Bullet Bonds; 100%</td>
-            <td>Bullet Bonds; 100%</td>
-            <td>Bullet Bonds; 100%</td>
-            <td>Bullet Bonds; 100%</td>
-            <td>Bullet Bonds; 100%</td>
-            <td>Bullet Bonds; 100%</td>
-            <td>1</td>
-            <td>Con la autorización previa de Autoridad Regulatoria Bancaria Peruana y de acuerdo con las LeSí aplicables de Perú, con tarifa de prepago en cada caso en una cantidad igual al uno y medio por ciento (1.5%) de cualquiera y todas de las cantidades prepagadas del préstamos;</td>
-            <td>Hay opción de amortización con una prima del 0%.</td>
-            <td>Hay opción de amortización con una prima del 0%.</td>
-            <td>Sin opción de amortización</td>
-            <td>Hay opción de amortización con una prima del 0%.</td>
-            <td>Sin opción de amortización</td>
-            <td>Sin opción de amortización</td>
-            <td>Sin opción de amortización</td>
-            <td>Sin opción de amortización</td>
-            <td>Sin opción de amortización</td>
-            <td>Hay opción de amortización con una prima del 0%.</td>
-            <td>Hay opción de amortización con una prima del 0%.</td>
-            <td>BBVA puede, previa aprobación del SBS, amortizar las notas, en su totalidad o en parte, en la fecha de revisión, a un precio de amortización igual al 100% del nominal de las notas que son amortizadas más los intereses devengados y no pagados sobre el nominal de las notas.</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
         </tr>
         <tr>
             <td>10. Clasificación contable</td>
@@ -4880,62 +5164,14 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>Obligación - coste amortizado</td>
             <td>Obligación - coste amortizado</td>
             <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
         </tr>
         <tr>
             <td>11. Fecha de emisión inicial</td>
-            <td>4/1/04</td>
-            <td>3/1/97</td>
-            <td>3/1/97</td>
-            <td>10/19/06</td>
-            <td>6/1/07</td>
-            <td>9/19/11</td>
-            <td>9/19/11</td>
-            <td>9/19/11</td>
-            <td>2/19/13</td>
-            <td>2/19/13</td>
-            <td>11/26/14</td>
-            <td>11/26/14</td>
-            <td>4/21/15</td>
-            <td>12/22/06</td>
-            <td>5/7/07</td>
-            <td>5/14/07</td>
-            <td>6/18/07</td>
-            <td>9/24/07</td>
-            <td>11/19/07</td>
-            <td>2/28/08</td>
-            <td>7/8/08</td>
-            <td>9/9/08</td>
-            <td>12/15/08</td>
-            <td>10/7/10</td>
-            <td>10/2/13</td>
-            <td>9/22/14</td>
-            <td>11/19/14</td>
-            <td>12/19/14</td>
-            <td>11/24/15</td>
+            <td>01/04/2004</td>
+            <td>01/03/1997</td>
+            <td>01/03/1997</td>
+            <td>19/10/2006</td>
+            <td>01/06/2007</td>
         </tr>
         <tr>
             <td>12. Perpetuos o con vencimiento establecido</td>
@@ -4944,62 +5180,14 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>Vencimiento determinado</td>
             <td>Vencimiento determinado</td>
             <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
         </tr>
         <tr>
             <td>13. Fecha de vencimiento inicial</td>
-            <td>12/1/27</td>
-            <td>3/1/18</td>
-            <td>3/1/18</td>
-            <td>5/1/31</td>
-            <td>6/1/32</td>
-            <td>9/19/18</td>
-            <td>9/19/21</td>
-            <td>9/19/26</td>
-            <td>2/19/23</td>
-            <td>2/19/28</td>
-            <td>11/26/34</td>
-            <td>11/26/29</td>
-            <td>4/21/25</td>
-            <td>2/15/17</td>
-            <td>5/7/22</td>
-            <td>5/14/27</td>
-            <td>6/18/32</td>
-            <td>9/24/17</td>
-            <td>11/19/32</td>
-            <td>2/28/28</td>
-            <td>7/8/23</td>
-            <td>9/9/23</td>
-            <td>12/15/33</td>
-            <td>10/7/40</td>
-            <td>10/2/28</td>
-            <td>9/22/29</td>
-            <td>11/5/21</td>
-            <td>12/19/24</td>
-            <td>11/18/22</td>
+            <td>01/12/2027</td>
+            <td>01/03/2018</td>
+            <td>01/03/2018</td>
+            <td>01/05/2031</td>
+            <td>01/06/2032</td>
         </tr>
         <tr>
             <td>14. Opción de compra del emisor sujeta a la aprobación previa de las autoridades de supervisión</td>
@@ -5008,30 +5196,6 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>No</td>
             <td>No</td>
             <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>N/A</td>
-            <td>YES</td>
-            <td>N/A</td>
         </tr>
         <tr>
             <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
@@ -5040,30 +5204,6 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>NA</td>
             <td>NA</td>
             <td>NA</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>21/04/2020; Tax call</td>
-            <td>Call date del emisor: 15/02/2012, también sujeto al Regulatory call</td>
-            <td>Call date del emisor: 07/05/2017, también sujeto al Regulatory call</td>
-            <td>Call date del emisor: 14/05/2022, también sujeto al Regulatory call</td>
-            <td>Sujeto al Regulatory call.</td>
-            <td>Call date del emisor: 24/09/2012, también sujeto al Regulatory call</td>
-            <td>Sujeto al Regulatory call.</td>
-            <td>Sujeto al Regulatory call.</td>
-            <td>Sujeto al Regulatory call.</td>
-            <td>Sujeto al Regulatory call.</td>
-            <td>Sujeto al Regulatory call.</td>
-            <td>Call date del emisor: 07/10/2020, también sujeto al Regulatory call</td>
-            <td>Call date del emisor: 02/10/2023, también sujeto al Regulatory call</td>
-            <td>Call date del emisor: 22/09/2024, también sujeto al Regulatory call</td>
-            <td>N/A</td>
-            <td>A discreción del emisor tras 5 años desde la fecha de emisión, mínimo de 1MM USD</td>
-            <td>N/A</td>
         </tr>
         <tr>
             <td>16. Fechas de ejercicio posteriores, si procede</td>
@@ -5072,57 +5212,9 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>El tax call se puede ejercer en cualquier momento despues de 21/04/2020</td>
-            <td>En cualquier momento a partir del call date</td>
-            <td>En cualquier momento a partir del call date</td>
-            <td>En cualquier momento a partir del call date</td>
-            <td>N/A</td>
-            <td>En cualquier momento a partir del call date</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>En cualquier momento a partir del call date</td>
-            <td>En cualquier momento a partir del call date</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>A discreción del emisor tras 5 años desde la fecha de emisión, mínimo de 1MM USD</td>
-            <td>N/A</td>
         </tr>
         <tr>
-            <td>Cupones / dividendos</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td>*Cupones / dividendos*</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -5135,30 +5227,6 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>Fijo</td>
             <td>Fijo</td>
             <td>Fijo</td>
-            <td>Fijo</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Fijo</td>
-            <td>Variable</td>
-            <td>Fijo</td>
-            <td>Fijo</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Fijo</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>De fijo a variable</td>
-            <td>Fijo</td>
-            <td>Fijo</td>
-            <td>Fijo</td>
-            <td>Variable</td>
             <td>Fijo</td>
         </tr>
         <tr>
@@ -5168,61 +5236,1402 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>6,50%</td>
             <td>5,00%</td>
             <td>3,50%</td>
+        </tr>
+        <tr>
+            <td>19. Existencia de limitaciones al pago de dividendos</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>20.a. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de calendario)</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>20.b. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de importe)</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>21. Existencia de un incremento del cupón u otros incentivos al reembolso</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>22. Acumulativo o no acumulativo</td>
+            <td>NA</td>
+            <td>NA</td>
+            <td>NA</td>
+            <td>NA</td>
+            <td>NA</td>
+        </tr>
+        <tr>
+            <td>23. Convertible o no convertible</td>
+            <td>Convertible</td>
+            <td>Convertible</td>
+            <td>Convertible</td>
+            <td>Convertible</td>
+            <td>Convertible</td>
+        </tr>
+        <tr>
+            <td>24. Si son convertibles, factor(es) que desencadenen la conversión</td>
+            <td>Patrimonio efectivo 8%</td>
+            <td>Patrimonio efectivo 8%</td>
+            <td>Patrimonio efectivo 8%</td>
+            <td>Patrimonio efectivo 8%</td>
+            <td>Patrimonio efectivo 8%</td>
+        </tr>
+        <tr>
+            <td>25. Si son convertibles, total o parcialmente</td>
+            <td>Siempre Totalmente</td>
+            <td>Siempre Totalmente</td>
+            <td>Siempre Totalmente</td>
+            <td>Siempre Totalmente</td>
+            <td>Siempre Totalmente</td>
+        </tr>
+        <tr>
+            <td>26. Si son convertibles, tipo de conversión aplicable</td>
+            <td>1 to 1</td>
+            <td>1 to 1</td>
+            <td>1 to 1</td>
+            <td>1 to 1</td>
+            <td>1 to 1</td>
+        </tr>
+        <tr>
+            <td>27. Si son convertibles, conversión obligatoria u opcional</td>
+            <td>Obligatoria</td>
+            <td>Obligatoria</td>
+            <td>Obligatoria</td>
+            <td>Obligatoria</td>
+            <td>Obligatoria</td>
+        </tr>
+        <tr>
+            <td>28. Si son convertibles, especifíquese el tipo de instrumento en que se pueden convertir</td>
+            <td>Capital de Nivel 1 ordinario</td>
+            <td>Capital de Nivel 1 ordinario</td>
+            <td>Capital de Nivel 1 ordinario</td>
+            <td>Capital de Nivel 1 ordinario</td>
+            <td>Capital de Nivel 1 ordinario</td>
+        </tr>
+        <tr>
+            <td>29. Si son convertibles, especifíquese el emisor del instrumento en que se convierte</td>
+            <td>BBVA Chile</td>
+            <td>BBVA Chile</td>
+            <td>BBVA Chile</td>
+            <td>BBVA Chile</td>
+            <td>BBVA Chile</td>
+        </tr>
+        <tr>
+            <td>30. Características de la depreciación</td>
+            <td>NO</td>
+            <td>NO</td>
+            <td>NO</td>
+            <td>NO</td>
+            <td>NO</td>
+        </tr>
+        <tr>
+            <td>31. En caso de depreciación, factor(es) que la desencadenan</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>32. En caso de depreciación, total o parcial</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>33. En caso de depreciación, permanente o temporal</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>34. Si la depreciación es provisional, descripción del mecanismo de apreciación</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>35. Posición en la jerarquía de subordinación en la liquidación (especifíquense el tipo de instrumento de rango inmediatamente superior)</td>
+            <td>Bonos senior</td>
+            <td>Bonos senior</td>
+            <td>Bonos senior</td>
+            <td>Bonos senior</td>
+            <td>Bonos senior</td>
+        </tr>
+        <tr>
+            <td>36. Características no conformes tras la transición</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>37. En caso afirmativo, especifíquense las características no conformes</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<table class="l">
+    <thead>
+        <tr class="tableizer-firstrow">
+            <th colspan="6">Plantilla para la presentación de las principales características de los instrumentos de capital</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1. Emisor</td>
+            <td>BBVA Colombia SA</td>
+            <td>BBVA Colombia SA</td>
+            <td>BBVA Colombia SA</td>
+            <td>BBVA Colombia SA</td>
+            <td>BBVA Colombia SA</td>
+        </tr>
+        <tr>
+            <td>2. Identificador único (por ejemplo ISIN</td>
+            <td>BBVAIP190918</td>
+            <td>BBVAIP190921</td>
+            <td>BBVAIP190926</td>
+            <td>BBVAIP190223</td>
+            <td>BBVAIP190228</td>
+        </tr>
+        <tr>
+            <td>3. Legislación aplicable al instrumento</td>
+            <td>Legislación colombiana</td>
+            <td>Legislación colombiana</td>
+            <td>Legislación colombiana</td>
+            <td>Legislación colombiana</td>
+            <td>Legislación colombiana</td>
+        </tr>
+        <tr>
+            <td>*Tratamiento normativo*</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>4. Normas transitorias de la CRR</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+        </tr>
+        <tr>
+            <td>5. Normas de la CRR posteriores a la transición</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+        </tr>
+        <tr>
+            <td>6. Admisibles a título individual/(sub) consolidado/ individual y (sub)consolidado</td>
+            <td>Individual y consolidado</td>
+            <td>Individual y consolidado</td>
+            <td>Individual y consolidado</td>
+            <td>Individual y consolidado</td>
+            <td>Individual y consolidado</td>
+        </tr>
+        <tr>
+            <td>7. Tipo de instrumento (cada país especificará los tipos pertinentes)</td>
+            <td>Instrumento de Nivel 2</td>
+            <td>Instrumento de Nivel 2</td>
+            <td>Instrumento de Nivel 2</td>
+            <td>Instrumento de Nivel 2</td>
+            <td>Instrumento de Nivel 2</td>
+        </tr>
+        <tr>
+            <td>8. Importe reconocido en el capital reglamentario (moneda en millones, en la fecha de la última notificación (Mill EUR)</td>
+            <td>6,3</td>
+            <td>26,1</td>
+            <td>47,9</td>
+            <td>61,5</td>
+            <td>50,7</td>
+        </tr>
+        <tr>
+            <td>9. Importe nominal del instrumento en la moneda de emisión</td>
+            <td>102.000 Mill COP</td>
+            <td>106.000 Mill COP</td>
+            <td>156.000 Mill COP</td>
+            <td>200.000 Mill COP</td>
+            <td>165.000 Mill COP</td>
+        </tr>
+        <tr>
+            <td>9.a Precio de emisión</td>
+            <td>100,00%</td>
+            <td>100,00%</td>
+            <td>100,00%</td>
+            <td>100,00%</td>
+            <td>100,00%</td>
+        </tr>
+        <tr>
+            <td>9.b Precio de reembolso</td>
+            <td>Bullet Bonds; 100%</td>
+            <td>Bullet Bonds; 100%</td>
+            <td>Bullet Bonds; 100%</td>
+            <td>Bullet Bonds; 100%</td>
+            <td>Bullet Bonds; 100%</td>
+        </tr>
+        <tr>
+            <td>10. Clasificación contable</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+        </tr>
+        <tr>
+            <td>11. Fecha de emisión inicial</td>
+            <td>19/09/2011</td>
+            <td>19/09/2011</td>
+            <td>19/09/2011</td>
+            <td>19/02/2013</td>
+            <td>19/02/2013</td>
+        </tr>
+        <tr>
+            <td>12. Perpetuos o con vencimiento establecido</td>
+            <td>Vencimiento determinado</td>
+            <td>Vencimiento determinado</td>
+            <td>Vencimiento determinado</td>
+            <td>Vencimiento determinado</td>
+            <td>Vencimiento determinado</td>
+        </tr>
+        <tr>
+            <td>13. Fecha de vencimiento inicial</td>
+            <td>19/09/2018</td>
+            <td>19/09/2021</td>
+            <td>19/09/2026</td>
+            <td>19/02/2023</td>
+            <td>19/02/2028</td>
+        </tr>
+        <tr>
+            <td>14. Opción de compra del emisor sujeta a la aprobación previa de las autoridades de supervisión</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>16. Fechas de ejercicio posteriores, si procede</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>*Cupones / dividendos*</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>17. Dividendo o cupón fijo o variable</td>
+            <td>Variable</td>
+            <td>Variable</td>
+            <td>Variable</td>
+            <td>Variable</td>
+            <td>Variable</td>
+        </tr>
+        <tr>
+            <td>18. Tipo de interés del cupón y cualquier índice conexo</td>
             <td>IPC + 4.28%</td>
             <td>IPC + 4.45%</td>
             <td>IPC + 4.70%</td>
             <td>IPC + 3.60%</td>
             <td>IPC + 3.89%</td>
+        </tr>
+        <tr>
+            <td>19. Existencia de limitaciones al pago de dividendos</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>20.a. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de calendario)</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+        </tr>
+        <tr>
+            <td>20.b. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de importe)</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+        </tr>
+        <tr>
+            <td>21. Existencia de un incremento del cupón u otros incentivos al reembolso</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>22. Acumulativo o no acumulativo</td>
+            <td>No acumulativo</td>
+            <td>No acumulativo</td>
+            <td>No acumulativo</td>
+            <td>No acumulativo</td>
+            <td>No acumulativo</td>
+        </tr>
+        <tr>
+            <td>23. Convertible o no convertible</td>
+            <td>No convertible</td>
+            <td>No convertible</td>
+            <td>No convertible</td>
+            <td>No convertible</td>
+            <td>No convertible</td>
+        </tr>
+        <tr>
+            <td>24. Si son convertibles, factor(es) que desencadenen la conversión</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>25. Si son convertibles, total o parcialmente</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>26. Si son convertibles, tipo de conversión aplicable</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>27. Si son convertibles, conversión obligatoria u opcional</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>28. Si son convertibles, especifíquese el tipo de instrumento en que se pueden convertir</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>29. Si son convertibles, especifíquese el emisor del instrumento en que se convierte</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>30. Características de la depreciación</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>31. En caso de depreciación, factor(es) que la desencadenan</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>32. En caso de depreciación, total o parcial</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>33. En caso de depreciación, permanente o temporal</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>34. Si la depreciación es provisional, descripción del mecanismo de apreciación</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>35. Posición en la jerarquía de subordinación en la liquidación (especifíquense el tipo de instrumento de rango inmediatamente superior)</td>
+            <td>Pasivos subordinados distintos de los valores de paridad de rango inmediatamente superior</td>
+            <td>Pasivos subordinados distintos de los valores de paridad de rango inmediatamente superior</td>
+            <td>Pasivos subordinados distintos de los valores de paridad de rango inmediatamente superior</td>
+            <td>Pasivos subordinados distintos de los valores de paridad de rango inmediatamente superior</td>
+            <td>Pasivos subordinados distintos de los valores de paridad de rango inmediatamente superior</td>
+        </tr>
+        <tr>
+            <td>36. Características no conformes tras la transición</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>37. En caso afirmativo, especifíquense las características no conformes</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+<table class="l">
+    <thead>
+        <tr class="tableizer-firstrow">
+            <th colspan="6">Plantilla para la presentación de las principales características de los instrumentos de capital</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1. Emisor</td>
+            <td>BBVA Colombia SA</td>
+            <td>BBVA Colombia SA</td>
+            <td>BBVA Colombia SA</td>
+            <td>BBVA Continental</td>
+            <td>BBVA Continental</td>
+        </tr>
+        <tr>
+            <td>2. Identificador único (por ejemplo ISIN</td>
+            <td>EK6295332</td>
+            <td>COB13CBB0088</td>
+            <td>USP1024TAN92</td>
+            <td>BID Subordinado</td>
+            <td>PEP11600D011</td>
+        </tr>
+        <tr>
+            <td>3. Legislación aplicable al instrumento</td>
+            <td>Legislación colombiana</td>
+            <td>Legislación colombiana</td>
+            <td>Legislación colombiana</td>
+            <td>Legislación neoyorquina</td>
+            <td>Legislación peruana</td>
+        </tr>
+        <tr>
+            <td>*Tratamiento normativo*</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>4. Normas transitorias de la CRR</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>No admisible</td>
+            <td>Capital de Nivel 2</td>
+        </tr>
+        <tr>
+            <td>5. Normas de la CRR posteriores a la transición</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>No admisible</td>
+            <td>Capital de Nivel 2</td>
+        </tr>
+        <tr>
+            <td>6. Admisibles a título individual/(sub) consolidado/ individual y (sub)consolidado</td>
+            <td>Individual y consolidado</td>
+            <td>Individual y consolidado</td>
+            <td>Individual y consolidado</td>
+            <td>Individual y consolidado</td>
+            <td>Individual y consolidado</td>
+        </tr>
+        <tr>
+            <td>7. Tipo de instrumento (cada país especificará los tipos pertinentes)</td>
+            <td>Instrumento de Nivel 2</td>
+            <td>Instrumento de Nivel 2</td>
+            <td>Instrumento de Nivel 2</td>
+            <td>Instrumento de Nivel 2</td>
+            <td>Instrumento de Nivel 2</td>
+        </tr>
+        <tr>
+            <td>8. Importe reconocido en el capital reglamentario (moneda en millones, en la fecha de la última notificación (Mill EUR)</td>
+            <td>49,2</td>
+            <td>27,7</td>
+            <td>369,1</td>
+            <td>-</td>
+            <td>11,3</td>
+        </tr>
+        <tr>
+            <td>9. Importe nominal del instrumento en la moneda de emisión</td>
+            <td>160.000 Mill COP</td>
+            <td>90.000 Mill COP</td>
+            <td>400 Mill USD</td>
+            <td>30 Mill USD </td>
+            <td>40 Mill PEN </td>
+        </tr>
+        <tr>
+            <td>9.a Precio de emisión</td>
+            <td>100,00%</td>
+            <td>100,00%</td>
+            <td>99,91%</td>
+            <td>100,00%</td>
+            <td>99,25%</td>
+        </tr>
+        <tr>
+            <td>9.b Precio de reembolso</td>
+            <td>Bullet Bonds; 100%</td>
+            <td>Bullet Bonds; 100%</td>
+            <td>1</td>
+            <td>Con la autorización previa de Autoridad Regulatoria Bancaria Peruana y de acuerdo con las LeSí aplicables de Perú, con tarifa de prepago en cada caso en una cantidad igual al uno y medio por ciento (1.5%) de cualquiera y todas de las cantidades prepagadas del préstamos;</td>
+            <td>Hay opción de amortización con una prima del 0%.</td>
+        </tr>
+        <tr>
+            <td>10. Clasificación contable</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+        </tr>
+        <tr>
+            <td>11. Fecha de emisión inicial</td>
+            <td>26/11/2014</td>
+            <td>26/11/2014</td>
+            <td>21/04/2015</td>
+            <td>22/12/2006</td>
+            <td>07/05/2007</td>
+        </tr>
+        <tr>
+            <td>12. Perpetuos o con vencimiento establecido</td>
+            <td>Vencimiento determinado</td>
+            <td>Vencimiento determinado</td>
+            <td>Vencimiento determinado</td>
+            <td>Vencimiento determinado</td>
+            <td>Vencimiento determinado</td>
+        </tr>
+        <tr>
+            <td>13. Fecha de vencimiento inicial</td>
+            <td>26/11/2034</td>
+            <td>26/11/2029</td>
+            <td>21/04/2025</td>
+            <td>15/02/2017</td>
+            <td>07/05/2022</td>
+        </tr>
+        <tr>
+            <td>14. Opción de compra del emisor sujeta a la aprobación previa de las autoridades de supervisión</td>
+            <td>No</td>
+            <td>No</td>
+            <td>Sí</td>
+            <td>Sí</td>
+            <td>Sí</td>
+        </tr>
+        <tr>
+            <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>21/04/2020; Tax call</td>
+            <td>*Call date* del emisor: 15/02/2012, también sujeto al *Regulatory call*</td>
+            <td>*Call date* del emisor: 07/05/2017, también sujeto al *Regulatory call*</td>
+        </tr>
+        <tr>
+            <td>16. Fechas de ejercicio posteriores, si procede</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>El tax call se puede ejercer en cualquier momento después de 21/04/2020</td>
+            <td>En cualquier momento a partir del *call date*</td>
+            <td>En cualquier momento a partir del *call date*</td>
+        </tr>
+        <tr>
+            <td>*Cupones / dividendos*</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>17. Dividendo o cupón fijo o variable</td>
+            <td>Variable</td>
+            <td>Variable</td>
+            <td>Fijo</td>
+            <td>Variable</td>
+            <td>Fijo</td>
+        </tr>
+        <tr>
+            <td>18. Tipo de interés del cupón y cualquier índice conexo</td>
             <td>IPC + 4.38%</td>
             <td>IPC + 4.50%</td>
             <td>4,88%</td>
             <td>LIBOR6M + 1,25% (incremento de 1,25% adicionales desde la fecha de la call)</td>
-            <td>5.85% (hasta el 20º cupón ) - (incremento del 0.5% anual desde el vigesimoprimer cupón - call date)</td>
-            <td>6% (hasta el 30° cupon) - (incremento del 0.5% anual desde el trigesimoprimer cupón - call date)</td>
+            <td>5.85% (hasta el 20º cupón ) - (incremento del 0.5% anual desde el vigesimoprimer cupón - *call date*)</td>
+        </tr>
+        <tr>
+            <td>19. Existencia de limitaciones al pago de dividendos</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>20.a. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de calendario)</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>20.b. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de importe)</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>Obligatorio</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>21. Existencia de un incremento del cupón u otros incentivos al reembolso</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>Sí</td>
+            <td>Sí</td>
+        </tr>
+        <tr>
+            <td>22. Acumulativo o no acumulativo</td>
+            <td>No acumulativo</td>
+            <td>No acumulativo</td>
+            <td>No acumulativo</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>23. Convertible o no convertible</td>
+            <td>No convertible</td>
+            <td>No convertible</td>
+            <td>No convertible</td>
+            <td>No convertible</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>24. Si son convertibles, factor(es) que desencadenen la conversión</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>25. Si son convertibles, total o parcialmente</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>26. Si son convertibles, tipo de conversión aplicable</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>27. Si son convertibles, conversión obligatoria u opcional</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>28. Si son convertibles, especifíquese el tipo de instrumento en que se pueden convertir</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>29. Si son convertibles, especifíquese el emisor del instrumento en que se convierte</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>30. Características de la depreciación</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>NO</td>
+            <td>NO</td>
+        </tr>
+        <tr>
+            <td>31. En caso de depreciación, factor(es) que la desencadenan</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>32. En caso de depreciación, total o parcial</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>33. En caso de depreciación, permanente o temporal</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>34. Si la depreciación es provisional, descripción del mecanismo de apreciación</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>35. Posición en la jerarquía de subordinación en la liquidación (especifíquense el tipo de instrumento de rango inmediatamente superior)</td>
+            <td>Pasivos subordinados distintos de los valores de paridad de rango inmediatamente superior</td>
+            <td>Pasivos subordinados distintos de los valores de paridad de rango inmediatamente superior</td>
+            <td>Pasivos subordinados distintos de los valores de paridad de rango inmediatamente superior</td>
+            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
+            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
+        </tr>
+        <tr>
+            <td>36. Características no conformes tras la transición</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>Sí</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>37. En caso afirmativo, especifíquense las características no conformes</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
+            <td>N/A</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<table class="l">
+    <thead>
+        <tr class="tableizer-firstrow">
+            <th colspan="6">Plantilla para la presentación de las principales características de los instrumentos de capital</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1. Emisor</td>
+            <td>BBVA Continental</td>
+            <td>BBVA Continental</td>
+            <td>BBVA Continental</td>
+            <td>BBVA Continental</td>
+            <td>BBVA Continental</td>
+        </tr>
+        <tr>
+            <td>2. Identificador único (por ejemplo ISIN</td>
+            <td>PEP11600D029</td>
+            <td>PEP11600D037</td>
+            <td>PEP11600D045</td>
+            <td>PEP11600D052</td>
+            <td>PEP11600D060</td>
+        </tr>
+        <tr>
+            <td>3. Legislación aplicable al instrumento</td>
+            <td>Legislación peruana</td>
+            <td>Legislación peruana</td>
+            <td>Legislación peruana</td>
+            <td>Legislación peruana</td>
+            <td>Legislación peruana</td>
+        </tr>
+        <tr>
+            <td>*Tratamiento normativo*</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>4. Normas transitorias de la CRR</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>No admisible</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+        </tr>
+        <tr>
+            <td>5. Normas de la CRR posteriores a la transición</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>No admisible</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+        </tr>
+        <tr>
+            <td>6. Admisibles a título individual/(sub) consolidado/ individual y (sub)consolidado</td>
+            <td>Individual y consolidado</td>
+            <td>Individual y consolidado</td>
+            <td>Individual y consolidado</td>
+            <td>Individual y consolidado</td>
+            <td>Individual y consolidado</td>
+        </tr>
+        <tr>
+            <td>7. Tipo de instrumento (cada país especificará los tipos pertinentes)</td>
+            <td>Instrumento de Nivel 2</td>
+            <td>Instrumento de Nivel 2</td>
+            <td>Instrumento de Nivel 2</td>
+            <td>Instrumento de Nivel 2</td>
+            <td>Instrumento de Nivel 2</td>
+        </tr>
+        <tr>
+            <td>8. Importe reconocido en el capital reglamentario (moneda en millones, en la fecha de la última notificación (Mill EUR)</td>
+            <td>19,0</td>
+            <td>15,6</td>
+            <td>-</td>
+            <td>14,2</td>
+            <td>19,0</td>
+        </tr>
+        <tr>
+            <td>9. Importe nominal del instrumento en la moneda de emisión</td>
+            <td>20 Mill USD </td>
+            <td>55 Mill PEN</td>
+            <td>20 Mill USD</td>
+            <td>50 Mill PEN</td>
+            <td>20 Mill USD </td>
+        </tr>
+        <tr>
+            <td>9.a Precio de emisión</td>
+            <td>99,38%</td>
+            <td>100,00%</td>
+            <td>100,00%</td>
+            <td>100,00%</td>
+            <td>100,00%</td>
+        </tr>
+        <tr>
+            <td>9.b Precio de reembolso</td>
+            <td>Hay opción de amortización con una prima del 0%.</td>
+            <td>Sin opción de amortización</td>
+            <td>Hay opción de amortización con una prima del 0%.</td>
+            <td>Sin opción de amortización</td>
+            <td>Sin opción de amortización</td>
+        </tr>
+        <tr>
+            <td>10. Clasificación contable</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+        </tr>
+        <tr>
+            <td>11. Fecha de emisión inicial</td>
+            <td>14/05/2007</td>
+            <td>18/06/2007</td>
+            <td>24/09/2007</td>
+            <td>19/11/2007</td>
+            <td>28/02/2008</td>
+        </tr>
+        <tr>
+            <td>12. Perpetuos o con vencimiento establecido</td>
+            <td>Vencimiento determinado</td>
+            <td>Vencimiento determinado</td>
+            <td>Vencimiento determinado</td>
+            <td>Vencimiento determinado</td>
+            <td>Vencimiento determinado</td>
+        </tr>
+        <tr>
+            <td>13. Fecha de vencimiento inicial</td>
+            <td>14/05/2027</td>
+            <td>18/06/2032</td>
+            <td>24/09/2017</td>
+            <td>19/11/2032</td>
+            <td>28/02/2028</td>
+        </tr>
+        <tr>
+            <td>14. Opción de compra del emisor sujeta a la aprobación previa de las autoridades de supervisión</td>
+            <td>Sí</td>
+            <td>No</td>
+            <td>Sí</td>
+            <td>No</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
+            <td>*Call date* del emisor: 14/05/2022, también sujeto al *Regulatory call*</td>
+            <td>Sujeto al *Regulatory call*.</td>
+            <td>*Call date* del emisor: 24/09/2012, también sujeto al *Regulatory call*</td>
+            <td>Sujeto al *Regulatory call*.</td>
+            <td>Sujeto al *Regulatory call*.</td>
+        </tr>
+        <tr>
+            <td>16. Fechas de ejercicio posteriores, si procede</td>
+            <td>En cualquier momento a partir del *call date*</td>
+            <td>N/A</td>
+            <td>En cualquier momento a partir del *call date*</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>*Cupones / dividendos*</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>17. Dividendo o cupón fijo o variable</td>
+            <td>Fijo</td>
+            <td>Variable</td>
+            <td>Variable</td>
+            <td>Variable</td>
+            <td>Fijo</td>
+        </tr>
+        <tr>
+            <td>18. Tipo de interés del cupón y cualquier índice conexo</td>
+            <td>6% (hasta el 30° cupon) - (incremento del 0.5% anual desde el trigesimoprimer cupón - *call date*)</td>
             <td>VAC(semestre)/VAC(inicial)*3.4688%</td>
-            <td>LIBOR(6M)+2.15625% (hasta el 10° cupón) - (incremento del 1% desde el decimoprimer cupón - call date)</td>
+            <td>LIBOR(6M)+2.15625% (hasta el 10° cupón) - (incremento del 1% desde el decimoprimer cupón - *call date*)</td>
             <td>VAC(semestre)/VAC(inicial)*3.5625%</td>
             <td>6,47%</td>
+        </tr>
+        <tr>
+            <td>19. Existencia de limitaciones al pago de dividendos</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>20.a. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de calendario)</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>20.b. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de importe)</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>21. Existencia de un incremento del cupón u otros incentivos al reembolso</td>
+            <td>Sí</td>
+            <td>No</td>
+            <td>Sí</td>
+            <td>No</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>22. Acumulativo o no acumulativo</td>
+            <td>NA</td>
+            <td>NA</td>
+            <td>NA</td>
+            <td>NA</td>
+            <td>NA</td>
+        </tr>
+        <tr>
+            <td>23. Convertible o no convertible</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>24. Si son convertibles, factor(es) que desencadenen la conversión</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>25. Si son convertibles, total o parcialmente</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>26. Si son convertibles, tipo de conversión aplicable</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>27. Si son convertibles, conversión obligatoria u opcional</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>28. Si son convertibles, especifíquese el tipo de instrumento en que se pueden convertir</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>29. Si son convertibles, especifíquese el emisor del instrumento en que se convierte</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>30. Características de la depreciación</td>
+            <td>NO</td>
+            <td>NO</td>
+            <td>NO</td>
+            <td>NO</td>
+            <td>NO</td>
+        </tr>
+        <tr>
+            <td>31. En caso de depreciación, factor(es) que la desencadenan</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>32. En caso de depreciación, total o parcial</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>33. En caso de depreciación, permanente o temporal</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>34. Si la depreciación es provisional, descripción del mecanismo de apreciación</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>35. Posición en la jerarquía de subordinación en la liquidación (especifíquense el tipo de instrumento de rango inmediatamente superior)</td>
+            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
+            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
+            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
+            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
+            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
+        </tr>
+        <tr>
+            <td>36. Características no conformes tras la transición</td>
+            <td>No</td>
+            <td>No</td>
+            <td>Sí</td>
+            <td>No</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <td>37. En caso afirmativo, especifíquense las características no conformes</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<table class="l">
+    <thead>
+        <tr class="tableizer-firstrow">
+            <th colspan="6">Plantilla para la presentación de las principales características de los instrumentos de capital</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1. Emisor</td>
+            <td>BBVA Continental</td>
+            <td>BBVA Continental</td>
+            <td>BBVA Continental</td>
+            <td>BBVA Continental</td>
+            <td>BBVA Continental</td>
+        </tr>
+        <tr>
+            <td>2. Identificador único (por ejemplo ISIN</td>
+            <td>PEP11600D078</td>
+            <td>PEP11600D086</td>
+            <td>PEP11600D094</td>
+            <td>Credit Suisse TIER 1</td>
+            <td>PEP11600D102</td>
+        </tr>
+        <tr>
+            <td>3. Legislación aplicable al instrumento</td>
+            <td>Legislación peruana</td>
+            <td>Legislación peruana</td>
+            <td>Legislación peruana</td>
+            <td>Legislación peruana</td>
+            <td>Legislación peruana</td>
+        </tr>
+        <tr>
+            <td>*Tratamiento normativo*</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>4. Normas transitorias de la CRR</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+        </tr>
+        <tr>
+            <td>5. Normas de la CRR posteriores a la transición</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+            <td>Capital de Nivel 2</td>
+        </tr>
+        <tr>
+            <td>6. Admisibles a título individual/(sub) consolidado/ individual y (sub)consolidado</td>
+            <td>Individual y consolidado</td>
+            <td>Individual y consolidado</td>
+            <td>Individual y consolidado</td>
+            <td>Individual y consolidado</td>
+            <td>Individual y consolidado</td>
+        </tr>
+        <tr>
+            <td>7. Tipo de instrumento (cada país especificará los tipos pertinentes)</td>
+            <td>Instrumento de Nivel 2</td>
+            <td>Instrumento de Nivel 2</td>
+            <td>Instrumento de Nivel 2</td>
+            <td>Instrumento de Nivel 2</td>
+            <td>Instrumento de Nivel 2</td>
+        </tr>
+        <tr>
+            <td>8. Importe reconocido en el capital reglamentario (moneda en millones, en la fecha de la última notificación (Mill EUR)</td>
+            <td>12,7</td>
+            <td>14,2</td>
+            <td>8,5</td>
+            <td>189,7</td>
+            <td>42,7</td>
+        </tr>
+        <tr>
+            <td>9. Importe nominal del instrumento en la moneda de emisión</td>
+            <td>45 Mill PEN</td>
+            <td>50 Mill PEN</td>
+            <td>30 Mill PEN</td>
+            <td>200 Mill USD</td>
+            <td>45 Mill USD</td>
+        </tr>
+        <tr>
+            <td>9.a Precio de emisión</td>
+            <td>100,00%</td>
+            <td>100,00%</td>
+            <td>100,00%</td>
+            <td>100,00%</td>
+            <td>100,00%</td>
+        </tr>
+        <tr>
+            <td>9.b Precio de reembolso</td>
+            <td>Sin opción de amortización</td>
+            <td>Sin opción de amortización</td>
+            <td>Sin opción de amortización</td>
+            <td>Hay opción de amortización con una prima del 0%.</td>
+            <td>Hay opción de amortización con una prima del 0%.</td>
+        </tr>
+        <tr>
+            <td>10. Clasificación contable</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+            <td>Obligación - coste amortizado</td>
+        </tr>
+        <tr>
+            <td>11. Fecha de emisión inicial</td>
+            <td>08/07/2008</td>
+            <td>09/09/2008</td>
+            <td>15/12/2008</td>
+            <td>07/10/2010</td>
+            <td>02/10/2013</td>
+        </tr>
+        <tr>
+            <td>12. Perpetuos o con vencimiento establecido</td>
+            <td>Vencimiento determinado</td>
+            <td>Vencimiento determinado</td>
+            <td>Vencimiento determinado</td>
+            <td>Vencimiento determinado</td>
+            <td>Vencimiento determinado</td>
+        </tr>
+        <tr>
+            <td>13. Fecha de vencimiento inicial</td>
+            <td>08/07/2023</td>
+            <td>09/09/2023</td>
+            <td>15/12/2033</td>
+            <td>07/10/2040</td>
+            <td>02/10/2028</td>
+        </tr>
+        <tr>
+            <td>14. Opción de compra del emisor sujeta a la aprobación previa de las autoridades de supervisión</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>Sí</td>
+            <td>Sí</td>
+        </tr>
+        <tr>
+            <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
+            <td>Sujeto al *Regulatory call*.</td>
+            <td>Sujeto al *Regulatory call*.</td>
+            <td>Sujeto al *Regulatory call*.</td>
+            <td>*Call date* del emisor: 07/10/2020, también sujeto al *Regulatory call*</td>
+            <td>*Call date* del emisor: 02/10/2023, también sujeto al *Regulatory call*</td>
+        </tr>
+        <tr>
+            <td>16. Fechas de ejercicio posteriores, si procede</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>En cualquier momento a partir del *call date*</td>
+            <td>En cualquier momento a partir del *call date*</td>
+        </tr>
+        <tr>
+            <td>*Cupones / dividendos*</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>17. Dividendo o cupón fijo o variable</td>
+            <td>Variable</td>
+            <td>Variable</td>
+            <td>Variable</td>
+            <td>De fijo a variable</td>
+            <td>Fijo</td>
+        </tr>
+        <tr>
+            <td>18. Tipo de interés del cupón y cualquier índice conexo</td>
             <td>VAC(semestre)/VAC(inicial)*3.0625%</td>
             <td>VAC(semestre)/VAC(inicial)*3.0938%</td>
             <td>VAC(semestre)/VAC(inicial)*4.1875%</td>
             <td>7.375% (diez años), L3M + 6.802% (diez años siguientes)</td>
             <td>6,53%</td>
-            <td>5,25%</td>
-            <td>6.75%</td>
-            <td>LIBOR 90d + 4,35%</td>
-            <td>6,70%</td>
         </tr>
         <tr>
             <td>19. Existencia de limitaciones al pago de dividendos</td>
             <td>No</td>
             <td>No</td>
             <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
             <td>N/A</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
             <td>No</td>
         </tr>
         <tr>
@@ -5232,30 +6641,6 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
         </tr>
         <tr>
             <td>20.b. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de importe)</td>
@@ -5264,2108 +6649,33 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
         </tr>
         <tr>
             <td>21. Existencia de un incremento del cupón u otros incentivos al reembolso</td>
             <td>No</td>
             <td>No</td>
             <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
             <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
             <td>No</td>
         </tr>
         <tr>
             <td>22. Acumulativo o no acumulativo</td>
-            <td>NA</td>
-            <td>NA</td>
-            <td>NA</td>
-            <td>NA</td>
-            <td>NA</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>No acumulativo</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
             <td>N/A</td>
         </tr>
         <tr>
             <td>23. Convertible o no convertible</td>
-            <td>Convertible</td>
-            <td>Convertible</td>
-            <td>Convertible</td>
-            <td>Convertible</td>
-            <td>Convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>Convertible</td>
-            <td>No convertible</td>
-            <td>Convertible</td>
-        </tr>
-        <tr>
-            <td>24. Si son convertibles, factor(es) que desencadenen la conversión</td>
-            <td>Patrimonio efectivo 8%</td>
-            <td>Patrimonio efectivo 8%</td>
-            <td>Patrimonio efectivo 8%</td>
-            <td>Patrimonio efectivo 8%</td>
-            <td>Patrimonio efectivo 8%</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td> TIER 1
-                <8% o TIER 2 <12% or Accumulated losses> Paid-in Capital</td>
-            <td>N/A</td>
-            <td> TIER 1
-                <8% o TIER 2 <12% or Accumulated losses> Paid-in Capital</td>
-        </tr>
-        <tr>
-            <td>25. Si son convertibles, total o parcialmente</td>
-            <td>Siempre Totalmente</td>
-            <td>Siempre Totalmente</td>
-            <td>Siempre Totalmente</td>
-            <td>Siempre Totalmente</td>
-            <td>Siempre Totalmente</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>Parcialmente</td>
-            <td>N/A</td>
-            <td>Parcialmente</td>
-        </tr>
-        <tr>
-            <td>26. Si son convertibles, tipo de conversión aplicable</td>
-            <td>1 to 1</td>
-            <td>1 to 1</td>
-            <td>1 to 1</td>
-            <td>1 to 1</td>
-            <td>1 to 1</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>100%</td>
-            <td>N/A</td>
-            <td>1</td>
-        </tr>
-        <tr>
-            <td>27. Si son convertibles, conversión obligatoria u opcional</td>
-            <td>Obligatoria</td>
-            <td>Obligatoria</td>
-            <td>Obligatoria</td>
-            <td>Obligatoria</td>
-            <td>Obligatoria</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>Obligatorio</td>
-            <td>N/A</td>
-            <td>Obligatorio</td>
-        </tr>
-        <tr>
-            <td>28. Si son convertibles, especifíquese el tipo de instrumento en que se pueden convertir</td>
-            <td>Capital de Nivel 1 ordinario</td>
-            <td>Capital de Nivel 1 ordinario</td>
-            <td>Capital de Nivel 1 ordinario</td>
-            <td>Capital de Nivel 1 ordinario</td>
-            <td>Capital de Nivel 1 ordinario</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>Capital de Nivel 1 ordinario</td>
-            <td>N/A</td>
-            <td>Capital de Nivel 1 ordinario</td>
-        </tr>
-        <tr>
-            <td>29. Si son convertibles, especifíquese el emisor del instrumento en que se convierte</td>
-            <td>BBVA Chile</td>
-            <td>BBVA Chile</td>
-            <td>BBVA Chile</td>
-            <td>BBVA Chile</td>
-            <td>BBVA Chile</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>Banco Bilbao Vizcaya Argentaria Paraguay S.A.</td>
-            <td>N/A</td>
-            <td>Banco Bilbao Vizcaya Argentaria Paraguay S.A.</td>
-        </tr>
-        <tr>
-            <td>30. Características de la depreciación</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>31. En caso de depreciación, factor(es) que la desencadenan</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>32. En caso de depreciación, total o parcial</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>33. En caso de depreciación, permanente o temporal</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>34. Si la depreciación es provisional, descripción del mecanismo de apreciación</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>35. Posición en la jerarquía de subordinación en la liquidación (especifíquense el tipo de instrumento de rango inmediatamente superior)</td>
-            <td>Bonos senior</td>
-            <td>Bonos senior</td>
-            <td>Bonos senior</td>
-            <td>Bonos senior</td>
-            <td>Bonos senior</td>
-            <td>Pasivos subordinados distintos de los valores de paridad de rango inmediatamente superior</td>
-            <td>Pasivos subordinados distintos de los valores de paridad de rango inmediatamente superior</td>
-            <td>Pasivos subordinados distintos de los valores de paridad de rango inmediatamente superior</td>
-            <td>Pasivos subordinados distintos de los valores de paridad de rango inmediatamente superior</td>
-            <td>Pasivos subordinados distintos de los valores de paridad de rango inmediatamente superior</td>
-            <td>Pasivos subordinados distintos de los valores de paridad de rango inmediatamente superior</td>
-            <td>Pasivos subordinados distintos de los valores de paridad de rango inmediatamente superior</td>
-            <td>Pasivos subordinados distintos de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-        </tr>
-        <tr>
-            <td>36. Características no conformes tras la transición</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-        </tr>
-        <tr>
-            <td>37. En caso afirmativo, especifíquense las características no conformes</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-    </tbody>
-</table>
-[Descargar tabla](#)
-
-(4) Se corresponde con la clasificación del instrumento desde una visión regulatoria o phased-in a 31 de diciembre de 2016
-
-(5) Se corresponde con la clasificación del instrumento desde una visión Fully loaded a 31 de diciembre de 2016
-
-<table class="l">
-    <thead>
-        <tr class="tableizer-firstrow">
-            <th>Plantilla para la presentación de las principales características de los instrumentos de capital</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>1. Emisor</td>
-            <td>Banco Bilbao Vizcaya Argentaria SA</td>
-            <td>Banco Bilbao Vizcaya Argentaria SA</td>
-            <td>Banco Bilbao Vizcaya Argentaria SA</td>
-            <td>Banco Bilbao Vizcaya Argentaria SA</td>
-            <td>BBVA International Preferred SA Unipersonal</td>
-            <td>BBVA International Preferred SA Unipersonal</td>
-            <td>BBVA International Preferred SA Unipersonal</td>
-            <td>CaixaSabadell Preferents S.A. Sociedad Unipersonal</td>
-            <td>Caixa Terrassa Societat de Participacions Preferents, S.A. Unipersonal</td>
-            <td>BBVA International Preferred SA Unipersonal </td>
-            <td>BBVA Subordinated Capital Finance SAU</td>
-            <td>BBVA Subordinated Capital Finance SAU</td>
-            <td>BBVA Subordinated Capital Finance SAU</td>
-            <td>BBVA, SA</td>
-            <td>BBVA Subordinated Capital Finance SAU</td>
-            <td>BBVA, SA</td>
-            <td>BBVA, SA</td>
-            <td>BBVA Subordinated Capital Finance SAU</td>
-            <td>BBVA Global Finance LTD</td>
-            <td>Caixa Terrassa</td>
-            <td>Caixa Terrassa</td>
-            <td>Caixa Terrassa</td>
-            <td>Caixa Sabadell</td>
-            <td>Caixa Sabadell</td>
-            <td>Caixa Sabadell</td>
-            <td>Caixa Terrassa</td>
-        </tr>
-        <tr>
-            <td>2. Identificador único (por ejemplo ISIN</td>
-            <td>XS0926832907</td>
-            <td>XS1033661866</td>
-            <td>XS1190663952</td>
-            <td>XS1394911496</td>
-            <td>US05530RAB42</td>
-            <td>XS0308305803</td>
-            <td>XS0266971745</td>
-            <td>ES0101339028</td>
-            <td>XS0225115566</td>
-            <td>XS0229864060</td>
-            <td>XS0230662628</td>
-            <td>XS1055241373</td>
-            <td>XS0376074364</td>
-            <td>ES0213211131</td>
-            <td>XS0361684391</td>
-            <td>ES0213211115</td>
-            <td>ES0213211107</td>
-            <td>XS0291892262</td>
-            <td>US055291AC24</td>
-            <td>ES0214974026</td>
-            <td>ES0214974059</td>
-            <td>ES0214974067</td>
-            <td>ES0214973051</td>
-            <td>ES0214973069</td>
-            <td>ES0214973077</td>
-            <td>ES0214974075</td>
-        </tr>
-        <tr>
-            <td>3. Legislación aplicable al instrumento</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
-            <td>Legislación Inglesa</td>
-            <td>Legislación Inglesa</td>
-            <td>Legislación Inglesa</td>
-            <td>Legislación Española </td>
-            <td>Legislación Inglesa</td>
-            <td>Legislación Española </td>
-            <td>Legislación Española</td>
-            <td>Legislación Inglesa</td>
-            <td>Legislación neoyorquina</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
-            <td>Legislación Española</td>
-        </tr>
-        <tr>
-            <td>Tratamiento normativo</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>4. Normas transitorias de la CRR</td>
-            <td>Capital de Nivel 1 Adicional</td>
-            <td>Capital de Nivel 1 Adicional</td>
-            <td>Capital de Nivel 1 Adicional</td>
-            <td>Capital de Nivel 1 Adicional</td>
-            <td>Capital de Nivel 1</td>
-            <td>Capital de Nivel 1</td>
-            <td>No admisible</td>
-            <td>Capital de Nivel 1</td>
-            <td>Capital de Nivel 1</td>
-            <td>No admisible</td>
-            <td>No admisible</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>No admisible</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>No admisible</td>
-            <td>No admisible</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>No admisible</td>
-            <td>No admisible</td>
-        </tr>
-        <tr>
-            <td>5. Normas de la CRR posteriores a la transición</td>
-            <td>Capital de Nivel 1 Adicional</td>
-            <td>Capital de Nivel 1 Adicional</td>
-            <td>Capital de Nivel 1 Adicional</td>
-            <td>Capital de Nivel 1 Adicional</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>No admisible</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>No admisible</td>
-            <td>No admisible</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>No admisible</td>
-            <td>No admisible</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>No admisible</td>
-            <td>No admisible</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>No admisible</td>
-            <td>No admisible</td>
-        </tr>
-        <tr>
-            <td>6. Admisibles a título individual/(sub) consolidado/ individual y (sub)consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-            <td>Individual y Consolidado</td>
-        </tr>
-        <tr>
-            <td>7. Tipo de instrumento (cada país especificará los tipos pertinentes)</td>
-            <td>Contingent Convertible</td>
-            <td>Contingent Convertible</td>
-            <td>Contingent Convertible</td>
-            <td>Contingent Convertible</td>
-            <td>Acciones preferentes</td>
-            <td>Acciones preferentes</td>
-            <td>Acciones preferentes</td>
-            <td>Acciones preferentes</td>
-            <td>Acciones preferentes</td>
-            <td>Preferentes</td>
-            <td>Subordinadas</td>
-            <td>Subordinadas</td>
-            <td>Subordinadas</td>
-            <td>Subordinadas</td>
-            <td>Subordinadas</td>
-            <td>Subordinadas</td>
-            <td>Subordinadas</td>
-            <td>Subordinadas</td>
-            <td>Subordinadas</td>
-            <td>Deuda subordinada perpetua</td>
-            <td>Subordinadas</td>
-            <td>Subordinadas</td>
-            <td>Subordinadas</td>
-            <td>Subordinadas</td>
-            <td>Subordinadas</td>
-            <td>Deuda subordinada perpetua</td>
-        </tr>
-        <tr>
-            <td>8. Importe reconocido en el capital reglamentario (moneda en millones, en la fecha de la última notificación (Mill EUR)</td>
-            <td>1.423,0</td>
-            <td>1.500</td>
-            <td>1.500</td>
-            <td>1.000</td>
-            <td>569,2</td>
-            <td>36,4</td>
-            <td>&nbsp;</td>
-            <td>51,2</td>
-            <td>34,3</td>
-            <td>-</td>
-            <td>-</td>
-            <td>1.500</td>
-            <td>4,0</td>
-            <td>99,9</td>
-            <td>50,0</td>
-            <td>124,7</td>
-            <td>256,6</td>
-            <td>68,0</td>
-            <td>184,7</td>
-            <td>0,1</td>
-            <td>-</td>
-            <td>-</td>
-            <td>24,1</td>
-            <td>-</td>
-            <td>4,7</td>
-            <td>39,9</td>
-        </tr>
-        <tr>
-            <td>9. Importe nominal del instrumento en la moneda de emisión</td>
-            <td>1,500 Mill USD</td>
-            <td>1,500 Mill EUR</td>
-            <td>1,500 Mill EUR</td>
-            <td>1,000 Mill EUR</td>
-            <td>600 Mill USD</td>
-            <td>400 Mill GBP</td>
-            <td>500 Mill EUR </td>
-            <td>90 Mill EUR</td>
-            <td>75 Mill EUR</td>
-            <td>550 Mill EUR</td>
-            <td>150,0 Mill EUR</td>
-            <td>1.500,0 Mill EUR</td>
-            <td>20,0 Mill EUR</td>
-            <td>100,0 Mill EUR</td>
-            <td>50,0 Mill EUR</td>
-            <td>125,0 Mill EUR</td>
-            <td>300 Mill EUR</td>
-            <td>100,0 Mill EUR</td>
-            <td>200,0 Mill USD</td>
-            <td>6 Mill EUR</td>
-            <td>50 Mill EUR</td>
-            <td>75 Mill EUR</td>
-            <td>50,0 Mill EUR</td>
-            <td>100,0 Mill EUR</td>
-            <td>35,0 Mill EUR</td>
-            <td>75,0 Mill EUR</td>
-        </tr>
-        <tr>
-            <td>9.a Precio de emisión</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>99,81%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>99,77%</td>
-            <td>100,00%</td>
-            <td>99,65%</td>
-            <td>99,06%</td>
-            <td>100,00%</td>
-            <td>98,21%</td>
-            <td>100,00%</td>
-            <td>99,66%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-        </tr>
-        <tr>
-            <td>9.b Precio de reembolso</td>
-            <td>El derecho de liquidación preferente más, en su caso, un importe igual a las distribuciones devengadas y pendientes de pago para el periodo de distribución vigente en ese momento a la fecha fijada para el reembolso de las participaciones preferentes</td>
-            <td>El derecho de liquidación preferente más, en su caso, un importe igual a las distribuciones devengadas y pendientes de pago para el periodo de distribución vigente en ese momento a la fecha fijada para el reembolso de las participaciones preferentes</td>
-            <td>El derecho de liquidación preferente más, en su caso, un importe igual a las distribuciones devengadas y pendientes de pago para el periodo de distribución vigente en ese momento a la fecha fijada para el reembolso de las participaciones preferentes</td>
-            <td>El derecho de liquidación preferente más, en su caso, un importe igual a las distribuciones devengadas y pendientes de pago para el periodo de distribución vigente en ese momento a la fecha fijada para el reembolso de las participaciones preferentes</td>
-            <td>El derecho de liquidación preferente más, en su caso, un importe igual a las distribuciones devengadas y pendientes de pago para el periodo de distribución vigente en ese momento a la fecha fijada para el reembolso de las participaciones preferentes</td>
-            <td>El derecho de liquidación preferente más, en su caso, un importe igual a las distribuciones devengadas y pendientes de pago para el periodo de distribución vigente en ese momento a la fecha fijada para el reembolso de las participaciones preferentes</td>
-            <td>El derecho de liquidación preferente más, en su caso, un importe igual a las distribuciones devengadas y pendientes de pago para el periodo de distribución vigente en ese momento a la fecha fijada para el reembolso de las participaciones preferentes</td>
-            <td>El derecho de liquidación preferente más, en su caso, un importe igual a las distribuciones devengadas y pendientes de pago para el periodo de distribución vigente en ese momento a la fecha fijada para el reembolso de las participaciones preferentes</td>
-            <td>El derecho de liquidación preferente más, en su caso, un importe igual a las distribuciones devengadas y pendientes de pago para el periodo de distribución vigente en ese momento a la fecha fijada para el reembolso de las participaciones preferentes</td>
-            <td>El derecho de liquidación preferente más, en su caso, un importe igual a las distribuciones devengadas y pendientes de pago para el periodo de distribución vigente en ese momento a la fecha fijada para el reembolso de las participaciones preferentes</td>
-            <td>1</td>
-            <td>100%</td>
-            <td>100%</td>
-            <td>100%</td>
-            <td>100%</td>
-            <td>100%</td>
-            <td>100%</td>
-            <td>100%</td>
-            <td>100%</td>
-            <td>100%</td>
-            <td>100%</td>
-            <td>100%</td>
-            <td>100%</td>
-            <td>100%</td>
-            <td>100%</td>
-            <td>100%</td>
-        </tr>
-        <tr>
-            <td>10. Clasificación contable</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-        </tr>
-        <tr>
-            <td>11. Fecha de emisión inicial</td>
-            <td>4/26/13</td>
-            <td>2/11/14</td>
-            <td>2/10/15</td>
-            <td>4/7/16</td>
-            <td>4/18/07</td>
-            <td>7/19/07</td>
-            <td>9/20/06</td>
-            <td>7/14/06</td>
-            <td>8/10/05</td>
-            <td>9/22/05</td>
-            <td>10/13/05</td>
-            <td>4/11/14</td>
-            <td>7/22/08</td>
-            <td>7/4/08</td>
-            <td>5/19/08</td>
-            <td>3/3/08</td>
-            <td>2/16/07</td>
-            <td>4/4/07</td>
-            <td>12/4/95</td>
-            <td>6/30/90</td>
-            <td>8/9/06</td>
-            <td>8/9/06</td>
-            <td>1/28/05</td>
-            <td>2/15/07</td>
-            <td>6/10/09</td>
-            <td>3/1/07</td>
-        </tr>
-        <tr>
-            <td>12. Perpetuos o con vencimiento establecido</td>
-            <td>Perpetuo</td>
-            <td>Perpetuo</td>
-            <td>Perpetuo</td>
-            <td>Perpetuo</td>
-            <td>Perpetuo</td>
-            <td>Perpetuo</td>
-            <td>Perpetuo</td>
-            <td>Perpetuo</td>
-            <td>Perpetuo</td>
-            <td>Perpetuo</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Perpetuo</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Perpetuo</td>
-        </tr>
-        <tr>
-            <td>13. Fecha de vencimiento inicial</td>
-            <td>Sin Vencimiento</td>
-            <td>Sin Vencimiento</td>
-            <td>Sin Vencimiento</td>
-            <td>Sin Vencimiento</td>
-            <td>Sin Vencimiento</td>
-            <td>Sin Vencimiento</td>
-            <td>Sin Vencimiento</td>
-            <td>Sin Vencimiento</td>
-            <td>Sin Vencimiento</td>
-            <td>Sin Vencimiento</td>
-            <td>10/13/20</td>
-            <td>4/11/24</td>
-            <td>7/22/18</td>
-            <td>7/4/23</td>
-            <td>5/19/23</td>
-            <td>3/3/33</td>
-            <td>2/16/22</td>
-            <td>4/4/22</td>
-            <td>12/1/25</td>
-            <td>Sin Vencimiento</td>
-            <td>8/9/21</td>
-            <td>8/9/21</td>
-            <td>1/28/20</td>
-            <td>2/15/17</td>
-            <td>6/10/24</td>
-            <td>Sin Vencimiento</td>
-        </tr>
-        <tr>
-            <td>14. Opción de compra del emisor sujeta a la aprobación previa de las autoridades de supervisión</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-        </tr>
-        <tr>
-            <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
-            <td>Call date del emisor: 09/05/2018; sujeto tanto al Regulatory call como al Tax call</td>
-            <td>Call date del emisor: 19/02/2019; sujeto tanto al Regulatory call como al Tax call</td>
-            <td>Call date del emisor: 18/02/2020; sujeto tanto al Regulatory call como al Tax call</td>
-            <td>Call date del emisor: 14/04/2021; sujeto tanto al Regulatory call como al Tax call</td>
-            <td>Call date del emisor: 18/04/2017; sujeto tanto al Regulatory call como al Tax call</td>
-            <td>Call date del emisor: 19/07/2012; sujeto tanto al Regulatory call como al Tax call</td>
-            <td>Call date del emisor: 20/09/2016; sujeto tanto al Regulatory call como al Tax call</td>
-            <td>Call date del emisor: 14/07/2016</td>
-            <td>Call date del emisor: 10/08/2011</td>
-            <td>Call date del emisor: 22/09/2015; sujeto tanto al Regulatory call como al Tax call</td>
-            <td>Call date del emisor: 13/10/2015; Tax call (En cualquier momento tras cinco años)</td>
-            <td>Call date del emisor: 11/04/2019; sujeto tanto al Regulatory call como al Tax call</td>
-            <td>Sin call date opcional; Tax call</td>
-            <td>No</td>
-            <td>Sin call date opcional; Tax call</td>
-            <td>Call date del emisor: 03/03/2028</td>
-            <td>Call date del emisor: 16/02/2017</td>
-            <td>Sin call date del emisor; Tax call</td>
-            <td>Sin call date del emisor; Tax call</td>
-            <td>Call date del emisor: 03/06/2010</td>
-            <td>Call date del emisor: 09/08/2016</td>
-            <td>Call date del emisor: 09/08/2016</td>
-            <td>Call date del emisor: 28/01/2015</td>
-            <td>Call date del emisor: 15/02/2012</td>
-            <td>Call date del emisor: 10/06/2019</td>
-            <td>Call date del emisor: 01/03/2027</td>
-        </tr>
-        <tr>
-            <td>16. Fechas de ejercicio posteriores, si procede</td>
-            <td>En cualquier momento a partir de la primera fecha de reinicio</td>
-            <td>En cualquier momento a partir de la primera fecha de reinicio</td>
-            <td>En cualquier momento a partir de la primera fecha de reinicio</td>
-            <td>En cualquier momento a partir de la primera fecha de reinicio</td>
-            <td>En intervalos de diez años empezando el 18 de abril de 2017</td>
-            <td>En cualquier fecha de pago de distribución que cae en o después de la primera call date</td>
-            <td>En cualquier fecha de pago de distribución que cae en o después de la primera call date</td>
-            <td>En cualquier fecha de pago de distribución que cae en o después de la primera call date</td>
-            <td>En cualquier fecha de pago de distribución que cae en o después de la primera call date</td>
-            <td>En cualquier fecha de pago de distribución que cae en o después de la primera call date</td>
-            <td>Call date de emisión y en cada día de pago de intereses a partir de entonces</td>
-            <td>No</td>
-            <td>En cualquier momento a partir del quinto año</td>
-            <td>NA</td>
-            <td>En cualquier momento a partir del quinto año</td>
-            <td>Call date de emisión y en cada día de pago de intereses a partir de entonces</td>
-            <td>Call date de emisión y en cada día de pago de intereses a partir de entonces</td>
-            <td>En cualquier momento a partir del quinto año</td>
-            <td>En cualquier momento a partir del 11/12/2000</td>
-            <td>Call date de emisión y en cada día de pago de intereses a partir de entonces</td>
-            <td>Call date de emisión y en cada año a partir de entonces</td>
-            <td>Call date de emisión y en cada año a partir de entonces</td>
-            <td>Call date de emisión y en cada día de pago de intereses a partir de entonces</td>
-            <td>Call date de emisión y en cada día de pago de intereses a partir de entonces</td>
-            <td>Call date de emisión y en cada día de pago de intereses a partir de entonces</td>
-            <td>Call date de emisión y en cada día de pago de intereses a partir de entonces</td>
-        </tr>
-        <tr>
-            <td>Cupones / dividendos</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>0</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>17. Dividendo o cupón fijo o variable</td>
-            <td>De fijo a variable (desde la fecha de call)</td>
-            <td>De fijo a variable (desde la fecha de call)</td>
-            <td>De fijo a variable (desde la fecha de call)</td>
-            <td>De fijo a variable (desde la fecha de call)</td>
-            <td>De fijo a variable (desde la fecha de call)</td>
-            <td>De fijo a variable (desde la fecha de call)</td>
-            <td>De fijo a variable (desde la fecha de call)</td>
-            <td>Variable</td>
-            <td>De fijo a variable (desde la fecha de call)</td>
-            <td>De fijo a variable</td>
-            <td>Variable</td>
-            <td>Fijo</td>
-            <td>Fijo</td>
-            <td>Fijo</td>
-            <td>De fijo al indice lincado</td>
-            <td>De fijo a variable (desde la fecha de call)</td>
-            <td>De fijo a variable (desde la fecha de call)</td>
-            <td>Variable</td>
-            <td>Fijo</td>
-            <td>Fijo</td>
-            <td>De fijo a variable (desde la fecha de call)</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>De fijo a variable (desde la fecha de call)</td>
-            <td>Variable</td>
-        </tr>
-        <tr>
-            <td>18. Tipo de interés del cupón y cualquier índice conexo</td>
-            <td>9.0%; USSW5 + 8.262%</td>
-            <td>7.0%; EUSA5 + 6.155%</td>
-            <td>6.75%; EUSA5 + 6.604%</td>
-            <td>8.875%; EUSA5 +9.177%</td>
-            <td>5,919% (floor); 3M US LIBOR+0.82%</td>
-            <td>7,093%; 3M GBP LIBOR+0,875%</td>
-            <td>4,952%; 3M EURIBOR +0,95% (desde 20/09/16 +1% adicional)</td>
-            <td>3M EURIBOR + 1,95%</td>
-            <td>8%; 10Y CMS +0,10% (cap: 10%)</td>
-            <td>3,798%; 3M EURIBOR + 0,65% (desde 22/09/15 +1% adicional)</td>
-            <td>3M EURIBOR +0,30% hasta el 13/10/2015; después 3M EURIBOR +0,80%</td>
-            <td>3.5%</td>
-            <td>6,11%</td>
-            <td>6,20%</td>
-            <td>4,75% primeros 2 años; después, vincularlo al CPI</td>
-            <td>6,025%; desde el 3/03/28 3M EURIBOR+1,78%</td>
-            <td>4,50%; después del call date: 3M EURIBOR + 80PBS</td>
-            <td>CMS 10YR + 0,03%</td>
-            <td>7,00%</td>
-            <td>2,50%</td>
-            <td>4,70%; 3M EURIBOR + 1,08%</td>
-            <td>3M EURIBOR + 0,58%; 3M EURIBOR + 1,08% desde el call date del emisor</td>
-            <td>3M EURIBOR + 0,50% desde 28/01/15</td>
-            <td>3M EURIBOR + 0,44%</td>
-            <td>7,50% hasta 09/06/11; desde 10/06/11 hasta 09/06/19: 3M EURIBOR +5,25%; dese 10/06/19 hasta 10/06/24: 3M EURIBOR +6%</td>
-            <td>3M EURIBOR + 1,30% hasta 01/03/2027; desde 01/03/2027 3M EURIBOR + 2,80%</td>
-        </tr>
-        <tr>
-            <td>19. Existencia de limitaciones al pago de dividendos</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-        </tr>
-        <tr>
-            <td>20.a. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de calendario)</td>
-            <td>Plenamente discrecional</td>
-            <td>Plenamente discrecional</td>
-            <td>Plenamente discrecional</td>
-            <td>Plenamente discrecional</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-        </tr>
-        <tr>
-            <td>20.b. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de importe)</td>
-            <td>Plenamente discrecional</td>
-            <td>Plenamente discrecional</td>
-            <td>Plenamente discrecional</td>
-            <td>Plenamente discrecional</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-        </tr>
-        <tr>
-            <td>21. Existencia de un incremento del cupón u otros incentivos al reembolso</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>Sí</td>
-        </tr>
-        <tr>
-            <td>22. Acumulativo o no acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-        </tr>
-        <tr>
-            <td>23. Convertible o no convertible</td>
-            <td>Convertible</td>
-            <td>Convertible</td>
-            <td>Convertible</td>
-            <td>Convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-        </tr>
-        <tr>
-            <td>24. Si son convertibles, factor(es) que desencadenen la conversión</td>
-            <td>CET1 5.125%; Individual y Consolidado</td>
-            <td>CET1 5.125%; Individual y Consolidado</td>
-            <td>CET1 5.125%; Individual y Consolidado</td>
-            <td>CET1 5.125%; Individual y Consolidado</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>25. Si son convertibles, total o parcialmente</td>
-            <td>Siempre Totalmente</td>
-            <td>Siempre Totalmente</td>
-            <td>Siempre Totalmente</td>
-            <td>Siempre Totalmente</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>26. Si son convertibles, tipo de conversión aplicable</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>27. Si son convertibles, conversión obligatoria u opcional</td>
-            <td>Obligatoria</td>
-            <td>Obligatoria</td>
-            <td>Obligatoria</td>
-            <td>Obligatoria</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>28. Si son convertibles, especifíquese el tipo de instrumento en que se pueden convertir</td>
-            <td>Capital de Nivel 1 ordinario</td>
-            <td>Capital de Nivel 1 ordinario</td>
-            <td>Capital de Nivel 1 ordinario</td>
-            <td>Capital de Nivel 1 ordinario</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>29. Si son convertibles, especifíquese el emisor del instrumento en que se convierte</td>
-            <td>Banco Bilbao Vizcaya Argentaria SA</td>
-            <td>Banco Bilbao Vizcaya Argentaria SA</td>
-            <td>Banco Bilbao Vizcaya Argentaria SA</td>
-            <td>Banco Bilbao Vizcaya Argentaria SA</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>30. Características de la depreciación</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>31. En caso de depreciación, factor(es) que la desencadenan</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>32. En caso de depreciación, total o parcial</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>33. En caso de depreciación, permanente o temporal</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>34. Si la depreciación es provisional, descripción del mecanismo de apreciación</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>35. Posición en la jerarquía de subordinación en la liquidación (especifíquense el tipo de instrumento de rango inmediatamente superior)</td>
-            <td>Senior a acciones ordinarias y reservas y pari passu con las preferentes</td>
-            <td>Senior a acciones ordinarias y reservas y pari passu con las preferentes</td>
-            <td>Senior a acciones ordinarias y reservas y pari passu con las preferentes</td>
-            <td>Senior a acciones ordinarias y reservas y pari passu con las preferentes</td>
-            <td>Senior a acciones ordinarias y reservas y pari passu con las preferentes</td>
-            <td>Senior a acciones ordinarias y reservas y pari passu con los instrumentos de Nivel 1 Adicional</td>
-            <td>Senior a acciones ordinarias y reservas y pari passu con los instrumentos de Nivel 1 Adicional</td>
-            <td>Senior a acciones ordinarias y reservas y pari passu con los instrumentos de Nivel 1 Adicional</td>
-            <td>Senior a acciones ordinarias y reservas y pari passu con los instrumentos de Nivel 1 Adicional</td>
-            <td>De senior a acciones ordinarias y reservas y pari passu con los instrumentos de Nivel 1 Adicional</td>
-            <td>De senior a preferentes, instrumentos de Nivel 1 Adicional e instrumentos de Nivel 2 Superior (Perpetuo)</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Senior a preferentes, instrumentos de Nivel 1 Adicional e instrumentos de Nivel 2 Superior (Perpetuo)</td>
-            <td>Senior a preferentes, instrumentos de Nivel 1 Adicional e instrumentos de Nivel 2 Superior (Perpetuo)</td>
-            <td>Senior a preferentes, instrumentos de Nivel 1 Adicional e instrumentos de Nivel 2 Superior (Perpetuo)</td>
-            <td>Seniora Preferentes e instrumentos de Capital de Nivel 1 Adicional</td>
-            <td>Senior a preferentes, instrumentos de Nivel 1 Adicional e instrumentos de Nivel 2 Superior (Perpetuo)</td>
-            <td>Senior a preferentes, instrumentos de Nivel 1 Adicional e instrumentos de Nivel 2 Superior (Perpetuo)</td>
-            <td>Senior a preferentes, instrumentos de Nivel 1 Adicional e instrumentos de Nivel 2 Superior (Perpetuo)</td>
-            <td>Senior a preferentes, instrumentos de Nivel 1 Adicional e instrumentos de Nivel 2 Superior (Perpetuo)</td>
-            <td>Senior a preferentes, instrumentos de Nivel 1 Adicional e instrumentos de Nivel 2 Superior (Perpetuo)</td>
-            <td>Senior a preferentes e instrumentos de Nivel 1 Adicional </td>
-        </tr>
-        <tr>
-            <td>36. Características no conformes tras la transición</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>Sí</td>
-        </tr>
-        <tr>
-            <td>37. En caso afirmativo, especifíquense las características no conformes</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>No tiene factor desencadenante ni discrecionalidad en el pago</td>
-            <td>No tiene factor desencadenante ni discrecionalidad en el pago</td>
-            <td>No tiene factor desencadenante ni discrecionalidad en el pago. Incluye step-up</td>
-            <td>No tiene factor desencadenante ni discrecionalidad en el pago</td>
-            <td>No tiene factor desencadenante ni discrecionalidad en el pago</td>
-            <td>No hay desencadenante ni discrecionalidad, step up</td>
-            <td>Existencia de step-up</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>Existencia de step-up</td>
-            <td>Existencia de step-up</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>Existencia de step-up</td>
-            <td>Existencia de step-up</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>Existencia de step-up</td>
-            <td>Existencia de step-up</td>
-        </tr>
-    </tbody>
-</table>
-[Descargar tabla](#)
-
-<table class="l">
-    <thead>
-        <tr class="tableizer-firstrow">
-            <th>Plantilla para la presentación de las principales características de los instrumentos de capital</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>1. Emisor</td>
-            <td>BBVA BANCOMER SA</td>
-            <td>BBVA BANCOMER SA</td>
-            <td>BBVA BANCOMER SA</td>
-            <td>BBVA BANCOMER SA</td>
-            <td>BBVA BANCOMER SA</td>
-            <td>BBVA BANCOMER SA</td>
-        </tr>
-        <tr>
-            <td>2. Identificador único (por ejemplo ISIN</td>
-            <td>US05533UAB44</td>
-            <td>US05533AAA07</td>
-            <td>US05533UAC27</td>
-            <td>US05533UAC27</td>
-            <td>US055295AB54</td>
-            <td>USP16259AL02</td>
-        </tr>
-        <tr>
-            <td>3. Legislación aplicable al instrumento</td>
-            <td>Legislación neoyorquina</td>
-            <td>Legislación neoyorquina</td>
-            <td>Legislación neoyorquina</td>
-            <td>Legislación neoyorquina</td>
-            <td>Legislación neoyorquina</td>
-            <td>Legislación neoyorquina</td>
-        </tr>
-        <tr>
-            <td>Tratamiento normativo</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>4. Normas transitorias de la CRR</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-        </tr>
-        <tr>
-            <td>5. Normas de la CRR posteriores a la transición</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-        </tr>
-        <tr>
-            <td>6. Admisibles a título individual/(sub) consolidado/ individual y (sub)consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-        </tr>
-        <tr>
-            <td>7. Tipo de instrumento (cada país especificará los tipos pertinentes)</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 1</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 1</td>
-            <td>Instrumento de Nivel 2</td>
-        </tr>
-        <tr>
-            <td>8. Importe reconocido en el capital reglamentario (moneda en millones, en la fecha de la última notificación (Mill EUR)</td>
-            <td>710,4</td>
-            <td>426,3</td>
-            <td>710,4</td>
-            <td>355,2</td>
-            <td>355,2</td>
-            <td>142,1</td>
-        </tr>
-        <tr>
-            <td>9. Importe nominal del instrumento en la moneda de emisión</td>
-            <td>1.250,0 Mill USD</td>
-            <td>1.000,0 Mill USD</td>
-            <td>1.000,0 Mill USD</td>
-            <td>500,0 Mill USD</td>
-            <td>500,0 Mill USD</td>
-            <td>200,0 Mill USD</td>
-        </tr>
-        <tr>
-            <td>9.a Precio de emisión</td>
-            <td>98,65%</td>
-            <td>100,00%</td>
-            <td>99,97%</td>
-            <td>109,89%+accrued interest from July 19,2012 to Sep 28,2012</td>
-            <td>100,00%</td>
-            <td>99,79%</td>
-        </tr>
-        <tr>
-            <td>9.b Precio de reembolso</td>
-            <td>100%</td>
-            <td>100%</td>
-            <td>100%</td>
-            <td>100%</td>
-            <td>100%</td>
-            <td>100%</td>
         </tr>
         <tr>
-            <td>10. Clasificación contable</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-        </tr>
-        <tr>
-            <td>11. Fecha de emisión inicial</td>
-            <td>3/10/11</td>
-            <td>4/22/10</td>
-            <td>7/19/12</td>
-            <td>9/28/12</td>
-            <td>5/17/07</td>
-            <td>11/12/14</td>
-        </tr>
-        <tr>
-            <td>12. Perpetuos o con vencimiento establecido</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-        </tr>
-        <tr>
-            <td>13. Fecha de vencimiento inicial</td>
-            <td>3/10/21</td>
-            <td>4/22/20</td>
-            <td>9/30/22</td>
-            <td>9/30/22</td>
-            <td>5/17/22</td>
-            <td>11/12/29</td>
-        </tr>
-        <tr>
-            <td>14. Opción de compra del emisor sujeta a la aprobación previa de las autoridades de supervisión</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>Sí</td>
-        </tr>
-        <tr>
-            <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
-            <td>Solo sujeto tanto al Regulatory call como al Tax call (en su totalidad)</td>
-            <td>Solo sujeto tanto al Regulatory call como al Tax call (en su totalidad)</td>
-            <td>Solo sujeto tanto al Regulatory call como al Tax call (en su totalidad)</td>
-            <td>Solo sujeto tanto al Regulatory call como al Tax call (en su totalidad)</td>
-            <td>17/05/2017 total o parcialmente, también sujueta tanto al Regulatory call como al Tax call (solo en su totalidad)</td>
-            <td>12/11/2024 total o parcialmente. (también sujeto tanto al Regulatory call como al Tax call, solo en amortización completa)</td>
-        </tr>
-        <tr>
-            <td>16. Fechas de ejercicio posteriores, si procede</td>
-            <td>NA</td>
-            <td>NA</td>
-            <td>NA</td>
-            <td>NA</td>
-            <td>En cada fecha de pago de interés desde la primera call</td>
-            <td>No</td>
-        </tr>
-        <tr>
-            <td>Cupones / dividendos</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>17. Dividendo o cupón fijo o variable</td>
-            <td>Fijo</td>
-            <td>Fijo</td>
-            <td>Fijo</td>
-            <td>Fijo</td>
-            <td>Fijo</td>
-            <td>Fijo</td>
-        </tr>
-        <tr>
-            <td>18. Tipo de interés del cupón y cualquier índice conexo</td>
-            <td>6.5%</td>
-            <td>7,25%</td>
-            <td>6,75%</td>
-            <td>6,75%</td>
-            <td>6,01%</td>
-            <td>5,35%</td>
-        </tr>
-        <tr>
-            <td>19. Existencia de limitaciones al pago de dividendos</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-        </tr>
-        <tr>
-            <td>20.a. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de calendario)</td>
-            <td>Parcialmente discrecional</td>
-            <td>Parcialmente discrecional</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Parcialmente discrecional</td>
-            <td>Obligatorio</td>
-        </tr>
-        <tr>
-            <td>20.b. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de importe)</td>
-            <td>Parcialmente discrecional</td>
-            <td>Parcialmente discrecional</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Parcialmente discrecional</td>
-            <td>Obligatorio</td>
-        </tr>
-        <tr>
-            <td>21. Existencia de un incremento del cupón u otros incentivos al reembolso</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-        </tr>
-        <tr>
-            <td>22. Acumulativo o no acumulativo</td>
-            <td>Acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-        </tr>
-        <tr>
-            <td>23. Convertible o no convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-        </tr>
-        <tr>
             <td>24. Si son convertibles, factor(es) que desencadenen la conversión</td>
-            <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
@@ -7379,11 +6689,9 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
-            <td>N/A</td>
         </tr>
         <tr>
             <td>26. Si son convertibles, tipo de conversión aplicable</td>
-            <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
@@ -7397,11 +6705,9 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
-            <td>N/A</td>
         </tr>
         <tr>
             <td>28. Si son convertibles, especifíquese el tipo de instrumento en que se pueden convertir</td>
-            <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
@@ -7415,527 +6721,17 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
-            <td>N/A</td>
         </tr>
         <tr>
             <td>30. Características de la depreciación</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>Sí, si ocurre el evento desencadenante </td>
+            <td>NO</td>
+            <td>NO</td>
+            <td>NO</td>
+            <td>NO</td>
+            <td>NO</td>
         </tr>
         <tr>
             <td>31. En caso de depreciación, factor(es) que la desencadenan</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>(*) Se consideran tres eventos desencadenantes: (i) Que sea determinado que el Capital Fundamental del Emisor es inferior o igual al 4,5%, según los Requerimientos de Capital de México y bajo la determinación de el CNBV; (ii) que el emisor no cumpla con la Ley de Banca de México y el resto de regulaciones o (iii) que el Comité de Estabilidad Bancaria determine que el emisor necesita de ayuda financiera para evitar la revocación de su licencia de emisor por fallar en el cumplimiento de las medidas correctoras.</td>
-        </tr>
-        <tr>
-            <td>32. En caso de depreciación, total o parcial</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>Total o parcialmente</td>
-        </tr>
-        <tr>
-            <td>33. En caso de depreciación, permanente o temporal</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>34. Si la depreciación es provisional, descripción del mecanismo de apreciación</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>35. Posición en la jerarquía de subordinación en la liquidación (especifíquense el tipo de instrumento de rango inmediatamente superior)</td>
-            <td>"Deudas Preferentes y (i) clasificará junior a toda la presente y futura Deuda senior, (ii) clasificará pari passu con todas las otras Deudas Preferentes, y (iii) será senior la Deuda de las no preferentes y todas las clases de capital social"</td>
-            <td>Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y Deuda Preferente, (ii) pari passu entre ellos y con las demás Deudas No Preferentes, y (iii) senior solo ante todas las clases de capital social</td>
-            <td>"Las notas constituyen Deuda Preferente y (i) clasificará junior a todas las deudas senior presentes y futuras, (ii) clasificará pari passu con todas las otras deudas preferentes presentes o futuras sin garantía , y (iii) será senior a la deuda no preferente sin garantías y todas las clases de capital social"</td>
-            <td>"Las notas constituyen Deuda Preferente y (i) clasificará junior a todas las deudas senior presentes y futuras, (ii) clasificará pari passu con todas las otras deudas preferentes presentes o futuras sin garantía , y (iii) será senior a la deuda no preferente sin garantías y todas las clases de capital social"</td>
-            <td>Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y a la Deuda Preferente, (ii) pari passu entre ellos y con las demás Deudas No Preferentes, y (iii) senior solo ante todas las clases de capital social</td>
-            <td>"Las notas constituyen Deuda Preferente, y (i) será subordinada y junior en derecho de pago y liquidació a todas las Deudas senior presentes y futuras, (ii) clasificará pari passu sin preferencia entre ellas y con la deuda preferente presente y futura sin garantía y (iii) será senior a la deuda no preferente y todas las clases de capital social indebtedness and all classes of equity or capital stock."</td>
-        </tr>
-        <tr>
-            <td>36. Características no conformes tras la transición</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-        </tr>
-        <tr>
-            <td>37. En caso afirmativo, especifíquense las características no conformes</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-        </tr>
-    </tbody>
-</table>
-[Descargar tabla](#)
-
-
-<table class="l">
-    <thead>
-        <tr class="tableizer-firstrow">
-            <th>Plantilla para la presentación de las principales características de los instrumentos de capital</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>1. Emisor</td>
-            <td>Compass Bank</td>
-            <td>Compass Bank</td>
-            <td>Compass Bank</td>
-            <td>Compass Bank</td>
-            <td>Phoenix Loan Holdings REIT Pfd (Class B)</td>
-            <td>TexasBanc Capital Trust I</td>
-            <td>Texas Regional Statutory Trust I</td>
-            <td>State National Capital Trust I</td>
-            <td>State National Statutory Trust II</td>
-        </tr>
-        <tr>
-            <td>2. Identificador único (por ejemplo ISIN</td>
-            <td>20449EBT2</td>
-            <td>20449EEE2</td>
-            <td>20449EXN1</td>
-            <td>US20453KAA34</td>
-            <td>71909W201</td>
-            <td>NA</td>
-            <td>EI4269227</td>
-            <td>EI4279275</td>
-            <td>EI4274359</td>
-        </tr>
-        <tr>
-            <td>3. Legislación aplicable al instrumento</td>
-            <td>Legislación neoyorquina</td>
-            <td>Legislación neoyorquina</td>
-            <td>Legislación neoyorquina</td>
-            <td>Legislación neoyorquina</td>
-            <td>Legislación neoyorquina</td>
-            <td>Legislación neoyorquina</td>
-            <td>Legislación neoyorquina</td>
-            <td>Legislación neoyorquina</td>
-            <td>Legislación neoyorquina</td>
-        </tr>
-        <tr>
-            <td>Tratamiento normativo</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>4. Normas transitorias de la CRR</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-        </tr>
-        <tr>
-            <td>5. Normas de la CRR posteriores a la transición</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-        </tr>
-        <tr>
-            <td>6. Admisibles a título individual/(sub) consolidado/ individual y (sub)consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-        </tr>
-        <tr>
-            <td>7. Tipo de instrumento (cada país especificará los tipos pertinentes)</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Nivel 1 (phase out hasta 2018)</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-        </tr>
-        <tr>
-            <td>8. Importe reconocido en el capital reglamentario (moneda en millones, en la fecha de la última notificación (Mill EUR)</td>
-            <td>128,8</td>
-            <td>67,0</td>
-            <td>0</td>
-            <td>660,2</td>
-            <td>19,8</td>
-            <td>&nbsp;</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>9. Importe nominal del instrumento en la moneda de emisión</td>
-            <td>300 Mill USD</td>
-            <td>275 Mill USD</td>
-            <td>350,0 Mill USD</td>
-            <td>700,0 Mill USD</td>
-            <td>21 Mill USD </td>
-            <td>25 Mill USD </td>
-            <td>50 Mill USD </td>
-            <td>15 Mill USD </td>
-            <td>10 Mill USD </td>
-        </tr>
-        <tr>
-            <td>9.a Precio de emisión</td>
-            <td>99,82%</td>
-            <td>99,67%</td>
-            <td>99,94%</td>
-            <td>99,02%</td>
-            <td>125,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-        </tr>
-        <tr>
-            <td>9.b Precio de reembolso</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>El precio de reembolso es igual al 100% del importe principal de las notas a ser reembolsadas, más el interés devengado en las notas a la fecha de reembolso</td>
-            <td>100% del principal reembolsado</td>
-            <td>100% del principal reembolsado</td>
-            <td>100% del principal reembolsado</td>
-            <td>100% del principal reembolsado</td>
-            <td>100% del principal reembolsado</td>
-        </tr>
-        <tr>
-            <td>10. Clasificación contable</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-        </tr>
-        <tr>
-            <td>11. Fecha de emisión inicial</td>
-            <td>3/21/05</td>
-            <td>3/16/06</td>
-            <td>9/19/07</td>
-            <td>4/10/15</td>
-            <td>11/28/00</td>
-            <td>7/23/04</td>
-            <td>2/24/04</td>
-            <td>7/14/03</td>
-            <td>3/17/04</td>
-        </tr>
-        <tr>
-            <td>12. Perpetuos o con vencimiento establecido</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Perpetuo</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-        </tr>
-        <tr>
-            <td>13. Fecha de vencimiento inicial</td>
-            <td>4/1/20</td>
-            <td>4/1/26</td>
-            <td>10/1/17</td>
-            <td>4/10/25</td>
-            <td>Sin Vencimiento</td>
-            <td>7/23/34</td>
-            <td>3/17/34</td>
-            <td>9/30/33</td>
-            <td>3/17/34</td>
-        </tr>
-        <tr>
-            <td>14. Opción de compra del emisor sujeta a la aprobación previa de las autoridades de supervisión</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-        </tr>
-        <tr>
-            <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>No</td>
-            <td>3/10/25</td>
-            <td>6/15/21</td>
-            <td>7/23/09</td>
-            <td>3/17/09</td>
-            <td>9/30/08</td>
-            <td>3/17/09</td>
-        </tr>
-        <tr>
-            <td>16. Fechas de ejercicio posteriores, si procede</td>
-            <td>No</td>
-            <td>No</td>
-            <td>N/A</td>
-            <td>No</td>
-            <td>En cualquier momento desde la primera call</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>En cualquier momento desde la primera call</td>
-            <td>En cualquier momento desde la primera call</td>
-        </tr>
-        <tr>
-            <td>Cupones / dividendos</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>17. Dividendo o cupón fijo o variable</td>
-            <td>Fijo</td>
-            <td>Fijo</td>
-            <td>Fijo</td>
-            <td>Fijo</td>
-            <td>Fijo</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Variable</td>
-        </tr>
-        <tr>
-            <td>18. Tipo de interés del cupón y cualquier índice conexo</td>
-            <td>5,50%</td>
-            <td>5,90%</td>
-            <td>6,40%</td>
-            <td>3,88%</td>
-            <td>9,88%</td>
-            <td>3mL+260pbs</td>
-            <td>3mL+285pbs</td>
-            <td>3mL+305pbs</td>
-            <td>3mL+279pbs</td>
-        </tr>
-        <tr>
-            <td>19. Existencia de limitaciones al pago de dividendos</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-        </tr>
-        <tr>
-            <td>20.a. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de calendario)</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Discrecional</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-        </tr>
-        <tr>
-            <td>20.b. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de importe)</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Discrecional</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-        </tr>
-        <tr>
-            <td>21. Existencia de un incremento del cupón u otros incentivos al reembolso</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-        </tr>
-        <tr>
-            <td>22. Acumulativo o no acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>No acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-            <td>Acumulativo</td>
-        </tr>
-        <tr>
-            <td>23. Convertible o no convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-        </tr>
-        <tr>
-            <td>24. Si son convertibles, factor(es) que desencadenen la conversión</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>25. Si son convertibles, total o parcialmente</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>26. Si son convertibles, tipo de conversión aplicable</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>27. Si son convertibles, conversión obligatoria u opcional</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>28. Si son convertibles, especifíquese el tipo de instrumento en que se pueden convertir</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>29. Si son convertibles, especifíquese el emisor del instrumento en que se convierte</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>30. Características de la depreciación</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-        </tr>
-        <tr>
-            <td>31. En caso de depreciación, factor(es) que la desencadenan</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
@@ -7949,17 +6745,9 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
         </tr>
         <tr>
             <td>33. En caso de depreciación, permanente o temporal</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
@@ -7973,114 +6761,44 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
         </tr>
         <tr>
             <td>35. Posición en la jerarquía de subordinación en la liquidación (especifíquense el tipo de instrumento de rango inmediatamente superior)</td>
-            <td>Acreedores senior</td>
-            <td>Acreedores senior</td>
-            <td>Acreedores senior</td>
-            <td>Acreedores senior</td>
-            <td>Acreedores senior</td>
-            <td>Acreedores senior</td>
-            <td>Acreedores senior</td>
-            <td>Acreedores senior</td>
-            <td>Acreedores senior</td>
+            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
+            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
+            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
+            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
+            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
         </tr>
         <tr>
             <td>36. Características no conformes tras la transición</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
         </tr>
         <tr>
             <td>37. En caso afirmativo, especifíquense las características no conformes</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+
 
 <table class="l">
     <thead>
         <tr class="tableizer-firstrow">
-            <th>Plantilla para la presentación de las principales características de los instrumentos de capital</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
+            <th colspan="5">Plantilla para la presentación de las principales características de los instrumentos de capital</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>1. Emisor</td>
-            <td>Bono Subordinado BBVA Chile</td>
-            <td>Bono Subordinado BBVA Chile</td>
-            <td>Bono Subordinado BBVA Chile</td>
-            <td>Bono Subordinado BBVA Chile</td>
-            <td>Bono Subordinado BBVA Chile</td>
-            <td>BBVA Colombia SA</td>
-            <td>BBVA Colombia SA</td>
-            <td>BBVA Colombia SA</td>
-            <td>BBVA Colombia SA</td>
-            <td>BBVA Colombia SA</td>
-            <td>BBVA Colombia SA</td>
-            <td>BBVA Colombia SA</td>
-            <td>BBVA Colombia SA</td>
-            <td>BBVA Continental</td>
-            <td>BBVA Continental</td>
-            <td>BBVA Continental</td>
-            <td>BBVA Continental</td>
-            <td>BBVA Continental</td>
-            <td>BBVA Continental</td>
-            <td>BBVA Continental</td>
-            <td>BBVA Continental</td>
-            <td>BBVA Continental</td>
-            <td>BBVA Continental</td>
-            <td>BBVA Continental</td>
-            <td>BBVA Continental</td>
             <td>BBVA Continental</td>
             <td>Banco Bilbao Vizcaya Argentaria Paraguay S.A.</td>
             <td>BBVA URUGUAY SA</td>
@@ -8088,31 +6806,6 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
         <tr>
             <td>2. Identificador único (por ejemplo ISIN</td>
-            <td>UBBV-A1203</td>
-            <td>UBHIB70397</td>
-            <td>UBHIB80397</td>
-            <td>UBBV-G0506</td>
-            <td>UBBVH90607</td>
-            <td>BBVAIP190918</td>
-            <td>BBVAIP190921</td>
-            <td>BBVAIP190926</td>
-            <td>BBVAIP190223</td>
-            <td>BBVAIP190228</td>
-            <td>EK6295332</td>
-            <td>COB13CBB0088</td>
-            <td>USP1024TAN92</td>
-            <td>BID Subordinado</td>
-            <td>PEP11600D011</td>
-            <td>PEP11600D029</td>
-            <td>PEP11600D037</td>
-            <td>PEP11600D045</td>
-            <td>PEP11600D052</td>
-            <td>PEP11600D060</td>
-            <td>PEP11600D078</td>
-            <td>PEP11600D086</td>
-            <td>PEP11600D094</td>
-            <td>Credit Suisse TIER 1</td>
-            <td>PEP11600D102</td>
             <td>US05537GAD79-USP16236AG98</td>
             <td>PYBBV01F3798</td>
             <td>N/A</td>
@@ -8120,63 +6813,13 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
         <tr>
             <td>3. Legislación aplicable al instrumento</td>
-            <td>Legislación chilena</td>
-            <td>Legislación chilena</td>
-            <td>Legislación chilena</td>
-            <td>Legislación chilena</td>
-            <td>Legislación chilena</td>
-            <td>Legislación colombiana</td>
-            <td>Legislación colombiana</td>
-            <td>Legislación colombiana</td>
-            <td>Legislación colombiana</td>
-            <td>Legislación colombiana</td>
-            <td>Legislación colombiana</td>
-            <td>Legislación colombiana</td>
-            <td>Legislación colombiana</td>
-            <td>Legislación neoyorquina</td>
-            <td>Legislación peruana</td>
-            <td>Legislación peruana</td>
-            <td>Legislación peruana</td>
-            <td>Legislación peruana</td>
-            <td>Legislación peruana</td>
-            <td>Legislación peruana</td>
-            <td>Legislación peruana</td>
-            <td>Legislación peruana</td>
-            <td>Legislación peruana</td>
-            <td>Legislación neoyorquina</td>
-            <td>Legislación peruana</td>
             <td>Legislación neoyorquina</td>
             <td>Legislación paraguaya</td>
             <td>Legislación uruguaya</td>
             <td>Legislación paraguaya</td>
         </tr>
         <tr>
-            <td>Tratamiento normativo</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td>*Tratamiento normativo*</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -8188,59 +6831,9 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>Capital de Nivel 2</td>
             <td>Capital de Nivel 2</td>
             <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>No admisible</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>No admisible</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
         </tr>
         <tr>
             <td>5. Normas de la CRR posteriores a la transición</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>No admisible</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>No admisible</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
-            <td>Capital de Nivel 2</td>
             <td>Capital de Nivel 2</td>
             <td>Capital de Nivel 2</td>
             <td>Capital de Nivel 2</td>
@@ -8252,31 +6845,6 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>Individual y consolidado</td>
             <td>Individual y consolidado</td>
             <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
-            <td>Individual y consolidado</td>
         </tr>
         <tr>
             <td>7. Tipo de instrumento (cada país especificará los tipos pertinentes)</td>
@@ -8284,59 +6852,9 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>Instrumento de Nivel 2</td>
             <td>Instrumento de Nivel 2</td>
             <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 1</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
-            <td>Instrumento de Nivel 2</td>
         </tr>
         <tr>
             <td>8. Importe reconocido en el capital reglamentario (moneda en millones, en la fecha de la última notificación (Mill EUR)</td>
-            <td>190,7</td>
-            <td>0,7</td>
-            <td>0,7</td>
-            <td>108,1</td>
-            <td>254,2</td>
-            <td>6,3</td>
-            <td>26,1</td>
-            <td>47,9</td>
-            <td>61,5</td>
-            <td>50,7</td>
-            <td>49,2</td>
-            <td>27,7</td>
-            <td>369,1</td>
-            <td>-</td>
-            <td>11,3</td>
-            <td>19,0</td>
-            <td>15,6</td>
-            <td>-</td>
-            <td>14,2</td>
-            <td>19,0</td>
-            <td>12,7</td>
-            <td>14,2</td>
-            <td>8,5</td>
-            <td>189,7</td>
-            <td>42,7</td>
             <td>284,6</td>
             <td>-</td>
             <td>-</td>
@@ -8344,31 +6862,6 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
         <tr>
             <td>9. Importe nominal del instrumento en la moneda de emisión</td>
-            <td>6 Mill UF</td>
-            <td>0,5 Mill UF</td>
-            <td>0,5 Mill UF</td>
-            <td>3,4 Mill UF</td>
-            <td>8 Mill UF</td>
-            <td>102.000 Mill COP</td>
-            <td>106.000 Mill COP</td>
-            <td>156.000 Mill COP</td>
-            <td>200.000 Mill COP</td>
-            <td>165.000 Mill COP</td>
-            <td>160.000 Mill COP</td>
-            <td>90.000 Mill COP</td>
-            <td>400 Mill USD</td>
-            <td>30 Mill USD </td>
-            <td>40 Mill PEN </td>
-            <td>20 Mill USD </td>
-            <td>55 Mill PEN</td>
-            <td>20 Mill USD</td>
-            <td>50 Mill PEN</td>
-            <td>20 Mill USD </td>
-            <td>45 Mill PEN</td>
-            <td>50 Mill PEN</td>
-            <td>30 Mill PEN</td>
-            <td>200 Mill USD</td>
-            <td>45 Mill USD</td>
             <td>300 Mill USD</td>
             <td>20 Mill USD</td>
             <td>15 Mill USD</td>
@@ -8376,31 +6869,6 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
         <tr>
             <td>9.a Precio de emisión</td>
-            <td>103,61%</td>
-            <td>99,52%</td>
-            <td>99,47%</td>
-            <td>109,51%</td>
-            <td>93,02%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>99,91%</td>
-            <td>100,00%</td>
-            <td>99,25%</td>
-            <td>99,38%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
-            <td>100,00%</td>
             <td>99,32%</td>
             <td>100,00%</td>
             <td>100,00%</td>
@@ -8408,31 +6876,6 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
         <tr>
             <td>9.b Precio de reembolso</td>
-            <td>100%</td>
-            <td>100%</td>
-            <td>100%</td>
-            <td>100%</td>
-            <td>100%</td>
-            <td>Bullet Bonds; 100%</td>
-            <td>Bullet Bonds; 100%</td>
-            <td>Bullet Bonds; 100%</td>
-            <td>Bullet Bonds; 100%</td>
-            <td>Bullet Bonds; 100%</td>
-            <td>Bullet Bonds; 100%</td>
-            <td>Bullet Bonds; 100%</td>
-            <td>1</td>
-            <td>Con la autorización previa de Autoridad Regulatoria Bancaria Peruana y de acuerdo con las LeSí aplicables de Perú, con tarifa de prepago en cada caso en una cantidad igual al uno y medio por ciento (1.5%) de cualquiera y todas de las cantidades prepagadas del préstamos;</td>
-            <td>Hay opción de amortización con una prima del 0%.</td>
-            <td>Hay opción de amortización con una prima del 0%.</td>
-            <td>Sin opción de amortización</td>
-            <td>Hay opción de amortización con una prima del 0%.</td>
-            <td>Sin opción de amortización</td>
-            <td>Sin opción de amortización</td>
-            <td>Sin opción de amortización</td>
-            <td>Sin opción de amortización</td>
-            <td>Sin opción de amortización</td>
-            <td>Hay opción de amortización con una prima del 0%.</td>
-            <td>Hay opción de amortización con una prima del 0%.</td>
             <td>BBVA puede, previa aprobación del SBS, amortizar las notas, en su totalidad o en parte, en la fecha de revisión, a un precio de amortización igual al 100% del nominal de las notas que son amortizadas más los intereses devengados y no pagados sobre el nominal de las notas.</td>
             <td>100,00%</td>
             <td>100,00%</td>
@@ -8444,63 +6887,13 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>Obligación - coste amortizado</td>
             <td>Obligación - coste amortizado</td>
             <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
-            <td>Obligación - coste amortizado</td>
         </tr>
         <tr>
             <td>11. Fecha de emisión inicial</td>
-            <td>4/1/04</td>
-            <td>3/1/97</td>
-            <td>3/1/97</td>
-            <td>10/19/06</td>
-            <td>6/1/07</td>
-            <td>9/19/11</td>
-            <td>9/19/11</td>
-            <td>9/19/11</td>
-            <td>2/19/13</td>
-            <td>2/19/13</td>
-            <td>11/26/14</td>
-            <td>11/26/14</td>
-            <td>4/21/15</td>
-            <td>12/22/06</td>
-            <td>5/7/07</td>
-            <td>5/14/07</td>
-            <td>6/18/07</td>
-            <td>9/24/07</td>
-            <td>11/19/07</td>
-            <td>2/28/08</td>
-            <td>7/8/08</td>
-            <td>9/9/08</td>
-            <td>12/15/08</td>
-            <td>10/7/10</td>
-            <td>10/2/13</td>
-            <td>9/22/14</td>
-            <td>11/19/14</td>
-            <td>12/19/14</td>
-            <td>11/24/15</td>
+            <td>22/09/2014</td>
+            <td>19/11/2014</td>
+            <td>19/12/2014</td>
+            <td>24/11/2015</td>
         </tr>
         <tr>
             <td>12. Perpetuos o con vencimiento establecido</td>
@@ -8508,187 +6901,37 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>Vencimiento determinado</td>
             <td>Vencimiento determinado</td>
             <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
-            <td>Vencimiento determinado</td>
         </tr>
         <tr>
             <td>13. Fecha de vencimiento inicial</td>
-            <td>12/1/27</td>
-            <td>3/1/18</td>
-            <td>3/1/18</td>
-            <td>5/1/31</td>
-            <td>6/1/32</td>
-            <td>9/19/18</td>
-            <td>9/19/21</td>
-            <td>9/19/26</td>
-            <td>2/19/23</td>
-            <td>2/19/28</td>
-            <td>11/26/34</td>
-            <td>11/26/29</td>
-            <td>4/21/25</td>
-            <td>2/15/17</td>
-            <td>5/7/22</td>
-            <td>5/14/27</td>
-            <td>6/18/32</td>
-            <td>9/24/17</td>
-            <td>11/19/32</td>
-            <td>2/28/28</td>
-            <td>7/8/23</td>
-            <td>9/9/23</td>
-            <td>12/15/33</td>
-            <td>10/7/40</td>
-            <td>10/2/28</td>
-            <td>9/22/29</td>
-            <td>11/5/21</td>
-            <td>12/19/24</td>
-            <td>11/18/22</td>
+            <td>22/09/2029</td>
+            <td>05/11/2021</td>
+            <td>19/12/2024</td>
+            <td>18/11/2022</td>
         </tr>
         <tr>
             <td>14. Opción de compra del emisor sujeta a la aprobación previa de las autoridades de supervisión</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>Sí</td>
             <td>Sí</td>
             <td>N/A</td>
-            <td>YES</td>
+            <td>Sí</td>
             <td>N/A</td>
         </tr>
         <tr>
             <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
-            <td>NA</td>
-            <td>NA</td>
-            <td>NA</td>
-            <td>NA</td>
-            <td>NA</td>
+            <td>*Call date* del emisor: 22/09/2024, también sujeto al *Regulatory call*</td>
             <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>21/04/2020; Tax call</td>
-            <td>Call date del emisor: 15/02/2012, también sujeto al Regulatory call</td>
-            <td>Call date del emisor: 07/05/2017, también sujeto al Regulatory call</td>
-            <td>Call date del emisor: 14/05/2022, también sujeto al Regulatory call</td>
-            <td>Sujeto al Regulatory call.</td>
-            <td>Call date del emisor: 24/09/2012, también sujeto al Regulatory call</td>
-            <td>Sujeto al Regulatory call.</td>
-            <td>Sujeto al Regulatory call.</td>
-            <td>Sujeto al Regulatory call.</td>
-            <td>Sujeto al Regulatory call.</td>
-            <td>Sujeto al Regulatory call.</td>
-            <td>Call date del emisor: 07/10/2020, también sujeto al Regulatory call</td>
-            <td>Call date del emisor: 02/10/2023, también sujeto al Regulatory call</td>
-            <td>Call date del emisor: 22/09/2024, también sujeto al Regulatory call</td>
-            <td>N/A</td>
-            <td>At issuer's discretion after 5 years from issue date, minimum USD 1MM</td>
+            <td>A discreción del emisor tras 5 años desde la fecha de emisión, mínimo de 1MM USD</td>
             <td>N/A</td>
         </tr>
         <tr>
             <td>16. Fechas de ejercicio posteriores, si procede</td>
             <td>N/A</td>
             <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>El tax call se puede ejercer en cualquier momento despues de 21/04/2020</td>
-            <td>En cualquier momento a partir del call date</td>
-            <td>En cualquier momento a partir del call date</td>
-            <td>En cualquier momento a partir del call date</td>
-            <td>N/A</td>
-            <td>En cualquier momento a partir del call date</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>En cualquier momento a partir del call date</td>
-            <td>En cualquier momento a partir del call date</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>At issuer's discretion after 5 years from issue date, minimum USD 1MM</td>
+            <td>A discreción del emisor tras 5 años desde la fecha de emisión, mínimo de 1MM USD</td>
             <td>N/A</td>
         </tr>
         <tr>
-            <td>Cupones / dividendos</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td>*Cupones / dividendos*</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -8698,61 +6941,11 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>17. Dividendo o cupón fijo o variable</td>
             <td>Fijo</td>
             <td>Fijo</td>
-            <td>Fijo</td>
-            <td>Fijo</td>
-            <td>Fijo</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Fijo</td>
-            <td>Variable</td>
-            <td>Fijo</td>
-            <td>Fijo</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Fijo</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>Variable</td>
-            <td>De fijo a variable</td>
-            <td>Fijo</td>
-            <td>Fijo</td>
-            <td>Fijo</td>
             <td>Variable</td>
             <td>Fijo</td>
         </tr>
         <tr>
             <td>18. Tipo de interés del cupón y cualquier índice conexo</td>
-            <td>6,00%</td>
-            <td>6,50%</td>
-            <td>6,50%</td>
-            <td>5,00%</td>
-            <td>3,50%</td>
-            <td>IPC + 4.28%</td>
-            <td>IPC + 4.45%</td>
-            <td>IPC + 4.70%</td>
-            <td>IPC + 3.60%</td>
-            <td>IPC + 3.89%</td>
-            <td>IPC + 4.38%</td>
-            <td>IPC + 4.50%</td>
-            <td>4,88%</td>
-            <td>LIBOR6M + 1,25% (incremento de 1,25% adicionales desde la fecha de la call)</td>
-            <td>5.85% (hasta el 20º cupón ) - (incremento del 0.5% anual desde el vigesimoprimer cupón - call date)</td>
-            <td>6% (hasta el 30° cupon) - (incremento del 0.5% anual desde el trigesimoprimer cupón - call date)</td>
-            <td>VAC(semestre)/VAC(inicial)*3.4688%</td>
-            <td>LIBOR(6M)+2.15625% (hasta el 10° cupón) - (incremento del 1% desde el decimoprimer cupón - call date)</td>
-            <td>VAC(semestre)/VAC(inicial)*3.5625%</td>
-            <td>6,47%</td>
-            <td>VAC(semestre)/VAC(inicial)*3.0625%</td>
-            <td>VAC(semestre)/VAC(inicial)*3.0938%</td>
-            <td>VAC(semestre)/VAC(inicial)*4.1875%</td>
-            <td>7.375% (diez años), L3M + 6.802% (diez años siguientes)</td>
-            <td>6,53%</td>
             <td>5,25%</td>
             <td>6.75%</td>
             <td>LIBOR 90d + 4,35%</td>
@@ -8764,59 +6957,9 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>No</td>
             <td>No</td>
             <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>N/A</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
         </tr>
         <tr>
             <td>20.a. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de calendario)</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
             <td>N/A</td>
             <td>Obligatorio</td>
             <td>Obligatorio</td>
@@ -8824,31 +6967,6 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
         <tr>
             <td>20.b. Plenamente discrecional, parcialmente discrecional u obligatorio (en términos de importe)</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>Obligatorio</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
             <td>N/A</td>
             <td>Obligatorio</td>
             <td>Obligatorio</td>
@@ -8860,31 +6978,6 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>No</td>
             <td>No</td>
             <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>No</td>
-            <td>Sí</td>
-            <td>No</td>
-            <td>No</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
         </tr>
         <tr>
             <td>22. Acumulativo o no acumulativo</td>
@@ -8892,59 +6985,9 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>NA</td>
             <td>NA</td>
             <td>NA</td>
-            <td>NA</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>No acumulativo</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>No acumulativo</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
         </tr>
         <tr>
             <td>23. Convertible o no convertible</td>
-            <td>Convertible</td>
-            <td>Convertible</td>
-            <td>Convertible</td>
-            <td>Convertible</td>
-            <td>Convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>No convertible</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
             <td>N/A</td>
             <td>Convertible</td>
             <td>No convertible</td>
@@ -8952,65 +6995,13 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
         <tr>
             <td>24. Si son convertibles, factor(es) que desencadenen la conversión</td>
-            <td>Patrimonio efectivo 8%</td>
-            <td>Patrimonio efectivo 8%</td>
-            <td>Patrimonio efectivo 8%</td>
-            <td>Patrimonio efectivo 8%</td>
-            <td>Patrimonio efectivo 8%</td>
             <td>N/A</td>
+            <td>TIER 1 <8% o TIER 2 <12% or Accumulated losses > Paid-in Capital</td>
             <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td> TIER 1
-                <8% o TIER 2 <12% or Accumulated losses> Paid-in Capital</td>
-            <td>N/A</td>
-            <td> TIER 1
-                <8% o TIER 2 <12% or Accumulated losses> Paid-in Capital</td>
+            <td>TIER 1 <8% o TIER 2 <12% or Accumulated losses > Paid-in Capital</td>
         </tr>
         <tr>
             <td>25. Si son convertibles, total o parcialmente</td>
-            <td>Siempre Totalmente</td>
-            <td>Siempre Totalmente</td>
-            <td>Siempre Totalmente</td>
-            <td>Siempre Totalmente</td>
-            <td>Siempre Totalmente</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
             <td>N/A</td>
             <td>Parcialmente</td>
             <td>N/A</td>
@@ -9018,31 +7009,6 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
         <tr>
             <td>26. Si son convertibles, tipo de conversión aplicable</td>
-            <td>1 to 1</td>
-            <td>1 to 1</td>
-            <td>1 to 1</td>
-            <td>1 to 1</td>
-            <td>1 to 1</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
             <td>N/A</td>
             <td>100%</td>
             <td>N/A</td>
@@ -9050,31 +7016,6 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
         <tr>
             <td>27. Si son convertibles, conversión obligatoria u opcional</td>
-            <td>Obligatoria</td>
-            <td>Obligatoria</td>
-            <td>Obligatoria</td>
-            <td>Obligatoria</td>
-            <td>Obligatoria</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
             <td>N/A</td>
             <td>Obligatorio</td>
             <td>N/A</td>
@@ -9082,31 +7023,6 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
         <tr>
             <td>28. Si son convertibles, especifíquese el tipo de instrumento en que se pueden convertir</td>
-            <td>Capital de Nivel 1 ordinario</td>
-            <td>Capital de Nivel 1 ordinario</td>
-            <td>Capital de Nivel 1 ordinario</td>
-            <td>Capital de Nivel 1 ordinario</td>
-            <td>Capital de Nivel 1 ordinario</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
             <td>N/A</td>
             <td>Capital de Nivel 1 ordinario</td>
             <td>N/A</td>
@@ -9114,31 +7030,6 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
         <tr>
             <td>29. Si son convertibles, especifíquese el emisor del instrumento en que se convierte</td>
-            <td>BBVA Chile</td>
-            <td>BBVA Chile</td>
-            <td>BBVA Chile</td>
-            <td>BBVA Chile</td>
-            <td>BBVA Chile</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
             <td>N/A</td>
             <td>Banco Bilbao Vizcaya Argentaria Paraguay S.A.</td>
             <td>N/A</td>
@@ -9146,31 +7037,6 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
         <tr>
             <td>30. Características de la depreciación</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>NO</td>
             <td>NO</td>
             <td>N/A</td>
             <td>N/A</td>
@@ -9182,59 +7048,9 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
         </tr>
         <tr>
             <td>32. En caso de depreciación, total o parcial</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
@@ -9246,31 +7062,6 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
         </tr>
         <tr>
             <td>34. Si la depreciación es provisional, descripción del mecanismo de apreciación</td>
@@ -9278,59 +7069,9 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
         </tr>
         <tr>
             <td>35. Posición en la jerarquía de subordinación en la liquidación (especifíquense el tipo de instrumento de rango inmediatamente superior)</td>
-            <td>Bonos senior</td>
-            <td>Bonos senior</td>
-            <td>Bonos senior</td>
-            <td>Bonos senior</td>
-            <td>Bonos senior</td>
-            <td>Pasivos subordinados distintos de los valores de paridad de rango inmediatamente superior</td>
-            <td>Pasivos subordinados distintos de los valores de paridad de rango inmediatamente superior</td>
-            <td>Pasivos subordinados distintos de los valores de paridad de rango inmediatamente superior</td>
-            <td>Pasivos subordinados distintos de los valores de paridad de rango inmediatamente superior</td>
-            <td>Pasivos subordinados distintos de los valores de paridad de rango inmediatamente superior</td>
-            <td>Pasivos subordinados distintos de los valores de paridad de rango inmediatamente superior</td>
-            <td>Pasivos subordinados distintos de los valores de paridad de rango inmediatamente superior</td>
-            <td>Pasivos subordinados distintos de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
-            <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
             <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
             <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
             <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
@@ -9338,96 +7079,49 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
         <tr>
             <td>36. Características no conformes tras la transición</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
-            <td>Sí</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
+            <td>No</td>
         </tr>
         <tr>
             <td>37. En caso afirmativo, especifíquense las características no conformes</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
-            <td>Emisión subsidiaria no sujeta a UE CRD-IV</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+
+
+<ul class="cita"><li>(4) Se corresponde con la clasificación del instrumento desde una visión regulatoria o *phased-in* a 31 de diciembre de 2016.</li>
+
+<li>(5) Se corresponde con la clasificación del instrumento desde una visión *Fully loaded* a 31 de diciembre de 2016.</li></ul>
 
 ## Anexo VII: Plantilla de información sobre el ratio de apalancamiento
 
 <table class="l">
     <thead>
        <tr class="m">
+            <th>Millones de euros</th>
             <th></th>
-            <th colspan="4">Millones de euros</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
         </tr>
         <tr class="tableizer-firstrow">
             <th colspan="2">Tabla de divulgación del ratio de apalancamiento</th>
-            <th>12/31/16 Phase-in</th>
-            <th>12/31/16 Fully-loaded</th>
-            <th>12/31/15 Phase-in</th>
-            <th>12/31/15 Fully-loaded</th>
+            <th>31/12/2016 Phase-in</th>
+            <th>31/12/2016 Fully-loaded</th>
+            <th>31/12/2015 Phase-in</th>
+            <th>31/12/2015 Fully-loaded</th>
         </tr>
     </thead>
     <tbody>
         <tr class="b2">
-            <td>Exposición dentro de balance (excluyendo derivados y operaciones de financiación de valores</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td colspan="6">Exposición dentro de balance (excluyendo derivados y operaciones de financiación de valores)</td>
         </tr>
         <tr>
             <td>1</td>
@@ -9454,16 +7148,11 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>657.120</td>
         </tr>
         <tr class="b">
-            <td>Exposiciones de derivados</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td colspan="6">Exposiciones de derivados</td>
         </tr>
         <tr>
             <td>4</td>
-            <td>Coste de reemplazamiento asociado a todas las transacciones de derivados (por ejemplo el neto del margen de la variación del efectivo elegible)</td>
+            <td>Coste de reemplazamiento asociado a *todas* las transacciones de derivados (por ejemplo el neto del margen de la variación del efectivo elegible)</td>
             <td>13.487</td>
             <td>13.487</td>
             <td>11.030</td>
@@ -9471,7 +7160,7 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
         <tr>
             <td>5</td>
-            <td>Cantidades añadidas para PFE asociadas a todas las transacciones de derivados (contabilidad a valor razonable)</td>
+            <td>Cantidades añadidas para PFE asociadas a *todas* las transacciones de derivados (contabilidad a valor razonable)</td>
             <td>15.629</td>
             <td>15.629</td>
             <td>14.523</td>
@@ -9534,12 +7223,7 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>23.619</td>
         </tr>
         <tr class="b">
-            <td>Exposiciones de operaciones de financiación de valores (SFTs)</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td colspan="6">Exposiciones de operaciones de financiación de valores (SFTs)</td>
         </tr>
         <tr>
             <td>12</td>
@@ -9598,11 +7282,7 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>16.654</td>
         </tr>
         <tr class="b">
-            <td>Otras exposiciones fuera de balance</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td colspan="6">Otras exposiciones fuera de balance</td>
         </tr>
         <tr>
             <td>17</td>
@@ -9629,11 +7309,7 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>68.609</td>
         </tr>
         <tr class="b">
-            <td>Exposiciones exentas de acuerdo al Artículo 429 (7) y (14) del CRR (de y fuera de balance)</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td colspan="6">Exposiciones exentas de acuerdo al Artículo 429 (7) y (14) del CRR (de y fuera de balance)</td>
         </tr>
         <tr>
             <td>EU-19a</td>
@@ -9652,12 +7328,7 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>-</td>
         </tr>
         <tr class="b">
-            <td>Exposiciones totales y de capital</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td colspan="6">Exposiciones totales y de capital</td>
         </tr>
         <tr>
             <td>20</td>
@@ -9676,11 +7347,7 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>766.001</td>
         </tr>
         <tr class="b">
-            <td>Ratio de apalancamiento</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td colspan="6">Ratio de apalancamiento</td>
         </tr>
         <tr class="b2">
             <td>22</td>
@@ -9691,12 +7358,7 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>5,98%</td>
         </tr>
         <tr>
-            <td>Opción sobre disposiciones transitorias y cantidad de elementos fiduciarios dados de baja</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td colspan="6">Opción sobre disposiciones transitorias y cantidad de elementos fiduciarios dados de baja</td>
         </tr>
         <tr>
             <td>EU-23</td>
@@ -9716,23 +7378,16 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+
 
 <table class="l">
     <thead>
         <tr class="tableizer-firstrow">
-            <th colspan="2"></th>
-            <th colspan="1">12/31/16</th>
-            <th colspan="1">12/31/16</th>
-            <th colspan="1">12/31/15</th>
-            <th colspan="1">12/31/15</th>
-        </tr>
-        <tr>
             <th colspan="2">Tabla resumen de distribución de las exposiciones en balance (excluyendo los derivados, SFTs y exposiciones exentas)</th>
-            <th>Phase-in</th>
-            <th>Fully-loaded</th>
-            <th>Phase-in</th>
-            <th>Fully-loaded</th>
+            <th>31/12/2016 Phase-in</th>
+            <th>31/12/2016 Fully-loaded</th>
+            <th>31/12/2015 Phase-in</th>
+            <th>31/12/2015 Fully-loaded</th>
         </tr>
     </thead>
     <tbody>
@@ -9747,16 +7402,16 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         <tr>
             <td>EU-2</td>
             <td>Exposiciones de la cartera de Trading</td>
-            <td>91.033</td>
-            <td>91.033</td>
+            <td>91.030</td>
+            <td>91.030</td>
             <td>61.886</td>
             <td>61.886</td>
         </tr>
         <tr>
             <td>EU-3</td>
             <td>Exposiciones de la cartera de Banca, de los cuales:</td>
-            <td>550,492</td>
-            <td>550.492</td>
+            <td>550.495</td>
+            <td>550.495</td>
             <td>607.980</td>
             <td>607.980</td>
         </tr>
@@ -9765,8 +7420,8 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>Bonos garantizados</td>
             <td>177</td>
             <td>177</td>
-            <td>839</td>
-            <td>839</td>
+            <td>839,482</td>
+            <td>839,482</td>
         </tr>
         <tr>
             <td>EU-5</td>
@@ -9798,7 +7453,7 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>134.063</td>
             <td>134.063</td>
             <td>138.222</td>
-            <td>138,222</td>
+            <td>138.222</td>
         </tr>
         <tr>
             <td>EU-9</td>
@@ -9827,13 +7482,13 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         <tr>
             <td>EU-12</td>
             <td>Otras exposiciones (por ejemplo, capital, titulizaciones y otros activos de obligaciones sin crédito)</td>
-            <td>38.465</td>
-            <td>38.465</td>
+            <td>38.468</td>
+            <td>38.468</td>
             <td>43.948</td>
             <td>43.948</td>
         </tr>
     </tbody>
 </table>
-[Descargar tabla](#)
+
 
 {% include download.html %}

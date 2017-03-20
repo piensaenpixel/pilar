@@ -3,36 +3,36 @@ options:
   - title: English
     url: /
   - title: Descargar informe
-    url: downloads/
+    url: /images/pilar_III_esp.pdf
 menu:
-  - title: Introducción
-    url: /introduccion/
-    submenu: introduccion
   - title: Correspondencia
     url: /correspondencia/
     submenu: correspondencia
   - title: Resumen ejecutivo
     url: /resumen-ejecutivo/
-    submenu: resumen
-  - title: Requerimientos generales
+    submenu: resumen   
+  - title: Introducción
+    url: /introduccion/
+    submenu: introduccion
+  - title: 1. Requerimientos generales
     url: /requerimientos-generales/
     submenu: requerimientos
-  - title: Recursos propios
+  - title: 2. Recursos propios y capital
     url: /recursos-propios/
     submenu: recursos-propios
-  - title: Recursos Riesgos
+  - title: 3. Riesgos
     url: /recursos-riesgos/
     submenu: recursos-riesgos
-  - title: Ratio de apalancamiento
+  - title: 4. Ratio de apalancamiento
     url: /ratio-de-apalancamiento/
     submenu: ratio
-  - title: Informacion de remuneraciones
+  - title: 5. Informacion de remuneraciones
     url: /informacion-de-remuneraciones/
     submenu: informacion
-  - title: Hechos posteriores
+  - title: 6. Hechos posteriores
     url: /hechos-posteriores/
     submenu: hechos
-  - title: Anexo
+  - title: Anexos
     url: /anexo/
     submenu: anexo
 footer:

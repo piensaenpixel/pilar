@@ -4,7 +4,7 @@
   {% for page in site.pages %}
     {
       "title"    : "{{ page.title | escape }}",
-      "content"  : "{{ page.content | strip_html | strip_newlines | remove:  "  " | escape | remove: "\"}}",
+      "content"  : "{{ page.content | strip_html | strip_newlines | remove:  "  " | remove:  "”" | remove:  "“" | remove:  "’" | uri_escape | remove: "\"}}",
       "url"      : "{{ site.baseurl }}{{ page.url }}"
     }{% unless forloop.last %},{% endunless %}
   {% endfor %}

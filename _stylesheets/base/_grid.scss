@@ -6,6 +6,9 @@
   @media (max-width: $mobile) {
     padding: 0 13px;
   }
+  &.container--fixed {
+    overflow-x: scroll;
+  }
 }
 
 .inner {

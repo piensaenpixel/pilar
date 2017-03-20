@@ -249,13 +249,19 @@ submenu: correspondencia
       </tr>
       <tr>
         <td>&nbsp;</td>
-        <td>Valor de las participaciones e instrumentos de capital</td>
+        <td>Valor en libros y exposición de las participaciones e instrumentos de capital contenidos en las carteras anteriores</td>
+        <td>Nota 16</td>
+        <td>3.4.3</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>Activos ponderados por riesgo de las participaciones e instrumentos de capital</td>
         <td>Nota 16</td>
         <td>3.4.4</td>
       </tr>
       <tr>
         <td>&nbsp;</td>
-        <td>Exposiciones en participaciones e instrumentos de capital</td>
+        <td>Pérdidas y ganancias y ajustes por valoración de las participaciones e instrumentos de capital</td>
         <td>N/A</td>
         <td>3.4.5</td>
       </tr>
@@ -315,7 +321,7 @@ submenu: correspondencia
       </tr>
       <tr>
         <td>&nbsp;</td>
-        <td>Comportamiento de liquidez y financiación en 2015</td>
+        <td>Comportamiento de liquidez y financiación en 2016</td>
         <td>Nota 7.5.1</td>
         <td>3.7.3</td>
       </tr>

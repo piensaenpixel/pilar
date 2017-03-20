@@ -20,7 +20,7 @@ financieros, fundado en 1857, con una visión centrada en el
 cliente. Está presente en 35 países. Tiene una sólida posición
 de liderazgo en España, es la mayor institución financiera
 de México; cuenta con franquicias líderes en América del
-Sur y la región del Sunbelt de Estados Unidos; y es el primer
+Sur y la región del *Sunbelt* de Estados Unidos; y es el primer
 accionista del banco turco Garanti.
 
 El Grupo cuenta con una presencia significativa en el
@@ -51,7 +51,7 @@ fundamentan los planes estratégicos de todas las geografías y
 áreas del Grupo, así como la cultura de toda la Organización.
 
 Durante 2016, el Grupo BBVA ha realizado avances
-significativos en su Transformation Journey: se ha reforzado
+significativos en su *Transformation Journey*: se ha reforzado
 la nueva estrategia de la Entidad, con especial foco en la
 digitalización y la experiencia de cliente, y se ha realizado una
 simplificación de la estructura organizativa.
@@ -68,8 +68,8 @@ Por una parte, la irrupción del móvil ha provocado cambios
 en el modelo de distribución. Se ha convertido en el principal
 canal de contacto.
 
-Por otra parte, los nuevos desarrollos tecnológicos (big data,
-inteligencia artificial, Blockchain, cloud, procesamiento de
+Por otra parte, los nuevos desarrollos tecnológicos (*big data*,
+inteligencia artificial, *Blockchain*, *cloud*, procesamiento de
 datos, biometría, etc.) están suponiendo un gran avance en la
 mejora de la experiencia de cliente.
 
@@ -85,8 +85,8 @@ partes de la cadena de valor (pagos, financiación, gestión de
 activos, seguros, etc.). Sus propuestas disruptivas se basan,
 principalmente, en una mejor experiencia de cliente y una
 mayor especialización en ciertos productos. Dichos jugadores
-son tanto compañías FinTech como grandes empresas
-digitales (Google, Amazon, etc.), que ya están compitiendo
+son tanto compañías *FinTech* como grandes empresas
+digitales (*Google*, *Amazon*, etc.), que ya están compitiendo
 con los bancos en el nuevo entorno.
 
 En conclusión, la banca tradicional debe reaccionar para ser
@@ -96,44 +96,15 @@ su oferta digital.
 
 **b) Cambio en el comportamiento de los consumidores**
 
-Los clientes están solicitando un nuevo tipo de relación
-bancaria y han comenzado a demandar nuevos servicios
-basados en sus nuevas necesidades. Estamos ante un
-entorno en el que los consumidores están permanentemente
-conectados, acostumbrados a las experiencias digitales
-y utilizan múltiples dispositivos y aplicaciones. Del mismo
-modo demandan mayor transparencia y confianza en
-su relación bancaria, así como mayor personalización,
-accesibilidad y conveniencia en los servicios financieros para
-el logro de sus objetivos vitales.
+Los clientes están solicitando un nuevo tipo de relación bancaria y han comenzado a demandar nuevos servicios basados en sus nuevas necesidades. Estamos ante un entorno en el que los consumidores están permanentemente conectados, acostumbrados a las experiencias digitales y utilizan múltiples dispositivos y aplicaciones. Del mismo modo demandan mayor transparencia y confianza  en su relación  bancaria, así como mayor personalización, accesibilidad y conveniencia en los servicios financieros para el logro de sus objetivos vitales.
 
-Además, se están produciendo cambios sociodemográficos
-que hay que tener en cuenta. La generación millennial, con
-un claro perfil digital, se está convirtiendo en un nuevo grupo
-de consumidores a los que dar servicio. La digitalización está
-llegando a la población adulta. Y las clases medias en países
-emergentes también están incrementando su potencial
-digital.
+Además, se están produciendo  cambios sociodemográficos que hay que tener en cuenta. La generación *millennial*, con un claro perfil digital, se está convirtiendo  en un nuevo grupo de consumidores a los que dar servicio. La digitalización está llegando a la población  adulta. Y las clases medias en países emergentes también están incrementando su potencial digital. 
 
 ## Nuestra aspiración
 
-En este contexto, el objetivo principal de la estrategia de
-transformación del Grupo BBVA, nuestra aspiración, es
-afianzar la relación con nuestros clientes. Queremos ayudar a
-nuestros clientes a tomar las mejores decisiones (bancarias
-y no bancarias), a través de una experiencia atractiva (clara,
-sencilla, transparente, basada en unas condiciones justas y en
-los conceptos de prudencia e integridad), y proporcionarles
-una ayuda y asesoramiento relevantes que cubran todas sus
-necesidades financieras.
+En este contexto, el objetivo principal de la estrategia de transformación del Grupo BBVA, nuestra aspiración, es afianzar la relación con nuestros clientes. Queremos ayudar a nuestros clientes a tomar las mejores decisiones (bancarias y no bancarias), a través de una experiencia atractiva (clara, sencilla, transparente, basada en unas condiciones justas y en los conceptos de prudencia e integridad), y proporcionarles una ayuda y asesoramiento relevantes que cubran todas sus necesidades financieras. 
 
-Durante 2016 hemos avanzado en la consecución de nuestro
-Propósito: “Poner al alcance de todos las oportunidades
-de esta nueva era”. Queremos ayudar a nuestros clientes
-a cumplir sus objetivos vitales; queremos ser, más que
-un banco, un motor de oportunidades y tener un impacto
-positivo en la vida de las personas y en los negocios de las
-empresas.
+Durante 2016 hemos avanzado en la consecución de nuestro Propósito: “Poner al alcance de todos las oportunidades  de esta nueva era”. Queremos ayudar a nuestros clientes a cumplir sus objetivos vitales; queremos  ser, más que un banco, un motor de oportunidades y tener un impacto positivo en la vida de las personas y en los negocios de las empresas. 
 
 Además, se han dado pasos importantes en el desarrollo
 de las seis Prioridades Estratégicas del Grupo, alineadas
@@ -167,8 +138,8 @@ permitiendo consecuentemente un fortalecimiento de su
 posición de solvencia en el mercado.
 
 En cuanto a la liquidez y financiación, el comportamiento
-objetivo del Grupo se mide a través del Liquidity Coverage
-Ratio (LCR) y del ratio Loan Stable Customer Deposits
+objetivo del Grupo se mide a través del *Liquidity Coverage
+Ratio* (LCR) y del ratio *Loan Stable Customer Deposits*
 (LtSCD). El Grupo BBVA a lo largo de 2016 ha mantenido
 unos niveles de LCR por encima del 100% y LtSCD de 113%
 (media ponderada).
@@ -182,16 +153,17 @@ Gestión de Liquidez (“UGLs”) formadas por la matriz y las
 filiales bancarias en cada geografía más las sucursales que
 dependan de ellas, mantienen niveles de autofinanciación con
 recursos estables de clientes por encima de lo exigido.
+
 El comportamiento del Grupo en relación a la gestión del
 riesgo de crédito ha sido muy favorable, continuando con un
 descenso de los riesgos dudosos y la tasa de mora.
 
 En solvencia, el Grupo BBVA termina 2016 con niveles
 de capital por encima de los mínimos exigidos tanto en
-términos phased-in (12,18%) como en fully loaded (10,90%)
-y alcanza un ratio de apalancamiento del 6,70% phased-in
-(6,49% en términos fully loaded) que sigue comparando
-muy favorablemente con el resto de su peer group, gracias,
+términos *phased-in* (12,18%) como en fully loaded (*10,90%*)
+y alcanza un ratio de apalancamiento del 6,70% *phased-in*
+(6,49% en términos *fully loaded*) que sigue comparando
+muy favorablemente con el resto de su *peer group*, gracias,
 una vez más, a la generación recurrente de resultados y una
 eficiente gestión y asignación de capital del Grupo, alineados
 con los objetivos estratégicos del mismo.
@@ -200,9 +172,9 @@ En materia de regulación, el Grupo BBVA ha publicado
 sus requerimientos prudenciales de capital aplicables a la
 Entidad, tras el proceso de evaluación y revisión supervisora
 (denominado SREP, por sus siglas en inglés), que establece
-que BBVA mantenga un ratio core capital phased-in del
+que BBVA mantenga un ratio *core capital phased-in* del
 7,625% a nivel consolidado y 7,25% a nivel individual;
-y un ratio de capital total phased-in del 11,125% a nivel
+y un ratio de capital total *phased-in* del 11,125% a nivel
 consolidado y del 10,75% a nivel individual.
 
 En los siguientes apartados se presenta en detalle los

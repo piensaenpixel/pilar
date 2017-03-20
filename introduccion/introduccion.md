@@ -16,6 +16,7 @@ submenu: introduccion
 ## Entorno regulatorio en el ejercicio 2016
 
 **Contexto normativo**
+
 En su condición de entidad de crédito española, BBVA
 está sujeto a la Directiva 2013/36/UE del Parlamento
 Europeo y del Consejo, de 26 de junio de 2013, relativa
@@ -37,7 +38,7 @@ que modifica el Reglamento (EU) Nº 648/2012 (“CRR”
 y, conjuntamente con la Directiva CRD IV y cualesquiera
 medidas de implementación de CRD IV, “CRD IV”), que se
 complementa por diversas normas técnicas de regulación
-(Regulatory Technical Standards) de carácter vinculante,
+(*Regulatory Technical Standards*) de carácter vinculante,
 de aplicación directa en todos los estados miembros de la
 UE, sin necesidad de medidas de implantación nacionales.
 La trasposición de la Directiva CRD IV al ordenamiento
@@ -74,14 +75,14 @@ esta propuesta es sólo el primer paso del proceso legislativo
 europeo.
 
 En lo que respecta al Pilar 3, el Comité de Basilea aprobó
-en enero de 2015 una revisión del marco (Revised Pillar
-3 Disclosure Requirements, en adelante, “RPDR”). Por
+en enero de 2015 una revisión del marco (*Revised Pillar
+3 Disclosure Requirements*, en adelante, “RPDR”). Por
 su parte, la Autoridad Bancaria Europea (“EBA”), con el
 objetivo de que las entidades europeas implementen la
 revisión de Basilea de forma que cumplan con los requisitos
 de la CRR en esta materia, ha publicado el 14 de Diciembre
 de 2016 unas guías finales sobre la divulgación regulatoria
-(Guidelines on Revised Pillar 3 Disclosures Requirements,
+(*Guidelines on Revised Pillar 3 Disclosures Requirements*,
 en adelante “GRPDR”). La fecha de implementación de
 estas guías es el cierre del ejercicio 2017. Sin embargo,
 se recomienda a las entidades de importancia sistémica
@@ -93,6 +94,7 @@ ejercicio de transparencia y con el objetivo de mejorar
 la comparabilidad entre bancos y la coherencia de la
 información, ha incorporado en este Informe con Relevancia
 Prudencial las recomendaciones incluidas en el RPDR.
+
 Asimismo, a 31 de diciembre de 2016 se han adoptado las
 recomendaciones de la GRPDR en las que la EBA modifica
 y/o complementa el marco de Basilea, resultando en la
@@ -109,11 +111,12 @@ La nueva normativa exige a las entidades contar con un
 nivel más alto de capital y de mayor calidad, se incrementan
 las deducciones de capital y se revisan los requerimientos
 asociados a determinados activos. A diferencia del
-marco anterior, los requerimientos mínimos de capital se complementan con requerimientos de buffers o colchones de
+marco anterior, los requerimientos mínimos de capital se complementan con requerimientos de *buffers* o colchones de
 capital así como con requerimientos en materia de liquidez y
 apalancamiento. Los recursos propios computables bajo CRD
 IV quedan compuestos, principalmente por los elementos
 descritos en el apartado 2.1 de este Documento.
+
 Los aspectos más relevantes que afectan a los elementos que
 componen el requisito de capital y a los activos ponderados
 por riesgo se detallan en mayor profundidad en el apartado
@@ -124,7 +127,6 @@ entidades de crédito deben mantener en todo momento,
 tanto a nivel individual como consolidado, un ratio total
 de capital del 8% de sus activos ponderados por riesgo
 (comúnmente denominado, el requisito de “Pilar 1”).
-
 Al menos un 6% del ratio total de capital deberá estar
 compuesto por capital de nivel 1 (“Tier 1”), del que un 4,5%
 deberá estar compuesto en todo caso por capital de nivel 1
@@ -164,8 +166,8 @@ El colchón para entidades de importancia sistémica
 mundial resulta de aplicación a aquellas entidades incluidas
 en el listado de entidades de importancia sistémica
 mundial (“EISM”, o “G-SIBs” por sus siglas en inglés), cuya
-actualización se realiza anualmente por el Financial Stability
-Borad (“FSB”). Dado que BBVA ha sido excluida de la lista de
+actualización se realiza anualmente por el *Financial Stability
+Borad* (“FSB”). Dado que BBVA ha sido excluida de la lista de
 entidades de importancia sistémica mundial en el año 2016,
 con efecto 1 de enero de 2017, el colchón G-SIB no será de
 aplicación a BBVA en 2017 (sin perjuicio de que el FSB o el
@@ -216,7 +218,7 @@ capital del Grupo, siendo el ratio phased-in del 12,18%.
 **Ratio de apalancamiento**
 
 Con el objetivo de proveer al sistema financiero de una
-métrica que sirva de backstop a los niveles de capital, independientemente del riesgo de crédito, se ha incorporado en Basilea III y traspuesto a la normativa de solvencia una medida
+métrica que sirva de *backstop* a los niveles de capital, independientemente del riesgo de crédito, se ha incorporado en Basilea III y traspuesto a la normativa de solvencia una medida
 complementaria al resto de indicadores de capital. Esta medida,
 el ratio de apalancamiento, permite estimar el porcentaje de los
 activos que están financiados con capital de nivel 1.
