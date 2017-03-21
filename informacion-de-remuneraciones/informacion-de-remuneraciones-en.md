@@ -4,6 +4,7 @@ title: Information on remuneration
 lang: en
 permalink: /informacion-de-remuneraciones/
 submenu: informacion
+headerTitle: Information of Prudential Relevance 2016
 ---
 
 # Information on remuneration

@@ -4,11 +4,11 @@ title: Mapping
 lang: en
 permalink: /correspondencia/
 submenu: correspondencia
+headerTitle: Information of Prudential Relevance 2016
 ---
 
 # Mapping between the sections of Pillar III and the Group's Annual Consolidated Financial Statements
 
-<div>
   <table>
     <thead>
       <tr>
@@ -34,7 +34,7 @@ submenu: correspondencia
       <tr>
         <td>&nbsp;</td>
         <td>Corporate name and scope of application</td>
-        <td>Note 1.1/td>
+        <td>Note 1.1</td>
         <td>1.1.1</td>
       </tr>
       <tr>
@@ -405,6 +405,5 @@ submenu: correspondencia
       </tr>
     </tbody>
   </table>
-</div>
 
 {% include download.html %}

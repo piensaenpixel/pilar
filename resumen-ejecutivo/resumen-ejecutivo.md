@@ -4,6 +4,7 @@ title: Resumen ejecutivo
 lang: es
 permalink: /resumen-ejecutivo/
 submenu: resumen
+headerTitle: Informe con Relevancia Prudencial 2016
 ---
 
 {% include subir.html %}

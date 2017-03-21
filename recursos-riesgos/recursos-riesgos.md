@@ -321,9 +321,9 @@ nivel de las geografías, tipos de riesgos, clases de activos y carteras, asegur
 que la gestión se sitúa dentro de las métricas por tipo de riesgo.
 
 Adicionalmente a este Marco, existe un nivel de límites de gestión (*Management limits*),
-que se define y gestiona por el área de riesgos en desarrollo de los core limits, a fin de
+que se define y gestiona por el área de riesgos en desarrollo de los *core limits*, a fin de
 asegurar que la gestión anticipatoria de los riesgos por subcategorías de riesgos dentro de
-cada tipo o por subcarteras respeta dichos core limits y, en general, el Marco de Apetito de
+cada tipo o por subcarteras respeta dichos *core limits* y, en general, el Marco de Apetito de
 Riesgo establecido.
 
 El esquema del Marco de Apetito de Riesgos de BBVA se resume en el siguiente gráfico:
@@ -489,7 +489,7 @@ riesgo.
 - Adecuación: aprovisionamiento de información de forma adecuada en el momento
 oportuno.
 
-A través de la función de *“Risk Analytics”*, el Grupo cuenta con un marco corporativo para
+A través de la función de “Risk Analytics”, el Grupo cuenta con un marco corporativo para
 el desarrollo de las técnicas de medición y modelos, que cubre todas las tipologías de
 riesgo y las distintas finalidades e implica un lenguaje homogéneo para todas las
 actividades y geografías/ áreas de negocio.
@@ -739,7 +739,7 @@ valoración del inmueble descontando los ajustes necesarios para recoger adecuad
 la potencial caída de valor hasta su ejecución y venta, así como los costes de ejecución,
 los costes de mantenimiento y los costes de venta.
 
-> <sup>1</sup> El cálculo de la PD y LGD a efectos de solvencia se realiza bajo un enfoque Point-in-time (“PIT”)
+> <sup>1</sup> El cálculo de la PD y LGD a efectos de solvencia se realiza bajo un enfoque *Point-in-time* (“PIT”)
 
 ##### 3.2.2.2.3. Métodos utilizados para determinar provisiones por riesgos y compromisos contingentes
 
@@ -1068,10 +1068,20 @@ incorporando las posiciones en renta variable.
 
 **TABLA 10: Distribución por áreas geográficas de la exposición por Riesgo de Crédito**
 
-<table class="l">
+<table>
     <thead>
+        <tr class="m">
+          <th colspan="2">Millones de euros</th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+        </tr>
         <tr>
-            <th>31/12/2016 (Millones de Euros)</th>
+            <th>31/12/2016</th>
             <th>&nbsp;</th>
             <th>&nbsp;</th>
             <th>&nbsp;</th>
@@ -1082,14 +1092,14 @@ incorporando las posiciones en renta variable.
             <th>&nbsp;</th>
         </tr>
        <tr>
-            <th>Categoría de exposición </th>
+            <th>Categoría de exposición (1) (2)</th>
             <th>Total</th>
             <th>España</th>
             <th>Turquía</th>
             <th>Eurasia</th>
             <th>México</th>
             <th>Estados Unidos</th>
-            <th>America del Sur</th>
+            <th>América del Sur</th>
             <th>Resto del Mundo</th>
         </tr>
     </thead>
@@ -1141,7 +1151,7 @@ incorporando las posiciones en renta variable.
         <tr>
             <td>Organizaciones Internacionales</td>
             <td>6 </td>
-            <td>0 </td>
+            <td>1 </td>
             <td>- </td>
             <td>5 </td>
             <td>- </td>
@@ -1497,13 +1507,23 @@ incorporando las posiciones en renta variable.
 
 <ul class="cita">
 <li>(1) No incluye posiciones de renta variable</li>
-<li>(2) Áreas geograficas determinadas en base al origen de la contraparte</li>
+<li>(2) Áreas geográficas determinadas en base al origen de la contraparte</li>
 </ul>
 
 <table>
     <thead>
+        <tr class="m">
+          <th colspan="2">Millones de euros</th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+        </tr>
         <tr>
-            <th>31/12/2015 (Millones de Euros)</th>
+            <th>31/12/2015</th>
             <th>&nbsp;</th>
             <th>&nbsp;</th>
             <th>&nbsp;</th>
@@ -1514,14 +1534,14 @@ incorporando las posiciones en renta variable.
             <th>&nbsp;</th>
         </tr>
         <tr>
-            <th>Categoría de exposición </th>
+            <th>Categoría de exposición (1) (2) </th>
             <th>Total</th>
             <th>España</th>
             <th>Turquía</th>
             <th>Eurasia</th>
             <th>México</th>
             <th>Estados Unidos</th>
-            <th>America del Sur</th>
+            <th>América del Sur</th>
             <th>Resto del Mundo</th>
         </tr>
 
@@ -1939,7 +1959,10 @@ incorporando las posiciones en renta variable.
         </tr>
     </tbody>
 </table>
-
+<ul class="cita">
+<li>(1) No incluye posiciones de renta variable</li>
+<li>(2) Áreas geográficas determinadas en base al origen de la contraparte</li>
+</ul>
 
 
 De forma adicional, se muestra de forma gráfica la distribución de la exposición original
@@ -1987,7 +2010,7 @@ prudencial:
     </thead>
     <tbody>
         <tr>
-            <td>Exposiciones deterioradas y en mora</td>
+            <td>Exposiciones deterioradas y en mora (1)</td>
             <td>24.024</td>
             <td>18.379</td>
             <td>1.168</td>
@@ -1999,6 +2022,9 @@ prudencial:
         </tr>
     </tbody>
 </table>
+<ul class="cita">
+<li>(1) Saldos contables perímetro de solvencia sin incluir posiciones de renta variable</li>
+</ul>
 
 <table class="tableizer-table">
     <thead>
@@ -2026,7 +2052,7 @@ prudencial:
     </thead>
     <tbody>
         <tr>
-            <td>Exposiciones deterioradas y en mora</td>
+            <td>Exposiciones deterioradas y en mora (1)</td>
             <td>24.860</td>
             <td>20.311</td>
             <td>1.219</td>
@@ -2038,6 +2064,9 @@ prudencial:
         </tr>
     </tbody>
 </table>
+<ul class="cita">
+<li>(1) Saldos contables perímetro de solvencia sin incluir posiciones de renta variable</li>
+</ul>
 
 A continuación, se muestra la distribución por áreas geográficas de los saldos contables
 de las correcciones de valor por deterioro de activos financieros y provisiones por riesgos
@@ -2301,15 +2330,15 @@ renta variable:
         </tr>
         <tr>
             <td>Bonos Garantizados</td>
-            <td>0</td>
-            <td>58,24%</td>
-            <td>7,96%</td>
-            <td>0,18%</td>
-            <td>6,21%</td>
-            <td>1,29%</td>
-            <td>5,84%</td>
-            <td>12,30%</td>
-            <td>7,98%</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Instituciones y Empresas C/P</td>
@@ -2889,8 +2918,8 @@ correcciones de valor de activos financieros y provisiones por riesgos contingen
             <td>19.515</td>
             <td>2,13%</td>
             <td>1,02%</td>
-            <td>58,94%%</td>
-            <td>27,72%%</td>
+            <td>58,94%</td>
+            <td>27,72%</td>
             <td>10,18%</td>
         </tr>
     </tbody>

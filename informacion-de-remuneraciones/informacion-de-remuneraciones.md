@@ -4,6 +4,7 @@ title: Información de remuneraciones
 lang: es
 permalink: /informacion-de-remuneraciones/
 submenu: informacion
+headerTitle: Informe con Relevancia Prudencial 2016
 ---
 
 # Información de remuneraciones

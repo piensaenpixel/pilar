@@ -4,6 +4,7 @@ title: Ratio de apalancamiento
 lang: es
 permalink: /ratio-de-apalancamiento/
 submenu: ratio
+headerTitle: Informe con Relevancia Prudencial 2016
 ---
 
 # 4. Ratio de apalancamiento
@@ -110,10 +111,16 @@ de 2016 y a 31 de diciembre de 2015:
 
 **TABLA 87: Elementos que conforman el ratio de apalancamiento**
 
-(Millones de Euros)
-<table>
+
+<table class="l">
     <thead>
-        <tr>
+	<tr class="m">
+ <th colspan="2">(Millions of euros)</th>
+ <th></th>
+ <th></th>
+ <th></th>
+ </tr>
+    <tr>
             <th>Tabla resumen de conciliación entre activos contables y exposición de ratio de apalancamiento</th>
             <th>12/31/16 <i>Phase-In</i></th>
             <th>12/31/16 <i>Fully Loaded</i></th>
@@ -208,8 +215,8 @@ de 2016 y a 31 de diciembre de 2015:
         </tr>
     </tbody>
 </table>
+<ul class="cita"><li>(1) Se corresponde con la exposición fuera de balance una vez aplicados los factores de conversión obtenidos de acuerdo al artículo 429, apartado 10 de la CRR.</li></ul>
 
-<ul class"cita"><li>(1) Se corresponde con la exposición fuera de balance una vez aplicados los factores de conversión obtenidos de acuerdo al artículo 429, apartado 10 de la CRR.</li></ul>
 
 Como se observa, el Grupo mantiene un ratio de apalancamiento faseado del 6,7% y un ratio
 _fully loaded_ del 6.5% que se sitúan ampliamente por encima del nivel mínimo requerido.

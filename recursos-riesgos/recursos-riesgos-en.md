@@ -73,8 +73,10 @@ As mentioned above, the risk function comprises the corporate area risk units, w
     
     - Articulating Group's Internal Risk Control model and defining the methodology, corporate criteria and procedures to identify and prioritize the risk inherent to each unit's activities and processes.
     
-    - Validation of the models used and the results obtained by them to verify whether they are appropriate to the different uses to which they are applied. - The risk units in the business units develop and submit to the Chief Risk Officer of the geographical and/or business area the Risk Appetite Framework proposal applicable in each geographical and/or business area, independently and always within the Group's strategy/Risk Appetite Framework.  
-    Moreover, they ensure that the approved corporate policies and rules are applied consistently at Group level, adapting them where appropriate to local requirements; they are provided with the adequate infrastructures for the management and control of their risks, within the global risk infrastructure framework defined by the corporate areas, and report, where appropriate, to the corporate bodies and senior management.  
+    - Validation of the models used and the results obtained by them to verify whether they are appropriate to the different uses to which they are applied.
+    
+- The risk units in the business units develop and submit to the Chief Risk Officer of the geographical and/or business area the Risk Appetite Framework proposal applicable in each geographical and/or business area, independently and always within the Group's strategy/Risk Appetite Framework.  
+  Moreover, they ensure that the approved corporate policies and rules are applied consistently at Group level, adapting them where appropriate to local requirements; they are provided with the adequate infrastructures for the management and control of their risks, within the global risk infrastructure framework defined by the corporate areas, and report, where appropriate, to the corporate bodies and senior management.  
 
 Thus the local risk units work with the corporate risk units with the aim of adapting to the risk strategy at Group level and pooling all the information necessary to monitor changes in risks.  
 
@@ -140,7 +142,7 @@ The Risk Appetite Framework is expressed through the following elements:
 
 - Core metrics: based on the Risk Appetite Statement, statements are made that specify the general principles of risk management in terms of solvency, liquidity, funding, recurring revenue and profitability. 
 
-    Moreover, the core metrics reflect, in quantitative terms, the principles and the target risk profile set out in the Risk Appetite statement and are aligned with the Group's strategy. Each core metric has three thresholds (the traffic-light approach), ranging from usual management of the businesses to higher levels of impairment: Management reference, maximum appetite and maximum capacity. BBVA Group's core metrics are those specified in the following chart:
+    Moreover, the core metrics reflect, in quantitative terms, the principles and the target risk profile set out in the Risk Appetite statement and are aligned with the Group's strategy. Each core metric has three thresholds (*the traffic-light approach*), ranging from usual management of the businesses to higher levels of impairment: Management reference, maximum appetite and maximum capacity. BBVA Group's core metrics are those specified in the following chart:
 
 **CHART 2: BBVA Group's Core Metrics:**
 
@@ -174,7 +176,8 @@ The transfer of the Risk Appetite Framework to ordinary management is underpinne
 
 #### 3.1.3.1. A uniform body of regulations
 
-The corporate GRM area is responsible for defining and developing corporate policies, specific regulations, procedures and schemes for delegation according to which the risk decisions have to be adopted within the Group
+The corporate GRM area is responsible for defining and developing corporate policies, specific regulations, procedures and schemes for delegation according to which the risk decisions have to be adopted within the Group.
+
 This process aims for the following objectives:
 
 - Hierarchy and structure: information that is well structured through a clear and simple hierarchy that allows dependent documents to be related to each other.
@@ -236,7 +239,7 @@ With respect to technology, the Group ensures the integrity of the management in
 The principles according to which the Group's risk technology is governed are:
 
 - Uniformity: the criteria are consistent across the whole Group, ensuring the same risk treatment at each geographical and/or business level.
-Integration in the management: the tools incorporate the corporate risk policies and are applied to the Group's day-to-day management.
+- Integration in the management: the tools incorporate the corporate risk policies and are applied to the Group's day-to-day management.
 - Automation of the main processes that compose the risk management cycle.
 - Adequacy: adequate supply of information at the appropriate time.
 
@@ -334,6 +337,7 @@ The amount of the deterioration of debt instruments valued at their amortized co
 The amount of impairment losses recorded by these instruments coincides with the positive difference between their respective book values and the present values of future cash flows. These cash flows are discounted at the instrument’s original effective interest rate. If a financial instrument has a variable interest rate, the discount rate for measuring any impairment loss is the current effective rate determined under the contract.
 
 As an exception to the rule described above, the market value of quoted debt instruments is deemed to be a fair estimate of the present value of their future cash flows.
+
 The estimation of future cash flows for debt instruments considers the following:
 
 - All sums expected to be recovered during the remaining life of the instrument, including those that may arise from collateral and credit enhancements, if any (once deduction has been made of the costs required for their foreclosure and subsequent sale). Impairment losses include an estimate of the possibility of collecting of the accrued, past-due and uncollected interest.
@@ -359,6 +363,8 @@ Quantification of losses incurred takes into account three basic factors: exposu
 The calculation of LGD at each date of the balance sheet estimates the current value of the cash flows expected to be obtained during the remaining life of the financial asset. The recoverable amount of effective collateral will be estimated based on the valuation of the property, discounting the adjustments needed to capture adequately the uncertainty the potential fall in value up to the time of foreclosure and sale, plus foreclosure costs, maintenance costs and sale costs.
 
 > <sup>1</sup> The PD and LGD is calculated from a Point-in-time (“PIT”) focus for solvency purposes
+
+
 
 ##### 3.2.2.2.3. Methods used to determine risk provisions and contingent commitment
 
@@ -388,20 +394,15 @@ The book value of loans, debt securities and off-balance sheet exposures, broken
 
 <table>
     <thead>
-            <tr class="m">
-                <th colspan="2">12/31/2016<br>(Millions of euros)</th>
-                <th></th>
-                <th></th>
-                <th></th>
-            </tr>
+            
             <tr>
-                <th></th>
+                <th>12/31/2016 (Millions of euros)</th>
                 <th colspan="2">Gross carrying values of:</th>
                 <th></th>
                 <th></th>
                 </tr>
         <tr class="tableizer-firstrow">
-            <th>12/31/2016</th>
+            <th></th>
             <th>Defaulted exposures (a)</th>
             <th>Non-defaulted exposures (b)</th>
             <th>Allowances / Impairments (c)</th>
@@ -410,28 +411,28 @@ The book value of loans, debt securities and off-balance sheet exposures, broken
     </thead>
     <tbody>
         <tr>
-            <td>Loans</td>
+            <td>1. Loans</td>
             <td>22,924</td>
             <td>447,153</td>
             <td>15,981</td>
             <td>454,096</td>
         </tr>
         <tr>
-            <td>Debt securities</td>
+            <td>2. Debt securities</td>
             <td>259</td>
             <td>89,535</td>
             <td>193</td>
             <td>89,601</td>
         </tr>
         <tr>
-            <td>Off-balance sheet exposures</td>
+            <td>3. Off-balance sheet exposures</td>
             <td>841</td>
             <td>167,521</td>
             <td>950</td>
             <td>167,413</td>
         </tr>
         <tr class="b2">
-            <td>Total</td>
+            <td>4. Total</td>
             <td>24,024</td>
             <td>704,210</td>
             <td>17,124</td>
@@ -957,9 +958,18 @@ The following chart presents the distribution by geographic areas of the origina
 <li>(2) Áreas geograficas determinadas en base al origen de la contraparte</li>
 </ul>
 
-(Millions of euros)
-<table>
+<table class="l">
     <thead>
+	<tr class="m">
+ <th colspan="2">(Millions of euros)</th>
+ <th></th>
+ <th></th>
+ <th></th>
+ <th></th>
+ <th></th>
+ <th></th>
+ <th></th>
+ </tr>
         <tr>
             <th>12/31/2015</th>
             <th>&nbsp;</th>
@@ -1593,14 +1603,14 @@ equities:
         <tr>
             <td>Covered bonds</td>
             <td>-</td>
-            <td>58.24%</td>
-            <td>7.96%</td>
-            <td>0.18%</td>
-            <td>6.21%</td>
-            <td>1.29%</td>
-            <td>5.84%</td>
-            <td>12.30%</td>
-            <td>7.98%</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Short-term claims on institutions and corporate</td>
@@ -3123,7 +3133,6 @@ The original net exposure amounts for provisions and value adjustments, the expo
         </tr>
     </tbody>
 </table>
-[Download table](#)
 
 <ul class="cita">
 <li>(1) OE: It corresponds to Original Exposure</li>
@@ -3528,7 +3537,7 @@ Counterparty credit risk exposures net of provisions and after applying CCF and 
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 
 <table class="l">
@@ -3922,7 +3931,7 @@ Counterparty credit risk exposures net of provisions and after applying CCF and 
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 
 
@@ -4319,7 +4328,7 @@ Counterparty credit risk exposures net of provisions and after applying CCF and 
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 <table class="l">
     <thead>
@@ -4712,7 +4721,7 @@ Counterparty credit risk exposures net of provisions and after applying CCF and 
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 The following table presents the main variations in the period in terms of RWAs for the Credit Risk standardized approach.  
 
@@ -4778,7 +4787,7 @@ The following table presents the main variations in the period in terms of RWAs 
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 
 The increase in RWAs for credit risk in the standardized model is due mainly to:  
@@ -4891,7 +4900,7 @@ The table below shows the balances of credit risk and counterparty credit risk p
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 
 
@@ -5023,7 +5032,7 @@ calculation of capital requirements.
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 The main types of rating models used in the IRB portfolios are ratings for wholesale
 portfolios and proactive and reactive scorings in the case of retail portfolios.
@@ -5238,7 +5247,7 @@ The PD estimates made by the Group are transferred to the Master Scale, enabling
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 
 ##### 3.2.5.1.3. Use of internal estimations for purposes other than the calculation of capital requirements  
@@ -6548,7 +6557,7 @@ The following table shows the credit risk information as of December 31, 2016 (e
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 <ul class="cita">
 <li>(1) PD intervals according to RPDR document </li>
@@ -9518,7 +9527,7 @@ The amounts shown in the table above on credit risk include the counterparty cre
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 
 The Group currently has a totally residual amount of capital requirements for trading-book activity liquidation risk. 
@@ -9658,7 +9667,7 @@ Below is a complete overview of the methods used to calculate the regulatory req
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 
 ##### 3.2.6.2.1. Counterparty credit risk by standardized approach
@@ -9866,7 +9875,7 @@ The following table presents a breakdown of exposure to counterparty credit risk
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 
 
@@ -10069,7 +10078,7 @@ The following table presents a breakdown of exposure to counterparty credit risk
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 
 The following table presents the main variations in the period in terms of RWAs for the counterparty credit risk standardized approach: 
@@ -10136,7 +10145,7 @@ The following table presents the main variations in the period in terms of RWAs 
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 In 2016 there have been no significant variations in counterparty credit risk-weighted assets, and they are in line with the credit risk variations explained in section 3.2.4 (Table 23). 
 
@@ -10675,7 +10684,7 @@ The following table presents the relevant parameters used to calculate the capit
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 <ul class="cita">
 <li>(1) PD intervals according to RPDR document </li>
 <li>(2) Corresponds to PD by EAD-weighted debtor category  </li>
@@ -10872,7 +10881,7 @@ Below is a table with a breakdown of all the types of collateral contributed or 
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 <ul class="cita">
 <li>(*) Only collaterals that are considered as capital mitigation are included </li>
 <li>(1)  Refers to collateral that is held in a bankruptcy-remote manner in the meaning of Article 300 in the CRR.  </li>
@@ -10946,7 +10955,7 @@ The table below shows the amounts corresponding to transactions with credit deri
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 
 
@@ -11011,7 +11020,7 @@ The table below shows the amounts corresponding to transactions with credit deri
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 As of year-end 2016 and 2015, the Group did not use credit derivatives in brokerage activities as collateral.
 
@@ -11070,7 +11079,7 @@ Below are the amounts in million euros involved in the adjustments by credit ris
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 <table class="tableizer-table">
     <thead>
@@ -11108,7 +11117,7 @@ Below are the amounts in million euros involved in the adjustments by credit ris
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 Below are the variations in terms of RWAs during the period:  
 
@@ -11140,7 +11149,7 @@ Below are the variations in terms of RWAs during the period:
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 The variations in terms of RWAs by CVA during the period are due to changes in the perimeter. 
 
@@ -12352,7 +12361,7 @@ The table below shows the amounts in terms of EAD and RWAs of investment securit
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 Below are the main variations in terms of RWAs during the period related to the investment and retained securitizations:
 
@@ -12384,7 +12393,7 @@ Below are the main variations in terms of RWAs during the period related to the 
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 
 #### 3.2.7.6. Originated securitizations 
@@ -12740,7 +12749,7 @@ The table below shows the amounts in terms of EAD and RWAs of investment securit
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 <table class="l">
     <thead>
@@ -13075,7 +13084,7 @@ The table below shows the amounts in terms of EAD and RWAs of investment securit
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 The next tables give the current outstanding balance, non-performing exposures and impairment losses recognized in the period corresponding to the underlying assets of originated securitizations, in which risk transfer criteria are fulfilled, broken down by type of asset, as of December 31, 2016 and December 31, 2015. 
 
@@ -13155,7 +13164,7 @@ The next tables give the current outstanding balance, non-performing exposures a
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 <ul class="cita"><li>(1) Includes the total number of exposures deteriorated due to delinquency or for reasons other than delinquency</li></ul>
 
@@ -13233,7 +13242,7 @@ The next tables give the current outstanding balance, non-performing exposures a
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 <ul class="cita"<li>(1) Includes the total number of exposures deteriorated due to delinquency or for reasons other than delinquency</li></ul>
 
@@ -13314,7 +13323,7 @@ The table below shows the outstanding balance of underlying assets of securitiza
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 
 
@@ -13546,7 +13555,7 @@ The value of the exposure covered with financial collateral and other collateral
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 
 #### 3.2.8.3. Hedging based on personal guarantees  
@@ -13707,7 +13716,7 @@ The total value of the exposure covered with personal guarantees is as follows:
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 Below is an overview of the level of use of each of the credit risk mitigation techniques employed by the Group as of December 31, 2016: 
 
@@ -13759,7 +13768,7 @@ Below is an overview of the level of use of each of the credit risk mitigation t
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 
 #### 3.2.8.4. Risk concentration  
@@ -14061,7 +14070,7 @@ A summary of the weighted-average percentages by exposure category existing in t
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 <ul class="cita">
 <li>(1) Does not include equity positions </li>
 <li>(2) Calculated as RWAs/EAD </li>
@@ -14216,7 +14225,7 @@ Below are the amounts in terms of RWAs and capital requirements by market risk c
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 <table class="tableizer-table">
     <thead>
@@ -14289,7 +14298,7 @@ Below are the amounts in terms of RWAs and capital requirements by market risk c
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 
 ### 3.3.4. Internal Models 
@@ -14609,7 +14618,7 @@ The following tables show VaR without smoothing by risk factor for the Group:
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 <ul class="cita"><li>(*) The diversification effect is the difference between the sum of the risk factors measured individually and the total VaR figure that reflects the implicit correlation between all the variables and scenarios used in the measurement</li></ul>
 
@@ -14705,7 +14714,7 @@ In accordance with article 455 e) of the CRR –corresponding to the breakdown o
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 Below are the main changes in the market RWAs, calculated using the method based on internal models:
 
@@ -14810,7 +14819,7 @@ Below are the main changes in the market RWAs, calculated using the method based
         </tr>                           
     </tbody>
 </table>
-[Download table](#)
+ 
 
 The variation is due to changes in market positions, mainly caused by volatility and correlations. 
 
@@ -14886,7 +14895,7 @@ The base historical stress scenario in the BBVA Group is that of Lehman Brothers
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 **Simulated scenarios** 
 
@@ -14938,7 +14947,7 @@ The impact of the stress tests by simulated scenarios (Stressed VaR 95% at 20 da
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 <table>
     <thead>
@@ -14981,7 +14990,7 @@ The impact of the stress tests by simulated scenarios (Stressed VaR 95% at 20 da
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 
 ##### 3.3.4.2.4. Backtesting  
@@ -15127,7 +15136,7 @@ The accompanying table shows the book value, exposure and RWAs of portfolios hel
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 <ul class="cita">
 <li>(1) The ‘Other financial assets with changes in P&L’ portfolio has no balance.</li>
 <li>(2) The difference between the book value and EAD is due to residual exposures whose capital use is calculated based on the credit risk models for the credit portfolio.</li>
@@ -15201,7 +15210,7 @@ The accompanying table shows the types, nature and amounts of the original expos
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 <ul class="cita"><li>(1) Depending on their nature, equity instruments not included in Trading Book Activity will be separated into derivatives and non-derivatives. The amount shown refers to original exposure, i.e. gross exposure of value corrections through asset impairment and provisions, before applying risk mitigation techniques.</li></ul>
 
@@ -15261,7 +15270,7 @@ Below is a breakdown of the RWAs by applicable method corresponding to equity in
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 The flows and main changes in capital use are described below for the positions subject to Equity Credit Risk as of December 31, 2016:
 
@@ -15310,7 +15319,7 @@ The flows and main changes in capital use are described below for the positions 
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 The variations in the period occurred for the following reasons:
 
@@ -15370,7 +15379,7 @@ Below is a breakdown as of December 31, 2016 and December 31, 2015 of the profit
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 In 2015, the realized losses basically corresponded to the valuation at fair value of the stake held in the Garanti Group due to the change of the method of consolidation.
 
@@ -15405,7 +15414,7 @@ In 2015, the realized losses basically corresponded to the valuation at fair val
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 ## 3.5. Structural exchange-rate risk
 
@@ -15552,7 +15561,7 @@ The following tables present the average levels of interest-rate risk in terms o
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 <ul class="cita">
 <li>(*) Percentage of the projected "1 year" interest margin of each unit </li>
 <li>(**) Percentage of Core Capital per unit </li>
@@ -15677,7 +15686,7 @@ Thus, the performance of the indicators show that the robustness of the funding 
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 Additionally, each Group entity maintains a liquidity buffer at the individual level: Banco Bilbao Vizcaya Argentaria S.A. and its subsidiaries, including BBVA Compass, BBVA Bancomer, Garanti Bank and the Latin American subsidiaries. The table below shows the liquidity available by instrument as of December 31, 2016 for the most significant units: 
 
@@ -15776,7 +15785,7 @@ Additionally, each Group entity maintains a liquidity buffer at the individual l
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 <ul class="cita"><li>(1) It includes Banco Bilbao Vizacaya Argentaria, S.A., Banco Bilbao Vizcaya Argentaria (Portugal), S.A.</li></ul>
 
@@ -15904,7 +15913,7 @@ Based on prudential supervisory information, the following matrix is presented b
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 **TABLA 75: Salidas de liquidez**
 
@@ -16026,7 +16035,7 @@ Based on prudential supervisory information, the following matrix is presented b
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 The funding structure is clearly stable, with the loan portfolio mostly funded from customer deposits. The outgoing demand section primarily contains current accounts of the retail customer base, whose behavior displays an elevated stability and for which, according to internal methods, the average maturity is estimated at over three years. 
 
@@ -16119,7 +16128,7 @@ The following is a breakdown of maturities of wholesale issues of the most signi
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 <ul class="cita"><li>(1) Regulatory capital instruments are classified in this table by terms according to their contractual maturity</li></ul>
 
@@ -16194,7 +16203,7 @@ The following is a breakdown of maturities of wholesale issues of the most signi
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 <ul class="cita"><li>(1) Regulatory capital instruments are classified in this table by terms according to their contractual maturity</li></ul>
 
@@ -16265,7 +16274,7 @@ The following is a breakdown of maturities of wholesale issues of the most signi
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 <ul class="cita"><li>(1) Regulatory capital instruments are classified in this table by terms according to their contractual maturity</li></ul>
 
@@ -16336,7 +16345,7 @@ The following is a breakdown of maturities of wholesale issues of the most signi
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 <ul class="cita"><li>(1) Regulatory capital instruments are classified in this table by terms according to their contractual maturity</li></ul>
 
@@ -16407,7 +16416,7 @@ The following is a breakdown of maturities of wholesale issues of the most signi
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 <ul class="cita"><li>(1) Regulatory capital instruments are classified in this table by terms according to their contractual maturity</li></ul>
 
@@ -16469,7 +16478,7 @@ As of December 31, 2016, the encumbered assets (provided as collateral or securi
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 The value of "Loans and other assets" encumbered correspond mainly to loans linked to the issue of mortgage-covered bonds, public covered bonds and long-term securitized bonds (see Note 22.3 to the Group's Annual Consolidated Financial Statements); and to those that guarantee access to certain funding transactions with central banks.  Debt securities and capital instruments respond to underlyings that are delivered in repo transactions with different types of counterparty, mainly clearing houses or credit institutions, and to a lesser extent, central banks.  Collateral provided to guarantee derivative operations is also included as encumbered assets.  
 
@@ -16523,7 +16532,7 @@ As of December 31, 2016, the collateral received mainly for repurchase agreement
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 The guarantees received in the form of reverse repurchase agreements or security loans are encumbered through the use of transactions in assets sold under repurchase agreements, similar to debt securities.   
 
@@ -16571,7 +16580,7 @@ As of December, 31 2016, all issued financial liabilities associated with the di
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 ## 3.8 Operational risk 
 
@@ -16682,7 +16691,7 @@ Operational Risk management in BBVA Group must:
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 These principles reflect BBVA Group's vision of OR, which is based on the premise that the events that occur as a result of OR have an ultimate cause that should always be identified. The control of the causes significantly reduces the impact of the events. The OR management tools provide information on the origin of OR and assist in its mitigation.  
 
@@ -16882,7 +16891,7 @@ The following charts illustrate the distribution of historical operational losse
         </tr>
     </tbody>
 </table>
-[Download table](#)
+ 
 
 The exchange rate includes the effect of the depreciation of the main currencies in which the Group operates.
 

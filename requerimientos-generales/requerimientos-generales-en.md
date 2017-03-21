@@ -32,11 +32,11 @@ The BBVA Group Annual Consolidated Financial Statements for 2016 are posted acco
 
 On the basis of accounting criteria, companies are considered to form part of a consolidated group when the controlling institution holds or can hold, directly or indirectly, control of them. An institution is understood to control another entity when it is exposed, or is entitled to variable returns as a result of its involvement in the investee and has the capacity to influence those returns through the power it exercises on the investee. For such control to exist, the following aspects must be fulfilled:
 
- **a) Power:** An investor has power over an investee when it has current rights that provide it with the capacity to direct its relevant activities, i.e. those that significantly affect the returns of the investee.
+ a) Power: An investor has power over an investee when it has current rights that provide it with the capacity to direct its relevant activities, i.e. those that significantly affect the returns of the investee.
 
- **b) Returns:** An investor is exposed, or is entitled to variable returns as a result of its involvement in the investee when the returns obtained by the investor for such involvement may vary based on the economic performance of the investee. Investor returns may be positive only, negative only or both positive and negative.
+ b) Returns: An investor is exposed, or is entitled to variable returns as a result of its involvement in the investee when the returns obtained by the investor for such involvement may vary based on the economic performance of the investee. Investor returns may be positive only, negative only or both positive and negative.
 
- **c) Relationship between power and returns:** An investor has control over an investee if the investor not only has power over the investee and is exposed, or is entitled to variable returns for its involvement in the investee, but also has the capacity to use its power to influence the returns it obtains due to its involvement in the investee.
+ c) Relationship between power and returns: An investor has control over an investee if the investor not only has power over the investee and is exposed, or is entitled to variable returns for its involvement in the investee, but also has the capacity to use its power to influence the returns it obtains due to its involvement in the investee.
 
 Therefore, in drawing up the Group’s consolidated Financial Statements, all dependent companies and consolidated structured entities have been consolidated by applying the full consolidation method.
 
@@ -183,14 +183,15 @@ As explained in Note 32 of the Group's Annual Consolidated Financial Statements,
 
 Furthermore, and in line with the RPDR, the following table shows the risks to which each one of the items in the regulatory balance sheet is exposed:
 
-**TABLE 2: LI1- Differences between the accounting and regulatory scopes of
+**TABLE 2: LI1 - Differences between the accounting and regulatory scopes of
 consolidation and the mapping of the financial statements categories with regulatory
 risk categories**
 
 <table class="l">
     <thead>
 	<tr class="m">
- <th colspan="2">Millions of euros</th>
+ <th rowspan="3">12/31/2016 (Millions of euros)</th>
+ <th></th>
  <th></th>
  <th></th>
  <th></th>
@@ -205,7 +206,6 @@ risk categories**
             <th colspan="5">Carrying values of items:</th>
         </tr>
         <tr>
-            <th>12/31/2016 (Millions of euros)</th>
             <th>Carrying values as reported in published financial statements</th>
             <th>Carrying Values under scope of regulatory consolidation</th>
             <th>Subject to credit risk framework</th>
@@ -523,19 +523,13 @@ risk categories**
 
 The table below summarizes the main sources of the differences between the amount of exposure in regulatory terms and the carrying values according to the Financial Statements. Following the instructions for template LI2 of the RPDR document, the amount of credit risk exposure by the standardized approach is presented net of provisions and value adjustments, while the credit risk exposures by the advanced approach are presented net of CCF and CRM:
 
-**TABLE 3: LI2- Main sources of the differences between regulatory original exposure
+**TABLE 3: LI2 - Main sources of the differences between regulatory original exposure
 amounts and carrying values in financial statements**
 
 <table class="l">
     <thead>
-	<tr class="m">
- <th colspan="2">Millions of euros</th>
- <th></th>
- <th></th>
- <th></th>
- <th></th>
-</tr>
-        <tr class="m">
+
+        <tr>
             <th>12/31/2016 (Millions of euros)</th>
             <th colspan="5">Items subject to:</th>
         </tr>
@@ -550,7 +544,7 @@ amounts and carrying values in financial statements**
     </thead>
     <tbody>
         <tr class="b2">
-            <td>Asset carrying value amount under scope of regulatory consolidation (as per template LI1)</td>
+            <td>1 Asset carrying value amount under scope of regulatory consolidation (as per template LI1)</td>
             <td>678,053</td>
             <td>577,103</td>
             <td>6,484</td>
@@ -558,15 +552,15 @@ amounts and carrying values in financial statements**
             <td>23,615</td>
         </tr>
         <tr class="b2">
-            <td>Liabilities carrying value amount under regulatory scope of consolidation (as per template LI1)</td>
+            <td>2 Liabilities carrying value amount under regulatory scope of consolidation (as per template LI1)</td>
             <td>47,280</td>
             <td>950</td>
-            <td>0</td>
+            <td>-</td>
             <td>46,330</td>
-            <td>0</td>
+            <td>-</td>
         </tr>
         <tr class="b2">
-            <td>Total net amount under regulatory scope of consolidation</td>
+            <td>3 Total net amount under regulatory scope of consolidation</td>
             <td>48,876</td>
             <td>99,216</td>
             <td>(443)</td>
@@ -574,7 +568,7 @@ amounts and carrying values in financial statements**
             <td>(23,615)</td>
         </tr>
         <tr>
-            <td>Amount of off-balance-sheet losses (risks and contingent commitments)</td>
+            <td>4 Amount of off-balance-sheet losses (risks and contingent commitments)</td>
             <td>167,413</td>
             <td>167,413</td>
             <td>-</td>
@@ -582,7 +576,7 @@ amounts and carrying values in financial statements**
             <td>-</td>
         </tr>
         <tr>
-            <td>Counterparty risk in derivatives (includes the add-on)</td>
+            <td>5 Counterparty risk in derivatives (includes the add-on)</td>
             <td>15,629</td>
             <td>-</td>
             <td>-</td>
@@ -590,7 +584,7 @@ amounts and carrying values in financial statements**
             <td>-</td>
         </tr>
         <tr>
-            <td>Differences due to netting standards (netting, long/short positions)</td>
+            <td>6 Differences due to netting standards (netting, long/short positions)</td>
             <td>(62,739)</td>
             <td>-</td>
             <td>-</td>
@@ -598,7 +592,7 @@ amounts and carrying values in financial statements**
             <td>(23,615)</td>
         </tr>
         <tr>
-            <td>Non-eligibility of the balances corresponding to accounting hedges (derivatives)</td>
+            <td>7 Non-eligibility of the balances corresponding to accounting hedges (derivatives)</td>
             <td>(2,726)</td>
             <td>(17)</td>
             <td>-</td>
@@ -606,7 +600,7 @@ amounts and carrying values in financial statements**
             <td>-</td>
         </tr>
         <tr>
-            <td>Non-eligibility of the balances corresponding to accounting hedges (adjustments for micro-hedging/portfolio hedges)</td>
+            <td>8 Non-eligibility of the balances corresponding to accounting hedges (adjustments for micro-hedging/portfolio hedges)</td>
             <td>(1,406)</td>
             <td>(1,406)</td>
             <td>-</td>
@@ -614,7 +608,7 @@ amounts and carrying values in financial statements**
             <td>-</td>
         </tr>
         <tr>
-            <td>Non-eligibility of other financial assets (mainly balances of guarantees provided in cash)</td>
+            <td>9 Non-eligibility of other financial assets (mainly balances of guarantees provided in cash)</td>
             <td>(5,079)</td>
             <td>(5,079)</td>
             <td>-</td>
@@ -622,7 +616,7 @@ amounts and carrying values in financial statements**
             <td>-</td>
         </tr>
         <tr>
-            <td>Non-eligibility of accounts without loan book risk (premiums, transaction costs)</td>
+            <td>10 Non-eligibility of accounts without loan book risk (premiums, transaction costs)</td>
             <td>(524)</td>
             <td>(524)</td>
             <td>-</td>
@@ -630,7 +624,7 @@ amounts and carrying values in financial statements**
             <td>-</td>
         </tr>
         <tr>
-            <td>Non-eligibility of underlying assets of securitizations</td>
+            <td>11 Non-eligibility of underlying assets of securitizations</td>
             <td>(412)</td>
             <td>-</td>
             <td>(412)</td>
@@ -638,7 +632,7 @@ amounts and carrying values in financial statements**
             <td>-</td>
         </tr>
         <tr>
-            <td>Accounting Provisions(1)</td>
+            <td>12 Accounting Provisions(1)</td>
             <td>7,994</td>
             <td>7,994</td>
             <td>-</td>
@@ -646,7 +640,7 @@ amounts and carrying values in financial statements**
             <td>-</td>
         </tr>
         <tr>
-            <td>Corresponding amount of credit risk mitigation techniques (CRM) (2)</td>
+            <td>13 Corresponding amount of credit risk mitigation techniques (CRM) (2)</td>
             <td>(21,447)</td>
             <td>(21,369)</td>
             <td>-</td>
@@ -654,7 +648,7 @@ amounts and carrying values in financial statements**
             <td>-</td>
         </tr>
         <tr>
-            <td>Corresponding amount of credit conversion factors (CCF) (3)</td>
+            <td>14 Corresponding amount of credit conversion factors (CCF) (3)</td>
             <td>(47,796)</td>
             <td>(47,796)</td>
             <td>-</td>
@@ -662,7 +656,7 @@ amounts and carrying values in financial statements**
             <td>-</td>
         </tr>
         <tr>
-            <td>Other (4)</td>
+            <td>15 Other (4)</td>
             <td>(31)</td>
             <td>-</td>
             <td>(31)</td>
@@ -670,7 +664,7 @@ amounts and carrying values in financial statements**
             <td>-</td>
         </tr>
         <tr class="b2">
-            <td>Exposure amounts considered for regulatory purposes</td>
+            <td>16 Exposure amounts considered for regulatory purposes</td>
             <td>774,209</td>
             <td>677,269</td>
             <td>6,041</td>
@@ -702,13 +696,13 @@ The following table breaks down the credit risk and counterparty credit risk amo
 </tr>
         <tr>
             <th>12/31/2016</th>
-            <th colspan="3">Riesgo de crédito(****)</th>
+            <th colspan="3">Credit Risk (4)</th>
         </tr>
         <tr>
             <th>Public Balance Sheet Headings</th>
-            <th>OE*</th>
-            <th>EAD**</th>
-            <th>APRs***</th>
+            <th>OE (1)</th>
+            <th>EAD (2)</th>
+            <th>APRs (3)</th>
         </tr>
     </thead>
     <tbody>
@@ -788,10 +782,10 @@ The following table breaks down the credit risk and counterparty credit risk amo
 </table>
 
 
-<ul class="cita"><li>*OE: Original Exposure</li>
-<li>**EAD: OE net of provisions, adjustments and other exposures with no risk-weight</li>
-<li>***RWAs: EAD after taking into account risk-weights</li>
-<li>****Excluding funds for ECC defaultsCredit</li></ul>
+<ul class="cita"><li>(1) OE: Original Exposure</li>
+<li>(2) EAD: OE net of provisions, adjustments and other exposures with no risk-weight</li>
+<li>(3) RWAs: EAD after taking into account risk-weights</li>
+<li>(4) Excluding funds for ECC defaults</li></ul>
 
 ### 1.1.4. Main changes in the Group's scope of consolidation in 2016
 

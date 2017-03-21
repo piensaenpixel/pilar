@@ -91,12 +91,8 @@ The table below shows the amount of total eligible capital, net of deductions, f
  <th colspan="2">(Millions of euros)</th>
  <th></th>
 </tr>
-        <tr class="m">
-            <th></th>
-            <th>Eligible capital resources</th>
-        </tr>
         <tr>
-            <th></th>
+            <th>Eligible capital resources</th>
             <th>12/31/2016</th>
             <th>13/31/2015</th>
         </tr>
@@ -177,7 +173,7 @@ The table below shows the amount of total eligible capital, net of deductions, f
             <td>-</td>
             <td>(549)</td>
         </tr>
-        <tr class="b">
+        <tr class="b2">
             <td>Total Common Equity Tier 1 regulatory adjustments</td>
             <td>(6,969)</td>
             <td>(6,275)</td>
@@ -238,9 +234,9 @@ The table below shows the amount of total eligible capital, net of deductions, f
             <td>5,716</td>
         </tr>
         <tr>
-            <td>-Of which: instruments issued by subsidiaries subject to ex-subsidiary stage</td>
-            <td>350</td>
-            <td>(99)</td>
+            <td><i>-Of which: instruments issued by subsidiaries subject to ex-subsidiary stage</i></td>
+            <td><i>350</i></td>
+            <td><i>(99)</i></td>
         </tr>
         <tr>
             <td>u) Credit risk adjustments</td>
@@ -257,7 +253,7 @@ The table below shows the amount of total eligible capital, net of deductions, f
             <td>-</td>
             <td>-</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Tier 2</td>
             <td>8,810</td>
             <td>11,646</td>
@@ -415,14 +411,14 @@ The process followed is shown below, according to the recommendations issued by 
             <td>(788)</td>
         </tr>
         <tr>
-            <td>Capital gains from the Available-for-sale debt instruments portfolio</td>
-            <td>(402)</td>
-            <td>(796)</td>
+            <td><i>Capital gains from the Available-for-sale debt instruments portfolio</i></td>
+            <td><i>(402)</i></td>
+            <td><i>(796)</i></td>
         </tr>
         <tr>
-            <td>Capital gains from the Available-for-sale equity portfolio</td>
-            <td>273</td>
-            <td>8</td>
+            <td><i>Capital gains from the Available-for-sale equity portfolio</i></td>
+            <td><i>273</i></td>
+            <td><i>8</i></td>
         </tr>
         <tr>
             <td>Differences from solvency and accounting level</td>
@@ -486,19 +482,19 @@ BBVA Group has a General Risk Management and control model (hereinafter, the "Mo
 
 The risks inherent in the business that make up the risk profile of BBVA Group are as follows:
 
-- **Credit risk:** credit risk arises from the probability that one party to a financial instrument will fail to meet its contractual obligations for reasons of insolvency or inability to pay and cause a financial loss for the other party. This includes counterparty credit risk, issuer credit risk, liquidation risk and country risk.
+- Credit risk: credit risk arises from the probability that one party to a financial instrument will fail to meet its contractual obligations for reasons of insolvency or inability to pay and cause a financial loss for the other party. This includes counterparty credit risk, issuer credit risk, liquidation risk and country risk.
 
-- **Counterparty credit risk:** counterparty credit risk originates in the possibility of losses derived from positions in derivatives and repos.
+- Counterparty credit risk: counterparty credit risk originates in the possibility of losses derived from positions in derivatives and repos.
 
-- **Credit valuation adjustment (CVA) risk:** its aim is to reflect the impact on the fair value of the counterparty's credit risk.
+- Credit valuation adjustment (CVA) risk: its aim is to reflect the impact on the fair value of the counterparty's credit risk.
 
-- **Market risk:** market risk originates in the possibility that there may be losses in the value of positions held due to movements in the market variables that affect the valuation of financial products and assets in trading activity.
+- Market risk: market risk originates in the possibility that there may be losses in the value of positions held due to movements in the market variables that affect the valuation of financial products and assets in trading activity.
 
-- **Operational risk:** operational risk is defined as the one that could potentially cause losses due to human errors, inadequate or faulty internal processes, system failures or external events. This definition includes legal risk, but excludes strategic and/or business risk and reputational risk.
+- Operational risk: operational risk is defined as the one that could potentially cause losses due to human errors, inadequate or faulty internal processes, system failures or external events. This definition includes legal risk, but excludes strategic and/or business risk and reputational risk.
 
-- **Structural risks:** these are divided into structural interest-rate risk (movements in interest rates that cause alterations in an entity's net interest income and book value) and structural exchange-rate risk (exposure to variations in exchange rates originated in the Group's foreign companies and in the provision of funds to foreign branches financed in a different currency to that of the investment).
+- Structural risks: these are divided into structural interest-rate risk (movements in interest rates that cause alterations in an entity's net interest income and book value) and structural exchange-rate risk (exposure to variations in exchange rates originated in the Group's foreign companies and in the provision of funds to foreign branches financed in a different currency to that of the investment).
 
-- **Liquidity risk:** risk of an entity having difficulties in duly meeting its payment commitments, and where it does not have to resort to funding under burdensome terms which may harm the bank's image or reputation.
+- Liquidity risk: risk of an entity having difficulties in duly meeting its payment commitments, and where it does not have to resort to funding under burdensome terms which may harm the bank's image or reputation.
 
 The chart below shows the total risk-weighted assets broken down by type of risk (where the credit risk encompasses the counterparty credit risk) as of December 31 2016 and December 31 2015:
 
@@ -562,8 +558,7 @@ Below the total for capital requirements is shown, broken down by type of risk a
 </tr>
         <tr class="tableizer-firstrow">
             <th></th>
-            <th></th>
-            <th colspan="1">RWA (1)</th>
+            <th colspan="2">RWA (1)</th>
             <th colspan="1">Minimum Capital Requirements (2) (3)</th>
         </tr>
         <tr class="tableizer-firstrow">
@@ -601,7 +596,7 @@ Below the total for capital requirements is shown, broken down by type of risk a
         <tr>
             <td>Of which equity IRB under the simple risk-weighted approach or the IMA (6)</td>
             <td>3,548</td>
-            <td>5,507</td>
+            <td>3,507</td>
             <td>284</td>
         </tr>
         <tr class="b2">
@@ -698,7 +693,7 @@ Below the total for capital requirements is shown, broken down by type of risk a
             <td>Of which IMA</td>
             <td>9,258</td>
             <td>9,355</td>
-            <td>74º</td>
+            <td>741</td>
         </tr>
         <tr class="b2">
             <td>Operational Risk</td>

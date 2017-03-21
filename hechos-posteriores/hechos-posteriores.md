@@ -4,6 +4,7 @@ title: Hechos posteriores
 lang: es
 permalink: /hechos-posteriores/
 submenu: hechos
+headerTitle: Informe con Relevancia Prudencial 2016
 ---
 
 # Hechos posteriores

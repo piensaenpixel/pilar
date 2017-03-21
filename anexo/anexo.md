@@ -6,7 +6,6 @@ permalink: /anexo/
 submenu: anexo
 ---
 
-
 {% include dropdown.html %}
 
 # Cuadro Resumen Anexos I al IV
@@ -90,11 +89,11 @@ submenu: anexo
 <table class="l">
     <thead>
         <tr class="m">
-            <td>Millones de euros</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>31 de diciembre de 2016</td>
+            <th>Millones de euros</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th>31 de diciembre de 2016</th>
         </tr>
         <tr class="tableizer-firstrow">
             <th>Seguros participación >10%</th>
@@ -159,14 +158,14 @@ submenu: anexo
             <td>E - Puesta en Equivalencia</td>
             <td>E - Puesta en Equivalencia</td>
             <td>Seguros</td>
-            <td>0</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>BBVA BANCOMER SEGUROS SALUD, S.A. DE C.V</td>
             <td>G - Integración Global</td>
             <td>E - Puesta en Equivalencia</td>
             <td>Seguros</td>
-            <td>47</td>
+            <td>19</td>
         </tr>
         <tr>
             <td>BBVA RE DAC</td>
@@ -180,7 +179,7 @@ submenu: anexo
             <td>N - No consolida</td>
             <td>N - No consolida</td>
             <td>Seguros</td>
-            <td>0</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>BBVA SEGUROS DE VIDA, S.A.</td>
@@ -258,11 +257,11 @@ submenu: anexo
 <table class="l">
     <thead>
         <tr class="m">
-            <td>Millones de euros</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>31 de diciembre de 2016</td>
+            <th>Millones de euros</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th>31 de diciembre de 2016</th>
         </tr>
         <tr class="tableizer-firstrow">
             <th>Financieras participación >10%</th>
@@ -299,21 +298,21 @@ submenu: anexo
             <td>N - No consolida</td>
             <td>N - No consolida</td>
             <td>Financiera</td>
-            <td>0</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>BOLSA ELECT.VALORES</td>
             <td>N - No consolida</td>
             <td>N - No consolida</td>
             <td>Financiera</td>
-            <td>0,000</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>DECEVAL, S.A.</td>
             <td>N - No consolida</td>
             <td>N - No consolida</td>
             <td>Financiera</td>
-            <td>0</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>SISTARBANC S.R.L.</td>
@@ -334,7 +333,7 @@ submenu: anexo
             <td>N - No consolida</td>
             <td>N - No consolida</td>
             <td>Financiera</td>
-            <td>0</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>ACH 4G</td>
@@ -355,14 +354,14 @@ submenu: anexo
             <td>N - No consolida</td>
             <td>N - No consolida</td>
             <td>Financiera</td>
-            <td>0</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>SPI</td>
             <td>N - No consolida</td>
             <td>N - No consolida</td>
             <td>Financiera</td>
-            <td>0</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>ROMBO COMPAÑIA FINANCIERA, S.A.</td>
@@ -390,7 +389,7 @@ submenu: anexo
             <td>N - No consolida</td>
             <td>N - No consolida</td>
             <td>Financiera</td>
-            <td>0</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>CAJA EMISIONES</td>
@@ -439,14 +438,14 @@ submenu: anexo
             <td>N - No consolida</td>
             <td>N - No consolida</td>
             <td>Financiera</td>
-            <td>0</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>COMPASS INVESTMENTS, INC.</td>
             <td>G - Integración Global</td>
             <td>E - Puesta en Equivalencia</td>
             <td>Financiera</td>
-            <td>01</td>
+            <td>0</td>
         </tr>
         <tr>
             <td>COMPASS CUSTODIAL SERVICES, INC.</td>
@@ -488,7 +487,7 @@ submenu: anexo
             <td>E - Puesta en Equivalencia</td>
             <td>E - Puesta en Equivalencia</td>
             <td>Financiera</td>
-            <td>0</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>FIDEICOMISO F/00185 FIMPE</td>
@@ -1223,7 +1222,7 @@ submenu: anexo
             <td>E - Puesta en Equivalencia</td>
             <td>E - Puesta en Equivalencia</td>
             <td>Inmobiliaria</td>
-            <td>1º</td>
+            <td>11</td>
         </tr>
         <tr>
             <td>METROVACESA SUELO Y PROMOCION, SA</td>
@@ -2255,7 +2254,7 @@ submenu: anexo
             <td>Legislación Española</td>
         </tr>
         <tr>
-            <td>*Tratamiento normativo*</td>
+            <td><i>Tratamiento normativo</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -2284,10 +2283,10 @@ submenu: anexo
         </tr>
         <tr>
             <td>7. Tipo de instrumento (cada país especificará los tipos pertinentes)</td>
-            <td>*Contingent Convertible*</td>
-            <td>*Contingent Convertible*</td>
-            <td>*Contingent Convertible*</td>
-            <td>*Contingent Convertible*</td>
+            <td><i>Contingent Convertible</i></td>
+            <td><i>Contingent Convertible</i></td>
+            <td><i>Contingent Convertible</i></td>
+            <td><i>Contingent Convertible</i></td>
         </tr>
         <tr>
             <td>8. Importe reconocido en el capital reglamentario (moneda en millones, en la fecha de la última notificación (Mill EUR)</td>
@@ -2354,10 +2353,10 @@ submenu: anexo
         </tr>
         <tr>
             <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
-            <td>*Call date* del emisor: 09/05/2018; sujeto tanto al *Regulatory call* como al *Tax call*</td>
-            <td>*Call date* del emisor: 19/02/2019; sujeto tanto al *Regulatory call* como al *Tax call*</td>
-            <td>*Call date* del emisor: 18/02/2020; sujeto tanto al *Regulatory call* como al *Tax call*</td>
-            <td>*Call date* del emisor: 14/04/2021; sujeto tanto al *Regulatory call* como al *Tax call*</td>
+            <td><i>Call date</i> del emisor: 09/05/2018; sujeto tanto al <i>Regulatory call</i> como al <i>Tax call</i></td>
+            <td><i>Call date</i> del emisor: 19/02/2019; sujeto tanto al <i>Regulatory call</i> como al <i>Tax call</i></td>
+            <td><i>Call date</i> del emisor: 18/02/2020; sujeto tanto al <i>Regulatory call</i> como al <i>Tax call</i></td>
+            <td><i>Call date</i> del emisor: 14/04/2021; sujeto tanto al <i>Regulatory call</i> como al <i>Tax call</i></td>
         </tr>
         <tr>
             <td>16. Fechas de ejercicio posteriores, si procede</td>
@@ -2367,7 +2366,7 @@ submenu: anexo
             <td>En cualquier momento a partir de la primera fecha de reinicio</td>
         </tr>
         <tr>
-            <td>*Cupones / dividendos*</td>
+            <td><i>Cupones / dividendos</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -2509,10 +2508,10 @@ submenu: anexo
         <tr>
             <td>35. Posición en la jerarquía de subordinación en la liquidación (especifíquense el tipo de instrumento de rango inmediatamente superior)
             </td>
-            <td>Senior a acciones ordinarias y reservas y *pari passu* con las preferentes</td>
-            <td>Senior a acciones ordinarias y reservas y *pari passu* con las preferentes</td>
-            <td>Senior a acciones ordinarias y reservas y *pari passu* con las preferentes</td>
-            <td>Senior a acciones ordinarias y reservas y *pari passu* con las preferentes</td>
+            <td>Senior a acciones ordinarias y reservas y <i>pari passu</i> con las preferentes</td>
+            <td>Senior a acciones ordinarias y reservas y <i>pari passu</i> con las preferentes</td>
+            <td>Senior a acciones ordinarias y reservas y <i>pari passu</i> con las preferentes</td>
+            <td>Senior a acciones ordinarias y reservas y <i>pari passu</i> con las preferentes</td>
         </tr>
         <tr>
             <td>36. Características no conformes tras la transición</td>
@@ -2561,7 +2560,7 @@ submenu: anexo
             <td>Legislación Española</td>
         </tr>
         <tr>
-            <td>*Tratamiento normativo*</td>
+            <td><i>Tratamiento normativo</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -2660,20 +2659,20 @@ submenu: anexo
         </tr>
         <tr>
             <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
-            <td>*Call date* del emisor: 18/04/2017; sujeto tanto al *Regulatory call* como al *Tax call*</td>
-            <td>*Call date* del emisor: 19/07/2012; sujeto tanto al *Regulatory call* como al *Tax call*</td>
-            <td>*Call date* del emisor: 20/09/2016; sujeto tanto al *Regulatory call* como al *Tax call*</td>
-            <td>*Call date* del emisor: 14/07/2016</td>
+            <td><i>Call date</i> del emisor: 18/04/2017; sujeto tanto al <i>Regulatory call</i> como al <i>Tax call</i></td>
+            <td><i>Call date</i> del emisor: 19/07/2012; sujeto tanto al <i>Regulatory call</i> como al <i>Tax call</i></td>
+            <td><i>Call date</i> del emisor: 20/09/2016; sujeto tanto al <i>Regulatory call</i> como al <i>Tax call</i></td>
+            <td><i>Call date</i> del emisor: 14/07/2016</td>
         </tr>
         <tr>
             <td>16. Fechas de ejercicio posteriores, si procede</td>
             <td>En intervalos de diez años empezando el 18 de abril de 2017</td>
-            <td>En cualquier fecha de pago de distribución que cae en o después de la primera *call date*</td>
-            <td>En cualquier fecha de pago de distribución que cae en o después de la primera *call date*</td>
-            <td>En cualquier fecha de pago de distribución que cae en o después de la primera *call date*</td>
+            <td>En cualquier fecha de pago de distribución que cae en o después de la primera <i>Call date</i></td>
+            <td>En cualquier fecha de pago de distribución que cae en o después de la primera <i>Call date</i></td>
+            <td>En cualquier fecha de pago de distribución que cae en o después de la primera <i>Call date</i></td>
         </tr>
         <tr>
-            <td>*Cupones / dividendos*</td>
+            <td><i>Cupones / dividendos</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -2815,10 +2814,10 @@ submenu: anexo
         <tr>
             <td>35. Posición en la jerarquía de subordinación en la liquidación (especifíquense el tipo de instrumento de rango inmediatamente superior)
             </td>
-            <td>Senior a acciones ordinarias y reservas y *pari passu* con las preferentes</td>
-            <td>Senior a acciones ordinarias y reservas y *pari passu* con los instrumentos de Nivel 1 Adicional</td>
-            <td>Senior a acciones ordinarias y reservas y *pari passu* con los instrumentos de Nivel 1 Adicional</td>
-            <td>Senior a acciones ordinarias y reservas y *pari passu* con los instrumentos de Nivel 1 Adicional</td>
+            <td>Senior a acciones ordinarias y reservas y <i>pari passu</i> con las preferentes</td>
+            <td>Senior a acciones ordinarias y reservas y <i>pari passu</i> con los instrumentos de Nivel 1 Adicional</td>
+            <td>Senior a acciones ordinarias y reservas y <i>pari passu</i> con los instrumentos de Nivel 1 Adicional</td>
+            <td>Senior a acciones ordinarias y reservas y <i>pari passu</i> con los instrumentos de Nivel 1 Adicional</td>
         </tr>
         <tr>
             <td>36. Características no conformes tras la transición</td>
@@ -2867,7 +2866,7 @@ submenu: anexo
             <td>Legislación Inglesa</td>
         </tr>
         <tr>
-            <td>*Tratamiento normativo*</td>
+            <td><i>Tratamiento normativo</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -2966,20 +2965,20 @@ submenu: anexo
         </tr>
         <tr>
             <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
-            <td>*Call date* del emisor: 10/08/2011</td>
-            <td>*Call date* del emisor: 22/09/2015; sujeto tanto al *Regulatory call* como al *Tax call*</td>
-            <td>*Call date* del emisor: 13/10/2015; *Tax call* (En cualquier momento tras cinco años)</td>
-            <td>*Call date* del emisor: 11/04/2019; sujeto tanto al *Regulatory call* como al *Tax call*</td>
+            <td><i>Call date</i> del emisor: 10/08/2011</td>
+            <td><i>Call date</i> del emisor: 22/09/2015; sujeto tanto al <i>Regulatory call</i> como al <i>Tax call</i></td>
+            <td><i>Call date</i> del emisor: 13/10/2015; <i>Tax call</i> (En cualquier momento tras cinco años)</td>
+            <td><i>Call date</i> del emisor: 11/04/2019; sujeto tanto al <i>Regulatory call</i> como al <i>Tax call</i></td>
         </tr>
         <tr>
             <td>16. Fechas de ejercicio posteriores, si procede</td>
-            <td>En cualquier fecha de pago de distribución que cae en o después de la primera *call date*</td>
-            <td>En cualquier fecha de pago de distribución que cae en o después de la primera *call date*</td>
-            <td>*Call date* de emisión y en cada día de pago de intereses a partir de entonces</td>
+            <td>En cualquier fecha de pago de distribución que cae en o después de la primera <i>Call date</i></td>
+            <td>En cualquier fecha de pago de distribución que cae en o después de la primera <i>Call date</i></td>
+            <td><i>Call date</i> de emisión y en cada día de pago de intereses a partir de entonces</td>
             <td>No</td>
         </tr>
         <tr>
-            <td>*Cupones / dividendos*</td>
+            <td><i>Cupones / dividendos</i></td>
             <td>&nbsp;</td>
             <td>0</td>
             <td>&nbsp;</td>
@@ -3121,8 +3120,8 @@ submenu: anexo
         <tr>
             <td>35. Posición en la jerarquía de subordinación en la liquidación (especifíquense el tipo de instrumento de rango inmediatamente superior)
             </td>
-            <td>Senior a acciones ordinarias y reservas y *pari passu* con los instrumentos de Nivel 1 Adicional</td>
-            <td>De senior a acciones ordinarias y reservas y *pari passu* con los instrumentos de Nivel 1 Adicional</td>
+            <td>Senior a acciones ordinarias y reservas y <i>pari passu</i> con los instrumentos de Nivel 1 Adicional</td>
+            <td>De senior a acciones ordinarias y reservas y <i>pari passu</i> con los instrumentos de Nivel 1 Adicional</td>
             <td>De senior a preferentes, instrumentos de Nivel 1 Adicional e instrumentos de Nivel 2 Superior (Perpetuo)</td>
             <td>Obligaciones senior distintas de los valores de paridad de rango inmediatamente superior</td>
         </tr>
@@ -3173,7 +3172,7 @@ submenu: anexo
             <td>Legislación Española</td>
         </tr>
         <tr>
-            <td>*Tratamiento normativo*</td>
+            <td><i>Tratamiento normativo</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -3272,20 +3271,20 @@ submenu: anexo
         </tr>
         <tr>
             <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
-            <td>Sin *call date* opcional; *Tax call*</td>
+            <td>Sin <i>Call date</i> opcional; <i>Tax call</i></td>
             <td>No</td>
-            <td>Sin *call date* opcional; *Tax call*</td>
-            <td>*Call date* del emisor: 03/03/2028</td>
+            <td>Sin <i>Call date</i> opcional; <i>Tax call</i></td>
+            <td><i>Call date</i> del emisor: 03/03/2028</td>
         </tr>
         <tr>
             <td>16. Fechas de ejercicio posteriores, si procede</td>
             <td>En cualquier momento a partir del quinto año</td>
             <td>NA</td>
             <td>En cualquier momento a partir del quinto año</td>
-            <td>*Call date* de emisión y en cada día de pago de intereses a partir de entonces</td>
+            <td><i>Call date</i> de emisión y en cada día de pago de intereses a partir de entonces</td>
         </tr>
         <tr>
-            <td>*Cupones / dividendos*</td>
+            <td><i>Cupones / dividendos</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -3453,7 +3452,7 @@ submenu: anexo
 <table class="l">
     <thead>
         <tr class="tableizer-firstrow">
-            <th colspan="5">Plantilla para la presentación de las principales características de los instrumentos de capital</th>
+            <th colspan="6">Plantilla para la presentación de las principales características de los instrumentos de capital</th>
         </tr>
     </thead>
     <tbody>
@@ -3482,7 +3481,7 @@ submenu: anexo
             <td>Legislación Española</td>
         </tr>
         <tr>
-            <td>*Tratamiento normativo*</td>
+            <td><i>Tratamiento normativo</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -3595,22 +3594,22 @@ submenu: anexo
         </tr>
         <tr>
             <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
-            <td>*Call date* del emisor: 16/02/2017</td>
-            <td>Sin *call date* del emisor; *Tax call*</td>
-            <td>Sin *call date* del emisor; *Tax call*</td>
-            <td>*Call date* del emisor: 03/06/2010</td>
-            <td>*Call date* del emisor: 09/08/2016</td>
+            <td><i>Call date</i> del emisor: 16/02/2017</td>
+            <td>Sin <i>Call date</i> del emisor; <i>Tax call</i></td>
+            <td>Sin <i>Call date</i> del emisor; <i>Tax call</i></td>
+            <td><i>Call date</i> del emisor: 03/06/2010</td>
+            <td><i>Call date</i> del emisor: 09/08/2016</td>
         </tr>
         <tr>
             <td>16. Fechas de ejercicio posteriores, si procede</td>
-            <td>*Call date* de emisión y en cada día de pago de intereses a partir de entonces</td>
+            <td><i>Call date</i> de emisión y en cada día de pago de intereses a partir de entonces</td>
             <td>En cualquier momento a partir del quinto año</td>
             <td>En cualquier momento a partir del 11/12/2000</td>
-            <td>*Call date* de emisión y en cada día de pago de intereses a partir de entonces</td>
-            <td>*Call date* de emisión y en cada año a partir de entonces</td>
+            <td><i>Call date</i> de emisión y en cada día de pago de intereses a partir de entonces</td>
+            <td><i>Call date</i> de emisión y en cada año a partir de entonces</td>
         </tr>
         <tr>
-            <td>*Cupones / dividendos*</td>
+            <td><i>Cupones / dividendos</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -3627,11 +3626,11 @@ submenu: anexo
         </tr>
         <tr>
             <td>18. Tipo de interés del cupón y cualquier índice conexo</td>
-            <td>4,50%; después del *call date*: 3M EURIBOR + 80PBS</td>
+            <td>4,50%; después del <i>Call date</i>: 3M EURIBOR + 80PBS</td>
             <td>CMS 10YR + 0,03%</td>
             <td>7,00%</td>
             <td>2,50%</td>
-            <td>4,70%; 3M EURIBOR + 1,08% desde el *call date* del emisor</td>
+            <td>4,70%; 3M EURIBOR + 1,08% desde el <i>Call date</i> del emisor</td>
         </tr>
         <tr>
             <td>19. Existencia de limitaciones al pago de dividendos</td>
@@ -3830,7 +3829,7 @@ submenu: anexo
             <td>Legislación Española</td>
         </tr>
         <tr>
-            <td>*Tratamiento normativo*</td>
+            <td><i>Tratamiento normativo</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -3943,22 +3942,22 @@ submenu: anexo
         </tr>
         <tr>
             <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
-            <td>*Call date* del emisor: 09/08/2016</td>
-            <td>*Call date* del emisor: 28/01/2015</td>
-            <td>*Call date* del emisor: 15/02/2012</td>
-            <td>*Call date* del emisor: 10/06/2019</td>
-            <td>*Call date* del emisor: 01/03/2027</td>
+            <td><i>Call date</i> del emisor: 09/08/2016</td>
+            <td><i>Call date</i> del emisor: 28/01/2015</td>
+            <td><i>Call date</i> del emisor: 15/02/2012</td>
+            <td><i>Call date</i> del emisor: 10/06/2019</td>
+            <td><i>Call date</i> del emisor: 01/03/2027</td>
         </tr>
         <tr>
             <td>16. Fechas de ejercicio posteriores, si procede</td>
-            <td>*Call date* de emisión y en cada año a partir de entonces</td>
-            <td>*Call date* de emisión y en cada día de pago de intereses a partir de entonces</td>
-            <td>*Call date* de emisión y en cada día de pago de intereses a partir de entonces</td>
-            <td>*Call date* de emisión y en cada día de pago de intereses a partir de entonces</td>
-            <td>*Call date* de emisión y en cada día de pago de intereses a partir de entonces</td>
+            <td><i>Call date</i> de emisión y en cada año a partir de entonces</td>
+            <td><i>Call date</i> de emisión y en cada día de pago de intereses a partir de entonces</td>
+            <td><i>Call date</i> de emisión y en cada día de pago de intereses a partir de entonces</td>
+            <td><i>Call date</i> de emisión y en cada día de pago de intereses a partir de entonces</td>
+            <td><i>Call date</i> de emisión y en cada día de pago de intereses a partir de entonces</td>
         </tr>
         <tr>
-            <td>*Cupones / dividendos*</td>
+            <td><i>Cupones / dividendos</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -3975,7 +3974,7 @@ submenu: anexo
         </tr>
         <tr>
             <td>18. Tipo de interés del cupón y cualquier índice conexo</td>
-            <td>3M EURIBOR + 0,58%; 3M EURIBOR + 1,08% desde el *call date* del emisor</td>
+            <td>3M EURIBOR + 0,58%; 3M EURIBOR + 1,08% desde el <i>Call date</i> del emisor</td>
             <td>3M EURIBOR + 1,02% desde 28/01/15</td>
             <td>3M EURIBOR + 0,44%</td>
             <td>7,50% hasta 09/06/11; desde 10/06/11 hasta 09/06/19: 3M EURIBOR +5,25%; dese 10/06/19 hasta 10/06/24: 3M EURIBOR +6%</td>
@@ -4181,7 +4180,7 @@ submenu: anexo
             <td>Legislación neoyorquina</td>
         </tr>
         <tr>
-            <td>*Tratamiento normativo*</td>
+            <td><i>Tratamiento normativo</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -4308,12 +4307,12 @@ submenu: anexo
         </tr>
         <tr>
             <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
-            <td>Solo sujeto tanto al *Regulatory call* como al *Tax call* (en su totalidad)</td>
-            <td>Solo sujeto tanto al *Regulatory call* como al *Tax call* (en su totalidad)</td>
-            <td>Solo sujeto tanto al *Regulatory call* como al *Tax call* (en su totalidad)</td>
-            <td>Solo sujeto tanto al *Regulatory call* como al *Tax call* (en su totalidad)</td>
-            <td>17/05/2017 total o parcialmente, también sujueta tanto al *Regulatory call* como al *Tax call* (solo en su totalidad)</td>
-            <td>12/11/2024 total o parcialmente. (también sujeto tanto al *Regulatory call* como al *Tax call*, solo en amortización completa)</td>
+            <td>Solo sujeto tanto al <i>Regulatory call</i> como al <i>Tax call</i> (en su totalidad)</td>
+            <td>Solo sujeto tanto al <i>Regulatory call</i> como al <i>Tax call</i> (en su totalidad)</td>
+            <td>Solo sujeto tanto al <i>Regulatory call</i> como al <i>Tax call</i> (en su totalidad)</td>
+            <td>Solo sujeto tanto al <i>Regulatory call</i> como al <i>Tax call</i> (en su totalidad)</td>
+            <td>17/05/2017 total o parcialmente, también sujueta tanto al <i>Regulatory call</i> como al <i>Tax call</i> (solo en su totalidad)</td>
+            <td>12/11/2024 total o parcialmente. (también sujeto tanto al <i>Regulatory call</i> como al <i>Tax call</i>, solo en amortización completa)</td>
         </tr>
         <tr>
             <td>16. Fechas de ejercicio posteriores, si procede</td>
@@ -4325,7 +4324,7 @@ submenu: anexo
             <td>No</td>
         </tr>
         <tr>
-            <td>*Cupones / dividendos*</td>
+            <td><i>Cupones / dividendos</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -4505,17 +4504,17 @@ submenu: anexo
             <td>N/A</td>
         </tr>
 <td>35. Posición en la jerarquía de subordinación en la liquidación (especifíquense el tipo de instrumento de rango inmediatamente superior)</td>
-            <td>"Deudas Preferentes
-y (i) clasificará junior a toda la presente y futura Deuda senior, (ii) clasificará *pari passu* con todas las otras Deudas Preferentes, y (iii) será senior la Deuda de las no preferentes y todas las clases de capital social</td>
-            <td>Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y Deuda Preferente, (ii) *pari passu* entre ellos y con las demás Deudas No Preferentes, y (iii) senior solo ante todas las clases de capital social</td>
-            <td>Las notas constituyen Deuda Preferente y (i) clasificará junior a todas las deudas senior presentes y futuras, (ii) clasificará *pari passu*
+            <td>Deudas Preferentes
+y (i) clasificará junior a toda la presente y futura Deuda senior, (ii) clasificará <i>pari passu</i> con todas las otras Deudas Preferentes, y (iii) será senior la Deuda de las no preferentes y todas las clases de capital social</td>
+            <td>Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y Deuda Preferente, (ii) <i>pari passu</i> entre ellos y con las demás Deudas No Preferentes, y (iii) senior solo ante todas las clases de capital social</td>
+            <td>Las notas constituyen Deuda Preferente y (i) clasificará junior a todas las deudas senior presentes y futuras, (ii) clasificará <i>pari passu</i>
 con todas las otras deudas preferentes presentes o futuras sin garantía , y (iii) será senior a la deuda no preferente sin garantías y todas las clases de capital social</td>
-<td>Las notas constituyen Deuda Preferente y (i) clasificará junior a todas las deudas senior presentes y futuras, (ii) clasificará *pari passu*
+<td>Las notas constituyen Deuda Preferente y (i) clasificará junior a todas las deudas senior presentes y futuras, (ii) clasificará <i>pari passu</i>
 con todas las otras deudas preferentes presentes o futuras sin garantía , y (iii) será senior a la deuda no preferente sin garantías y todas las clases de capital social</td>
 <td>
-Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y a la Deuda Preferente, (ii) *pari passu* entre ellos y con las demás Deudas No Preferentes, y (iii) senior solo ante todas las clases de capital social
+Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y a la Deuda Preferente, (ii) <i>pari passu</i> entre ellos y con las demás Deudas No Preferentes, y (iii) senior solo ante todas las clases de capital social
 </td>
-<td>Las notas constituyen Deuda Preferente, y (i) será subordinada y junior en derecho de pago y liquidación a todas las Deudas senior presentes y futuras, (ii) clasificará *pari passu* sin preferencia entre ellas y con la deuda preferente presente y futura sin garantía y (iii) será senior a la deuda no preferente y todas las clases de capital social.</td>
+<td>Las notas constituyen Deuda Preferente, y (i) será subordinada y junior en derecho de pago y liquidación a todas las Deudas senior presentes y futuras, (ii) clasificará <i>pari passu</i> sin preferencia entre ellas y con la deuda preferente presente y futura sin garantía y (iii) será senior a la deuda no preferente y todas las clases de capital social.</td>
         <tr>
             <td>36. Características no conformes tras la transición</td>
             <td>No</td>
@@ -4582,7 +4581,7 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>Legislación neoyorquina</td>
         </tr>
         <tr>
-            <td>*Tratamiento normativo*</td>
+            <td><i>Tratamiento normativo</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -4774,7 +4773,7 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>En cualquier momento desde la primera call</td>
         </tr>
         <tr>
-            <td>*Cupones / dividendos*</td>
+            <td><i>Cupones / dividendos</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -5086,7 +5085,7 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>Legislación chilena</td>
         </tr>
         <tr>
-            <td>*Tratamiento normativo*</td>
+            <td><i>Tratamiento normativo</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -5214,7 +5213,7 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>N/A</td>
         </tr>
         <tr>
-            <td>*Cupones / dividendos*</td>
+            <td><i>Cupones / dividendos</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -5433,7 +5432,7 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>Legislación colombiana</td>
         </tr>
         <tr>
-            <td>*Tratamiento normativo*</td>
+            <td><i>Tratamiento normativo</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -5561,7 +5560,7 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>N/A</td>
         </tr>
         <tr>
-            <td>*Cupones / dividendos*</td>
+            <td><i>Cupones / dividendos</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -5781,7 +5780,7 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>Legislación peruana</td>
         </tr>
         <tr>
-            <td>*Tratamiento normativo*</td>
+            <td><i>Tratamiento normativo</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -5897,19 +5896,19 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>N/A</td>
             <td>N/A</td>
             <td>21/04/2020; Tax call</td>
-            <td>*Call date* del emisor: 15/02/2012, también sujeto al *Regulatory call*</td>
-            <td>*Call date* del emisor: 07/05/2017, también sujeto al *Regulatory call*</td>
+            <td><i>Call date</i> del emisor: 15/02/2012, también sujeto al <i>Regulatory call</i></td>
+            <td><i>Call date</i> del emisor: 07/05/2017, también sujeto al <i>Regulatory call</i></td>
         </tr>
         <tr>
             <td>16. Fechas de ejercicio posteriores, si procede</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>El tax call se puede ejercer en cualquier momento después de 21/04/2020</td>
-            <td>En cualquier momento a partir del *call date*</td>
-            <td>En cualquier momento a partir del *call date*</td>
+            <td>En cualquier momento a partir del <i>Call date</i></td>
+            <td>En cualquier momento a partir del <i>Call date</i></td>
         </tr>
         <tr>
-            <td>*Cupones / dividendos*</td>
+            <td><i>Cupones / dividendos</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -5930,7 +5929,7 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>IPC + 4.50%</td>
             <td>4,88%</td>
             <td>LIBOR6M + 1,25% (incremento de 1,25% adicionales desde la fecha de la call)</td>
-            <td>5.85% (hasta el 20º cupón ) - (incremento del 0.5% anual desde el vigesimoprimer cupón - *call date*)</td>
+            <td>5.85% (hasta el 20º cupón ) - (incremento del 0.5% anual desde el vigesimoprimer cupón - <i>Call date</i>)</td>
         </tr>
         <tr>
             <td>19. Existencia de limitaciones al pago de dividendos</td>
@@ -6128,7 +6127,7 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>Legislación peruana</td>
         </tr>
         <tr>
-            <td>*Tratamiento normativo*</td>
+            <td><i>Tratamiento normativo</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -6241,22 +6240,22 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
         <tr>
             <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
-            <td>*Call date* del emisor: 14/05/2022, también sujeto al *Regulatory call*</td>
-            <td>Sujeto al *Regulatory call*.</td>
-            <td>*Call date* del emisor: 24/09/2012, también sujeto al *Regulatory call*</td>
-            <td>Sujeto al *Regulatory call*.</td>
-            <td>Sujeto al *Regulatory call*.</td>
+            <td><i>Call date</i> del emisor: 14/05/2022, también sujeto al <i>Regulatory call</i></td>
+            <td>Sujeto al <i>Regulatory call</i>.</td>
+            <td><i>Call date</i> del emisor: 24/09/2012, también sujeto al <i>Regulatory call</i></td>
+            <td>Sujeto al <i>Regulatory call</i>.</td>
+            <td>Sujeto al <i>Regulatory call</i>.</td>
         </tr>
         <tr>
             <td>16. Fechas de ejercicio posteriores, si procede</td>
-            <td>En cualquier momento a partir del *call date*</td>
+            <td>En cualquier momento a partir del <i>Call date</i></td>
             <td>N/A</td>
-            <td>En cualquier momento a partir del *call date*</td>
+            <td>En cualquier momento a partir del <i>Call date</i></td>
             <td>N/A</td>
             <td>N/A</td>
         </tr>
         <tr>
-            <td>*Cupones / dividendos*</td>
+            <td><i>Cupones / dividendos</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -6273,9 +6272,9 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
         <tr>
             <td>18. Tipo de interés del cupón y cualquier índice conexo</td>
-            <td>6% (hasta el 30° cupon) - (incremento del 0.5% anual desde el trigesimoprimer cupón - *call date*)</td>
+            <td>6% (hasta el 30° cupon) - (incremento del 0.5% anual desde el trigesimoprimer cupón - <i>Call date</i>)</td>
             <td>VAC(semestre)/VAC(inicial)*3.4688%</td>
-            <td>LIBOR(6M)+2.15625% (hasta el 10° cupón) - (incremento del 1% desde el decimoprimer cupón - *call date*)</td>
+            <td>LIBOR(6M)+2.15625% (hasta el 10° cupón) - (incremento del 1% desde el decimoprimer cupón - <i>Call date</i>)</td>
             <td>VAC(semestre)/VAC(inicial)*3.5625%</td>
             <td>6,47%</td>
         </tr>
@@ -6313,11 +6312,11 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
         <tr>
             <td>22. Acumulativo o no acumulativo</td>
-            <td>NA</td>
-            <td>NA</td>
-            <td>NA</td>
-            <td>NA</td>
-            <td>NA</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
         </tr>
         <tr>
             <td>23. Convertible o no convertible</td>
@@ -6475,7 +6474,7 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>Legislación peruana</td>
         </tr>
         <tr>
-            <td>*Tratamiento normativo*</td>
+            <td><i>Tratamiento normativo</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -6588,22 +6587,22 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
         <tr>
             <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
-            <td>Sujeto al *Regulatory call*.</td>
-            <td>Sujeto al *Regulatory call*.</td>
-            <td>Sujeto al *Regulatory call*.</td>
-            <td>*Call date* del emisor: 07/10/2020, también sujeto al *Regulatory call*</td>
-            <td>*Call date* del emisor: 02/10/2023, también sujeto al *Regulatory call*</td>
+            <td>Sujeto al <i>Regulatory call</i>.</td>
+            <td>Sujeto al <i>Regulatory call</i>.</td>
+            <td>Sujeto al <i>Regulatory call</i>.</td>
+            <td><i>Call date</i> del emisor: 07/10/2020, también sujeto al <i>Regulatory call</i></td>
+            <td><i>Call date</i> del emisor: 02/10/2023, también sujeto al <i>Regulatory call</i></td>
         </tr>
         <tr>
             <td>16. Fechas de ejercicio posteriores, si procede</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
-            <td>En cualquier momento a partir del *call date*</td>
-            <td>En cualquier momento a partir del *call date*</td>
+            <td>En cualquier momento a partir del <i>Call date</i></td>
+            <td>En cualquier momento a partir del <i>Call date</i></td>
         </tr>
         <tr>
-            <td>*Cupones / dividendos*</td>
+            <td><i>Cupones / dividendos</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -6819,7 +6818,7 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>Legislación paraguaya</td>
         </tr>
         <tr>
-            <td>*Tratamiento normativo*</td>
+            <td><i>Tratamiento normativo</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -6918,7 +6917,7 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
         <tr>
             <td>15. Fecha opcional de ejercicio de la opción de compra, fechas de ejercicio contingentes e importe a reembolsar</td>
-            <td>*Call date* del emisor: 22/09/2024, también sujeto al *Regulatory call*</td>
+            <td><i>Call date</i> del emisor: 22/09/2024, también sujeto al <i>Regulatory call</i></td>
             <td>N/A</td>
             <td>A discreción del emisor tras 5 años desde la fecha de emisión, mínimo de 1MM USD</td>
             <td>N/A</td>
@@ -6931,7 +6930,7 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
             <td>N/A</td>
         </tr>
         <tr>
-            <td>*Cupones / dividendos*</td>
+            <td><i>Cupones / dividendos</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -7095,9 +7094,9 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
 </table>
 
 
-<ul class="cita"><li>(4) Se corresponde con la clasificación del instrumento desde una visión regulatoria o *phased-in* a 31 de diciembre de 2016.</li>
+<ul class="cita"><li>(4) Se corresponde con la clasificación del instrumento desde una visión regulatoria o <i>phased-in</i> a 31 de diciembre de 2016.</li>
 
-<li>(5) Se corresponde con la clasificación del instrumento desde una visión *Fully loaded* a 31 de diciembre de 2016.</li></ul>
+<li>(5) Se corresponde con la clasificación del instrumento desde una visión <i>Fully loaded</i> a 31 de diciembre de 2016.</li></ul>
 
 ## Anexo VII: Plantilla de información sobre el ratio de apalancamiento
 
@@ -7152,7 +7151,7 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
         <tr>
             <td>4</td>
-            <td>Coste de reemplazamiento asociado a *todas* las transacciones de derivados (por ejemplo el neto del margen de la variación del efectivo elegible)</td>
+            <td>Coste de reemplazamiento asociado a <i>todas</i> las transacciones de derivados (por ejemplo el neto del margen de la variación del efectivo elegible)</td>
             <td>13.487</td>
             <td>13.487</td>
             <td>11.030</td>
@@ -7160,7 +7159,7 @@ Constituye la Deuda No Preferente y clasificará (i) junior a la Deuda senior y 
         </tr>
         <tr>
             <td>5</td>
-            <td>Cantidades añadidas para PFE asociadas a *todas* las transacciones de derivados (contabilidad a valor razonable)</td>
+            <td>Cantidades añadidas para PFE asociadas a <i>todas</i> las transacciones de derivados (contabilidad a valor razonable)</td>
             <td>15.629</td>
             <td>15.629</td>
             <td>14.523</td>

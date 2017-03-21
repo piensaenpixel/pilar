@@ -62,6 +62,7 @@ prudencial.
 neto referido al perímetro de entidades de crédito y
 descontado el importe previsible de los dividendos, de
 conformidad con el artículo 26, apartado 2 de la CRR.
+
 Además, los recursos propios básicos están ajustados,
 principalmente, por las siguientes deducciones:
 
@@ -221,14 +222,10 @@ diciembre de 2013:
  <th colspan="2">Millones de euros</th>
  <th></th>
 </tr>
-        <tr class="m">
-            <th></th>
-            <th>Millones de euros</th>
-        </tr>
         <tr>
             <th></th>
-            <th>31/12/16</th>
-            <th>31/12/15</th>
+            <th>31/12/2016</th>
+            <th>31/12/2015</th>
         </tr>
     </thead>
     <tbody>
@@ -319,7 +316,7 @@ diciembre de 2013:
         </tr>
         <tr>
             <td>o) Instrumentos de capital y primas de emisión clasificados como pasivo</td>
-            <td>5.423</td>
+            <td>5.806</td>
             <td>4.439</td>
         </tr>
         <tr>
@@ -329,17 +326,17 @@ diciembre de 2013:
         </tr>
         <tr class="b2">
             <td>Capital de nivel 1 adicional antes de los ajustes reglamentarios</td>
-            <td>6.114</td>
+            <td>6.497</td>
             <td>5.302</td>
         </tr>
         <tr>
             <td>q) Ajustes transitorios Tier 1</td>
-            <td>(3.401)</td>
+            <td>(3.783)</td>
             <td>(5.302)</td>
         </tr>
         <tr class="b2">
             <td>Total de ajustes reglamentarios del capital de nivel 1 adicional</td>
-            <td>(3.401)</td>
+            <td>(3.783)</td>
             <td>(5.302)</td>
         </tr>
         <tr class="b2">
@@ -368,9 +365,9 @@ diciembre de 2013:
             <td>5.716</td>
         </tr>
         <tr>
-            <td>-De los cuales: los instrumentos emitidos por las filiales sujetos a la fase de salida</td>
-            <td>350</td>
-            <td>(99)</td>
+            <td><i>-De los cuales: los instrumentos emitidos por las filiales sujetos a la fase de salida</i></td>
+            <td><i>350</i></td>
+            <td><i>(99)</i></td>
         </tr>
         <tr>
             <td>u) Ajustes por riesgo de crédito</td>
@@ -572,9 +569,9 @@ computable a efectos de solvencia:
             <td>(788)</td>
         </tr>
         <tr>
-            <td>Plusvalías / minusvalías de la cartera de instrumentos de deuda disponibles para la venta</td>
-            <td>(402)</td>
-            <td>(796)</td>
+            <td><i>Plusvalías / minusvalías de la cartera de instrumentos de deuda disponibles para la venta</i></td>
+            <td><i>(402)</i></td>
+            <td><i>(796)</i></td>
         </tr>
         <tr>
             <td>Plusvalías / minusvalías de la cartera de instrumentos de capital disponible para la venta</td>
@@ -662,29 +659,29 @@ de pago y produzca a la otra parte una pérdida financiera.
 Incluye el riesgo de contrapartida, riesgo emisor, riesgo de
 liquidación y riesgo-país.
 
--**Riesgo de contraparte:** el riesgo de contraparte tiene
+- **Riesgo de contraparte:** el riesgo de contraparte tiene
 su origen en la posibilidad de que se produzcan pérdidas
 derivadas de posiciones en derivados y repos.
 
--**Riesgo de ajuste de valoración del crédito (CVA):** tiene
+- **Riesgo de ajuste de valoración del crédito (CVA):** tiene
 como objetivo reflejar el impacto en el valor razonable del
 riesgo de crédito de la contraparte.
 
--**Riesgo de mercado:** el riesgo de mercado tiene su origen
+- **Riesgo de mercado:** el riesgo de mercado tiene su origen
 en la posibilidad de que se produzcan pérdidas en el valor
 de las posiciones mantenidas como consecuencia de los
 movimientos en las variables de mercado que inciden en
 la valoración de los productos y activos financieros en la
-actividad de trading.
+actividad de *trading*.
 
--**Riesgo operacional:** provocar pérdidas debido a
+- **Riesgo operacional:** provocar pérdidas debido a
 errores humanos procesos internos inadecuados o
 defectuosos, fallos en los sistemas y como consecuencia de
 acontecimientos externos. Esta definición incluye el riesgo
 legal y excluye el riesgo estratégico y/o de negocio y el riesgo
 reputacional.
 
--**Riesgos estructurales:** se subdivide en riesgo de tipo de
+- **Riesgos estructurales:** se subdivide en riesgo de tipo de
 interés estructural (los movimientos en los tipos de interés
 de mercado provocan alteraciones en el margen financiero y
 en el valor patrimonial de una entidad) y riesgo de interés de
@@ -693,7 +690,7 @@ cambio con origen en las sociedades extranjeras del Grupo
 y en los fondos de dotación a las sucursales en el extranjero
 financiados en una divisa distinta a la de la inversión).
 
--**Riesgo de liquidez:** riesgo de incurrir en dificultades
+- **Riesgo de liquidez:** riesgo de incurrir en dificultades
 para atender a los compromisos de pago en el tiempo y
 forma previstos o que, para atenderlos, tenga que recurrir
 a la obtención de fondos en condiciones gravosas o que
@@ -731,13 +728,13 @@ Con independencia de lo establecido en el artículo 92 de la
 CRR, tras el proceso de revisión y evaluación supervisora
 (SREP), a 31 de diciembre de 2016 se deberá cumplir un nivel
 de capital 1 ordinario mínimo del 9.75%. El Grupo mantiene
-a 31 de diciembre de 2016 un ratio de CET1 phased-in del
+a 31 de diciembre de 2016 un ratio de CET1 *phased-in* del
 12,18%, por encima de lo requerido.
 
 El importe total de los requerimientos de capital está
 compuesto principalmente por los siguientes elementos:
 
--**Riesgo de crédito y dilución**
+- **Riesgo de crédito y dilución**
 
 Las exposiciones ponderadas por riesgo de crédito
 y de dilución, excluido el importe de las exposiciones
@@ -747,13 +744,13 @@ por riesgo, las entidades de crédito podrán aplicar el
 método estándar o método basado en calificaciones
 internas si las autoridades competentes lo permiten.
 
--**Riesgo de contraparte**
+- **Riesgo de contraparte**
 
 Las exposiciones ponderadas por riesgos de contraparte
 correspondientes a la operativa de repos y derivados
 (apartado 3.2.6 del presente Documento).
 
--**Riesgo de mercado**
+- **Riesgo de mercado**
 
 Tiene su origen principalmente en la cartera de
 negociación y comprende los requisitos de fondos propios
@@ -761,13 +758,13 @@ con respecto al riesgo de posición en instrumentos de
 deuda y renta variable, riesgo de tipo de cambio y riesgo
 de materias primas.
 
--**Riesgo de tipo de cambio**
+- **Riesgo de tipo de cambio**
 
 Los requisitos de fondos propios determinados con
 respecto al riesgo de tipo de cambio, al riesgo de
 liquidación y al riesgo de materias primas.
 
--**Riesgo de ajuste de valoración del crédito**
+- **Riesgo de ajuste de valoración del crédito**
 
 Los requisitos de fondos propios con respecto al riesgo
 de ajuste de valoración del crédito resultante de los
@@ -775,7 +772,7 @@ instrumentos derivados OTC que no sean derivados de
 crédito reconocidos a efectos de reducción del importe de
 las exposiciones ponderadas por riesgo de crédito.
 
--**Riesgo operacional**
+- **Riesgo operacional**
 
 Los requisitos de fondos propios determinados de acuerdo
 con el título III de la CRR con respecto al riesgo operativo.
@@ -783,7 +780,7 @@ con el título III de la CRR con respecto al riesgo operativo.
 Adicionalmente, como se indicó en el apartado introductorio
 del presente Documento, Basilea III, a diferencia del marco
 anterior, introduce como complemento de los requerimientos
-mínimos de capital los buffers o colchones de capital. Para
+mínimos de capital los *buffers* o colchones de capital. Para
 facilitar la adaptación de las entidades financieras a los
 requerimientos mínimos de capital, se ha establecido un
 período de transición hasta 2019.
@@ -849,7 +846,7 @@ riesgo de contraparte se desglosan de forma independiente:
         <tr>
             <td>Del cual, con renta variable basado en calificaciones internas con el método simple de ponderación de riesgo</td>
             <td>3.548</td>
-            <td>5.507</td>
+            <td>3.507</td>
             <td>284</td>
         </tr>
         <tr class="b2">
@@ -946,7 +943,7 @@ riesgo de contraparte se desglosan de forma independiente:
             <td>Del cual, con los métodos basados en modelos internos (IMM)</td>
             <td>9.258</td>
             <td>9.355</td>
-            <td>74º</td>
+            <td>741</td>
         </tr>
         <tr class="b2">
             <td>Riesgo operacional</td>
@@ -968,7 +965,7 @@ riesgo de contraparte se desglosan de forma independiente:
         </tr>
         <tr>
             <td>Del cual, con el Método de Medición Avanzada</td>
-            <td>17,098</td>
+            <td>17.098</td>
             <td>15.450</td>
             <td>1.368</td>
         </tr>
@@ -1058,7 +1055,7 @@ marcados por la entidad al finalizar el período.
 Adicionalmente se realiza un test de stress, utilizando un
 escenario en el que se estiman valores macroeconómicos
 en un entorno de mayor deterioro económico respecto
-al presupuestado, determinado por BBVA Research, y
+al presupuestado, determinado por BBVA *Research*, y
 sus consecuencias en la actividad del Grupo (incremento
 de morosidad, reducción de actividad, incremento de
 volatilidad en los mercados financieros, caída de bolsa,
@@ -1068,9 +1065,9 @@ emisión de instrumentos de capital, provisiones, activos
 ponderados por riesgo, etc.).
 
 También se realizan estimaciones sobre la posible ciclicidad
-de los modelos utilizados. Los escenarios de stress recogen
+de los modelos utilizados. Los escenarios de *stress* recogen
 situaciones de recesión en períodos suficientemente largos
-(20-30 años). Por último, se realiza un backtesting de los
+(20-30 años). Por último, se realiza un *backtesting* de los
 datos presentados en el ejercicio anterior.
 
 - Programa de actuación futura: Si las conclusiones

@@ -894,10 +894,10 @@ de riesgo sobre los que se basa el presente Documento.
 </table>
 
 
-<ul class="cita"><li>*EO: Se corresponde con la exposición original</li>
-<li>**EAD: Se corresponde con la EO neta de provisiones, correcciones de valor y otras exposiciones sin riesgo</li>
-<li>***APRs: Se corresponde con la EAD tras ponderación de riesgos</li>
-<li>****Excluyendo los fondos para impagos de ECC</li></ul>
+<ul class="cita"><li>(1) EO: Se corresponde con la exposición original</li>
+<li>(2) EAD: Se corresponde con la EO neta de provisiones, correcciones de valor y otras exposiciones sin riesgo</li>
+<li>(3) APRs: Se corresponde con la EAD tras ponderación de riesgos</li>
+<li>(4) Excluyendo los fondos para impagos de ECC</li></ul>
 
 ### 1.1.4. Principales cambios en el perímetro del Grupo en el ejercicio 2016
 

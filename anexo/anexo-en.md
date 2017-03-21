@@ -159,14 +159,14 @@ submenu: Annex
             <td>Equity Method</td>
             <td>Equity Method</td>
             <td>Insurance</td>
-            <td>0</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>BBVA BANCOMER Insurance SALUD, S.A. DE C.V</td>
             <td>Full Consolidation</td>
             <td>Equity Method</td>
             <td>Insurance</td>
-            <td>47</td>
+            <td>19</td>
         </tr>
         <tr>
             <td>BBVA RE DAC</td>
@@ -180,7 +180,7 @@ submenu: Annex
             <td>Not Consolidated</td>
             <td>Not Consolidated</td>
             <td>Insurance</td>
-            <td>0</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>BBVA Insurance DE VIDA, S.A.</td>
@@ -299,21 +299,21 @@ submenu: Annex
             <td>Not Consolidated</td>
             <td>Not Consolidated</td>
             <td>Financial</td>
-            <td>0</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>BOLSA ELECT.VALORES</td>
             <td>Not Consolidated</td>
             <td>Not Consolidated</td>
             <td>Financial</td>
-            <td>0,000</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>DECEVAL, S.A.</td>
             <td>Not Consolidated</td>
             <td>Not Consolidated</td>
             <td>Financial</td>
-            <td>0</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>SISTARBANC S.R.L.</td>
@@ -334,7 +334,7 @@ submenu: Annex
             <td>Not Consolidated</td>
             <td>Not Consolidated</td>
             <td>Financial</td>
-            <td>0</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>ACH 4G</td>
@@ -355,14 +355,14 @@ submenu: Annex
             <td>Not Consolidated</td>
             <td>Not Consolidated</td>
             <td>Financial</td>
-            <td>0</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>SPI</td>
             <td>Not Consolidated</td>
             <td>Not Consolidated</td>
             <td>Financial</td>
-            <td>0</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>ROMBO COMPAÑIA Financial, S.A.</td>
@@ -390,7 +390,7 @@ submenu: Annex
             <td>Not Consolidated</td>
             <td>Not Consolidated</td>
             <td>Financial</td>
-            <td>0</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>CAJA EMISIONES</td>
@@ -439,14 +439,14 @@ submenu: Annex
             <td>Not Consolidated</td>
             <td>Not Consolidated</td>
             <td>Financial</td>
-            <td>0</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>COMPASS INVESTMENTS, INC.</td>
             <td>Full Consolidation</td>
             <td>Equity Method</td>
             <td>Financial</td>
-            <td>01</td>
+            <td>0</td>
         </tr>
         <tr>
             <td>COMPASS CUSTODIAL SERVICES, INC.</td>
@@ -488,7 +488,7 @@ submenu: Annex
             <td>Equity Method</td>
             <td>Equity Method</td>
             <td>Financial</td>
-            <td>0</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>FIDEICOMISO F/00185 FIMPE</td>
@@ -1237,7 +1237,7 @@ submenu: Annex
             <td>Equity Method</td>
             <td>Equity Method</td>
             <td>Real Estate</td>
-            <td>1º</td>
+            <td>11</td>
         </tr>
         <tr>
             <td>METROVACESA SUELO Y PROMOCION, SA</td>
@@ -2278,7 +2278,7 @@ The zero balances correspond to companies whose holding value is equal to zero, 
             <td>Spanish</td>
         </tr>
         <tr>
-            <td>*Regulatory treatment*</td>
+            <td><i>Regulatory treatment</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -2307,10 +2307,10 @@ The zero balances correspond to companies whose holding value is equal to zero, 
         </tr>
         <tr>
             <td>7. Instrument type (types to be specified by each jurisdiction)</td>
-            <td>*Contingent Convertible*</td>
-            <td>*Contingent Convertible*</td>
-            <td>*Contingent Convertible*</td>
-            <td>*Contingent Convertible*</td>
+            <td><i>Contingent Convertible</i></td>
+            <td><i>Contingent Convertible</i></td>
+            <td><i>Contingent Convertible</i></td>
+            <td><i>Contingent Convertible</i></td>
         </tr>
         <tr>
             <td>8. Amount recognised in regulatory capital (currency in million, as of most recent reporting date)</td>
@@ -2390,7 +2390,7 @@ The zero balances correspond to companies whose holding value is equal to zero, 
             <td>At any time on or after the first reset date</td>
         </tr>
         <tr>
-            <td>*Coupons / dividends*</td>
+            <td><i>Coupons / dividends</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -2398,10 +2398,10 @@ The zero balances correspond to companies whose holding value is equal to zero, 
         </tr>
         <tr>
             <td>17. Fixed or floating dividend/coupon</td>
-            <td>Fixed to floating (since *call date*)</td>
-            <td>Fixed to floating (since *call date*)</td>
-            <td>Fixed to floating (since *call date*)</td>
-            <td>Fixed to floating (since *call date*)</td>
+            <td>Fixed to floating (since <i>call date</i>)</td>
+            <td>Fixed to floating (since <i>call date</i>)</td>
+            <td>Fixed to floating (since <i>call date</i>)</td>
+            <td>Fixed to floating (since <i>call date</i>)</td>
         </tr>
         <tr>
             <td>18. Coupon rate and any related index</td>
@@ -2584,7 +2584,7 @@ The zero balances correspond to companies whose holding value is equal to zero, 
             <td>Spanish</td>
         </tr>
         <tr>
-            <td>*Regulatory treatment*</td>
+            <td><i>Regulatory treatment</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -2696,7 +2696,7 @@ The zero balances correspond to companies whose holding value is equal to zero, 
             <td>On any distribution payment date falling on or after the first call date</td>
         </tr>
         <tr>
-            <td>*Coupons / dividends*</td>
+            <td><i>Coupons / dividends</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -2704,9 +2704,9 @@ The zero balances correspond to companies whose holding value is equal to zero, 
         </tr>
         <tr>
             <td>17. Fixed or floating dividend/coupon</td>
-            <td>Fixed to floating (since *call date*)</td>
-            <td>Fixed to floating (since *call date*)</td>
-            <td>Fixed to floating (since *call date*)</td>
+            <td>Fixed to floating (since <i>call date</i>)</td>
+            <td>Fixed to floating (since <i>call date</i>)</td>
+            <td>Fixed to floating (since <i>call date</i>)</td>
             <td>Floating</td>
         </tr>
         <tr>
@@ -2890,7 +2890,7 @@ The zero balances correspond to companies whose holding value is equal to zero, 
             <td>English</td>
         </tr>
         <tr>
-            <td>*Regulatory treatment*</td>
+            <td><i>Regulatory treatment</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -3002,7 +3002,7 @@ The zero balances correspond to companies whose holding value is equal to zero, 
             <td>No</td>
         </tr>
         <tr>
-            <td>*Coupons / dividends*</td>
+            <td><i>Coupons / dividends</i></td>
             <td>&nbsp;</td>
             <td>0</td>
             <td>&nbsp;</td>
@@ -3010,10 +3010,10 @@ The zero balances correspond to companies whose holding value is equal to zero, 
         </tr>
         <tr>
             <td>17. Fixed or floating dividend/coupon</td>
-            <td>Fixed to floating (since *call date*)</td>
-            <td>Fixed to floating (since *call date*)</td>
+            <td>Fixed to floating (since <i>call date</i>)</td>
+            <td>Fixed to floating (since <i>call date</i>)</td>
             <td>Floating</td>
-            <td>Fixed to floating (since *call date*)</td>
+            <td>Fixed to floating (since <i>call date</i>)</td>
         </tr>
         <tr>
             <td>18. Coupon rate and any related index</td>
@@ -3196,7 +3196,7 @@ The zero balances correspond to companies whose holding value is equal to zero, 
             <td>Spanish</td>
         </tr>
         <tr>
-            <td>*Regulatory treatment*</td>
+            <td><i>Regulatory treatment</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -3308,7 +3308,7 @@ The zero balances correspond to companies whose holding value is equal to zero, 
             <td>Issuer call date and on each interest payment day thereafter</td>
         </tr>
         <tr>
-            <td>*Coupons / dividends*</td>
+            <td><i>Coupons / dividends</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -3319,7 +3319,7 @@ The zero balances correspond to companies whose holding value is equal to zero, 
             <td>Fixed</td>
             <td>Fixed</td>
             <td>Fixed to specified index</td>
-            <td>Fixed to floating (since *call date*)</td>
+            <td>Fixed to floating (since <i>call date</i>)</td>
         </tr>
         <tr>
             <td>18. Coupon rate and any related index</td>
@@ -3476,7 +3476,7 @@ The zero balances correspond to companies whose holding value is equal to zero, 
 <table class="l">
     <thead>
         <tr class="tableizer-firstrow">
-            <th colspan="5">Capital instruments main features template</th>
+            <th colspan="6">Capital instruments main features template</th>
         </tr>
     </thead>
     <tbody>
@@ -3505,7 +3505,7 @@ The zero balances correspond to companies whose holding value is equal to zero, 
             <td>Spanish</td>
         </tr>
         <tr>
-            <td>*Regulatory treatment*</td>
+            <td><i>Regulatory treatment</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -3633,7 +3633,7 @@ The zero balances correspond to companies whose holding value is equal to zero, 
             <td>Issuer call date and on each year thereafter</td>
         </tr>
         <tr>
-            <td>*Coupons / dividends*</td>
+            <td><i>Coupons / dividends</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -3642,19 +3642,19 @@ The zero balances correspond to companies whose holding value is equal to zero, 
         </tr>
         <tr>
             <td>17. Fixed or floating dividend/coupon</td>
-            <td>Fixed to floating (since *call date*)</td>
+            <td>Fixed to floating (since <i>call date</i>)</td>
             <td>Floating</td>
             <td>Fixed</td>
             <td>Fixed</td>
-            <td>Fixed to floating (since *call date*)</td>
+            <td>Fixed to floating (since <i>call date</i>)</td>
         </tr>
         <tr>
             <td>18. Coupon rate and any related index</td>
-            <td>4.50%; after *call date*: 3M EURIBOR + 80PBS</td>
+            <td>4.50%; after <i>call date</i>: 3M EURIBOR + 80PBS</td>
             <td>CMS 10YR + 0.03%</td>
             <td>7.00%</td>
             <td>2.50%</td>
-            <td>4.70%; 3M EURIBOR + 1,08% since issuer *call date*</td>
+            <td>4.70%; 3M EURIBOR + 1,08% since issuer <i>call date</i></td>
         </tr>
         <tr>
             <td>19. Existence of a dividend stopper</td>
@@ -3853,7 +3853,7 @@ The zero balances correspond to companies whose holding value is equal to zero, 
             <td>Spanish</td>
         </tr>
         <tr>
-            <td>*Regulatory treatment*</td>
+            <td><i>Regulatory treatment</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -3981,7 +3981,7 @@ The zero balances correspond to companies whose holding value is equal to zero, 
             <td>Issuer call date and on each interest payment day thereafter</td>
         </tr>
         <tr>
-            <td>*Coupons / dividends*</td>
+            <td><i>Coupons / dividends</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -3993,12 +3993,12 @@ The zero balances correspond to companies whose holding value is equal to zero, 
             <td>Floating</td>
             <td>Floating</td>
             <td>Floating</td>
-            <td>Fixed to floating (since *call date*)</td>
+            <td>Fixed to floating (since <i>call date</i>)</td>
             <td>Floating</td>
         </tr>
         <tr>
             <td>18. Coupon rate and any related index</td>
-            <td>3M EURIBOR + 0.58%; 3M EURIBOR + 1.08% after issuer *call date*</td>
+            <td>3M EURIBOR + 0.58%; 3M EURIBOR + 1.08% after issuer <i>call date</i></td>
             <td>3M EURIBOR + 1.02% from 01/28/15</td>
             <td>3M EURIBOR + 0.44%</td>
             <td>7.50% up to 06/09/11; from 06/10/11 up to 06/09/19: 3M EURIBOR +5.25%; from 06/10/19 to 06/10/24: 3M EURIBOR +6%</td>
@@ -4204,7 +4204,7 @@ The zero balances correspond to companies whose holding value is equal to zero, 
             <td>New York</td>
         </tr>
         <tr>
-            <td>*Regulatory treatment*</td>
+            <td><i>Regulatory treatment</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -4348,7 +4348,7 @@ The zero balances correspond to companies whose holding value is equal to zero, 
             <td>No</td>
         </tr>
         <tr>
-            <td>*Coupons / dividends*</td>
+            <td><i>Coupons / dividends</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -4601,7 +4601,7 @@ Constitute Subordinated Non-Preferred Indebtedness and will rank (1) junior to t
             <td>New York</td>
         </tr>
         <tr>
-            <td>*Regulatory treatment*</td>
+            <td><i>Regulatory treatment</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -4793,7 +4793,7 @@ Constitute Subordinated Non-Preferred Indebtedness and will rank (1) junior to t
             <td>At any time on or after the call date</td>
         </tr>
         <tr>
-            <td>*Coupons / dividends*</td>
+            <td><i>Coupons / dividends</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -5105,7 +5105,7 @@ Constitute Subordinated Non-Preferred Indebtedness and will rank (1) junior to t
             <td>Chile</td>
         </tr>
         <tr>
-            <td>*Regulatory treatment*</td>
+            <td><i>Regulatory treatment</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -5233,7 +5233,7 @@ Constitute Subordinated Non-Preferred Indebtedness and will rank (1) junior to t
             <td>N/A</td>
         </tr>
         <tr>
-            <td>*Coupons / dividends*</td>
+            <td><i>Coupons / dividends</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -5452,7 +5452,7 @@ Constitute Subordinated Non-Preferred Indebtedness and will rank (1) junior to t
             <td>Colombian</td>
         </tr>
         <tr>
-            <td>*Regulatory treatment*</td>
+            <td><i>Regulatory treatment</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -5580,7 +5580,7 @@ Constitute Subordinated Non-Preferred Indebtedness and will rank (1) junior to t
             <td>N/A</td>
         </tr>
         <tr>
-            <td>*Coupons / dividends*</td>
+            <td><i>Coupons / dividends</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -5800,7 +5800,7 @@ Constitute Subordinated Non-Preferred Indebtedness and will rank (1) junior to t
             <td>Peruvian</td>
         </tr>
         <tr>
-            <td>*Regulatory treatment*</td>
+            <td><i>Regulatory treatment</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -5928,7 +5928,7 @@ Constitute Subordinated Non-Preferred Indebtedness and will rank (1) junior to t
             <td>At any time on or after the call date</td>
         </tr>
         <tr>
-            <td>*Coupons / dividends*</td>
+            <td><i>Coupons / dividends</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -6147,7 +6147,7 @@ Constitute Subordinated Non-Preferred Indebtedness and will rank (1) junior to t
             <td>Peruvian</td>
         </tr>
         <tr>
-            <td>*Regulatory treatment*</td>
+            <td><i>Regulatory treatment</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -6275,7 +6275,7 @@ Constitute Subordinated Non-Preferred Indebtedness and will rank (1) junior to t
             <td>N/A</td>
         </tr>
         <tr>
-            <td>*Coupons / dividends*</td>
+            <td><i>Coupons / dividends</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -6332,11 +6332,11 @@ Constitute Subordinated Non-Preferred Indebtedness and will rank (1) junior to t
         </tr>
         <tr>
             <td>22. Noncumulative or cumulative</td>
-            <td>NA</td>
-            <td>NA</td>
-            <td>NA</td>
-            <td>NA</td>
-            <td>NA</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
         </tr>
         <tr>
             <td>23. Convertible or non-convertible</td>
@@ -6494,7 +6494,7 @@ Constitute Subordinated Non-Preferred Indebtedness and will rank (1) junior to t
             <td>Peruvian</td>
         </tr>
         <tr>
-            <td>*Regulatory treatment*</td>
+            <td><i>Regulatory treatment</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -6622,7 +6622,7 @@ Constitute Subordinated Non-Preferred Indebtedness and will rank (1) junior to t
             <td>At any time on or after the call date</td>
         </tr>
         <tr>
-            <td>*Coupons / dividends*</td>
+            <td><i>Coupons / dividends</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -6838,7 +6838,7 @@ Constitute Subordinated Non-Preferred Indebtedness and will rank (1) junior to t
             <td>Paraguay</td>
         </tr>
         <tr>
-            <td>*Regulatory treatment*</td>
+            <td><i>Regulatory treatment</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -6950,7 +6950,7 @@ Constitute Subordinated Non-Preferred Indebtedness and will rank (1) junior to t
             <td>N/A</td>
         </tr>
         <tr>
-            <td>*Coupons / dividends*</td>
+            <td><i>Coupons / dividends</i></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>

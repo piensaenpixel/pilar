@@ -16,7 +16,6 @@ submenu: introduccion
 ## Entorno regulatorio en el ejercicio 2016
 
 **Contexto normativo**
-
 En su condición de entidad de crédito española, BBVA
 está sujeto a la Directiva 2013/36/UE del Parlamento
 Europeo y del Consejo, de 26 de junio de 2013, relativa
@@ -111,7 +110,7 @@ La nueva normativa exige a las entidades contar con un
 nivel más alto de capital y de mayor calidad, se incrementan
 las deducciones de capital y se revisan los requerimientos
 asociados a determinados activos. A diferencia del
-marco anterior, los requerimientos mínimos de capital se complementan con requerimientos de *buffers* o colchones de
+marco anterior, los requerimientos mínimos de capital se complementan con requerimientos de buffers o colchones de
 capital así como con requerimientos en materia de liquidez y
 apalancamiento. Los recursos propios computables bajo CRD
 IV quedan compuestos, principalmente por los elementos
@@ -166,8 +165,8 @@ El colchón para entidades de importancia sistémica
 mundial resulta de aplicación a aquellas entidades incluidas
 en el listado de entidades de importancia sistémica
 mundial (“EISM”, o “G-SIBs” por sus siglas en inglés), cuya
-actualización se realiza anualmente por el *Financial Stability
-Borad* (“FSB”). Dado que BBVA ha sido excluida de la lista de
+actualización se realiza anualmente por el Financial Stability
+Borad (“FSB”). Dado que BBVA ha sido excluida de la lista de
 entidades de importancia sistémica mundial en el año 2016,
 con efecto 1 de enero de 2017, el colchón G-SIB no será de
 aplicación a BBVA en 2017 (sin perjuicio de que el FSB o el
@@ -198,8 +197,8 @@ Por lo que respecta a BBVA, el BCE, tras el proceso de
 evaluación y revisión supervisora (“SREP”, por sus siglas en
 inglés) llevado a cabo durante 2016, ha requerido a BBVA
 que mantenga, a partir del 1 de enero de 2017 un ratio (i)
-CET1 phased-in de 7,625% a nivel consolidado y 7,25% a nivel
-individual; y (ii) un ratio de capital total phased-in del 11,125% a
+CET1 *phased-in* de 7,625% a nivel consolidado y 7,25% a nivel
+individual; y (ii) un ratio de capital total *phased-in* del 11,125% a
 nivel consolidado y del 10,75% a nivel individual.
 
 La decisión del BCE establece que el ratio de capital total a nivel
@@ -208,12 +207,12 @@ requerido por Pilar 1 (4,5%); (ii) el ratio de capital adicional de
 nivel 1 (“AT1”) mínimo requerido por Pilar 1 (1.5%) (iii) el ratio
 de Tier 2 mínimo requerido por Pilar 1 (2%) (iv) el ratio de CET
 1 requerido por Pilar 2 (1.5%) (v) el colchón de conservación de
-capital (que es del 1,25% en términos CET 1 phased-in) y (vi) el
-colchón D-SIB (que es del 0.375 en términos CET 1 phased-in).
+capital (que es del 1,25% en términos CET 1 *phased-in*) y (vi) el
+colchón D-SIB (que es del 0.375 en términos CET 1 *phased-in*).
 
 A 31 de Diciembre de 2016, BBVA mantiene a nivel consolidado
-un ratio CET 1 fully loaded del 10,90% reforzando su posición de
-capital del Grupo, siendo el ratio phased-in del 12,18%.
+un ratio CET 1 *fully loaded* del 10,90% reforzando su posición de
+capital del Grupo, siendo el ratio *phased-in* del 12,18%.
 
 **Ratio de apalancamiento**
 

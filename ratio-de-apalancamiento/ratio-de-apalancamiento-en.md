@@ -4,6 +4,7 @@ title: Ratio de apalancamiento
 lang: en
 permalink: /ratio-de-apalancamiento/
 submenu: ratio
+headerTitle: Information of Prudential Relevance 2016
 ---
 
 # 4. Leverage ratio
