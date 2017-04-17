@@ -5,7 +5,6 @@ lang: es
 permalink: /anexo/
 submenu: anexo
 ---
-
 {% include dropdown.html %}
 
 # Cuadro Resumen Anexos I al IV

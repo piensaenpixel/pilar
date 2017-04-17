@@ -2,7 +2,7 @@
 layout: default
 title: Annexes
 lang: en
-permalink: /Annex/
+permalink: /anexo/
 submenu: Annex
 ---
 
@@ -41,7 +41,7 @@ submenu: Annex
         </tr>
     </tbody>
 </table>
-[Download table](#)
+
 
 
 <table class="l">
@@ -62,7 +62,7 @@ submenu: Annex
         </tr>
     </tbody>
 </table>
-[Download table](#)
+
 
 
 <table class="l">
@@ -83,18 +83,18 @@ submenu: Annex
         </tr>
     </tbody>
 </table>
-[Download table](#)
+
 
 ## Annex I: Insurance companies with a stake of more than 10% that are not consolidated according to the solvency criterion
 
 <table class="l">
     <thead>
         <tr class="m">
-            <td>Millions of euros</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>12-31-2016</td>
+            <th>Millions of euros</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th>12-31-2016</th>
         </tr>
         <tr class="tableizer-firstrow">
             <th>Insurance stake >10%</th>
@@ -251,18 +251,18 @@ submenu: Annex
         </tr>
     </tbody>
 </table>
-[Download table](#)
+
 
 ## Financial institutions with a stake of more than 10% that are not consolidated according to the solvency criterion
 
 <table class="l">
     <thead>
         <tr class="m">
-            <td>Millions of euros</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <th>Millions of euros</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
         </tr>
         <tr class="tableizer-firstrow">
             <th>Financial institutions stake >10%</th>
@@ -601,18 +601,18 @@ submenu: Annex
         </tr>
     </tbody>
 </table>
-[Download table](#)
+
 
 ## Annex II: Other Companies that are consolidated according to accounting criteria but not according the solvency criterion
 
 <table class="l">
     <thead>
         <tr class="m">
-            <td>Millions of euros</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>12-31-2016</td>
+            <th>Millions of euros</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th>12-31-2016</th>
         </tr>
         <tr class="tableizer-firstrow">
             <th>Company</th>
@@ -1056,18 +1056,18 @@ submenu: Annex
         </tr>
     </tbody>
 </table>
-[Download table](#)
+
 
 ## Annex III: Other Companies that are not consolidated according to accounting and solvency criteria
 
 <table class="l">
     <thead>
         <tr class="m">
-            <td>Millions of euros</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>12-31-2016</td>
+            <th>Millions of euros</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th>12-31-2016</th>
         </tr>
         <tr class="tableizer-firstrow">
             <th>Company</th>
@@ -1504,18 +1504,18 @@ submenu: Annex
         </tr>
     </tbody>
 </table>
-[Download table](#)
+
 
 ## Annex IV: Other Companies that are not consolidated according to accounting criteria but are consolidated according the solvency criterion
 
 <table class="l">
     <thead>
         <tr class="m">
-            <td>Millions of euros</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>12-31-2016</td>
+            <th>Millions of euros</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th>12-31-2016</th>
         </tr>
         <tr class="tableizer-firstrow">
             <th>Company</th>
@@ -1553,7 +1553,7 @@ submenu: Annex
         </tr>
     </tbody>
 </table>
-[Download table](#)
+
 
 The zero balances correspond to companies whose holding value is equal to zero, as well as companies that are not consolidated.
 
@@ -2243,7 +2243,7 @@ The zero balances correspond to companies whose holding value is equal to zero, 
         </tr>
     </tbody>
 </table>
-[Download table](#)
+
 
 <ul class="cita"><li>(*) CET1 available to cover minimum buffer requirements calculated as 4.5% over RWAs</li></ul>
 
@@ -2553,7 +2553,7 @@ The zero balances correspond to companies whose holding value is equal to zero, 
         </tr>
     </tbody>
 </table>
-[Download table](#)
+
 
 <table class="l">
     <thead>
@@ -2859,7 +2859,7 @@ The zero balances correspond to companies whose holding value is equal to zero, 
         </tr>
     </tbody>
 </table>
-[Download table](#)
+
 
 <table class="l">
     <thead>
@@ -3165,7 +3165,7 @@ The zero balances correspond to companies whose holding value is equal to zero, 
         </tr>
     </tbody>
 </table>
-[Download table](#)
+
 
 <table class="l">
     <thead>
@@ -3471,7 +3471,7 @@ The zero balances correspond to companies whose holding value is equal to zero, 
         </tr>
     </tbody>
 </table>
-[Download table](#)
+
 
 <table class="l">
     <thead>
@@ -3819,7 +3819,7 @@ The zero balances correspond to companies whose holding value is equal to zero, 
         </tr>
     </tbody>
 </table>
-[Download table](#)
+
 
 <table class="l">
     <thead>
@@ -4167,7 +4167,7 @@ The zero balances correspond to companies whose holding value is equal to zero, 
         </tr>
     </tbody>
 </table>
-[Download table](#)
+
 
 <table class="l">
     <thead>
@@ -4555,7 +4555,7 @@ Constitute Subordinated Non-Preferred Indebtedness and will rank (1) junior to t
         </tr>
     </tbody>
 </table>
-[Download table](#)
+
 
 <table class="l">
     <thead>
@@ -5070,7 +5070,7 @@ Constitute Subordinated Non-Preferred Indebtedness and will rank (1) junior to t
         </tr>
     </tbody>
 </table>
-[Download table](#)
+
 
 
 <table class="l">
@@ -5418,7 +5418,7 @@ Constitute Subordinated Non-Preferred Indebtedness and will rank (1) junior to t
         </tr>
     </tbody>
 </table>
-[Download table](#)
+
 
 <table class="l">
     <thead>
@@ -5765,7 +5765,7 @@ Constitute Subordinated Non-Preferred Indebtedness and will rank (1) junior to t
         </tr>
     </tbody>
 </table>
-[Download table](#)
+
 
 
 <table class="l">
@@ -6113,7 +6113,7 @@ Constitute Subordinated Non-Preferred Indebtedness and will rank (1) junior to t
         </tr>
     </tbody>
 </table>
-[Download table](#)
+
 
 <table class="l">
     <thead>
@@ -6460,7 +6460,7 @@ Constitute Subordinated Non-Preferred Indebtedness and will rank (1) junior to t
         </tr>
     </tbody>
 </table>
-[Download table](#)
+
 
 <table class="l">
     <thead>
@@ -6807,7 +6807,7 @@ Constitute Subordinated Non-Preferred Indebtedness and will rank (1) junior to t
         </tr>
     </tbody>
 </table>
-[Download table](#)
+
 
 <table class="l">
     <thead>
@@ -7112,7 +7112,7 @@ Constitute Subordinated Non-Preferred Indebtedness and will rank (1) junior to t
         </tr>
     </tbody>
 </table>
-[Download table](#)
+
 
 <ul class="cita"><li>(4) Corresponds to the classification of the instrument from a regulatory or phased-in view as of December 31, 2016</li>
 
@@ -7392,7 +7392,7 @@ Constitute Subordinated Non-Preferred Indebtedness and will rank (1) junior to t
         </tr>
     </tbody>
 </table>
-[Download table](#)
+
 
 <table class="l">
     <thead>
@@ -7503,6 +7503,6 @@ Constitute Subordinated Non-Preferred Indebtedness and will rank (1) junior to t
         </tr>
     </tbody>
 </table>
-[Download table](#)
+
 
 {% include download.html %}

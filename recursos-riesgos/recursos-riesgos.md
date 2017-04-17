@@ -3527,20 +3527,18 @@ de los riesgos y compromisos contingentes.
         <tr>
             <td>Disminuciones debidas a los importes utilizados con cargo a correcciones de valor</td>
             <td>(5.762)</td>
-            <td>190</td>
+            <td rowspan="3">190</td>
             <td>(5.762)</td>
         </tr>
         <tr>
             <td>Transferencias entre correcciones de valor</td>
             <td>(652)</td>
-            <td>190</td>
-            <td>(5.762)</td>
+            <td>(652)</td>
         </tr>
         <tr>
             <td>Otros ajustes</td>
-            <td>11</td>
+            <td>12</td>
             <td>201</td>
-            <td>190</td>
         </tr>
         <tr class="b2">
             <td>SALDO AL FINAL DEL EJERCICIO</td>
@@ -3550,18 +3548,18 @@ de los riesgos y compromisos contingentes.
         </tr>
         <tr>
             <td>De los que:</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
         <tr class="s">
-            <td> Sobre cartera deteriorada</td>
+            <td> <i>Sobre cartera deteriorada</i></td>
             <td>12.295</td>
             <td>554</td>
             <td>12.848</td>
         </tr>
         <tr class="s">
-            <td> Sobre cartera vigente no deteriorada</td>
+            <td> <i>Sobre cartera vigente no deteriorada</i></td>
             <td>3.888</td>
             <td>396</td>
             <td>4.284</td>
@@ -3636,7 +3634,7 @@ incumplidas dentro de balance entre el 31 de diciembre de 2016 y el 31 de diciem
 </tr>
         <tr>
             <th>31/12/2016</th>
-            <th>Total</th>
+            <th>Total (1)</th>
         </tr>
     </thead>
     <tbody>
@@ -3653,12 +3651,12 @@ incumplidas dentro de balance entre el 31 de diciembre de 2016 y el 31 de diciem
             <td>(2.997)</td>
         </tr>
         <tr>
-            <td>Cuantías canceladas</td>
+            <td>Cuantías canceladas (2)</td>
             <td>(5.592)</td>
         </tr>
         <tr>
             <td>Otros cambios</td>
-            <td>23.183</td>
+            <td>858</td>
         </tr>
         <tr class="b2">
             <td>Préstamos y títulos de deuda en situación de incumplimiento a 31 de diciembre de 2016</td>
@@ -3666,7 +3664,11 @@ incumplidas dentro de balance entre el 31 de diciembre de 2016 y el 31 de diciem
         </tr>
     </tbody>
 </table>
-
+<ul class="cita">
+<li>(1) Se corresponde con las exposiciones brutas de dotaciones y deterioros 
+</li>
+<li>(2) Se corresponde con las exposiciones clasificadas como fallidos  
+</li></ul>
 
 
 ### 3.2.4. Información sobre el método estándar
@@ -5375,7 +5377,7 @@ informe.
         
             <td>- </td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Total</td>
         
             <td>91.519 </td>
@@ -6558,7 +6560,7 @@ informe.
 
             <td>- </td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Total</td>
 
             <td>102.947 </td>
@@ -6636,18 +6638,18 @@ APR’s para el modelo estándar de Riesgo de Crédito:
         </tr>
         <tr>
             <td>Actualización del modelo</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Metodología y políticas</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Adquisiciones y enajenaciones</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Ocilaciones del tipo de cambio</td>
@@ -6661,8 +6663,8 @@ APR’s para el modelo estándar de Riesgo de Crédito:
         </tr>
         <tr class="b2">
             <td>APRs a 31 de Diciembre de 2016</td>
-            <td>&nbsp;</td>
-            <td></td>
+            <td>223.561</td>
+            <td>17.885</td>
         </tr>
     </tbody>
 </table>
@@ -6738,7 +6740,7 @@ contraparte por categorías de exposición a 31 de Diciembre de 2016 y 2015:
         </tr>
         <tr>
             <td>Empresas</td>
-            <td>2.876</td>
+            <td>2.873</td>
             <td>2.198</td>
         </tr>
         <tr>
@@ -6781,7 +6783,7 @@ contraparte por categorías de exposición a 31 de Diciembre de 2016 y 2015:
             <td>124</td>
             <td>86</td>
         </tr>
-        <tr class="b">
+        <tr class="b2">
             <td>TOTAL</td>
             <td>9.130</td>
             <td>8.092</td>
@@ -6821,13 +6823,13 @@ recursos propios.
             <td>BBVA S.A.</td>
             <td>Entidades Financieras</td>
             <td>4</td>
-            <td>1 _rating_, 1 modelo de PD, 1 modelo de LGD, 1 modelo de EAD</td>
+            <td>1 rating, 1 modelo de PD, 1 modelo de LGD, 1 modelo de EAD</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
             <td>Instituciones Públicas</td>
             <td>5</td>
-            <td>1 _rating_, 1 modelo de PD, 2 modelos de LGD, 1 modelo de EAD</td>
+            <td>1 rating, 1 modelo de PD, 2 modelos de LGD, 1 modelo de EAD</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -6839,25 +6841,25 @@ recursos propios.
             <td>&nbsp;</td>
             <td>Promotores</td>
             <td>4</td>
-            <td>1 _rating_, 1 modelo de PD, 1 modelo de LGD, 1 modelo de EAD</td>
+            <td>1 rating, 1 modelo de PD, 1 modelo de LGD, 1 modelo de EAD</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
             <td>Pequeñas Empresas</td>
             <td>5</td>
-            <td>1 _rating_, 1 modelo de PD, 2 modelos de LGD, 1 modelo de EAD</td>
+            <td>1 rating, 1 modelo de PD, 2 modelos de LGD, 1 modelo de EAD</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
             <td>Medianas Empresas</td>
             <td>5</td>
-            <td>1 _rating_, 1 modelo de PD, 2 modelos de LGD, 1 modelo de EAD</td>
+            <td>1 rating, 1 modelo de PD, 2 modelos de LGD, 1 modelo de EAD</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
             <td>Grandes Empresas</td>
             <td>5</td>
-            <td>1 _rating_, 1 modelo de PD, 2 modelos de LGD, 1 modelo de EAD</td>
+            <td>1 rating, 1 modelo de PD, 2 modelos de LGD, 1 modelo de EAD</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -6887,13 +6889,13 @@ recursos propios.
             <td>BBVA Irlanda</td>
             <td>Entidades Financieras</td>
             <td>4</td>
-            <td>1 _rating_, 1 modelo de PD, 1 modelo de LGD, 1 modelo de EAD</td>
+            <td>1 rating, 1 modelo de PD, 1 modelo de LGD, 1 modelo de EAD</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
             <td>Grandes Empresas</td>
             <td>5</td>
-            <td>1 _rating_, 1 modelo de PD, 2 modelos de LGD, 1 modelo de EAD</td>
+            <td>1 rating, 1 modelo de PD, 2 modelos de LGD, 1 modelo de EAD</td>
         </tr>
         <tr>
             <td>BBVA Bancomer</td>
@@ -6905,13 +6907,13 @@ recursos propios.
             <td>&nbsp;</td>
             <td>Grandes Empresas</td>
             <td>5</td>
-            <td>1 _rating_, 1 modelo de PD, 2 modelos de LGD, 1 modelo de EAD</td>
+            <td>1 rating, 1 modelo de PD, 2 modelos de LGD, 1 modelo de EAD</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
             <td>Medianas Empresas</td>
             <td>5</td>
-            <td>1 _rating_, 1 modelo de PD, 2 modelos de LGD, 1 modelo de EAD</td>
+            <td>1 rating, 1 modelo de PD, 2 modelos de LGD, 1 modelo de EAD</td>
         </tr>
         <tr>
             <td>Grupo BBVA </td>
@@ -6923,8 +6925,8 @@ recursos propios.
 </table>
 
 
-Los principales tipos de modelos de calificación utilizados en las carteras IRB son _ratings_
-para las carteras mayoristas y _scorings_, tanto proactivos como reactivos, en el caso de
+Los principales tipos de modelos de calificación utilizados en las carteras IRB son *ratings*
+para las carteras mayoristas y *scorings*, tanto proactivos como reactivos, en el caso de
 carteras minoristas.
 
 Los modelos de calificación otorgan a los contratos/clientes una puntuación que ordena a
@@ -7005,20 +7007,20 @@ Las estimaciones de PD realizadas en el Grupo son trasladadas a la Escala Maestr
 se presenta a continuación, permitiendo la comparación con las escalas utilizadas por las
 agencias externas.
 
-**TABLA 26: Escala Maestra de *_rating_* BBVA**
+**TABLA 26: Escala Maestra de *rating* BBVA**
 
 <table>
     <thead>
         <tr >
-            <th colspan="1">_ratings_ externos</th>
-            <th colspan="1">_ratings_ internos</th>
+            <th colspan="1">Ratings externos</th>
+            <th colspan="1">Ratings internos</th>
             <th colspan="3">Probabilidad de incumplimiento en puntos básicos</th>
         </tr>
         <tr>
             <th>Escala Standard & Poor´s</th>
             <th>Escala reducida (22 grupos)</th>
             <th>Medio</th>
-            <th>"Mínimo desde >="</th>
+            <th>Mínimo desde >=</th>
             <th>Máximo</th>
         </tr>
     </thead>
@@ -7607,17 +7609,17 @@ categorías de exposición:
             <td>202.857 </td>
 
             <td>86.411 </td>
-            <td>43%</td>
+            <td>42,53%</td>
 
             <td>220.612 </td>
-            <td>7%</td>
+            <td>6,78%</td>
 
             <td>11.145.698 </td>
-            <td>34%</td>
+            <td>34,04%</td>
             <td>32</td>
 
             <td>81.356 </td>
-            <td>37%</td>
+            <td>36,88%</td>
 
             <td>5.028 </td>
 
@@ -7629,17 +7631,17 @@ categorías de exposición:
             <td>4.372 </td>
 
             <td>651 </td>
-            <td>48%</td>
+            <td>47,99%</td>
 
             <td>4.684 </td>
-            <td>1%</td>
+            <td>1,33%</td>
 
             <td>159 </td>
-            <td>27%</td>
+            <td>27,21%</td>
             <td>64</td>
 
             <td>430 </td>
-            <td>9%</td>
+            <td>9,17%</td>
 
             <td>16 </td>
 
@@ -7652,17 +7654,17 @@ categorías de exposición:
                     <td>3.594 </td>
 
                     <td>73 </td>
-                    <td>193%</td>
+                    <td>192,78%</td>
 
-                    <td>4.197 </td>
-                    <td>0%</td>
+                    <td>4.197</td>
+                    <td>0,04%</td>
 
-                    <td>45 </td>
-                    <td>26%</td>
+                    <td>45</td>
+                    <td>26,08%</td>
                     <td>64</td>
 
                     <td>185 </td>
-                    <td>4%</td>
+                    <td>4,40%</td>
 
                     <td>1 </td>
 
@@ -7675,17 +7677,17 @@ categorías de exposición:
                     <td>97 </td>
 
                     <td>205 </td>
-                    <td>50%</td>
+                    <td>50,03%</td>
 
                     <td>139 </td>
-                    <td>0%</td>
+                    <td>0,20%</td>
 
                     <td>17 </td>
-                    <td>42%</td>
+                    <td>41,76%</td>
                     <td>42</td>
 
                     <td>42 </td>
-                    <td>30%</td>
+                    <td>30,14%</td>
 
                     <td>0 </td>
 
@@ -7701,14 +7703,14 @@ categorías de exposición:
                     <td>7%</td>
 
                     <td>71 </td>
-                    <td>0%</td>
+                    <td>0,31%</td>
 
                     <td>18 </td>
-                    <td>44%</td>
+                    <td>43,62%</td>
                     <td>59</td>
 
                     <td>36 </td>
-                    <td>50%</td>
+                    <td>50,05%</td>
 
                     <td>0 </td>
 
@@ -7721,17 +7723,17 @@ categorías de exposición:
                     <td>137 </td>
 
                     <td>24 </td>
-                    <td>42%</td>
+                    <td>42,21%</td>
 
                     <td>35 </td>
-                    <td>1%</td>
+                    <td>0,51%</td>
 
                     <td>11 </td>
-                    <td>49%</td>
+                    <td>48,98%</td>
                     <td>113</td>
 
                     <td>36 </td>
-                    <td>103%</td>
+                    <td>103,36%</td>
 
                     <td>0 </td>
 
@@ -7744,17 +7746,17 @@ categorías de exposición:
                     <td>30 </td>
 
                     <td>2 </td>
-                    <td>42%</td>
+                    <td>42,04%</td>
 
                     <td>31 </td>
-                    <td>1%</td>
+                    <td>0,88%</td>
 
                     <td>7 </td>
-                    <td>51%</td>
+                    <td>50,74%</td>
                     <td>102</td>
 
                     <td>44 </td>
-                    <td>142%</td>
+                    <td>142,32%</td>
 
                     <td>0 </td>
 
@@ -7767,17 +7769,17 @@ categorías de exposición:
                     <td>185 </td>
 
                     <td>227 </td>
-                    <td>17%</td>
+                    <td>16,94%</td>
 
                     <td>158 </td>
-                    <td>4%</td>
+                    <td>3,98%</td>
 
                     <td>38 </td>
-                    <td>29%</td>
+                    <td>28,79%</td>
                     <td>77</td>
 
                     <td>80 </td>
-                    <td>51%</td>
+                    <td>50,74%</td>
 
                     <td>2 </td>
 
@@ -7790,17 +7792,17 @@ categorías de exposición:
                     <td>- </td>
 
                     <td>1 </td>
-                    <td>53%</td>
+                    <td>52,83%</td>
 
                     <td>0 </td>
-                    <td>21%</td>
+                    <td>21,22%</td>
 
                     <td>4 </td>
                     <td>20%</td>
                     <td>48</td>
 
                     <td>0 </td>
-                    <td>104%</td>
+                    <td>104,29%</td>
 
                     <td>0 </td>
 
@@ -7812,17 +7814,17 @@ categorías de exposición:
             <td>237 </td>
 
             <td>72 </td>
-            <td>23%</td>
+            <td>22,97%</td>
 
             <td>53 </td>
             <td>100%</td>
 
             <td>19 </td>
-            <td>24%</td>
+            <td>24,30%</td>
             <td>67</td>
 
             <td>7 </td>
-            <td>14%</td>
+            <td>13,52%</td>
 
             <td>13 </td>
 
@@ -7834,17 +7836,17 @@ categorías de exposición:
             <td>26.687 </td>
 
             <td>6.393 </td>
-            <td>38%</td>
+            <td>37,88%</td>
 
             <td>10.394 </td>
-            <td>1%</td>
+            <td>1,19%</td>
 
             <td>1.631 </td>
-            <td>37%</td>
+            <td>36,72%</td>
             <td>46</td>
 
             <td>3.547 </td>
-            <td>34%</td>
+            <td>34,12%</td>
 
             <td>50 </td>
 
@@ -7857,17 +7859,17 @@ categorías de exposición:
                     <td>15.729 </td>
 
                     <td>4.469 </td>
-                    <td>38%</td>
+                    <td>38,38%</td>
 
                     <td>6.247 </td>
-                    <td>0%</td>
+                    <td>0,08%</td>
 
                     <td>678 </td>
-                    <td>39%</td>
+                    <td>39,06%</td>
                     <td>48</td>
 
                     <td>1.311 </td>
-                    <td>21%</td>
+                    <td>20,98%</td>
 
                     <td>2 </td>
 
@@ -7880,17 +7882,17 @@ categorías de exposición:
                     <td>2.886 </td>
 
                     <td>537 </td>
-                    <td>47%</td>
+                    <td>46,56%</td>
 
                     <td>940 </td>
-                    <td>0%</td>
+                    <td>0,20%</td>
 
                     <td>147 </td>
-                    <td>36%</td>
+                    <td>36,11%</td>
                     <td>38</td>
 
                     <td>308 </td>
-                    <td>33%</td>
+                    <td>32,80%</td>
 
                     <td>1 </td>
 
@@ -7903,17 +7905,17 @@ categorías de exposición:
                     <td>6.116 </td>
 
                     <td>958 </td>
-                    <td>20%</td>
+                    <td>19,79%</td>
 
                     <td>1.719 </td>
-                    <td>0%</td>
+                    <td>0,31%</td>
 
                     <td>267 </td>
-                    <td>29%</td>
+                    <td>28,79%</td>
                     <td>45</td>
 
                     <td>727 </td>
-                    <td>42%</td>
+                    <td>42,30%</td>
 
                     <td>2 </td>
 
@@ -7926,17 +7928,17 @@ categorías de exposición:
                     <td>673 </td>
 
                     <td>190 </td>
-                    <td>70%</td>
+                    <td>69,53%</td>
 
                     <td>536 </td>
-                    <td>1%</td>
+                    <td>0,51%</td>
 
                     <td>120 </td>
-                    <td>33%</td>
+                    <td>33,44%</td>
                     <td>37</td>
 
                     <td>252 </td>
-                    <td>47%</td>
+                    <td>46,92%</td>
 
                     <td>1 </td>
 
@@ -7949,17 +7951,17 @@ categorías de exposición:
                     <td>651 </td>
 
                     <td>128 </td>
-                    <td>52%</td>
+                    <td>51,61%</td>
 
                     <td>598 </td>
-                    <td>1%</td>
+                    <td>1,10%</td>
 
                     <td>184 </td>
-                    <td>37%</td>
+                    <td>36,95%</td>
                     <td>46</td>
 
                     <td>507 </td>
-                    <td>85%</td>
+                    <td>84,77%</td>
 
                     <td>2 </td>
 
@@ -7972,17 +7974,17 @@ categorías de exposición:
                     <td>310 </td>
 
                     <td>96 </td>
-                    <td>63%</td>
+                    <td>63,25%</td>
 
                     <td>225 </td>
-                    <td>4%</td>
+                    <td>4,35%</td>
 
                     <td>144 </td>
-                    <td>38%</td>
+                    <td>38,31%</td>
                     <td>41</td>
 
                     <td>303 </td>
-                    <td>135%</td>
+                    <td>134,65%</td>
 
                     <td>4 </td>
 
@@ -7995,17 +7997,17 @@ categorías de exposición:
                     <td>75 </td>
 
                     <td>15 </td>
-                    <td>53%</td>
+                    <td>53,06%</td>
 
                     <td>44 </td>
-                    <td>19%</td>
+                    <td>18,77%</td>
 
                     <td>53 </td>
-                    <td>46%</td>
+                    <td>46,42%</td>
                     <td>41</td>
 
                     <td>109 </td>
-                    <td>249%</td>
+                    <td>249,45%</td>
 
                     <td>4 </td>
 
@@ -8017,17 +8019,17 @@ categorías de exposición:
             <td>249 </td>
 
             <td>1 </td>
-            <td>47%</td>
+            <td>46,73%</td>
 
             <td>84 </td>
             <td>100%</td>
 
             <td>38 </td>
-            <td>42%</td>
+            <td>41,65%</td>
             <td>61</td>
 
             <td>29 </td>
-            <td>35%</td>
+            <td>34,82%</td>
 
             <td>35 </td>
 
@@ -8039,17 +8041,17 @@ categorías de exposición:
             <td>68.942 </td>
 
             <td>59.105 </td>
-            <td>51%</td>
+            <td>50,70%</td>
 
             <td>98.658 </td>
-            <td>8%</td>
+            <td>8,49%</td>
 
             <td>53.448 </td>
-            <td>42%</td>
+            <td>42,45%</td>
             <td>63</td>
 
             <td>50.396 </td>
-            <td>51%</td>
+            <td>51,08%</td>
 
             <td>3.103 </td>
 
@@ -8062,17 +8064,17 @@ categorías de exposición:
                     <td>17.868 </td>
 
                     <td>29.479 </td>
-                    <td>51%</td>
+                    <td>51,41%</td>
 
                     <td>34.961 </td>
-                    <td>0%</td>
+                    <td>0,11%</td>
 
                     <td>6.186 </td>
-                    <td>43%</td>
+                    <td>43,50%</td>
                     <td>76</td>
 
                     <td>9.941 </td>
-                    <td>28%</td>
+                    <td>28,43%</td>
 
                     <td>16 </td>
 
@@ -8085,17 +8087,17 @@ categorías de exposición:
                     <td>6.887 </td>
 
                     <td>7.830 </td>
-                    <td>48%</td>
+                    <td>48,19%</td>
 
                     <td>10.975 </td>
-                    <td>0%</td>
+                    <td>0,20%</td>
 
                     <td>3.276 </td>
-                    <td>44%</td>
+                    <td>44,04%</td>
                     <td>44</td>
 
                     <td>4.703 </td>
-                    <td>43%</td>
+                    <td>42,85%</td>
 
                     <td>10 </td>
 
@@ -8108,17 +8110,17 @@ categorías de exposición:
                     <td>10.052 </td>
 
                     <td>8.792 </td>
-                    <td>53%</td>
+                    <td>52,93%</td>
 
                     <td>14.553 </td>
-                    <td>0%</td>
+                    <td>0,31%</td>
 
                     <td>5.568 </td>
-                    <td>44%</td>
+                    <td>43,89%</td>
                     <td>60</td>
 
                     <td>7.673 </td>
-                    <td>53%</td>
+                    <td>52,72%</td>
 
                     <td>20 </td>
 
@@ -8131,17 +8133,17 @@ categorías de exposición:
                     <td>7.993 </td>
 
                     <td>6.991 </td>
-                    <td>52%</td>
+                    <td>51,96%</td>
 
                     <td>11.340 </td>
-                    <td>1%</td>
+                    <td>0,50%</td>
 
                     <td>7.010 </td>
-                    <td>42%</td>
+                    <td>42,27%</td>
                     <td>56</td>
 
                     <td>7.229 </td>
-                    <td>64%</td>
+                    <td>63,75%</td>
 
                     <td>24 </td>
 
@@ -8154,17 +8156,17 @@ categorías de exposición:
                     <td>9.715 </td>
 
                     <td>3.347 </td>
-                    <td>50%</td>
+                    <td>49,96%</td>
 
                     <td>10.714 </td>
-                    <td>1%</td>
+                    <td>1,11%</td>
 
                     <td>13.312 </td>
-                    <td>43%</td>
+                    <td>42,99%</td>
                     <td>52</td>
 
                     <td>9.069 </td>
-                    <td>85%</td>
+                    <td>84,64%</td>
 
                     <td>51 </td>
 
@@ -8177,17 +8179,17 @@ categorías de exposición:
                     <td>7.863 </td>
 
                     <td>1.848 </td>
-                    <td>39%</td>
+                    <td>38,60%</td>
 
                     <td>7.506 </td>
-                    <td>4%</td>
+                    <td>3,87%</td>
 
                     <td>12.401 </td>
-                    <td>39%</td>
+                    <td>39,15%</td>
                     <td>53</td>
 
                     <td>8.154 </td>
-                    <td>109%</td>
+                    <td>108,63%</td>
 
                     <td>113 </td>
 
@@ -8200,17 +8202,17 @@ categorías de exposición:
                     <td>955 </td>
 
                     <td>319 </td>
-                    <td>52%</td>
+                    <td>51,58%</td>
 
                     <td>959 </td>
-                    <td>17%</td>
+                    <td>16,71%</td>
 
                     <td>1.078 </td>
-                    <td>31%</td>
+                    <td>30,94%</td>
                     <td>43</td>
 
                     <td>1.467 </td>
-                    <td>153%</td>
+                    <td>152,91%</td>
 
                     <td>54 </td>
 
@@ -8222,17 +8224,17 @@ categorías de exposición:
             <td>7.609 </td>
 
             <td>498 </td>
-            <td>40%</td>
+            <td>40,35%</td>
 
             <td>7.649 </td>
             <td>100%</td>
 
             <td>4.617 </td>
-            <td>37%</td>
+            <td>36,80%</td>
             <td>70</td>
 
             <td>2.161 </td>
-            <td>28%</td>
+            <td>28,25%</td>
 
             <td>2.815 </td>
 
@@ -8243,20 +8245,20 @@ categorías de exposición:
 
             <td>3.592 </td>
 
-            <td>- </td>
+            <td>-</td>
 
-            <td>- </td>
+            <td>-</td>
 
             <td>3.592 </td>
 
-            <td>- </td>
+            <td>-</td>
 
-            <td>- </td>
+            <td>-</td>
             <td>80%</td>
-            <td>0</td>
+            <td>-</td>
 
             <td>4.896 </td>
-            <td>136%</td>
+            <td>136,30%</td>
 
             <td>6 </td>
 
@@ -8273,7 +8275,7 @@ categorías de exposición:
                     <td>- </td>
 
                     <td>2.412 </td>
-                    <td>0%</td>
+                    <td>-</td>
 
                     <td>- </td>
                     <td>77%</td>
@@ -8281,7 +8283,7 @@ categorías de exposición:
                     <td>- </td>
 
                     <td>2.866 </td>
-                    <td>119%</td>
+                    <td>118,83%</td>
 
                     <td>3 </td>
 
@@ -8298,7 +8300,7 @@ categorías de exposición:
                     <td>- </td>
 
                     <td>769 </td>
-                    <td>0%</td>
+                    <td>-</td>
 
                     <td>- </td>
                     <td>86%</td>
@@ -8306,7 +8308,7 @@ categorías de exposición:
                     <td>- </td>
 
                     <td>1.342 </td>
-                    <td>174%</td>
+                    <td>174,46%</td>
 
                     <td>1 </td>
 
@@ -8323,7 +8325,7 @@ categorías de exposición:
                     <td>- </td>
 
                     <td>316 </td>
-                    <td>0%</td>
+                    <td>-</td>
 
                     <td>- </td>
                     <td>90%</td>
@@ -8331,7 +8333,7 @@ categorías de exposición:
                     <td>- </td>
 
                     <td>543 </td>
-                    <td>172%</td>
+                    <td>171,90%</td>
 
                     <td>1 </td>
 
@@ -8356,7 +8358,7 @@ categorías de exposición:
                     <td>- </td>
 
                     <td>144 </td>
-                    <td>152%</td>
+                    <td>152,23%</td>
 
                     <td>0 </td>
 
@@ -8383,7 +8385,7 @@ categorías de exposición:
                     <td>- </td>
 
                     <td>- </td>
-                    <td>0%</td>
+                    <td>-</td>
 
                     <td>- </td>
 
@@ -8410,7 +8412,7 @@ categorías de exposición:
                     <td>- </td>
 
                     <td>- </td>
-                    <td>0%</td>
+                    <td>-</td>
 
                     <td>- </td>
 
@@ -8437,7 +8439,7 @@ categorías de exposición:
                     <td>- </td>
 
                     <td>- </td>
-                    <td>0%</td>
+                    <td>-</td>
 
                     <td>0 </td>
 
@@ -8463,7 +8465,7 @@ categorías de exposición:
             <td>- </td>
 
             <td>- </td>
-            <td>0%</td>
+            <td>-</td>
 
             <td>- </td>
 
@@ -8475,17 +8477,17 @@ categorías de exposición:
             <td>5.931 </td>
 
             <td>14.391 </td>
-            <td>23%</td>
+            <td>23,42%</td>
 
             <td>9.302 </td>
-            <td>7%</td>
+            <td>6,62%</td>
 
             <td>9.135.528 </td>
-            <td>74%</td>
-            <td>0</td>
+            <td>74,41%</td>
+            <td>-</td>
 
             <td>7.376 </td>
-            <td>79%</td>
+            <td>79,29%</td>
 
             <td>499 </td>
 
@@ -8498,17 +8500,17 @@ categorías de exposición:
                     <td>685 </td>
 
                     <td>3.975 </td>
-                    <td>31%</td>
+                    <td>31,09%</td>
 
                     <td>1.921 </td>
-                    <td>0%</td>
+                    <td>0,04%</td>
 
                     <td>2.595.733 </td>
-                    <td>48%</td>
-                    <td>0</td>
+                    <td>48,38%</td>
+                    <td>-</td>
 
                     <td>27 </td>
-                    <td>1%</td>
+                    <td>1,41%</td>
 
                     <td>0 </td>
 
@@ -8521,17 +8523,17 @@ categorías de exposición:
                     <td>13 </td>
 
                     <td>42 </td>
-                    <td>35%</td>
+                    <td>34,86%</td>
 
                     <td>28 </td>
-                    <td>0%</td>
+                    <td>0,21%</td>
 
                     <td>55.043 </td>
-                    <td>52%</td>
-                    <td>0</td>
+                    <td>52,34%</td>
+                    <td>-</td>
 
                     <td>2 </td>
-                    <td>6%</td>
+                    <td>5,96%</td>
 
                     <td>0 </td>
 
@@ -8544,17 +8546,17 @@ categorías de exposición:
                     <td>85 </td>
 
                     <td>129 </td>
-                    <td>30%</td>
+                    <td>30,46%</td>
 
                     <td>125 </td>
-                    <td>0%</td>
+                    <td>0,30%</td>
 
                     <td>168.343 </td>
-                    <td>51%</td>
-                    <td>0</td>
+                    <td>50,79%</td>
+                    <td>-</td>
 
                     <td>10 </td>
-                    <td>8%</td>
+                    <td>7,98%</td>
 
                     <td>0 </td>
 
@@ -8567,17 +8569,17 @@ categorías de exposición:
                     <td>366 </td>
 
                     <td>1.540 </td>
-                    <td>13%</td>
+                    <td>12,90%</td>
 
                     <td>564 </td>
-                    <td>1%</td>
+                    <td>0,51%</td>
 
                     <td>441.285 </td>
-                    <td>78%</td>
-                    <td>0</td>
+                    <td>77,83%</td>
+                    <td>-</td>
 
                     <td>103 </td>
-                    <td>18%</td>
+                    <td>18,22%</td>
 
                     <td>2 </td>
 
@@ -8590,17 +8592,17 @@ categorías de exposición:
                     <td>997 </td>
 
                     <td>3.564 </td>
-                    <td>17%</td>
+                    <td>17,34%</td>
 
                     <td>1.615 </td>
-                    <td>1%</td>
+                    <td>1,19%</td>
 
                     <td>1.344.096 </td>
-                    <td>81%</td>
-                    <td>0</td>
+                    <td>80,55%</td>
+                    <td>-</td>
 
                     <td>611 </td>
-                    <td>38%</td>
+                    <td>37,81%</td>
 
                     <td>15 </td>
 
@@ -8613,17 +8615,17 @@ categorías de exposición:
                     <td>2.692 </td>
 
                     <td>4.554 </td>
-                    <td>24%</td>
+                    <td>23,57%</td>
 
                     <td>3.766 </td>
-                    <td>5%</td>
+                    <td>5,32%</td>
 
                     <td>3.176.974 </td>
-                    <td>83%</td>
-                    <td>0</td>
+                    <td>83,46%</td>
+                    <td>-</td>
 
                     <td>4.149 </td>
-                    <td>110%</td>
+                    <td>110,17%</td>
 
                     <td>168 </td>
 
@@ -8636,17 +8638,17 @@ categorías de exposición:
                     <td>948 </td>
 
                     <td>586 </td>
-                    <td>33%</td>
+                    <td>32.58%</td>
 
                     <td>1.139 </td>
-                    <td>22%</td>
+                    <td>21,62%</td>
 
                     <td>1.225.741 </td>
-                    <td>81%</td>
-                    <td>0</td>
+                    <td>80,72%</td>
+                    <td>-</td>
 
                     <td>2.469 </td>
-                    <td>217%</td>
+                    <td>216,80%</td>
 
                     <td>199 </td>
 
@@ -8658,17 +8660,17 @@ categorías de exposición:
             <td>146 </td>
 
             <td>0 </td>
-            <td>24%</td>
+            <td>24,14%</td>
 
             <td>146 </td>
             <td>100%</td>
 
             <td>128.313 </td>
-            <td>78%</td>
-            <td>0</td>
+            <td>77,81%</td>
+            <td>-</td>
 
             <td>6 </td>
-            <td>4%</td>
+            <td>4,20%</td>
 
             <td>113 </td>
 
@@ -8680,17 +8682,17 @@ categorías de exposición:
             <td>83.659 </td>
 
             <td>5.190 </td>
-            <td>5%</td>
+            <td>4,98%</td>
 
             <td>83.894 </td>
             <td>6%</td>
 
             <td>1.142.943 </td>
-            <td>19%</td>
+            <td>18,66%</td>
             <td>-</td>
 
             <td>10.690 </td>
-            <td>13%</td>
+            <td>12,74%</td>
 
             <td>983 </td>
 
@@ -8703,18 +8705,18 @@ categorías de exposición:
                     <td>56.559 </td>
 
                     <td>3.732 </td>
-                    <td>5%</td>
+                    <td>4,98%</td>
 
                     <td>56.738 </td>
-                    <td>0%</td>
+                    <td>0,05%</td>
 
                     <td>811.018 </td>
-                    <td>17%</td>
+                    <td>17,43%</td>
 
                     <td>- </td>
 
                     <td>1.504 </td>
-                    <td>3%</td>
+                    <td>2,65%</td>
 
                     <td>5 </td>
 
@@ -8727,18 +8729,18 @@ categorías de exposición:
                     <td>3.205 </td>
 
                     <td>50 </td>
-                    <td>5%</td>
+                    <td>4,94%</td>
 
                     <td>3.207 </td>
-                    <td>0%</td>
+                    <td>0,21%</td>
 
                     <td>37.146 </td>
-                    <td>22%</td>
+                    <td>22,34%</td>
 
                     <td>- </td>
 
                     <td>309 </td>
-                    <td>10%</td>
+                    <td>9,62%</td>
 
                     <td>1 </td>
 
@@ -8751,18 +8753,18 @@ categorías de exposición:
                     <td>4.529 </td>
 
                     <td>448 </td>
-                    <td>5%</td>
+                    <td>4,98%</td>
 
                     <td>4.551 </td>
-                    <td>0%</td>
+                    <td>0,31%</td>
 
                     <td>67.560 </td>
-                    <td>22%</td>
+                    <td>21,52%</td>
 
                     <td>- </td>
 
                     <td>584 </td>
-                    <td>13%</td>
+                    <td>12,84%</td>
 
                     <td>3 </td>
 
@@ -8775,18 +8777,18 @@ categorías de exposición:
                     <td>3.133 </td>
 
                     <td>260 </td>
-                    <td>5%</td>
+                    <td>4,98%</td>
 
                     <td>3.146 </td>
-                    <td>1%</td>
+                    <td>0,52%</td>
 
                     <td>44.265 </td>
-                    <td>22%</td>
+                    <td>21,84%</td>
 
                     <td>- </td>
 
                     <td>578 </td>
-                    <td>18%</td>
+                    <td>18,38%</td>
 
                     <td>4 </td>
 
@@ -8799,18 +8801,18 @@ categorías de exposición:
                     <td>5.285 </td>
 
                     <td>417 </td>
-                    <td>5%</td>
+                    <td>4,98%</td>
 
                     <td>5.303 </td>
-                    <td>1%</td>
+                    <td>1,14%</td>
 
                     <td>68.893 </td>
-                    <td>22%</td>
+                    <td>21,70%</td>
 
                     <td>- </td>
 
                     <td>1.625 </td>
-                    <td>31%</td>
+                    <td>30,65%</td>
 
                     <td>13 </td>
 
@@ -8823,18 +8825,18 @@ categorías de exposición:
                     <td>5.327 </td>
 
                     <td>218 </td>
-                    <td>5%</td>
+                    <td>4,98%</td>
 
                     <td>5.333 </td>
-                    <td>5%</td>
+                    <td>4,84%</td>
 
                     <td>61.633 </td>
-                    <td>21%</td>
+                    <td>20,85%</td>
 
                     <td>- </td>
 
                     <td>3.629 </td>
-                    <td>68%</td>
+                    <td>68,04%</td>
 
                     <td>53 </td>
 
@@ -8847,18 +8849,18 @@ categorías de exposición:
                     <td>1.198 </td>
 
                     <td>65 </td>
-                    <td>5%</td>
+                    <td>4,98%</td>
 
                     <td>1.201 </td>
-                    <td>20%</td>
+                    <td>19,63%</td>
 
                     <td>14.103 </td>
-                    <td>23%</td>
+                    <td>22,51%</td>
 
                     <td>- </td>
 
                     <td>1.536 </td>
-                    <td>128%</td>
+                    <td>127,90%</td>
 
                     <td>53 </td>
 
@@ -8870,18 +8872,18 @@ categorías de exposición:
             <td>4.423 </td>
 
             <td>0 </td>
-            <td>5%</td>
+            <td>4,52%</td>
 
             <td>4.415 </td>
             <td>100%</td>
 
             <td>38.325 </td>
-            <td>19%</td>
+            <td>19,27%</td>
 
             <td>- </td>
 
             <td>924 </td>
-            <td>21%</td>
+            <td>20,94%</td>
 
             <td>851 </td>
 
@@ -8893,17 +8895,17 @@ categorías de exposición:
             <td>2.621 </td>
 
             <td>676 </td>
-            <td>61%</td>
+            <td>61,43%</td>
 
             <td>3.033 </td>
-            <td>9%</td>
+            <td>8,64%</td>
 
             <td>97.469 </td>
-            <td>60%</td>
+            <td>60,08%</td>
             <td>-</td>
 
             <td>1.500 </td>
-            <td>49%</td>
+            <td>49,46%</td>
 
             <td>164 </td>
 
@@ -8916,18 +8918,18 @@ categorías de exposición:
                     <td>62 </td>
 
                     <td>38 </td>
-                    <td>58%</td>
+                    <td>58,40%</td>
 
                     <td>84 </td>
-                    <td>0%</td>
+                    <td>0,14%</td>
 
                     <td>3.739 </td>
-                    <td>59%</td>
+                    <td>58,75%</td>
 
                     <td>- </td>
 
                     <td>12 </td>
-                    <td>15%</td>
+                    <td>14,75%</td>
 
                     <td>0 </td>
 
@@ -8940,18 +8942,18 @@ categorías de exposición:
                     <td>97 </td>
 
                     <td>53 </td>
-                    <td>60%</td>
+                    <td>6,27%</td>
 
                     <td>129 </td>
-                    <td>0%</td>
+                    <td>0,20%</td>
 
                     <td>4.902 </td>
-                    <td>59%</td>
+                    <td>59,23%</td>
 
                     <td>- </td>
 
                     <td>25 </td>
-                    <td>19%</td>
+                    <td>19,38%</td>
 
                     <td>0 </td>
 
@@ -8964,18 +8966,18 @@ categorías de exposición:
                     <td>208 </td>
 
                     <td>92 </td>
-                    <td>61%</td>
+                    <td>61,01%</td>
 
                     <td>265 </td>
-                    <td>0%</td>
+                    <td>0,31%</td>
 
                     <td>9.016 </td>
-                    <td>59%</td>
+                    <td>58,94%</td>
 
                     <td>- </td>
 
                     <td>68 </td>
-                    <td>26%</td>
+                    <td>25,75%</td>
 
                     <td>0 </td>
 
@@ -8988,18 +8990,18 @@ categorías de exposición:
                     <td>319 </td>
 
                     <td>99 </td>
-                    <td>62%</td>
+                    <td>62,44%</td>
 
                     <td>380 </td>
-                    <td>1%</td>
+                    <td>0,51%</td>
 
                     <td>11.766 </td>
-                    <td>60%</td>
+                    <td>60,41%</td>
 
                     <td>- </td>
 
                     <td>135 </td>
-                    <td>35%</td>
+                    <td>35,49%</td>
 
                     <td>1 </td>
 
@@ -9012,18 +9014,18 @@ categorías de exposición:
                     <td>843 </td>
 
                     <td>228 </td>
-                    <td>62%</td>
+                    <td>61,86%</td>
 
                     <td>984 </td>
-                    <td>1%</td>
+                    <td>1,20%</td>
 
                     <td>30.884 </td>
-                    <td>60%</td>
+                    <td>60,13%</td>
 
                     <td>- </td>
 
                     <td>515 </td>
-                    <td>52%</td>
+                    <td>52,34%</td>
 
                     <td>7 </td>
 
@@ -9036,18 +9038,18 @@ categorías de exposición:
                     <td>818 </td>
 
                     <td>150 </td>
-                    <td>61%</td>
+                    <td>60,63%</td>
 
                     <td>907 </td>
-                    <td>4%</td>
+                    <td>4,30%</td>
 
                     <td>31.380 </td>
-                    <td>60%</td>
+                    <td>60,03%</td>
 
                     <td>- </td>
 
                     <td>631 </td>
-                    <td>70%</td>
+                    <td>69,64%</td>
 
                     <td>23 </td>
 
@@ -9060,18 +9062,18 @@ categorías de exposición:
                     <td>80 </td>
 
                     <td>15 </td>
-                    <td>73%</td>
+                    <td>72,64%</td>
 
                     <td>90 </td>
-                    <td>15%</td>
+                    <td>15,08%</td>
 
                     <td>1.862 </td>
-                    <td>56%</td>
+                    <td>56,06%</td>
 
                     <td>- </td>
 
                     <td>80 </td>
-                    <td>88%</td>
+                    <td>88,43%</td>
 
                     <td>8 </td>
 
@@ -9083,18 +9085,18 @@ categorías de exposición:
             <td>194 </td>
 
             <td>2 </td>
-            <td>45%</td>
+            <td>45,05%</td>
 
             <td>195 </td>
             <td>100%</td>
 
             <td>3.920 </td>
-            <td>64%</td>
+            <td>64,03%</td>
 
             <td>- </td>
 
             <td>34 </td>
-            <td>17%</td>
+            <td>17,31%</td>
 
             <td>125 </td>
 
@@ -9106,17 +9108,17 @@ categorías de exposición:
             <td>7.053 </td>
 
             <td>6 </td>
-            <td>42%</td>
+            <td>42,37%</td>
 
             <td>7.055 </td>
-            <td>7%</td>
+            <td>6,84%</td>
 
             <td>714.520 </td>
-            <td>53%</td>
+            <td>52,79%</td>
             <td>-</td>
 
             <td>2.523 </td>
-            <td>36%</td>
+            <td>35,76%</td>
 
             <td>207 </td>
 
@@ -9129,18 +9131,18 @@ categorías de exposición:
                     <td>2.924 </td>
 
                     <td>1 </td>
-                    <td>32%</td>
+                    <td>32,49%</td>
 
                     <td>2.924 </td>
-                    <td>0%</td>
+                    <td>0,06%</td>
 
                     <td>239.268 </td>
-                    <td>54%</td>
+                    <td>53,75%</td>
 
                     <td>- </td>
 
                     <td>261 </td>
-                    <td>9%</td>
+                    <td>8,92%</td>
 
                     <td>1 </td>
 
@@ -9153,13 +9155,13 @@ categorías de exposición:
                     <td>298 </td>
 
                     <td>0 </td>
-                    <td>34%</td>
+                    <td>34,16%</td>
 
                     <td>298 </td>
-                    <td>0%</td>
+                    <td>0,19%</td>
 
                     <td>37.016 </td>
-                    <td>57%</td>
+                    <td>57,27%</td>
 
                     <td>- </td>
 
@@ -9177,18 +9179,18 @@ categorías de exposición:
                     <td>542 </td>
 
                     <td>1 </td>
-                    <td>51%</td>
+                    <td>51,10%</td>
 
                     <td>542 </td>
-                    <td>0%</td>
+                    <td>0,32%</td>
 
                     <td>63.309 </td>
-                    <td>58%</td>
+                    <td>57,99%</td>
 
                     <td>- </td>
 
                     <td>185 </td>
-                    <td>34%</td>
+                    <td>34,15%</td>
 
                     <td>1 </td>
 
@@ -9201,18 +9203,18 @@ categorías de exposición:
                     <td>480 </td>
 
                     <td>1 </td>
-                    <td>54%</td>
+                    <td>53,99%</td>
 
                     <td>480 </td>
-                    <td>1%</td>
+                    <td>0,56%</td>
 
                     <td>55.567 </td>
-                    <td>57%</td>
+                    <td>57,45%</td>
 
                     <td>- </td>
 
                     <td>224 </td>
-                    <td>47%</td>
+                    <td>46,55%</td>
 
                     <td>2 </td>
 
@@ -9225,18 +9227,18 @@ categorías de exposición:
                     <td>849 </td>
 
                     <td>1 </td>
-                    <td>52%</td>
+                    <td>51,99%</td>
 
                     <td>849 </td>
-                    <td>1%</td>
+                    <td>1,20%</td>
 
                     <td>104.404 </td>
-                    <td>54%</td>
+                    <td>54,29%</td>
 
                     <td>- </td>
 
                     <td>521 </td>
-                    <td>61%</td>
+                    <td>61,32%</td>
 
                     <td>5 </td>
 
@@ -9249,18 +9251,18 @@ categorías de exposición:
                     <td>1.452 </td>
 
                     <td>1 </td>
-                    <td>50%</td>
+                    <td>49,85%</td>
 
                     <td>1.452 </td>
-                    <td>4%</td>
+                    <td>4,40%</td>
 
                     <td>162.027 </td>
-                    <td>49%</td>
+                    <td>48,89%</td>
 
                     <td>- </td>
 
                     <td>1.079 </td>
-                    <td>74%</td>
+                    <td>74,29%</td>
 
                     <td>31 </td>
 
@@ -9273,18 +9275,18 @@ categorías de exposición:
                     <td>136 </td>
 
                     <td>0 </td>
-                    <td>28%</td>
+                    <td>27,63%</td>
 
                     <td>136 </td>
-                    <td>22%</td>
+                    <td>21,68%</td>
 
                     <td>18.757 </td>
-                    <td>50%</td>
+                    <td>50,14%</td>
 
                     <td>- </td>
 
                     <td>156 </td>
-                    <td>115%</td>
+                    <td>115,30%</td>
 
                     <td>15 </td>
 
@@ -9296,18 +9298,18 @@ categorías de exposición:
             <td>373 </td>
 
             <td>1 </td>
-            <td>0%</td>
+            <td>-</td>
 
             <td>373 </td>
             <td>100%</td>
 
             <td>34.172 </td>
-            <td>41%</td>
+            <td>40,80%</td>
 
             <td>- </td>
 
             <td>25 </td>
-            <td>7%</td>
+            <td>6,81%</td>
 
             <td>152 </td>
 
@@ -9319,17 +9321,17 @@ categorías de exposición:
             <td>202.857 </td>
 
             <td>86.411 </td>
-            <td>43%</td>
+            <td>42,53%</td>
 
             <td>220.612 </td>
-            <td>7%</td>
+            <td>6,78%</td>
 
             <td>11.145.698 </td>
-            <td>34%</td>
+            <td>34,04%</td>
             <td>32</td>
 
             <td>81.356 </td>
-            <td>37%</td>
+            <td>36,88%</td>
 
             <td>5.028 </td>
 
@@ -9493,7 +9495,7 @@ Los criterios adoptados para presentar la información de la tabla han sido los 
                 <0.17</td>
                     <td>BBB+</td>
                     <td>0,14%</td>
-                    <td>0%</td>
+                    <td>0,14%</td>
                     <td>5</td>
                     <td>13</td>
                     <td>-</td>
@@ -9637,7 +9639,7 @@ Los criterios adoptados para presentar la información de la tabla han sido los 
                     <td>-</td>
                     <td>12</td>
                     <td>11</td>
-                    <td>0</td>
+                    <td>-</td>
                     <td>-</td>
         </tr>
         <tr>
@@ -9688,122 +9690,122 @@ Los criterios adoptados para presentar la información de la tabla han sido los 
             <td>0.09
                 <0.11</td>
                     <td>A-</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,10%</td>
+                    <td>0,10%</td>
                     <td>402</td>
                     <td>316</td>
                     <td>3</td>
-                    <td>1%</td>
+                    <td>0,95%</td>
         </tr>
         <tr>
             <td>0.11
                 <0.17</td>
                     <td>BBB+</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,14%</td>
+                    <td>0,15%</td>
                     <td>232</td>
                     <td>1.097</td>
                     <td>5</td>
-                    <td>0%</td>
+                    <td>0,46%</td>
         </tr>
         <tr>
             <td>0.17
                 <0.24</td>
                     <td>BBB</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,20%</td>
+                    <td>0,20%</td>
                     <td>192</td>
                     <td>871</td>
                     <td>3</td>
-                    <td>0%</td>
+                    <td>0,34%</td>
         </tr>
         <tr>
             <td>0.24
                 <0.39</td>
                     <td>BBB-</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,31%</td>
+                    <td>0,31%</td>
                     <td>313</td>
                     <td>480</td>
                     <td>6</td>
-                    <td>1%</td>
+                    <td>1,25%</td>
         </tr>
         <tr>
             <td>0.39
                 <0.67</td>
                     <td>BB+</td>
-                    <td>1%</td>
-                    <td>1%</td>
+                    <td>0,51%</td>
+                    <td>0,51%</td>
                     <td>155</td>
                     <td>292</td>
                     <td>1</td>
-                    <td>0%</td>
+                    <td>0,34%</td>
         </tr>
         <tr>
             <td>0.67
                 <1.16</td>
                     <td>BB</td>
-                    <td>1%</td>
-                    <td>1%</td>
+                    <td>0,88%</td>
+                    <td>0,91%</td>
                     <td>126</td>
                     <td>115</td>
                     <td>1</td>
-                    <td>1%</td>
+                    <td>0,87%</td>
         </tr>
         <tr>
             <td>1.16
                 <1.94</td>
                     <td>BB-</td>
-                    <td>1%</td>
-                    <td>1%</td>
+                    <td>1,50%</td>
+                    <td>1,50%</td>
                     <td>137</td>
                     <td>80</td>
-                    <td>0</td>
-                    <td>0%</td>
+                    <td>-</td>
+                    <td>-</td>
         </tr>
         <tr>
             <td>1.94
                 <3.35</td>
                     <td>B+</td>
-                    <td>3%</td>
-                    <td>3%</td>
+                    <td>2,55%</td>
+                    <td>2,62%</td>
                     <td>80</td>
                     <td>59</td>
-                    <td>0</td>
-                    <td>0%</td>
+                    <td>-</td>
+                    <td>-</td>
         </tr>
         <tr>
             <td>3.35
                 <5.81</td>
                     <td>B</td>
-                    <td>4%</td>
-                    <td>0%</td>
+                    <td>4,41%</td>
+                    <td>-</td>
                     <td>34</td>
                     <td>49</td>
                     <td>4</td>
-                    <td>8%</td>
+                    <td>8,16%</td>
         </tr>
         <tr>
             <td>5.81
                 <10.61</td>
                     <td>B-</td>
-                    <td>8%</td>
-                    <td>8%</td>
+                    <td>7,85%</td>
+                    <td>8,26%</td>
                     <td>50</td>
                     <td>31</td>
-                    <td>0</td>
-                    <td>0%</td>
+                    <td>-</td>
+                    <td>-</td>
         </tr>
         <tr>
             <td>10.61
                 <100.00</td>
                     <td>C</td>
                     <td>21%</td>
-                    <td>21%</td>
+                    <td>21,41%</td>
                     <td>85</td>
                     <td>92</td>
                     <td>1</td>
-                    <td>1%</td>
+                    <td>1,09%</td>
         </tr>
         <tr>
             <td>100.00 (incumplimiento)</td>
@@ -9817,206 +9819,206 @@ Los criterios adoptados para presentar la información de la tabla han sido los 
         </tr>
         <tr class="b2">
             <td>Empresas</td>
-            <td>&nbsp;</td>
-            <td>8%</td>
-            <td>7%</td>
+            <td></td>
+            <td>8,49%</td>
+            <td>7,06%</td>
             <td>56.746</td>
             <td>48.500</td>
             <td>844</td>
-            <td>2%</td>
+            <td>1,74%</td>
         </tr>
         <tr>
             <td>0.00
                 <0.02</td>
                     <td>AAA</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,03%</td>
+                    <td>-</td>
                     <td>21</td>
                     <td>15</td>
-                    <td>0</td>
-                    <td>0%</td>
+                    <td>-</td>
+                    <td>-</td>
         </tr>
         <tr>
             <td>0.02
                 <0.03</td>
                     <td>AA+</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,03%</td>
+                    <td>-</td>
                     <td>36</td>
                     <td>26</td>
-                    <td>0</td>
-                    <td>0%</td>
+                    <td>-</td>
+                    <td>-</td>
         </tr>
         <tr>
             <td>0.03
                 <0.04</td>
                     <td>AA</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,03%</td>
+                    <td>0,03%</td>
                     <td>42</td>
                     <td>43</td>
-                    <td>0</td>
-                    <td>0%</td>
+                    <td>-</td>
+                    <td>-</td>
         </tr>
         <tr>
             <td>0.04
                 <0.05</td>
                     <td>AA-</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,04%</td>
+                    <td>0,04%</td>
                     <td>16</td>
                     <td>23</td>
                     <td>1</td>
-                    <td>4%</td>
+                    <td>4,35%</td>
         </tr>
         <tr>
             <td>0.05
                 <0.06</td>
                     <td>A+</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,05%</td>
+                    <td>0,05%</td>
                     <td>51</td>
                     <td>65</td>
                     <td>1</td>
-                    <td>2%</td>
+                    <td>1,54%</td>
         </tr>
         <tr>
             <td>0.06
                 <0.09</td>
                     <td>A</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,08%</td>
+                    <td>0,08%</td>
                     <td>222</td>
                     <td>190</td>
                     <td>2</td>
-                    <td>1%</td>
+                    <td>1,05%</td>
         </tr>
         <tr>
             <td>0.09
                 <0.11</td>
                     <td>A-</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,10%</td>
+                    <td>0,10%</td>
                     <td>3.127</td>
                     <td>1.867</td>
                     <td>4</td>
-                    <td>0%</td>
+                    <td>0,21%</td>
         </tr>
         <tr>
             <td>0.11
                 <0.17</td>
                     <td>BBB+</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,14%</td>
+                    <td>0,14%</td>
                     <td>3.156</td>
                     <td>2.216</td>
                     <td>11</td>
-                    <td>0%</td>
+                    <td>0,50%</td>
         </tr>
         <tr>
             <td>0.17
                 <0.24</td>
                     <td>BBB</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,20%</td>
+                    <td>0,20%</td>
                     <td>3.591</td>
                     <td>2.823</td>
                     <td>7</td>
-                    <td>0%</td>
+                    <td>0,25%</td>
         </tr>
         <tr>
             <td>0.24
                 <0.39</td>
                     <td>BBB-</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,31%</td>
+                    <td>0,31%</td>
                     <td>5.994</td>
                     <td>3.742</td>
                     <td>14</td>
-                    <td>0%</td>
+                    <td>0,37%</td>
         </tr>
         <tr>
             <td>0.39
                 <0.67</td>
                     <td>BB+</td>
-                    <td>1%</td>
-                    <td>1%</td>
+                    <td>0,50%</td>
+                    <td>0,51%</td>
                     <td>7.521</td>
                     <td>5.133</td>
                     <td>53</td>
-                    <td>1%</td>
+                    <td>1,03%</td>
         </tr>
         <tr>
             <td>0.67
                 <1.16</td>
                     <td>BB</td>
-                    <td>1%</td>
-                    <td>1%</td>
+                    <td>0,85%</td>
+                    <td>0,90%</td>
                     <td>7.382</td>
                     <td>4.601</td>
                     <td>62</td>
-                    <td>1%</td>
+                    <td>1,35%</td>
         </tr>
         <tr>
             <td>1.16
                 <1.94</td>
                     <td>BB-</td>
-                    <td>1%</td>
-                    <td>2%</td>
+                    <td>1,39%</td>
+                    <td>1,50%</td>
                     <td>6.764</td>
                     <td>4.115</td>
                     <td>76</td>
-                    <td>2%</td>
+                    <td>1,85%</td>
         </tr>
         <tr>
             <td>1.94
                 <3.35</td>
                     <td>B+</td>
-                    <td>2%</td>
-                    <td>3%</td>
+                    <td>2,33%</td>
+                    <td>2,54%</td>
                     <td>6.026</td>
                     <td>3.505</td>
                     <td>113</td>
-                    <td>3%</td>
+                    <td>3,22%</td>
         </tr>
         <tr>
             <td>3.35
                 <5.81</td>
                     <td>B</td>
-                    <td>4%</td>
-                    <td>5%</td>
+                    <td>3,91%</td>
+                    <td>4,72%</td>
                     <td>3.573</td>
                     <td>2.296</td>
                     <td>124</td>
-                    <td>5%</td>
+                    <td>5,40%</td>
         </tr>
         <tr>
             <td>5.81
                 <10.61</td>
                     <td>B-</td>
-                    <td>7%</td>
-                    <td>9%</td>
+                    <td>7,33%</td>
+                    <td>9,38%</td>
                     <td>3.374</td>
                     <td>2.773</td>
                     <td>247</td>
-                    <td>9%</td>
+                    <td>8,91%</td>
         </tr>
         <tr>
             <td>10.61
                 <100.00</td>
                     <td>C</td>
-                    <td>17%</td>
-                    <td>18%</td>
+                    <td>16.71%</td>
+                    <td>18,07%</td>
                     <td>1.123</td>
                     <td>641</td>
                     <td>129</td>
-                    <td>20%</td>
+                    <td>20,12%</td>
         </tr>
         <tr>
             <td>100.00 (incumplimiento)</td>
             <td>D</td>
             <td>100%</td>
-            <td>100%</td>
+            <td>100,23%</td>
             <td>4.727</td>
             <td>14.426</td>
             <td>&nbsp;</td>
@@ -10025,199 +10027,199 @@ Los criterios adoptados para presentar la información de la tabla han sido los 
         <tr class="b2">
             <td>Minoristas - autorrenovables admisibles (QRRE)</td>
             <td>&nbsp;</td>
-            <td>7%</td>
-            <td>6%</td>
+            <td>6,62%</td>
+            <td>6,36%</td>
             <td>9.135.528</td>
             <td>9.415.222</td>
             <td>491.716</td>
-            <td>5%</td>
+            <td>5,22%</td>
         </tr>
         <tr>
             <td>0.00
                 <0.02</td>
                     <td>AAA</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,03%</td>
+                    <td>-</td>
                     <td>1.910.664</td>
                     <td>1.561.168</td>
                     <td>233</td>
-                    <td>0%</td>
+                    <td>0,01%</td>
         </tr>
         <tr>
             <td>0.02
                 <0.03</td>
                     <td>AA+</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,03%</td>
+                    <td>-</td>
                     <td>173.347</td>
                     <td>139.554</td>
                     <td>61</td>
-                    <td>0%</td>
+                    <td>0,04%</td>
         </tr>
         <tr>
             <td>0.03
                 <0.04</td>
                     <td>AA</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,03%</td>
+                    <td>0,03%</td>
                     <td>59.020</td>
                     <td>49.069</td>
                     <td>36</td>
-                    <td>0%</td>
+                    <td>0,07%</td>
         </tr>
         <tr>
             <td>0.04
                 <0.05</td>
                     <td>AA-</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,04%</td>
+                    <td>0,04%</td>
                     <td>81.096</td>
                     <td>78.235</td>
                     <td>44</td>
-                    <td>0%</td>
+                    <td>0,06%</td>
         </tr>
         <tr>
             <td>0.05
                 <0.06</td>
                     <td>A+</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,05%</td>
+                    <td>0,05%</td>
                     <td>54.909</td>
                     <td>156.279</td>
                     <td>221</td>
-                    <td>0%</td>
+                    <td>0,14%</td>
         </tr>
         <tr>
             <td>0.06
                 <0.09</td>
                     <td>A</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,07%</td>
+                    <td>0,07%</td>
                     <td>115.188</td>
                     <td>100.493</td>
                     <td>115</td>
-                    <td>0%</td>
+                    <td>0,11%</td>
         </tr>
         <tr>
             <td>0.09
                 <0.11</td>
                     <td>A-</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,10%</td>
+                    <td>0,10%</td>
                     <td>51.810</td>
                     <td>61.972</td>
                     <td>95</td>
-                    <td>0%</td>
+                    <td>0,15%</td>
         </tr>
         <tr>
             <td>0.11
                 <0.17</td>
                     <td>BBB+</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,14%</td>
+                    <td>0,14%</td>
                     <td>149.699</td>
                     <td>128.544</td>
                     <td>325</td>
-                    <td>0%</td>
+                    <td>0,25%</td>
         </tr>
         <tr>
             <td>0.17
                 <0.24</td>
                     <td>BBB</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,21%</td>
+                    <td>0,20%</td>
                     <td>55.043</td>
                     <td>49.934</td>
                     <td>129</td>
-                    <td>0%</td>
+                    <td>0,26%</td>
         </tr>
         <tr>
             <td>0.24
                 <0.39</td>
                     <td>BBB-</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,30%</td>
+                    <td>0,30%</td>
                     <td>168.343</td>
                     <td>145.355</td>
                     <td>624</td>
-                    <td>0%</td>
+                    <td>0,43%</td>
         </tr>
         <tr>
             <td>0.39
                 <0.67</td>
                     <td>BB+</td>
-                    <td>1%</td>
-                    <td>1%</td>
+                    <td>0,51%</td>
+                    <td>0,52%</td>
                     <td>441.285</td>
                     <td>391.146</td>
                     <td>2.365</td>
-                    <td>1%</td>
+                    <td>0,60%</td>
         </tr>
         <tr>
             <td>0.67
                 <1.16</td>
                     <td>BB</td>
-                    <td>1%</td>
-                    <td>1%</td>
+                    <td>0,89%</td>
+                    <td>0,88%</td>
                     <td>726.188</td>
                     <td>745.769</td>
                     <td>7.111</td>
-                    <td>1%</td>
+                    <td>0,95%</td>
         </tr>
         <tr>
             <td>1.16
                 <1.94</td>
                     <td>BB-</td>
-                    <td>2%</td>
-                    <td>2%</td>
+                    <td>1,55%</td>
+                    <td>1,54%</td>
                     <td>617.908</td>
                     <td>766.266</td>
                     <td>13.728</td>
-                    <td>2%</td>
+                    <td>1,79%</td>
         </tr>
         <tr>
             <td>1.94
                 <3.35</td>
                     <td>B+</td>
-                    <td>3%</td>
-                    <td>3%</td>
+                    <td>2,61%</td>
+                    <td>2,61%</td>
                     <td>933.414</td>
                     <td>1.003.420</td>
                     <td>28.776</td>
-                    <td>3%</td>
+                    <td>2,87%</td>
         </tr>
         <tr>
             <td>3.35
                 <5.81</td>
                     <td>B</td>
-                    <td>4%</td>
-                    <td>4%</td>
+                    <td>4,46%</td>
+                    <td>4,44%</td>
                     <td>1.019.817</td>
                     <td>961.542</td>
                     <td>50.857</td>
-                    <td>5%</td>
+                    <td>5,29%</td>
         </tr>
         <tr>
             <td>5.81
                 <10.61</td>
                     <td>B-</td>
-                    <td>8%</td>
-                    <td>8%</td>
+                    <td>7,84%</td>
+                    <td>7,80%</td>
                     <td>1.223.743</td>
                     <td>1.757.651</td>
                     <td>107.415</td>
-                    <td>6%</td>
+                    <td>6,11%</td>
         </tr>
         <tr>
             <td>10.61
                 <100.00</td>
                     <td>C</td>
-                    <td>22%</td>
-                    <td>22%</td>
+                    <td>21,62%</td>
+                    <td>21,63%</td>
                     <td>1.225.741</td>
                     <td>1.211.493</td>
                     <td>279.581</td>
-                    <td>23%</td>
+                    <td>23,08%</td>
         </tr>
         <tr>
             <td>100.00 (incumplimiento)</td>
@@ -10233,198 +10235,198 @@ Los criterios adoptados para presentar la información de la tabla han sido los 
             <td>Minoristas - exposiciones garantizadas mediante hipotecas sobre viviendas</td>
             <td>&nbsp;</td>
             <td>6%</td>
-            <td>4%</td>
+            <td>3,98%</td>
             <td>1.142.943</td>
             <td>929.554</td>
             <td>12.511</td>
-            <td>1%</td>
+            <td>1,27%</td>
         </tr>
         <tr>
             <td>0.00
                 <0.02</td>
                     <td>AAA</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,03%</td>
+                    <td>0,03%</td>
                     <td>345.748</td>
                     <td>315.221</td>
                     <td>74</td>
-                    <td>0%</td>
+                    <td>0,02%</td>
         </tr>
         <tr>
             <td>0.02
                 <0.03</td>
                     <td>AA+</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,03%</td>
+                    <td>0,03%</td>
                     <td>81.098</td>
                     <td>86.142</td>
                     <td>90</td>
-                    <td>0%</td>
+                    <td>0,10%</td>
         </tr>
         <tr>
             <td>0.03
                 <0.04</td>
                     <td>AA</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,03%</td>
+                    <td>0,03%</td>
                     <td>15.798</td>
                     <td>10.622</td>
                     <td>17</td>
-                    <td>0%</td>
+                    <td>0,16%</td>
         </tr>
         <tr>
             <td>0.04
                 <0.05</td>
                     <td>AA-</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,05%</td>
+                    <td>0,05%</td>
                     <td>114.384</td>
                     <td>129.783</td>
                     <td>133</td>
-                    <td>0%</td>
+                    <td>0,10%</td>
         </tr>
         <tr>
             <td>0.05
                 <0.06</td>
                     <td>A+</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,06%</td>
+                    <td>0,06%</td>
                     <td>42.790</td>
                     <td>4.039</td>
                     <td>7</td>
-                    <td>0%</td>
+                    <td>0,17%</td>
         </tr>
         <tr>
             <td>0.06
                 <0.09</td>
                     <td>A</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,07%</td>
+                    <td>0,07%</td>
                     <td>68.091</td>
                     <td>71.324</td>
                     <td>132</td>
-                    <td>0%</td>
+                    <td>0,19%</td>
         </tr>
         <tr>
             <td>0.09
                 <0.11</td>
                     <td>A-</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,10%</td>
+                    <td>0,10%</td>
                     <td>64.817</td>
                     <td>12.245</td>
                     <td>56</td>
-                    <td>0%</td>
+                    <td>0,46%</td>
         </tr>
         <tr>
             <td>0.11
                 <0.17</td>
                     <td>BBB+</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,15%</td>
+                    <td>0,15%</td>
                     <td>78.292</td>
                     <td>47.633</td>
                     <td>136</td>
-                    <td>0%</td>
+                    <td>0,29%</td>
         </tr>
         <tr>
             <td>0.17
                 <0.24</td>
                     <td>BBB</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,21%</td>
+                    <td>0,21%</td>
                     <td>37.146</td>
                     <td>35.614</td>
                     <td>160</td>
-                    <td>0%</td>
+                    <td>0,45%</td>
         </tr>
         <tr>
             <td>0.24
                 <0.39</td>
                     <td>BBB-</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,32%</td>
+                    <td>0,31%</td>
                     <td>67.560</td>
                     <td>31.187</td>
                     <td>159</td>
-                    <td>1%</td>
+                    <td>0,51%</td>
         </tr>
         <tr>
             <td>0.39
                 <0.67</td>
                     <td>BB+</td>
-                    <td>1%</td>
-                    <td>1%</td>
+                    <td>0,52%</td>
+                    <td>0,53%</td>
                     <td>44.265</td>
                     <td>26.117</td>
                     <td>152</td>
-                    <td>1%</td>
+                    <td>0,58%</td>
         </tr>
         <tr>
             <td>0.67
                 <1.16</td>
                     <td>BB</td>
-                    <td>1%</td>
-                    <td>1%</td>
+                    <td>0,87%</td>
+                    <td>0,89%</td>
                     <td>38.006</td>
                     <td>25.606</td>
                     <td>440</td>
-                    <td>2%</td>
+                    <td>1,72%</td>
         </tr>
         <tr>
             <td>1.16
                 <1.94</td>
                     <td>BB-</td>
-                    <td>1%</td>
-                    <td>1%</td>
+                    <td>1,47%</td>
+                    <td>1,50%</td>
                     <td>30.887</td>
                     <td>21.627</td>
                     <td>699</td>
-                    <td>3%</td>
+                    <td>3,23%</td>
         </tr>
         <tr>
             <td>1.94
                 <3.35</td>
                     <td>B+</td>
-                    <td>3%</td>
-                    <td>3%</td>
+                    <td>2,72%</td>
+                    <td>2,72%</td>
                     <td>23.370</td>
                     <td>16.690</td>
                     <td>1.313</td>
-                    <td>8%</td>
+                    <td>7,87%</td>
         </tr>
         <tr>
             <td>3.35
                 <5.81</td>
                     <td>B</td>
-                    <td>4%</td>
-                    <td>4%</td>
+                    <td>4,33%</td>
+                    <td>4,34%</td>
                     <td>16.132</td>
                     <td>14.911</td>
                     <td>2.052</td>
-                    <td>14%</td>
+                    <td>13,76%</td>
         </tr>
         <tr>
             <td>5.81
                 <10.61</td>
                     <td>B-</td>
-                    <td>7%</td>
-                    <td>7%</td>
+                    <td>7,43%</td>
+                    <td>7, 42%</td>
                     <td>22.131</td>
                     <td>20.902</td>
                     <td>3.347</td>
-                    <td>16%</td>
+                    <td>16,01%</td>
         </tr>
         <tr>
             <td>10.61
                 <100.00</td>
                     <td>C</td>
-                    <td>20%</td>
-                    <td>21%</td>
+                    <td>19,63%</td>
+                    <td>20,55%</td>
                     <td>14.103</td>
                     <td>12.471</td>
                     <td>3.544</td>
-                    <td>28%</td>
+                    <td>28,42%</td>
         </tr>
         <tr>
             <td>100.00 (incumplimiento)</td>
@@ -10439,12 +10441,12 @@ Los criterios adoptados para presentar la información de la tabla han sido los 
         <tr class="b2">
             <td>Minoristas - PYMES</td>
             <td>&nbsp;</td>
-            <td>9%</td>
-            <td>6%</td>
+            <td>8,64%</td>
+            <td>6,24%</td>
             <td>98.936</td>
             <td>91.375</td>
             <td>1.290</td>
-            <td>1%</td>
+            <td>1,41%</td>
         </tr>
         <tr>
             <td>0.00
@@ -10453,9 +10455,9 @@ Los criterios adoptados para presentar la información de la tabla han sido los 
                     <td>-</td>
                     <td>-</td>
                     <td>-</td>
-                    <td>0</td>
-                    <td>0</td>
-                    <td>0%</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
         </tr>
         <tr>
             <td>0.02
@@ -10464,9 +10466,9 @@ Los criterios adoptados para presentar la información de la tabla han sido los 
                     <td>-</td>
                     <td>-</td>
                     <td>-</td>
-                    <td>0</td>
-                    <td>0</td>
-                    <td>0%</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
         </tr>
         <tr>
             <td>0.03
@@ -10475,9 +10477,9 @@ Los criterios adoptados para presentar la información de la tabla han sido los 
                     <td>-</td>
                     <td>-</td>
                     <td>-</td>
-                    <td>0</td>
-                    <td>0</td>
-                    <td>0%</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
         </tr>
         <tr>
             <td>0.04
@@ -10486,9 +10488,9 @@ Los criterios adoptados para presentar la información de la tabla han sido los 
                     <td>-</td>
                     <td>-</td>
                     <td>-</td>
-                    <td>0</td>
-                    <td>0</td>
-                    <td>0%</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
         </tr>
         <tr>
             <td>0.05
@@ -10497,141 +10499,141 @@ Los criterios adoptados para presentar la información de la tabla han sido los 
                     <td>-</td>
                     <td>-</td>
                     <td>-</td>
-                    <td>0</td>
-                    <td>0</td>
-                    <td>0%</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
         </tr>
         <tr>
             <td>0.06
                 <0.09</td>
                     <td>A</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,07%</td>
+                    <td>0,07%</td>
                     <td>1</td>
-                    <td>0</td>
-                    <td>0</td>
-                    <td>0%</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>-</td>
         </tr>
         <tr>
             <td>0.09
                 <0.11</td>
                     <td>A-</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,10%</td>
+                    <td>0,10%</td>
                     <td>314</td>
                     <td>210</td>
-                    <td>0</td>
-                    <td>0%</td>
+                    <td>-</td>
+                    <td>-</td>
         </tr>
         <tr>
             <td>0.11
                 <0.17</td>
                     <td>BBB+</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,14%</td>
+                    <td>0,14%</td>
                     <td>3.440</td>
                     <td>2.301</td>
                     <td>12</td>
-                    <td>1%</td>
+                    <td>0,52%</td>
         </tr>
         <tr>
             <td>0.17
                 <0.24</td>
                     <td>BBB</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,20%</td>
+                    <td>0,20%</td>
                     <td>4.947</td>
                     <td>3.366</td>
                     <td>1</td>
-                    <td>0%</td>
+                    <td>0,03%</td>
         </tr>
         <tr>
             <td>0.24
                 <0.39</td>
                     <td>BBB-</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,31%</td>
+                    <td>0,31%</td>
                     <td>9.106</td>
                     <td>6.272</td>
                     <td>5</td>
-                    <td>0%</td>
+                    <td>0,08%</td>
         </tr>
         <tr>
             <td>0.39
                 <0.67</td>
                     <td>BB+</td>
-                    <td>1%</td>
-                    <td>1%</td>
+                    <td>0,51%</td>
+                    <td>0,51%</td>
                     <td>11.898</td>
                     <td>9.001</td>
                     <td>35</td>
-                    <td>0%</td>
+                    <td>0,39%</td>
         </tr>
         <tr>
             <td>0.67
                 <1.16</td>
                     <td>BB</td>
-                    <td>1%</td>
-                    <td>1%</td>
+                    <td>0,88%</td>
+                    <td>0,88%</td>
                     <td>15.030</td>
                     <td>12.190</td>
                     <td>72</td>
-                    <td>1%</td>
+                    <td>0,59%</td>
         </tr>
         <tr>
             <td>1.16
                 <1.94</td>
                     <td>BB-</td>
-                    <td>1%</td>
-                    <td>1%</td>
+                    <td>1,50%</td>
+                    <td>1,50%</td>
                     <td>16.388</td>
                     <td>13.102</td>
                     <td>131</td>
-                    <td>1%</td>
+                    <td>1,00%</td>
         </tr>
         <tr>
             <td>1.94
                 <3.35</td>
                     <td>B+</td>
-                    <td>3%</td>
-                    <td>3%</td>
+                    <td>2,55%</td>
+                    <td>2,56%</td>
                     <td>14.503</td>
                     <td>13.150</td>
                     <td>209</td>
-                    <td>2%</td>
+                    <td>1,59%</td>
         </tr>
         <tr>
             <td>3.35
                 <5.81</td>
                     <td>B</td>
-                    <td>4%</td>
-                    <td>4%</td>
+                    <td>4,41%</td>
+                    <td>4,42%</td>
                     <td>9.565</td>
                     <td>7.799</td>
                     <td>252</td>
-                    <td>3%</td>
+                    <td>3,23%</td>
         </tr>
         <tr>
             <td>5.81
                 <10.61</td>
                     <td>B-</td>
-                    <td>8%</td>
-                    <td>8%</td>
+                    <td>8,19%</td>
+                    <td>8,43%</td>
                     <td>7.932</td>
                     <td>7.487</td>
                     <td>360</td>
-                    <td>5%</td>
+                    <td>4,81%</td>
         </tr>
         <tr>
             <td>10.61
                 <100.00</td>
                     <td>C</td>
-                    <td>15%</td>
-                    <td>16%</td>
+                    <td>15,14%</td>
+                    <td>16,03%</td>
                     <td>1.892</td>
                     <td>1.290</td>
                     <td>213</td>
-                    <td>17%</td>
+                    <td>16,51%</td>
         </tr>
         <tr>
             <td>100.00 (incumplimiento)</td>
@@ -10646,8 +10648,8 @@ Los criterios adoptados para presentar la información de la tabla han sido los 
         <tr class="b2">
             <td>Otras posiciones frente al sector minorista</td>
             <td>&nbsp;</td>
-            <td>7%</td>
-            <td>7%</td>
+            <td>6,84%</td>
+            <td>6,53%</td>
             <td>714.530</td>
             <td>1.161.887</td>
             <td>11.592</td>
@@ -10657,188 +10659,188 @@ Los criterios adoptados para presentar la información de la tabla han sido los 
             <td>0.00
                 <0.02</td>
                     <td>AAA</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,03%</td>
+                    <td>0,03%</td>
                     <td>84.643</td>
                     <td>220.128</td>
                     <td>16</td>
-                    <td>0%</td>
+                    <td>0,01%</td>
         </tr>
         <tr>
             <td>0.02
                 <0.03</td>
                     <td>AA+</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,03%</td>
+                    <td>0,03%</td>
                     <td>12.793</td>
                     <td>46.385</td>
                     <td>5</td>
-                    <td>0%</td>
+                    <td>0,01%</td>
         </tr>
         <tr>
             <td>0.03
                 <0.04</td>
                     <td>AA</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,03%</td>
+                    <td>0,03%</td>
                     <td>29.546</td>
                     <td>32.203</td>
                     <td>4</td>
-                    <td>0%</td>
+                    <td>0,01%</td>
         </tr>
         <tr>
             <td>0.04
                 <0.05</td>
                     <td>AA-</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,04%</td>
+                    <td>0,04%</td>
                     <td>1.358</td>
                     <td>6.395</td>
-                    <td>0</td>
-                    <td>0%</td>
+                    <td>-</td>
+                    <td>-</td>
         </tr>
         <tr>
             <td>0.05
                 <0.06</td>
                     <td>A+</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,05%</td>
+                    <td>0,05%</td>
                     <td>16</td>
                     <td>48.552</td>
                     <td>7</td>
-                    <td>0%</td>
+                    <td>0,01%</td>
         </tr>
         <tr>
             <td>0.06
                 <0.09</td>
                     <td>A</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,07%</td>
+                    <td>0,07%</td>
                     <td>43.750</td>
                     <td>62.451</td>
                     <td>23</td>
-                    <td>0%</td>
+                    <td>0,04%</td>
         </tr>
         <tr>
             <td>0.09
                 <0.11</td>
                     <td>A-</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,10%</td>
+                    <td>0,10%</td>
                     <td>14.501</td>
                     <td>13.405</td>
                     <td>15</td>
-                    <td>0%</td>
+                    <td>0,11%</td>
         </tr>
         <tr>
             <td>0.11
                 <0.17</td>
                     <td>BBB+</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,13%</td>
+                    <td>0,13%</td>
                     <td>52.661</td>
                     <td>59.725</td>
                     <td>66</td>
-                    <td>0%</td>
+                    <td>0,11%</td>
         </tr>
         <tr>
             <td>0.17
                 <0.24</td>
                     <td>BBB</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,19%</td>
+                    <td>0,19%</td>
                     <td>37.017</td>
                     <td>40.045</td>
                     <td>118</td>
-                    <td>0%</td>
+                    <td>0,29%</td>
         </tr>
         <tr>
             <td>0.24
                 <0.39</td>
                     <td>BBB-</td>
-                    <td>0%</td>
-                    <td>0%</td>
+                    <td>0,32%</td>
+                    <td>0,32%</td>
                     <td>63.309</td>
                     <td>75.020</td>
                     <td>255</td>
-                    <td>0%</td>
+                    <td>0,34%</td>
         </tr>
         <tr>
             <td>0.39
                 <0.67</td>
                     <td>BB+</td>
-                    <td>1%</td>
-                    <td>1%</td>
+                    <td>0,56%</td>
+                    <td>0,55%</td>
                     <td>55.569</td>
                     <td>60.310</td>
                     <td>312</td>
-                    <td>1%</td>
+                    <td>0,52%</td>
         </tr>
         <tr>
             <td>0.67
                 <1.16</td>
                     <td>BB</td>
-                    <td>1%</td>
-                    <td>1%</td>
+                    <td>0,89%</td>
+                    <td>0,89%</td>
                     <td>54.822</td>
                     <td>130.743</td>
                     <td>564</td>
-                    <td>0%</td>
+                    <td>0,43%</td>
         </tr>
         <tr>
             <td>1.16
                 <1.94</td>
                     <td>BB-</td>
-                    <td>2%</td>
-                    <td>2%</td>
+                    <td>1,54%</td>
+                    <td>1,54%</td>
                     <td>49.584</td>
                     <td>46.737</td>
                     <td>716</td>
-                    <td>2%</td>
+                    <td>1,53%</td>
         </tr>
         <tr>
             <td>1.94
                 <3.35</td>
                     <td>B+</td>
-                    <td>3%</td>
-                    <td>3%</td>
+                    <td>2,63%</td>
+                    <td>2,62%</td>
                     <td>56.271</td>
                     <td>178.646</td>
                     <td>868</td>
-                    <td>0%</td>
+                    <td>0,49%</td>
         </tr>
         <tr>
             <td>3.35
                 <5.81</td>
                     <td>B</td>
-                    <td>4%</td>
-                    <td>4%</td>
+                    <td>4,47%</td>
+                    <td>4,48%</td>
                     <td>73.417</td>
                     <td>51.803</td>
                     <td>1.642</td>
-                    <td>3%</td>
+                    <td>3,17%</td>
         </tr>
         <tr>
             <td>5.81
                 <10.61</td>
                     <td>B-</td>
-                    <td>7%</td>
-                    <td>7%</td>
+                    <td>7,45%</td>
+                    <td>7,49%</td>
                     <td>32.343</td>
                     <td>30.838</td>
                     <td>1.672</td>
-                    <td>5%</td>
+                    <td>5,42%</td>
         </tr>
         <tr>
             <td>10.61
                 <100.00</td>
                     <td>C</td>
-                    <td>22%</td>
-                    <td>21%</td>
+                    <td>21,68%</td>
+                    <td>21,28%</td>
                     <td>18.758</td>
                     <td>25.871</td>
                     <td>5.309</td>
-                    <td>21%</td>
+                    <td>20,52%</td>
         </tr>
         <tr>
             <td>100.00 (incumplimiento)</td>
@@ -10853,12 +10855,12 @@ Los criterios adoptados para presentar la información de la tabla han sido los 
         <tr class="b2">
             <td>Total método avanzado</td>
             <td>&nbsp;</td>
-            <td>5%</td>
-            <td>6%</td>
+            <td>5,37%</td>
+            <td>6,25%</td>
             <td>11.151.455</td>
             <td>11.650.980</td>
             <td>517.988</td>
-            <td>4%</td>
+            <td>4,42%</td>
         </tr>
     </tbody>
 </table>
@@ -10918,8 +10920,8 @@ Crédito en términos de APR’s:
         </tr>
         <tr>
             <td>Actualización del modelo</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Metodología y políticas</td>
@@ -10928,8 +10930,8 @@ Crédito en términos de APR’s:
         </tr>
         <tr>
             <td>Adquisiciones y enajenaciones</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Ocilaciones del tipo de cambio</td>
@@ -11173,8 +11175,8 @@ de 2016 y 31 de diciembre de 2015.
         </tr>
         <tr class="b2">
             <td>TOTAL</td>
-            <td>7994,231</td>
-            <td>8611,285</td>
+            <td>7.994</td>
+            <td>8.611</td>
         </tr>
     </tbody>
 </table>
@@ -11410,7 +11412,7 @@ respectivamente:
 
             <td>- </td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Total</td>
             <td>&nbsp;</td>
 
@@ -11699,7 +11701,7 @@ diciembre de 2015.
             <td>Exposiciones en acciones cotizadas</td>
 
             <td>  817 </td>
-            <td>0</td>
+            <td></td>
             <td>190%</td>
             <td>  840   </td>
 
@@ -11710,7 +11712,7 @@ diciembre de 2015.
             <td>Exposiciones en acciones privadas</td>
 
             <td>  198 </td>
-            <td>0</td>
+            <td></td>
             <td>290%</td>
             <td>  198   </td>
 
@@ -11721,7 +11723,7 @@ diciembre de 2015.
             <td>Otras exposiciones en acciones</td>
 
             <td>113</td>
-            <td>0</td>
+            <td></td>
             <td>370%</td>
             <td>113</td>
 
@@ -11732,7 +11734,7 @@ diciembre de 2015.
             <td>Total</td>
 
             <td>1128</td>
-            <td>0</td>
+            <td></td>
             <td></td>
 
             <td>1.151</td>
@@ -11792,29 +11794,29 @@ contraparte, desagregado por producto y riesgo:
             <td>3.901</td>
             <td>2</td>
             <td>7</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
             <td>3.910</td>
         </tr>
         <tr>
             <td>Acuerdos sobre tipos de interés futuro (FRA)</td>
-            <td>0</td>
+            <td>-</td>
             <td>8</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
             <td>8</td>
         </tr>
         <tr>
             <td>Permutas</td>
-            <td>0</td>
+            <td>-</td>
             <td>19.186</td>
             <td>34</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
             <td>19.220</td>
         </tr>
         <tr>
@@ -11823,18 +11825,18 @@ contraparte, desagregado por producto y riesgo:
             <td>2.515</td>
             <td>1.137</td>
             <td>1</td>
-            <td>0</td>
-            <td>0</td>
+            <td>-</td>
+            <td>-</td>
             <td>4.031</td>
         </tr>
         <tr>
             <td>Otros productos</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
             <td>704</td>
-            <td>0</td>
+            <td>-</td>
             <td>704</td>
         </tr>
         <tr class="b2">
@@ -11844,7 +11846,7 @@ contraparte, desagregado por producto y riesgo:
             <td>1.178</td>
             <td>1</td>
             <td>704</td>
-            <td>0</td>
+            <td>-</td>
             <td>27.873</td>
         </tr>
     </tbody>
@@ -11878,29 +11880,29 @@ contraparte, desagregado por producto y riesgo:
             <td>4.070</td>
             <td>2</td>
             <td>7</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
             <td>4.079</td>
         </tr>
         <tr>
             <td>Acuerdos sobre tipos de interés futuro (FRA)</td>
-            <td>0</td>
+            <td>-</td>
             <td>8</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
             <td>8</td>
         </tr>
         <tr>
             <td>Permutas</td>
-            <td>0</td>
+            <td>-</td>
             <td>20.016</td>
             <td>36</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
             <td>20.051</td>
         </tr>
         <tr>
@@ -11909,18 +11911,18 @@ contraparte, desagregado por producto y riesgo:
             <td>2.624</td>
             <td>1.186</td>
             <td>1</td>
-            <td>0</td>
-            <td>0</td>
+            <td>-</td>
+            <td>-</td>
             <td>4.205</td>
         </tr>
         <tr>
             <td>Otros productos</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
             <td>734</td>
-            <td>0</td>
+            <td>-</td>
             <td>734</td>
         </tr>
         <tr class="b2">
@@ -11930,7 +11932,7 @@ contraparte, desagregado por producto y riesgo:
             <td>1.229</td>
             <td>1</td>
             <td>734</td>
-            <td>0</td>
+            <td>-</td>
             <td>29.078</td>
         </tr>
     </tbody>
@@ -12121,7 +12123,7 @@ potenciales efectos de los acuerdos de _netting_ y colateral en la operativa de 
             <td>  22.681   </td>
             <td>  23.080   </td>
             <td>  174   </td>
-            <td>- 573   </td>
+            <td>  573   </td>
         </tr>
         <tr class="b2">
             <td>Total activo</td>
@@ -12906,7 +12908,7 @@ el riesgo de contraparte de la cartera de negociación con el siguiente detalle:
             <td>382</td>
             <td>-</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>TOTAL</td>
             <td>629</td>
             <td>-</td>
@@ -13412,7 +13414,7 @@ categoría de exposición y ponderación por riesgo:
 
             <td>10.855 </td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>Total</td>
 
             <td>15.046 </td>
@@ -13830,18 +13832,18 @@ APR’s para el modelo estándar de Riesgo de Crédito de Contraparte:
         </tr>
         <tr>
             <td>Actualización del modelo</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Metodología y políticas</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Adquisiciones y enajenaciones</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Ocilaciones del tipo de cambio</td>
@@ -13850,8 +13852,8 @@ APR’s para el modelo estándar de Riesgo de Crédito de Contraparte:
         </tr>
         <tr>
             <td>Otros</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr class="b2">
             <td>APRs a 31 de Diciembre de 2016</td>
@@ -14059,7 +14061,7 @@ diciembre de 2016:
                     <td>0,08%</td>
         
                     <td>716 </td>
-                    <td>26,18%</td>
+                    <td>26,81%</td>
         
                     <td>39 </td>
         
@@ -14160,15 +14162,15 @@ diciembre de 2016:
             <td>100 to (Default)</td>
 
             <td>- </td>
-            <td>0%</td>
-
-            <td>- </td>
-            <td>0%</td>
-
             <td>- </td>
 
             <td>- </td>
-            <td>0%</td>
+            <td>- </td>
+
+            <td>- </td>
+
+            <td>- </td>
+            <td>- </td>
         </tr>
         <tr class="b2">
             <td>Empresas</td>
@@ -14472,7 +14474,7 @@ diciembre de 2016:
                     <td>- </td>
                     <td>-</td>
         
-                    <td>1 </td>
+                    <td>- </td>
                     <td>-</td>
         
                     <td>- </td>
@@ -14502,13 +14504,13 @@ diciembre de 2016:
                     <td>- </td>
                     <td>-</td>
         
-                    <td>2 </td>
-                    <td>-</td>
-        
+                    <td>- </td>
                     <td>- </td>
         
                     <td>- </td>
-                    <td>0%</td>
+        
+                    <td>- </td>
+                    <td>- </td>
         </tr>
         <tr>
             <td>0,75 to
@@ -14559,7 +14561,7 @@ diciembre de 2016:
             <td>100 to (Default)</td>
 
             <td>- </td>
-            <td>0- </td>
+            <td>- </td>
 
             <td>- </td>
             <td>- </td>
@@ -14629,18 +14631,18 @@ APR’s para el modelo avanzado de Riesgo de Crédito de Contraparte:
         </tr>
         <tr>
             <td>Actualización del modelo</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Metodología y políticas</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Adquisiciones y enajenaciones</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Ocilaciones del tipo de cambio</td>
@@ -14652,7 +14654,7 @@ APR’s para el modelo avanzado de Riesgo de Crédito de Contraparte:
             <td>  54 </td>
             <td>  4 </td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>APRs a 31 de Diciembre de 2016</td>
             <td>  5.048 </td>
             <td>  404 </td>
@@ -15362,8 +15364,7 @@ externas.
 
 #### 3.2.7.2. Tratamiento contable de las titulizaciones
 
-##### 3.2.7.2.1. Criterios para dar de baja o mantener en balance los activos objeto de
-titulización
+##### 3.2.7.2.1. Criterios para dar de baja o mantener en balance los activos objeto de titulización
 
 El tratamiento contable de las transferencias de activos financieros está condicionado por
 la forma en que se transfieren a terceros los riesgos y beneficios asociados a los activos
@@ -15413,8 +15414,7 @@ variables existentes y mantiene el poder de decisión sobre la entidad, bien de 
 directa o a través de un agente. En estos casos, se consolidan los fondos de titulización
 con el Grupo.
 
-##### 3.2.7.2.2. Criterios para el reconocimiento de resultados en los supuestos de baja de
-activos de balance
+##### 3.2.7.2.2. Criterios para el reconocimiento de resultados en los supuestos de baja de activos de balance
 
 Para que el Grupo reconozca el resultado generado en una venta de instrumentos
 financieros ésta debe suponer la baja en cuentas, para lo cual se deben cumplir los
@@ -15430,8 +15430,7 @@ financiero original, los nuevos activos financieros, pasivos financieros y pasiv
 prestación de servicios que, en su caso, se originen como consecuencia de la
 transferencia, se registrarán por su valor razonable.
 
-##### 3.2.7.2.3. Hipótesis clave para valorar riesgos y ventajas retenidas sobre los activos
-titulizados
+##### 3.2.7.2.3. Hipótesis clave para valorar riesgos y ventajas retenidas sobre los activos titulizados
 
 El Grupo considera que se retienen de manera sustancial los riesgos y beneficios de las
 titulizaciones cuando se mantengan los bonos subordinados de las emisiones y/o conceda
@@ -15715,7 +15714,7 @@ titulización de la cartera de inversión y negociación por tipo de exposición
 <table class="tableizer-table">
     <thead>
         <tr class="tableizer-firstrow">
-            <th>31/12/15</th>
+            <th></th>
             <th colspan="3">Banco que actúa como originador</th>
             <th colspan="3">Banco que actúa como patrocinador</th>
             <th colspan="3">Banco que actúa como inversor</th>
@@ -15988,7 +15987,7 @@ diciembre de 2016 y 31 de diciembre de 2015.
 <table class="l">
     <thead>
         <tr>
-            <th>31/12/2016 (Millones de uros)</th>
+            <th rowspan="2">31/12/2016 (Millones de euros)</th>
             <th colspan="5">Valor de la exposición (por intervalo de RW)</th>
             <th colspan="4">Valor de exposición (por método regulador)</th>
             <th colspan="4">APRs (por método regulador)</th>
@@ -16322,7 +16321,7 @@ diciembre de 2016 y 31 de diciembre de 2015.
 <table class="l">
     <thead>
         <tr>
-            <th>31/12/2015 (Millones de euros)</th>
+            <th rowspan="2">31/12/2015 (Millones de euros)</th>
             <th colspan="5">Valor de la exposición (por intervalo de RW)</th>
             <th colspan="4">Valor de exposición (por método regulador)</th>
             <th colspan="4">APRs (por método regulador)</th>
@@ -16727,7 +16726,7 @@ diciembre de 2016 y 31 de diciembre de 2015.
 <table class="l">
     <thead>
         <tr>
-            <th>31/12/2016 (Millones de Euros)</th>
+            <th rowspan="2">31/12/2016 (Millones de Euros)</th>
             <th colspan="5">Valor de la exposición (por intervalo de RW)</th>
             <th colspan="4">Valor de exposición (por método regulador)</th>
             <th colspan="4">APRs (por método regulador)</th>
@@ -17062,7 +17061,7 @@ diciembre de 2016 y 31 de diciembre de 2015.
 <table class="l">
     <thead>
         <tr>
-            <th>31/12/2015 (Millones de Euros)</th>
+            <th rowspan="2">31/12/2015 (Millones de Euros)</th>
             <th colspan="5">Valor de la exposición (por intervalo de RW)</th>
             <th colspan="4">Valor de exposición (por método regulador)</th>
             <th colspan="4">APRs (por método regulador)</th>
@@ -17448,7 +17447,7 @@ diciembre de 2015.
         <tr>
             <td>Préstamos al consumo</td>
             <td>3</td>
-            <td>-</td>
+            <td>0</td>
             <td>1</td>
         </tr>
         <tr>
@@ -17555,7 +17554,7 @@ diciembre de 2015.
         </tr>
     </tbody>
 </table>
-
+(1) Incluye el total de exposiciones deterioradas por razón de morosidad o por razones distintas a la morosidad.
 
 
 Durante los ejercicios 2016 y 2015 no se han originado titulizaciones que cumplan los
@@ -18172,7 +18171,7 @@ El valor total de la exposición cubierta por garantías personales es el siguie
             <td>29.306</td>
             <td>7.523</td>
         </tr>
-        <tr>
+        <tr class="b2">
             <td>TOTAL</td>
             <td>37.451</td>
             <td>17.094</td>
@@ -18189,8 +18188,15 @@ de mitigación del riesgo de crédito empleadas por el Grupo a 31 de diciembre d
 
 <table  class="l">
     <thead>
+        <tr class="m">
+        <th colspan="2">Millones de euros</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        </tr>
         <tr class="tableizer-firstrow">
-            <th>31/12/2016 (Millones de euros)</th>
+            <th>31/12/2016</th>
             <th>Exposiciones no garantizadas: valor contable</th>
             <th>Exposiciones que pueden ser garantizadas</th>
             <th>Exposiciones garantizadas con colateral</th>
@@ -18280,7 +18286,16 @@ obtener una visión global del perfil de riesgo de la entidad en términos de AP
 
 <table class="l">
     <thead>
-        <tr>
+        <tr class="m">
+        <th colspan="2">Millones de euros</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        </tr>
             <th>2016</th>
             <th colspan="8">Densidad de APR's (1) (2)</th>
         </tr>
@@ -18317,7 +18332,7 @@ obtener una visión global del perfil de riesgo de la entidad en términos de AP
             <td>2%</td>
             <td>20%</td>
             <td>66%</td>
-            <td>0%</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Entidades Sector Público y otras Instituciones Públicas</td>
@@ -18328,29 +18343,29 @@ obtener una visión global del perfil de riesgo de la entidad en términos de AP
             <td>20%</td>
             <td>20%</td>
             <td>59%</td>
-            <td>0%</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Bancos Multilaterales de Desarrollo</td>
             <td>56%</td>
-            <td>0%</td>
-            <td>0%</td>
+            <td>-</td>
+            <td>-</td>
             <td>8%</td>
-            <td>0%</td>
-            <td>0%</td>
+            <td>-</td>
+            <td>-</td>
             <td>104%</td>
-            <td>0%</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Organizaciones Internacionales</td>
-            <td>0%</td>
-            <td>0%</td>
-            <td>0%</td>
-            <td>0%</td>
-            <td>0%</td>
-            <td>0%</td>
-            <td>0%</td>
-            <td>0%</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Instituciones</td>
@@ -18412,33 +18427,33 @@ obtener una visión global del perfil de riesgo de la entidad en términos de AP
             <td>150%</td>
             <td>150%</td>
             <td>150%</td>
-            <td>0%</td>
+            <td>-</td>
             <td>150%</td>
-            <td>0%</td>
+            <td>-</td>
             <td>150%</td>
-            <td>0%</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Bonos Garantizados</td>
-            <td>0%</td>
-            <td>0%</td>
-            <td>0%</td>
-            <td>0%</td>
-            <td>0%</td>
-            <td>0%</td>
-            <td>0%</td>
-            <td>0%</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Instituciones y empresas C/P</td>
             <td>22%</td>
             <td>22%</td>
-            <td>0%</td>
+            <td>-</td>
             <td>20%</td>
-            <td>0%</td>
-            <td>0%</td>
+            <td>-</td>
+            <td>-</td>
             <td>21%</td>
-            <td>0%</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Instituciones de Inversión Colectiva</td>
@@ -18446,10 +18461,10 @@ obtener una visión global del perfil de riesgo de la entidad en términos de AP
             <td>100%</td>
             <td>0%</td>
             <td>100%</td>
-            <td>0%</td>
+            <td>-</td>
             <td>100%</td>
             <td>100%</td>
-            <td>0%</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Otras exposiciones</td>
@@ -18460,18 +18475,18 @@ obtener una visión global del perfil de riesgo de la entidad en términos de AP
             <td>18%</td>
             <td>61%</td>
             <td>27%</td>
-            <td>0%</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Posiciones en titulización</td>
             <td>22%</td>
-            <td>0%</td>
-            <td>0%</td>
-            <td>0%</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
             <td>50%</td>
             <td>22%</td>
-            <td>0%</td>
-            <td>0%</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr class="b2">
             <td>TOTAL RIESGO DE CRÉDITO MÉTODO ESTÁNDAR</td>
@@ -18532,12 +18547,12 @@ obtener una visión global del perfil de riesgo de la entidad en términos de AP
             <td>Posiciones en titulización</td>
             <td>39%</td>
             <td>39%</td>
-            <td>0%</td>
-            <td>0%</td>
-            <td>0%</td>
-            <td>0%</td>
-            <td>0%</td>
-            <td>0%</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr class="b2">
             <td>TOTAL RIESGO DE CRÉDITO MÉTODO AVANZADO</td>
@@ -18550,7 +18565,7 @@ obtener una visión global del perfil de riesgo de la entidad en términos de AP
             <td>57%</td>
             <td>44%</td>
         </tr>
-        <tr class="b">
+        <tr class="b2">
             <td>TOTAL RIESGO DE CRÉDITO DILUCIÓN Y ENTREGA </td>
             <td>44%</td>
             <td>30%</td>
@@ -19311,12 +19326,12 @@ para computar el requerimiento de capital:
             <td>Valor medio</td>
             <td>116</td>
         </tr>
-        <tr>
+        <tr class="s">
             <td>11</td>
             <td>Mínimo valor</td>
             <td>80</td>
         </tr>
-        <tr>
+        <tr class="s">
             <td>12</td>
             <td>Valor del último periodo</td>
             <td>124</td>
@@ -19468,8 +19483,11 @@ hace referencia en los artículos 364 y 365 de la CRR.
 
 <table>
     <thead>
+        <tr class="m">
+            <th colspan="8">Millones de euros. 31/12/2016</th>
+        </tr>
         <tr>
-            <th>31/12/2016 (Millones de euros)</th>
+            <th></th>
             <th>APRs</th>
             <th>Requerimientos de capital</th>
         </tr>
@@ -19559,7 +19577,7 @@ calculados con el método basado en modelos internos:
 <table>
     <thead>
         <tr class="m">
-            <th colspan="8">31/12/2016 (Millones de euros)</th>
+            <th colspan="8">Millones de euros. 31/12/2016</th>
         </tr>
         <tr>
             <th>Estado de flujos de APR de riesgo de mercado - IMA</th>
@@ -19712,9 +19730,9 @@ de las curvas del euro y del dólar.
     </thead>
     <tbody>
         <tr>
-            <th>GM Europa, NY y Asia</th>
-            <th>(31)</th>
-            <th>(30)</th>
+            <td>GM Europa, NY y Asia</td>
+            <td>(31)</td>
+            <td>(30)</td>
         </tr>    
         <tr>
             <td>GM Bancomer</td>
@@ -19785,8 +19803,8 @@ VaR 95% a 20 días; _Expected Shortfall_ 95% a 20 días y _Stress_ VaR al 99% a 
 <table>
     <thead>
 	<tr class="m">
- <th colspan="2">Millones de euros</th>
- <th></th>
+ <th rowspan="3">Impacto Esperado</th>
+ <th colspan="2">(Millones de euros)</th>
  <th></th>
  <th></th>
  <th></th>
@@ -19796,7 +19814,7 @@ VaR 95% a 20 días; _Expected Shortfall_ 95% a 20 días y _Stress_ VaR al 99% a 
         <tr>
             <th>Europa</th>
             <th>Bancomer</th>
-            <th>Peru</th>
+            <th>Perú</th>
             <th>Venezuela</th>
             <th>Argentina</th>
             <th>Colombia</th>
@@ -19805,43 +19823,29 @@ VaR 95% a 20 días; _Expected Shortfall_ 95% a 20 días y _Stress_ VaR al 99% a 
     </thead>
     <tbody>
         <tr>
-            <td>Impacto Esperado</td>
             <td>(92)</td>
-
             <td>(42)</td>
-
             <td>(5)</td>
-
             <td>(0)</td>
-
             <td>(4)</td>
-
             <td>(1)</td>
-
             <td>(7)</td>
         </tr>
     </tbody>
 </table>
-
+ 
 
 <table>
     <thead>
         <tr>
             <th>2016</th>
-            <th>Stress VaR</th>
-            <th>Expected Shortfall</th>
+            <th>Stress VaR<br/>95 20 D</th>
+            <th>Expected Shortfall<br/>95 20 D</th>
             <th>Stress Period</th>
-            <th>Stress VaR 1D</th>
+            <th>Stress VaR 1D<br/>9% Resampling</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>&nbsp;</td>
-            <td>95 20 D</td>
-            <td>95 20 D</td>
-            <td>&nbsp;</td>
-            <td>99% Resampling</td>
-        </tr>
         <tr class="b2">
             <td>TOTAL</td>
             <td>&nbsp;</td>
@@ -20257,9 +20261,7 @@ Variable a 31 de diciembre de 2016 y 31 de diciembre de 2015:
  <th></th>
 </tr>
         <tr>
-            <th>Renta Variable</th>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
+ <th colspan="3">Renta variable</th>
         </tr>
     </thead>
     <tbody>
@@ -20641,7 +20643,7 @@ económico**
     </thead>
     <tbody>
         <tr class="tableizer-firstrow">
-            <td>Europa (**)</td>
+            <td>Europa (***)</td>
             <td>14,12% </td>
             <td>(7,09%)</td>
             <td>4,90% </td>
@@ -20974,26 +20976,26 @@ unidades más significativas**
         <tr>
             <td>De los que: títulos del gobierno español</td>
             <td>23.353</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Otras emisiones</td>
             <td>20.005</td>
             <td>2.212</td>
             <td>8.991</td>
-            <td>0</td>
+            <td>-</td>
             <td>75</td>
         </tr>
         <tr>
             <td>Préstamos</td>
-            <td>0</td>
-            <td>0</td>
+            <td>-</td>
+            <td>-</td>
             <td>16.790</td>
-            <td>0</td>
-            <td>0</td>
+            <td>-</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Otros activos líquidos no elegibles</td>
@@ -21053,27 +21055,27 @@ por plazos contractuales de vencimiento residual a 31 de diciembre de 2016:
             <th>Más de tres años y hasta cinco años</th>
             <th>Más de cinco años</th>
             <th>Total</th>
-        </tr>
-        <tr class="tableizer-firstrow">
-            <th>ACTIVO</th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>            
-        </tr>           
+        </tr>        
     </thead>
     <tbody>
+         <tr>
+            <td>PASIVO</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>            
+        </tr>  
         <tr class="tableizer-firstrow">
             <td>Caja y depósitos en bancos centrales</td>
-            <td>37.016</td>
-            <td>&nbsp;</td>
+            <td>23.191</td>
+            <td>13.825</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -21175,23 +21177,23 @@ por plazos contractuales de vencimiento residual a 31 de diciembre de 2016:
             <th>Más de tres años y hasta cinco años</th>
             <th>Más de cinco años</th>
             <th>Total</th>
-        </tr>
-        <tr class="tableizer-firstrow">
-            <th>PASIVO</th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>            
-        </tr>           
+        </tr>         
     </thead>
     <tbody>
+        <tr>
+            <td>PASIVO</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>            
+        </tr>  
         <tr>
             <td>Emisiones y Certificados de Deposito</td>
             <td>419</td>
@@ -21250,7 +21252,7 @@ por plazos contractuales de vencimiento residual a 31 de diciembre de 2016:
         </tr>
         <tr>
             <td>Financiaciones con colateral de valores</td>
-            <td>0</td>
+            <td>-</td>
             <td>38.153</td>
             <td>3.561</td>
             <td>1.403</td>
@@ -21264,7 +21266,7 @@ por plazos contractuales de vencimiento residual a 31 de diciembre de 2016:
         </tr>
         <tr>
             <td>Derivados (neto)</td>
-            <td>0</td>
+            <td>(0)</td>
             <td>(2.123)</td>
             <td>(95)</td>
             <td>(190)</td>
@@ -21340,7 +21342,7 @@ unidades más significativas del Grupo según naturaleza de las mismas:
  <th></th>
  <th></th>
  <th></th>
- <th></th>
+ <th>31/12/2016</th>
 </tr>
         <tr>
             <th>Tipo emision</th>
@@ -21415,7 +21417,7 @@ unidades más significativas del Grupo según naturaleza de las mismas:
  <th></th>
  <th></th>
  <th></th>
- <th></th>
+ <th>31/12/2016</th>
 </tr>
         <tr>
             <th>Tipo emision</th>
@@ -21470,10 +21472,10 @@ unidades más significativas del Grupo según naturaleza de las mismas:
         <tr class="b2">
             <td>Total </td>
             <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>230</td>
+            <td>184</td>
+            <td>5.926</td>
+            <td>6.339</td>
         </tr>
     </tbody>
 </table>
@@ -21712,10 +21714,12 @@ libres de cargas, se muestran a continuación:
 
 <table class="l">
     <thead>
-        <tr class="m">
-            <th></th>
-            <th colspan="4">Diciembre 2016 (Millones de euros)</th>
-        </tr>
+	<tr class="m">
+ <th colspan="2">Diciembre 2016 (Millones de euros)</th>
+ <th></th>
+ <th></th>
+ <th></th>
+ </tr>
         <tr class="tableizer-firstrow">
             <th></th>
             <th colspan="2">Activos comprometidos</th>
@@ -21852,7 +21856,7 @@ contable de estos últimos, se muestran a continuación:
         </tr>
     </thead>
     <tbody>
-        <tr>
+        <tr class="b">
             <td>Valor en libros de dichos pasivos fuentes de pignoración</td>
             <td>134.387</td>
             <td>153.632</td>
@@ -21872,7 +21876,7 @@ contable de estos últimos, se muestran a continuación:
             <td>28.946</td>
             <td>35.569</td>
         </tr>
-        <tr>
+        <tr class="b">
             <td>Otras fuentes de pignoración</td>
             <td>-</td>
             <td>2.594</td>
@@ -21944,6 +21948,7 @@ puede ocasionar un riesgo fiduciario para la entidad.
 >- Tratamiento de los Conflictos de Interés.
 >- Prevención del Lavado de Dinero y de la Financiación del Terrorismo (AML-CTF).
 >- Protección de Datos Personales.
+
 
 ### 3.8.3. Metodología de Riesgo Operacional
 
@@ -22060,6 +22065,7 @@ definidas.
 **TABLA 84: Características del modelo de gestión de Riesgo Operacional**
 
 <table>
+
     <tbody>
         <tr>
             <th class="b">Solidez</th>
@@ -22376,7 +22382,10 @@ por clase de riesgo y país.
 <table>
     <thead>
         <tr class="m">
-            <th>Riesgo Operacional</th>
+            <th colspan="3">Millones de Euros</th>
+        </tr>    
+        <tr class="m">
+            <th colspan="3">Riesgo Operacional</th>
         </tr>
         <tr>
             <th>APR´s Dic 15</th>
@@ -22386,13 +22395,13 @@ por clase de riesgo y país.
     </thead>
     <tbody>
         <tr>
-            <td>Efectos</td>
+            <td></td>
             <td>Tipo de cambio</td>
             <td>(2.048)</td>
         </tr>
         <tr>
             <td></td>
-            <td>Otros </td>
+            <td>Otros</td>
             <td>3.080</td>
         </tr>
         <tr class="b">

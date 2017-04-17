@@ -4,7 +4,6 @@ title: Ratio de apalancamiento
 lang: es
 permalink: /ratio-de-apalancamiento/
 submenu: ratio
-headerTitle: Informe con Relevancia Prudencial 2016
 ---
 
 # 4. Ratio de apalancamiento
@@ -29,7 +28,7 @@ definición del LR en la regulación de la CRR.
 En cumplimiento con el artículo 451 apartado 2 de la CRR, el
 15 de Junio de 2015 la EBA publicó el borrador definitivo de
 las técnicas de aplicación standard (_Implementing Technical
-Standard son disclosures of the leverage ratio, ITS_) para el
+Standard son disclosures of the leverage ratio_, ITS) para el
 desglose del ratio de apalancamiento que han sido aplicadas
 en el presente informe.
 
@@ -53,7 +52,7 @@ sido realizado en base a los criterios definidos en la CRR.
 CRR, la medida de la exposición sigue, en líneas generales,
 el valor contable sujeto a las siguientes consideraciones:
 
-    - Las exposiciones dentro del balance distintas de
+    -Las exposiciones dentro del balance distintas de
 derivados se incluyen netas de provisiones y de ajustes de
 valoración contable.
 
@@ -96,7 +95,7 @@ establecido el artículo 429, apartado 10 a) de la CRR.
 Grupo que consolidan a nivel contable, pero no a nivel
 regulatorio.
 
-- Deducciones Tier I: se deducen de la exposición todos
+- Deducciones Tier 1: se deducen de la exposición todos
 aquellos importes de activos que han sido deducidos
 en la determinación del capital computable Tier 1 para
 no realizar duplicación de exposiciones. En este sentido,
@@ -115,17 +114,17 @@ de 2016 y a 31 de diciembre de 2015:
 <table class="l">
     <thead>
 	<tr class="m">
- <th colspan="2">(Millions of euros)</th>
+ <th colspan="2">(Millones de Euros)</th>
  <th></th>
  <th></th>
  <th></th>
  </tr>
     <tr>
             <th>Tabla resumen de conciliación entre activos contables y exposición de ratio de apalancamiento</th>
-            <th>12/31/16 <i>Phase-In</i></th>
-            <th>12/31/16 <i>Fully Loaded</i></th>
-            <th>12/31/15 <i>Phase-In</i></th>
-            <th>12/31/15 <i>Fully Loaded</i></th>
+            <th>31/12/2016 <i>Phase-In</i></th>
+            <th>31/12/2016 <i>Fully Loaded</i></th>
+            <th>31/12/2015 <i>Phase-In</i></th>
+            <th>31/12/2015 <i>Fully Loaded</i></th>
         </tr>
     </thead>
     <tbody>
@@ -228,7 +227,7 @@ a la exposición ajustada, sufre variaciones derivadas del
 movimiento de las masas de balance en línea con la actividad
 de negocio. Respecto a diciembre 2015, se observa cierta
 estabilidad en los niveles del ratio _phase-in_ con una tendencia
-ligeramente creciente y holgadamente por encima del
+ligeramente creciente en línea con el comportamiento del ratio de capital Tier 1 y holgadamente por encima del
 mínimo exigido del 3%. El nivel de apalancamiento refleja la
 naturaleza del modelo negocio orientado al sector minorista.
 

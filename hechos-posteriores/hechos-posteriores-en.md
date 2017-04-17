@@ -4,7 +4,6 @@ title: Hechos posteriores
 lang: en
 permalink: /hechos-posteriores/
 submenu: hechos
-headerTitle: Information of Prudential Relevance 2016
 ---
 
 # Subsequent events

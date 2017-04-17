@@ -4,7 +4,6 @@ title: Ratio de apalancamiento
 lang: en
 permalink: /ratio-de-apalancamiento/
 submenu: ratio
-headerTitle: Information of Prudential Relevance 2016
 ---
 
 # 4. Leverage ratio
@@ -28,7 +27,7 @@ Described below are the elements making up the leverage ratio, in accordance wit
 
 - Exposure: as set out in article 429 of the CRR, the exposure measurement generally follows the book value subject to the following considerations: 
 
-    - On-balance-sheet exposures other than derivatives are included net of allowances and accounting valuation adjustments.  
+    -On-balance-sheet exposures other than derivatives are included net of allowances and accounting valuation adjustments.  
 
 - Measurement of the Group's total exposure is composed of the total assets as per financial statements adjusted for reconciliation between the accounting perimeter and the prudential perimeter. 
 
@@ -93,11 +92,11 @@ The table below shows a breakdown of the items making up the leverage ratio as o
             <td>37</td>
         </tr>
         <tr>
-            <td>e) Adjustment for off-balance sheet items (ie conversion to credit equivalent amounts of off-balance sheet exposures) (1)</td>
+            <td>e) Adjustment for off-balance sheet items (ie conversion to credit equivalent amounts of off-balance sheet exposures)</td>
             <td>66,397</td>
             <td>66,397</td>
-            <td>68,609</td>
-            <td>68,609</td>
+            <td>68,609(1)</td>
+            <td>68,609(1)</td>
         </tr>
         <tr>
             <td>f) (Adjustment for intragroup exposures excluded from the leverage ratio exposure measure in accordance with Article 429 (7) of Regulation (EU) No 575/2013)</td>
@@ -151,7 +150,8 @@ The table below shows a breakdown of the items making up the leverage ratio as o
     </tbody>
 </table>
 
-<ul class"cita"><li>(1) This corresponds to off-balance sheet exposure after application of the conversion factors obtained in accordance with Article 429, paragraph 10 of the CRR.</li></ul>
+
+<ul class="cita"><li>(1) This corresponds to off-balance sheet exposure after application of the conversion factors obtained in accordance with Article 429, paragraph 10 of the CRR.</li></ul>
 
 As it can be seen, the Group maintains a phased leverage ratio of 6.7% and a fully-loaded ratio of 6.5%, well above the minimum level required. 
 

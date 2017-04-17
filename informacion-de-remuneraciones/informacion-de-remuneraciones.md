@@ -4,10 +4,9 @@ title: Información de remuneraciones
 lang: es
 permalink: /informacion-de-remuneraciones/
 submenu: informacion
-headerTitle: Informe con Relevancia Prudencial 2016
 ---
 
-# Información de remuneraciones
+# 5. Información de remuneraciones
 
 {% include dropdown.html %}
 
@@ -15,7 +14,7 @@ headerTitle: Informe con Relevancia Prudencial 2016
 De conformidad con lo establecido en el artículo 85 de la Ley 10/2014, de 26 de junio, de ordenación, supervisión y solvencia de entidades de crédito, y en el artículo 93 del Real Decreto 84/2015, de 13 de febrero, por el que se desarrolla dicha Ley, las entidades de crédito facilitarán al público y actualizarán periódicamente, al menos una vez al año, entre otras, la información sobre su política y sus prácticas de remuneración establecida en la parte octava del Reglamento 575/2013/UE en relación con aquellas categorías de personal cuyas actividades profesionales inciden de manera significativa en el perfil de riesgo del Grupo (en adelante, el “Colectivo Identificado”).
 
 
-## Información sobre el proceso decisorio para establecer la política de remuneración del Colectivo Identificado
+## 5.1 Información sobre el proceso decisorio para establecer la política de remuneración del Colectivo Identificado
 
 En el marco de lo dispuesto en los Estatutos Sociales de
 BBVA, el Reglamento del Consejo reserva a este órgano, entre
@@ -178,7 +177,7 @@ Accionistas, en cumplimiento de lo establecido en el artículo
 541 del Real Decreto Legislativo 1/2010, de 2 de julio, por el
 que se aprueba el texto refundido de la Ley de Sociedades
 de Capital (en adelante, la “Ley de Sociedades de Capital”),
-estando disponible en la página web (www.bbva.com) de la
+estando disponible en la página web (<a href="https://www.bbva.com/">www.bbva.com</a>) de la
 Sociedad desde la fecha de convocatoria de la Junta General.
 
 El Informe Anual sobre Remuneraciones de los Consejeros de
@@ -313,7 +312,7 @@ decisiones en el ámbito retributivo.
 Para más información sobre la actividad de la Comisión de
 Retribuciones, se encuentra publicado el Informe de Actividad
 de la Comisión de Retribuciones en la página web del Banco
-(www.bbva.com) como parte del documento: “Gobierno
+(<a href="https://www.bbva.com/">www.bbva.com</a>) como parte del documento: “Gobierno
 Corporativo y Retribuciones en BBVA”.
 
 Los miembros de la Comisión de Retribuciones, que tenían
@@ -325,7 +324,7 @@ individualizada de cada consejero, desglosada por conceptos
 retributivos.
 
 
-## Descripción de los diferentes tipos de empleados y directivos incluidos en el Colectivo Identificado
+## 5.2 Descripción de los diferentes tipos de empleados y directivos incluidos en el Colectivo Identificado
 
 De acuerdo con lo establecido en la Ley 10/2014 en su
 artículo 32.2, BBVA ha determinado los profesionales
@@ -350,7 +349,7 @@ adicionales a los establecidos en el Reglamento Delegado
 604/2014, incorporando como miembros del Colectivo
 Identificado a empleados y responsables de unidades
 de negocio y riesgos, que no cumpliendo los criterios
-cuanitativos o cualitativos del Reglamento Delegado
+cuantitativos o cualitativos del Reglamento Delegado
 europeo 604/2014 considera que deben tener esta
 consideración. A estos efectos, para 2016 dentro de este
 Colectivo se incluyen:
@@ -378,7 +377,7 @@ profesionales que en cada momento resulte necesario, en
 atención a los requerimientos que a tal efecto se establezcan
 de acuerdo con la normativa aplicable.
 
-## Características más importantes del sistema de remuneración
+## 5.3 Características más importantes del sistema de remuneración
 
 El sistema retributivo aplicable al Colectivo Identificado
 en BBVA en el ejercicio 2016 contiene una serie de
@@ -471,9 +470,7 @@ Con arreglo al sistema específico de liquidación y pago de la
 Retribución Variable Anual 2016 aplicable a los miembros del
 Colectivo Identificado:
 
-- La Retribución Variable Anual 2016 del Colectivo
-Identificado se abonará a partes iguales, en efectivo y en
-acciones de BBVA.
+- La Retribución Variable Anual 2016 se abonará a partes iguales, en efectivo y en acciones de BBVA.
 
 - El pago del 40% de la Retribución Variable Anual 2016 -
 50% en el caso de consejeros ejecutivos y miembros de
@@ -497,7 +494,7 @@ para el periodo de tres años de diferimiento:
             <td>20%</td>
         </tr>
         <tr>
-            <td>CET1 *Fully Loaded*</td>
+            <td>CET1 _Fully Loaded_</td>
             <td>20%</td>
         </tr>
         <tr>
@@ -585,7 +582,7 @@ incentivo, basado en el establecimiento de indicadores
 de creación de valor, que combinan los resultados del
 empleado (financieros y no financieros) con los de
 su unidad, los del área a la que pertenezcan y los del
-Grupo en su conjunto. Su cálculo hará sobre la base de
+Grupo en su conjunto. Su cálculo se hará sobre la base de
 unos indicadores de evaluación anual, en función de las
 correspondientes escalas de consecución y según la
 ponderación atribuida a cada indicador.
@@ -782,7 +779,7 @@ Junta General, no incluye cambios al sistema retributivo
 aplicable a los consejeros no ejecutivos de BBVA,
 permaneciendo en los mismos términos indicados.
 
-## Información sobre la conexión entre la remuneración del Colectivo Identificado y los resultados del desempeño del Grupo
+## 5.4 Información sobre la conexión entre la remuneración del Colectivo Identificado y los resultados del desempeño del Grupo
 
 Tal y como se ha detallado, durante el ejercicio 2016, el
 importe de la retribución variable del Colectivo Identificado
@@ -853,7 +850,7 @@ pago se abonará siempre que resulte sostenible de acuerdo
 con la situación del Grupo BBVA en su conjunto.
 
 
-## Descripción de los criterios utilizados para la toma en consideración, en los procesos de remuneración, de los riesgos presentes y futuros
+## 5.5 Descripción de los criterios utilizados para la toma en consideración, en los procesos de remuneración, de los riesgos presentes y futuros
 
 Como se ha indicado, la política retributiva del Colectivo
 Identificado está alineada con los intereses de sus accionistas
@@ -908,7 +905,7 @@ su conjunto ("cláusulas *malus*”).
 - Limitación del importe de la retribución variable a un
 porcentaje de su retribución fija.
 
-## Los principales parámetros y la motivación de cualquier componente de los posibles planes de remuneración variable y de otras ventajas no pecuniarias, con expresa mención a las medidas adoptadas respecto a los integrantes del Colectivo Identificado que ejerzan funciones de control
+## 5.6 Los principales parámetros y la motivación de cualquier componente de los posibles planes de remuneración variable y de otras ventajas no pecuniarias, con expresa mención a las medidas adoptadas respecto a los integrantes del Colectivo Identificado que ejerzan funciones de control
 
 Los principales parámetros y la motivación de los
 componentes de los planes de remuneración variable del
@@ -928,7 +925,7 @@ anual para las personas que forman parte de las áreas
 consideradas de control.
 
 
-## Ratios entre la remuneración fija y variable del Colectivo Identificado
+## 5.7 Ratios entre la remuneración fija y variable del Colectivo Identificado
 
 Uno de los principios generales de política retributiva de
 BBVA, es que la retribución fija constituya un importe
@@ -1001,7 +998,7 @@ de Administración con fecha 9 de febrero de 2017, y puesto a
 disposición de los accionistas desde la fecha de convocatoria
 de la Junta General Ordinaria de Accionistas.
 
-## Información cuantitativa sobre las remuneraciones del Colectivo Identificado
+## 5.8 Información cuantitativa sobre las remuneraciones del Colectivo Identificado
 
 Una vez cerrado el ejercicio 2016, se ha procedido a
 determinar la Retribución Variable Anual de los miembros del
@@ -1179,7 +1176,7 @@ anteriores al 31 de diciembre de 2016:
 <table>
     <thead>
         <tr class="m">
-            <th colspan="6">Miles de euros</th>
+            <th colspan="6">(Miles de euros)</th>
         </tr>
         <tr class="tableizer-firstrow">
             <th>Retribución variable de ejercicios anteriores a 2016 para el Colectivo Identificado (1)</th>
@@ -1266,7 +1263,7 @@ el año 2016:
 <table>
     <thead>
         <tr class="m">
-            <th colspan="2">Miles de euros</th>
+            <th colspan="2">(Miles de euros)</th>
         </tr>
         <tr class="tableizer-firstrow">
             <th>Remuneraciones Colectivo Identificado 2016 (1)</th>
@@ -1298,8 +1295,7 @@ el año 2016:
     </tbody>
 </table>
 
-<ul class="cita"><li>(1) Retribución fija percibida en 2016 y retribución variable generada en el ejercicio
-2016</li>
+<ul class="cita"><li>(1) Retribución fija percibida en 2016 y retribución variable generada en el ejercicio 2016</li>
 <li>(2) Incluye las actividades de Banca Minorista, Empresas, Corporativa y Seguros</li>
 <li>(3) Incluye las actividades de trading y otras actividades de Banca de Inversión</li>
 <li>(4) Incluye las actividades de Gestión de Activos y Banca Privada</li>
@@ -1350,7 +1346,7 @@ ejercicio 2016**
         </tr>
         <tr>
             <td>Entre 1,5 millones de euros y 2 millones de euros</td>
-            <td>14</td>
+            <td>13</td>
         </tr>
         <tr>
             <td>Entre 1 millón de euros y 1,5 millones de euros</td>
@@ -1359,8 +1355,7 @@ ejercicio 2016**
     </tbody>
 </table>
 
-<ul class="cita"><li>(1) Suma de la retribución fija correspondiente al ejercicio 2016 y de la retribución
-variable generada en 2016</li></ul>
+<ul class="cita"><li>(1) Suma de la retribución fija correspondiente al ejercicio 2016 y de la retribución variable generada en 2016</li></ul>
 
 
 {% include download.html %}

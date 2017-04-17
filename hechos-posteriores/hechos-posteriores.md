@@ -4,7 +4,6 @@ title: Hechos posteriores
 lang: es
 permalink: /hechos-posteriores/
 submenu: hechos
-headerTitle: Informe con Relevancia Prudencial 2016
 ---
 
 # Hechos posteriores
@@ -16,6 +15,7 @@ aprobado el día 21 de diciembre de 2016.
 El día 1 de febrero de 2017 se ha anunciado la política de
 retribución del accionista para el ejercicio 2017, según se detalla
 en la Nota 4 de las Cuentas Anuales Consolidadas del Grupo.
+
 Con fecha 7 de febrero de 2017 se ha realizado una emisión
 de deuda subordinada computable como Capital de Nivel 2
 por importe de 1.000 millones de euros.

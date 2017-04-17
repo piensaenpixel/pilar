@@ -4,17 +4,16 @@ title: Information on remuneration
 lang: en
 permalink: /informacion-de-remuneraciones/
 submenu: informacion
-headerTitle: Information of Prudential Relevance 2016
 ---
 
-# Information on remuneration
+# 5. Information on remuneration
 
 {% include dropdown.html %}
 
 
 As set out in article 85 of Act 10/2014, dated June 26, on the regulation, supervision and solvency of credit institutions, and in article 93 of Royal Decree 84/2015, dated February 13, which implements Act 10/2014, the entities will make available to the public and update on a regular basis (at least once a year) information including that on their remuneration policy and practices set out in part 8 of Regulation 575/2013/EU in relation to those categories of staff whose professional activities may have a significant impact on the Group's risk profile (hereinafter the “Identified Staff”).
 
-## Information on the decision-making process for establishing the remuneration policy for the Identified Staff
+## 5.1 Information on the decision-making process for establishing the remuneration policy for the Identified Staff
 
 As set out in BBVA's Bylaws, the Board of Directors Regulations stipulate that one of the powers of the Board is to approve the remuneration for directors for submission to the General Meeting, for senior executives and for employees whose professional activities may have a material impact on the Entity's risk profile and to determine directors' remuneration, and, in the case of executive directors, the remuneration for their executive functions and other terms and conditions set out in their contracts.
 
@@ -85,7 +84,7 @@ Among the main duties of the Remuneration Committee is to determine the annual v
 
 In addition, in 2016 the Committee has determined matters such as the basic contractual conditions of the Bank's Senior Management, as a result of the changes in its composition over the year, and has reviewed the application of the remuneration policy for Identified Staff, including executive directors of BBVA and members of BBVA's Senior Management, as set out in article 33.2 of the aforementioned Act 10/2014.
 
-The Board of Directors of BBVA has also approved, in response to the proposal submitted by the Remuneration Committee, the 2016 Annual Report on Remuneration of BBVA Directors, in accordance with the model established by the Spanish Securities and Investment Board (CNMV) through Circular 4/2013, dated June 12 (modified by Circular 7/2015). This Report will be put to the vote at the Annual General Meeting, as set out in article 541 of Royal Legislative Decree 1/2010, dated July 2, which approves the amended text of the Corporations Act (hereinafter the “Corporations Act”), and is available on the Company's website (www.bbva.com) from the date of calling the Annual General Meeting.
+The Board of Directors of BBVA has also approved, in response to the proposal submitted by the Remuneration Committee, the 2016 Annual Report on Remuneration of BBVA Directors, in accordance with the model established by the Spanish Securities and Investment Board (CNMV) through Circular 4/2013, dated June 12 (modified by Circular 7/2015). This Report will be put to the vote at the Annual General Meeting, as set out in article 541 of Royal Legislative Decree 1/2010, dated July 2, which approves the amended text of the Corporations Act (hereinafter the “Corporations Act”), and is available on the Company's website (<a href="https://www.bbva.com/">www.bbva.com</a>) from the date of calling the Annual General Meeting.
 
 The Annual Report on the Remuneration of BBVA Directors includes a description of the basic principles of the Bank's remuneration policy with respect to the members of the Board of Directors, whether executive or non-executive, as well as a detailed presentation of the different elements and amounts making up their remuneration, based on the current Remuneration Policy for BBVA directors and BBVA's Bylaws and the Board of Directors Regulations. The Report also includes the principles and basic elements of the Bank's general remuneration policy.
 
@@ -113,7 +112,7 @@ Among the new elements of this policy applicable to the remuneration of executiv
 
 - The inclusion of a commitment by the executive directors not to transfer a number of shares equivalent to twice the annual fixed remuneration for a period of, at least, three years from the time of their vesting, on top of the general one-year retention period applicable to all the shares; the above shall not apply to those shares the transfer of which is derived from tax obligations originated from their delivery.
 
-The text of the Remuneration Policy for BBVA Directors proposed for the years 2017, 2018 and 2019 is available on the Bank's website (www.bbva.com) from the date of calling the Annual General Meeting.
+The text of the Remuneration Policy for BBVA Directors proposed for the years 2017, 2018 and 2019 is available on the Bank's website (<a href="https://www.bbva.com/">www.bbva.com</a>) from the date of calling the Annual General Meeting.
 
 In addition, following a proposal by the Remuneration Committee, the Board of Directors has approved a new remuneration policy to be applied to Identified Staff for the years 2017, 2018 and 2019. In line with the Remuneration Policy for BBVA Directors, it also has the aim of bringing BBVA's remuneration practices into line with the regulations applicable, the recommendations of good governance and best market practices, thereby enabling BBVA to continue to act as a benchmark for remuneration within the sector.
 
@@ -127,12 +126,12 @@ Lastly, the decisions related to the remuneration of executive directors, when r
 
 This system ensures an adequate decision-making process on questions of remuneration.
 
-For more information on the activity of the Remuneration Committee, the Activity Report of the Remuneration Committee is published on the Bank's website (www.bbva.com) as part of the document: "Corporate Governance and Remuneration in BBVA".
+For more information on the activity of the Remuneration Committee, the Activity Report of the Remuneration Committee is published on the Bank's website (<a href="https://www.bbva.com/">www.bbva.com</a>) as part of the document: "Corporate Governance and Remuneration in BBVA".
 
 The members of the Remuneration Committee with this status in 2016 received an aggregate total of €282 thousand for their work on it. In addition, the Annual Report on the Remuneration of BBVA Directors includes a breakdown of the remuneration by item for each director.
 
 
-## Description of the different types of employees and executive officers included in the Identified Staff
+## 5.2 Description of the different types of employees and executive officers included in the Identified Staff
 
 As set out in article 32.2 of Act 10/2014, BBVA has determined the professionals affected by this regulation (Identified Staff) following the criteria established by European Regulation 604/2014, dated March 4, of the Commission, which are grouped into two main blocks: qualitative criteria (defined around the position's responsibility and the employee's capacity to assume risks) and quantitative criteria (namely, having received total annual remuneration of 500,000 euros or more; being within the 0.3% with the highest total remuneration in the Group; or having received total remuneration higher than the lowest total remuneration set out in the qualitative criteria).
 
@@ -148,7 +147,7 @@ Also, in compliance with the requirement included in Rule 38 of Bank of Spain Ci
 
 Notwithstanding the foregoing, BBVA will adapt the definition of Identified Staff, including categories of professionals as necessary, based on the requirements set out by applicable regulations.
 
-## Key features of the remuneration system
+## 5.3 Key features of the remuneration system
 
 The remuneration system applicable to the BBVA Identified Staff in 2016 contains a number of special points with respect to that applicable to the rest of the staff, as a special settlement and payment scheme for variable incentives has been established for the Identified Staff, in line with legal requirements, recommendations and the best market practices, as set out in the Remuneration Policy applicable to the Identified Staff approved by the board of Directors, at the proposal of the Remuneration Committee in 2015 for the years 2015, 2016 and 2017.
 
@@ -239,9 +238,7 @@ Notwithstanding this, to achieve better alignment with new regulatory requiremen
 
 - An appropriate balance between fixed and variable elements of the remuneration of the Identified Staff; The proportion between both components shall be established on whether employees carry out business functions, support or control functions, and shall take account of the kind of work carried out by each person and also of the impact on the Bank's risk profile, adapted in each case to the reality of different countries or specific functions.
 
-- Variable remuneration will continue to consist of an incentive, based on the establishment of value-creation indicators, which combine the employees' results (financial and non-financial) with those of their unit, those of the area to which they belong and those of the Group as a whole. It shall be calculated on the basis of a
-168
-number of annual indicators, according to the corresponding performance scales and the weighting allocated to each indicator.
+- Variable remuneration will continue to consist of an incentive, based on the establishment of value-creation indicators, which combine the employees' results (financial and non-financial) with those of their unit, those of the area to which they belong and those of the Group as a whole. It shall be calculated on the basis of a number of annual indicators, according to the corresponding performance scales and the weighting allocated to each indicator.
 
 - A significant percentage of variable remuneration (which increases to 60% for executive directors, Senior Management and members of Identified Staff with particularly high variable remuneration, and remains at 40% for other Identified Staff) will all be deferred for a period of 3 years, rising to 5 years in the case of executive directors and Senior Management.
 
@@ -263,9 +260,7 @@ number of annual indicators, according to the corresponding performance scales a
 
 For this purpose, in accordance with the new Remuneration Policy for the Identified Staff and subject to approval by the AGM of the Policy applicable to BBVA directors, all the Annual Variable Remuneration for 2016 of each member of the Identified Staff shall be subject to mauls and clawback arrangements in the following terms:
 
-Up to 100% of the Annual Variable Remuneration of each member of Identified Staff for each financial year shall be subject to reduction clauses (malus) and recovery of
-169
-remuneration already paid (clawback), both of which relate to an insufficient financial performance by the Bank overall or by a specific division or area or exposures generated by a member of Identified Staff, when poor financial performance has arisen from one of the following circumstances:
+Up to 100% of the Annual Variable Remuneration of each member of Identified Staff for each financial year shall be subject to reduction clauses (malus) and recovery of remuneration already paid (clawback), both of which relate to an insufficient financial performance by the Bank overall or by a specific division or area or exposures generated by a member of Identified Staff, when poor financial performance has arisen from one of the following circumstances:
 
 <ul>
 a) Misconduct, fraud or serious non-compliance with the Code of Conduct and other internal regulations applicable by the member of the Identified Staff.
@@ -301,7 +296,7 @@ In addition, the Bank has a remuneration system for its non-executive directors 
 
 The Remuneration Policy for BBVA Directors for the years 2017, 2018 and 2019, which will be submitted to the Annual General Meeting, does not include changes to the remuneration system applicable to non-executive BBVA directors, and will remain in the same terms indicated.
 
-## Information on the connection between the remuneration of the Identified Staff and the performance of the Group
+## 5.4 Information on the connection between the remuneration of the Identified Staff and the performance of the Group
 
 As specified above, in 2016 the amount of variable remuneration received by BBVA's Identified Staff has been determined by the following factors:
 
@@ -326,7 +321,7 @@ For the rest of the members of the Identified Staff, the amount of variable remu
 However, any variable remuneration that is pending payment will always be paid, provided that such payment is sustainable in terms of the situation of the BBVA Group as a whole.
 
 
-## Description of the criteria used for taking into consideration present and future risks in the remuneration process
+## 5.5 Description of the criteria used for taking into consideration present and future risks in the remuneration process
 
 As explained above, the remuneration policy for the Identified Staff is aligned with shareholders' interests and with prudent risk management, and in 2016 includes the following elements:
 
@@ -350,7 +345,7 @@ As explained above, the remuneration policy for the Identified Staff is aligned 
 
 - Limitation of the amount of variable remuneration to a percentage of the fixed remuneration.
 
-## The main parameters and reasons for any component of the possible variable remuneration plans and other non-monetary benefits, specifically, the measures adopted for the members of the Identified Staff who are responsible for control functions
+## 5.6 The main parameters and reasons for any component of the possible variable remuneration plans and other non-monetary benefits, specifically, the measures adopted for the members of the Identified Staff who are responsible for control functions
 
 The main parameters and reasons for the components of the variable remuneration plans for the Identified Staff have been set out in other sections of this Report.
 
@@ -400,12 +395,12 @@ In accordance with the settlement and payment system established for the Identif
             <td>Total fixed remuneration paid in 2016 (2)</td>
             <td>4,929</td>
             <td>3,924</td>
-            <td>11.779</td>
+            <td>11,779</td>
             <td>200,894</td>
             <td>221,526</td>
         </tr>
         <tr class="b">
-            <td>Total variable remuneration paid in 2016 </td>
+            <td>Total variable remuneration paid in 2016</td>
             <td>5,655</td>
             <td>-</td>
             <td>10,866</td>
@@ -472,7 +467,7 @@ In accordance with the settlement and payment system established for the Identif
             <td>Number of BBVA's shares</td>
             <td>219,887</td>
             <td>-</td>
-            <td>419,129</td>
+            <td>419,123</td>
             <td>3,906,856</td>
             <td>4,545,866</td>
         </tr>
@@ -527,10 +522,10 @@ Payment has also been made of the amounts deferred from years before 2016. The f
 <table>
     <thead>
         <tr class="m">
-            <th colspan="6">Thousands of euros</th>
+            <th colspan="6">(Thousands of euros)</th>
         </tr>
         <tr class="tableizer-firstrow">
-            <th>Remuneration for Identified Staff in 2016 (1)</th>
+            <th>Variable remuneration for years prior to 2016 for the identified staff (1)</th>
             <th>Executive Directors</th>
             <th>Non-executive directors</th>
             <th>Other senior executive</th>
@@ -612,7 +607,7 @@ The table below gives the total remuneration of the Identified Staff for the yea
 <table>
     <thead>
         <tr class="m">
-            <th colspan="2">Thousands of euros</th>
+            <th colspan="2">(Thousands of euros)</th>
         </tr>
         <tr class="tableizer-firstrow">
             <th>Remuneration for Identified Staff in 2016 (1)</th>
@@ -696,7 +691,7 @@ The number of employees receiving remuneration of 1 million euros or more is as 
         </tr>
         <tr>
             <td>Between 1 million and 1.5 million euros</td>
-            <td>33</td>
+            <td>32</td>
         </tr>
     </tbody>
 </table>
